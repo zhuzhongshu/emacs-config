@@ -1,0 +1,51 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: preamble
+# key: preamble
+# binding: direct-keybinding
+# --
+\documentclass[${3:10pt,a4paper,onecolumn}]{article}
+\setlength{\parskip}{1ex plus0.3ex minus0.2ex}
+\usepackage[left=1.5cm,right=1.5cm]{geometry}%调整页边距
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{comment}
+\aboverulesep=0pt  \belowrulesep=0pt
+\usepackage{cite}
+\usepackage[font=small,labelfont=bf,labelsep=period]{caption}
+\captionsetup[figure]{name=Fig.}
+\captionsetup[table]{name=Table.}
+\usepackage{fontspec}
+\setmainfont{Nimbus Roman No9 L}
+\setsansfont{Nimbus Sans L}
+\setmonofont{Monaco}
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont=WenQuanYi Micro Hei]{WenQuanYi Micro Hei}
+\setCJKmonofont{WenQuanYi Micro Hei Mono}
+\usepackage[rm,center,compact]{titlesec}
+%\titlelabel{\thesection .\quad}
+%\titleformat{\section}[hang]{\centering}
+\usepackage{indentfirst}
+\usepackage[colorlinks,linkcolor=black,anchorcolor=black,citecolor=black]{hyperref}
+\renewcommand{\figureautorefname}{Fig.}
+\makeatletter 
+  \newcommand\figcaption{\def\@captype{figure}\caption} 
+  \newcommand\tabcaption{\def\@captype{table}\caption} 
+\makeatother
+  
+\title{${1:title}}
+\author{${2:author}}
+
+
+\begin{document}
+\tableofcontents
+\listoffigures
+
+$0
+
+
+\bibliographystyle{unsrt}
+\bibliography{/home/zzs/.zotero/zzsbib}
+\end{document}

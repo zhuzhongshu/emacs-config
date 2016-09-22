@@ -1,0 +1,430 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/simplex/zzsweet/src/cjsc/python/" . "kpca-svr/")
+ ("/media/simplex/NOSDisk/desktop/cjsc/智能化研究/" . "评估指标/")
+ ("/media/simplex/NOSDisk/desktop/cjsc/" . "智能化研究/")
+ ("/media/simplex/NOSDisk/desktop/" . "cjsc/")
+ ("/media/simplex/NOSDisk/" . "desktop/")
+ ("/home/simplex/scikit-learn/sklearn/svm/src/" . "libsvm/")
+ ("/home/simplex/scikit-learn/sklearn/svm/" . "src/")
+ ("/home/simplex/scikit-learn/sklearn/" . "svm/")
+ ("/home/simplex/scikit-learn/" . "sklearn/")
+ ("/home/simplex/dianzishu/" . "晋江【总分榜】/")
+ ("/home/simplex/.local/share/" . "applications/")
+ ("/home/simplex/.local/" . "share/")
+ ("/home/simplex/.emacs.d/el-get/" . "elpy/")
+ ("/home/simplex/zzsweet/src/python/MLiA-src/" . "Ch05/")
+ ("/home/simplex/zzsweet/src/python/" . "ML/")
+ ("/home/simplex/.config/" . "matplotlib/")
+ ("/home/simplex/oh-my-emacs/" . "modules/")
+ ("/home/simplex/.emacs.d/core/" . "el-get-init-files/")
+ ("/home/simplex/.emacs.d/snippets/" . "python-mode/")
+ ("/home/simplex/.emacs.d/elpa/elpy-20160613.1005/snippets/" . "python-mode/")
+ ("/home/simplex/.emacs.d/elpa/elpy-20160613.1005/" . "snippets/")
+ ("/home/simplex/.emacs.d/ycmd/third_party/" . "JediHTTP/")
+ ("/home/simplex/.emacs.d/ycmd/ycmd/completers/" . "general/")
+ ("/home/simplex/.emacs.d/ycmd/ycmd/" . "completers/")
+ ("/home/simplex/.ipython/" . "extensions/")
+ ("/home/simplex/.emacs.d/elpa/" . "elpy-20160613.1005/")
+ ("/home/simplex/zzsweet/src/Numerical recipes/" . "code/")
+ ("/home/simplex/zzsweet/src/cjsc/report/" . "fft-src/")
+ ("/home/simplex/zzsweet/src/cfamily/cpp_study/" . "my_code/")
+ ("/home/simplex/.emacs.d/ycmd/cpp/" . "ycm/")
+ ("/home/simplex/.emacs.d/ycmd/" . "cpp/")
+ ("/home/simplex/zzsweet/src/cfamily/Numerical recipes/" . "recipes/")
+ ("/home/simplex/zzsweet/src/tex/hust_phd_thesis_template_V2.1/" . "data/")
+ ("/home/simplex/zzsweet/src/tex/" . "cv/")
+ ("/home/simplex/zzsweet/src/cfamily/NR_C301/" . "code/")
+ ("/home/simplex/zzsweet/src/cfamily/" . "Numerical recipes/")
+ ("/media/simplex/" . "NOSDisk/")
+ ("/home/simplex/zzsweet/src/cjsc/" . "python/")
+ ("/home/simplex/zzsweet/" . "src/")
+ ("/home/simplex/zzsweet/src/thesis/manuscript/" . "texfile/")
+ ("/home/simplex/zzsweet/src/thesis/" . "manuscript/")
+ ("/home/simplex/zzsweet/src/" . "notes/")
+ ("/home/simplex/.emacs.d/" . "core/")
+ ("/home/simplex/" . "zzsweet/")
+ ("/home/yqyzzs/.emacs.d/elpa/" . "multi-term-20150220.1320/")
+ ("/home/yqyzzs/.emacs.d/ycmd/cpp/" . "ycm/")
+ ("/home/yqyzzs/.emacs.d/ycmd/" . "cpp/")
+ ("/home/yqyzzs/zzsweet/src/job/soa/travelling wave solver/build/" . "CMakeFiles/")
+ ("/home/yqyzzs/zzsweet/src/job/soa/travelling wave solver/" . "build/")
+ ("/home/yqyzzs/zzsweet/src/job/soa/" . "travelling wave solver/")
+ ("/home/yqyzzs/zzsweet/src/job/" . "soa/")
+ ("/home/yqyzzs/zzsweet/src/tex/single-mode-laser/apl-revised2/" . "manuscript/")
+ ("/home/yqyzzs/zzsweet/src/tex/single-mode-laser/" . "apl-revised2/")
+ ("/home/yqyzzs/zzsweet/src/tex/isolator/manuscript/" . "ol/")
+ ("/home/yqyzzs/zzsweet/src/tex/isolator/" . "manuscript/")
+ ("/home/yqyzzs/zzsweet/src/cfamily/IFD4-BPM/" . "src/")
+ ("/home/yqyzzs/zzsweet/src/thesis/manuscript/" . "figures/")
+ ("/home/yqyzzs/zzsweet/src/thesis/" . "manuscript/")
+ ("/home/yqyzzs/zzsweet/src/cfamily/" . "IFD4-BPM/")
+ ("/home/yqyzzs/zzsweet/src/tex/" . "soa/")
+ ("/home/yqyzzs/.emacs.d/" . "core/")
+ ("/home/yqyzzs/zzsweet/src/" . "cfamily/")
+ ("/home/yqyzzs/zzsweet/" . "src/")
+ ("/home/yqyzzs/" . ".emacs.d/")
+ ("/home/zzs/spacemacs/core/" . "libs/")
+ ("/home/zzs/zzsweet/src/thesis/slide/" . "ppletscher-beamerthemezurich-e6b55d9/")
+ ("/home/zzs/zzsweet/src/lisp/emacs/core/" . "_emacs/")
+ ("/home/zzs/zzsweet/src/lisp/emacs/" . "core/")
+ ("/home/zzs/zzsweet/src/lisp/" . "emacs/")
+ ("/home/zzs/spacemacs/" . "core/")
+ ("/home/zzs/.emacs.d/ycmd/cpp/" . "ycm/")
+ ("/home/zzs/zzsweet/src/tex/soa/ptl/revision/" . "response/")
+ ("/home/zzs/zzsweet/src/tex/soa/ptl/" . "revision/")
+ ("/usr/share/texlive/texmf-dist/tex/latex/ctex/" . "def/")
+ ("/usr/share/texlive/texmf-dist/tex/latex/" . "ctex/")
+ ("/usr/share/texlive/texmf-dist/tex/" . "latex/")
+ ("/usr/share/texlive/texmf-dist/" . "tex/")
+ ("/usr/share/texlive/" . "texmf-dist/")
+ ("/home/zzs/zzsweet/src/job/digital-filter/" . "plot/")
+ ("/home/zzs/zzsweet/src/thesis/src/travelling wave solver/" . "src/")
+ ("/home/zzs/.emacs.d/ycmd/" . "cpp/")
+ ("/home/zzs/zzsweet/src/tex/isolator/manuscript/oe/revision/" . "manuscript/")
+ ("/home/zzs/zzsweet/src/thesis/src/waveguide/" . "src/")
+ ("/media/zzs/E/Doc/" . "zotero/")
+ ("/media/zzs/E/" . "Doc/")
+ ("/media/zzs/" . "E/")
+ ("/media/" . "simplex/")
+ ("/home/zzs/zzsweet/src/thesis/manuscript/figures/data/" . "isolator/")
+ ("/home/zzs/zzsweet/src/thesis/manuscript/figures/data/rotator/" . "2mm/")
+ ("/home/zzs/zzsweet/src/thesis/manuscript/figures/" . "script/")
+ ("/home/zzs/zzsweet/src/thesis/src/IFD4-BPM/" . "build/")
+ ("/home/zzs/zzsweet/src/thesis/src/" . "travelling wave solver/")
+ ("/home/zzs/zzsweet/src/cfamily/cpp_study/gnuplotter/" . "src/")
+ ("/home/zzs/zzsweet/src/cfamily/cpp_study/plotwavegide/" . "build/")
+ ("/home/zzs/zzsweet/src/cfamily/IFD4-BPM/" . "src/")
+ ("/home/zzs/zzsweet/src/mfile/" . "fdtd-matlab/")
+ ("/home/zzs/.emacs.d/elpa/snippets/" . "latex-mode/")
+ ("/usr/lib/x86_64-linux-gnu/" . "pkgconfig/")
+ ("/usr/lib/" . "x86_64-linux-gnu/")
+ ("/usr/" . "share/")
+ ("/home/zzs/Download/" . "hust_phd_thesis_template_V2.1/")
+ ("/home/zzs/okular/" . "build/")
+ ("/home/zzs/zzsweet/src/tex/lnotes2/" . "src/")
+ ("/home/zzs/zzsweet/src/thesis/template/" . "data/")
+ ("/home/zzs/zzsweet/src/thesis/manuscript/" . "figures/")
+ ("/home/zzs/hust_phd_thesis_template/" . "data/")
+ ("/home/zzs/Download/template/" . "chapter/")
+ ("/usr/share/doc/latex-cjk-common/" . "examples/")
+ ("/usr/share/doc/" . "latex-cjk-common/")
+ ("/usr/share/" . "texlive/")
+ ("/home/zzs/.texmf-config/" . "web2c/")
+ ("/home/zzs/bnuthesis_1.53/" . "data/")
+ ("/home/zzs/zzsweet/src/thesis/hust_phd_thesis_template/" . "data/")
+ ("/home/zzs/zzsweet/src/thesis/" . "slide/")
+ ("/home/zzs/zzsweet/src/cfamily/cpp_study/travelling wave solver/" . "src/")
+ ("/home/zzs/zzsweet/src/tex/isolator/manuscript/oe/" . "revision/")
+ ("/home/zzs/zzsweet/src/tex/soa/jlt/" . "IEEEtran/")
+ ("/etc/" . "default/")
+ ("/" . "home/")
+ ("/home/zzs/zzsweet/src/tex/isolator/pic/plotsrc/Data/" . "TEin/")
+ ("/home/zzs/zzsweet/src/tex/single-mode-laser/apl-correction/" . "upload/")
+ ("/home/zzs/zzsweet/src/job/soa/waveguide/" . "src/")
+ ("/home/zzs/zzsweet/src/job/soa/travelling wave solver/" . "src/")
+ ("/home/zzs/zzsweet/src/tex/isolator/pic/plotsrc/Src/" . "TEin/")
+ ("/home/zzs/zzsweet/src/tex/isolator/pic/plotsrc/" . "Data/")
+ ("/home/zzs/zzsweet/src/tex/isolator/pic/" . "plotsrc/")
+ ("/home/zzs/zzsweet/src/tex/soa/pic/" . "gnuplot/")
+ ("/home/zzs/zzsweet/src/job/soa/passive/" . "S-bend/")
+ ("/home/zzs/zzsweet/src/job/soa/" . "travelling wave solver/")
+ ("/home/zzs/zzsweet/src/tex/isolator/manuscript/" . "oe/")
+ ("/home/zzs/zzsweet/src/tex/isolator/" . "pic/")
+ ("/home/zzs/zzsweet/src/job/soa-circularot/waveguide/" . "src/")
+ ("/home/zzs/zzsweet/src/job/soa-circularot/" . "waveguide/")
+ ("/home/zzs/zzsweet/src/cfamily/cpp_study/waveguide/" . "src/")
+ ("/home/zzs/zzsweet/src/job/" . "soa/")
+ ("/home/zzs/zzsweet/src/tex/soa/" . "ptl/")
+ ("/home/zzs/zzsweet/src/cfamily/cpp_study/" . "gadget/")
+ ("/home/zzs/zzsweet/src/tex/single-mode-laser/apl-revised/" . "manuscript/")
+ ("/home/zzs/zzsweet/src/tex/single-mode-laser/apl-revised2/" . "response/")
+ ("/home/zzs/zzsweet/src/tex/single-mode-laser/pic/" . "gnuplot/")
+ ("/home/zzs/zzsweet/src/tex/single-mode-laser/" . "apl-revised2/")
+ ("/home/zzs/zzsweet/src/cfamily/C++Primer/" . "12/")
+ ("/home/zzs/zzsweet/src/cfamily/" . "cpp_study/")
+ ("/home/" . "simplex/")
+ ("/home/zzs/.emacs.d/elpa/" . "company-20160325.1650/")
+ ("/home/zzs/zzsweet/src/tex/" . "cv/")
+ ("/home/zzs/zzsweet/src/" . "tex/")
+ ("/home/zzs/zzsweet/" . "src/")
+ ("/home/zzs/.emacs.d/lisp/" . "_emacs/")
+ ("/home/zzs/.emacs.d/" . "core/")
+ ("/home/zzs/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/simplex/zzsweet/src/notes/"
+ "/home/simplex/.emacs.d/core/el-get-init-files/"
+ "/home/simplex/.emacs.d/core/"
+ "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/"
+ "/home/simplex/zzsweet/src/cjsc/report/"
+ "/home/simplex/zzsweet/src/tex/"
+ "/media/simplex/NOSDisk/desktop/cjsc/智能化研究/评估指标/"
+ "/home/simplex/zzsweet/src/cjsc/python/"
+ "/home/simplex/"
+ "/home/simplex/scikit-learn/sklearn/svm/src/libsvm/"
+ "/home/simplex/zzsweet/src/python/"
+ "/home/simplex/zzsweet/src/tex/cv/"
+ "/home/simplex/.local/share/applications/"
+ "/home/simplex/.emacs.d/el-get/elpy/"
+ "/home/simplex/zzsweet/src/cfamily/Numerical recipes/recipes/"
+ "/home/simplex/zzsweet/src/python/ML/"
+ "/home/simplex/.emacs.d/"
+ "/home/simplex/oh-my-emacs/"
+ "/home/simplex/zzscript/"
+ "/home/simplex/zzsweet/src/python/MLiA-src/Ch05/"
+ "/home/simplex/zzsweet/src/python/MLiA-src/Ch04/"
+ "/home/simplex/zzsweet/src/python/MLiA-src/Ch03/"
+ "/home/simplex/zzsweet/src/thesis/manuscript/texfile/"
+ "/home/simplex/.emacs.d/themes/"
+ "/home/simplex/oh-my-emacs/modules/"
+ "/home/simplex/zzsweet/src/cfamily/cpp_study/"
+ "/home/simplex/.emacs.d/url/"
+ "/home/zzs/zzsweet/src/tex/soa/pic/combine/"
+ "/home/zzs/zzsweet/src/tex/isolator/manuscript/ol/"
+ "/home/zzs/zzsweet/src/job/soa/dataSOA/"
+ "/home/zzs/zzsweet/src/tex/soa/pic/data/"
+ "/home/zzs/zzsweet/src/doc/"
+ "/home/zzs/zzsweet/src/tex/soa/pic/gnuplot/"
+ "/home/zzs/zzsweet/src/job/soa/"
+ "/home/zzs/zzsweet/src/tex/single-mode-laser/apl-correction/upload/"
+ "/home/zzs/zzsweet/src/tex/cv/"
+ "/home/zzs/zzsweet/src/tex/single-mode-laser/apl-correction/manuscript/"
+ "/home/zzs/zzsweet/src/job/soa/travelling wave solver/src/"
+ "/home/zzs/.emacs.d/lisp/_emacs/"
+ "/home/zzs/zzsweet/src/job/soa/waveguide/src/"
+ "/home/zzs/.emacs.d/elpa/auto-async-byte-compile-20140212.2212/"
+ "/home/zzs/.emacs.d/elpa/multi-term-20150220.1320/"
+ "/home/zzs/zzsweet/src/tex/isolator/manuscript/ao/"
+ "/home/zzs/zzsweet/src/tex/isolator/pic/plotsrc/Src/TEin/"
+ "/home/zzs/zzsweet/src/job/soa/passive/S-bend/"
+ "/home/zzs/zzsweet/src/tex/soa/pj/"
+ "/home/zzs/zzsweet/src/job/soa-circularot/waveguide/src/"
+ "/home/zzs/zzsweet/src/cfamily/cpp_study/waveguide/src/"
+ "/home/zzs/.emacs.d/elpa/swiper-20150731.2242/"
+ "/home/zzs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "算法杂记-优化方法.tex"
+ "init-auctex-latexmk.el"
+ "functions.el"
+ "算法杂记-SVD和PCA.tex"
+ "stock_data_tidy.py"
+ "kpca-svr.py"
+ "init-elpy.el"
+ "init-helm-bibtex.el"
+ "fourier.tex"
+ "study.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/simplex/zzsweet/src/notes/" (22489 5009 450624 100000) "算法杂记-优化方法.tex" "算法杂记-SVD和PCA.thm" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "算法杂记-SVD和PCA.out" "算法杂记-SVD和PCA.log" "算法杂记-SVD和PCA.fls" "算法杂记-SVD和PCA.fdb_latexmk" "算法杂记-SVD和PCA.aux" "Simplex.cls" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-1.thm" "MLAPP笔记-1.pdf" "MLAPP笔记-1.out" "MLAPP笔记-1.log" "MLAPP笔记-1.fls" "MLAPP笔记-1.fdb_latexmk" "MLAPP笔记-1.aux" "auto/" "#MLAPP笔记-朴素贝叶斯.tex#" "../" "./")
+
+ ("/home/simplex/" (22489 7497 704342 473000) ".ssh/" ".bashrc" ".gtk-bookmarks" ".zcompdump-simplex-PC-5.1.1" "zzsweet/" ".thunderbird/" ".zcompdump-simplex-5.0.2" ".links2/" ".gnupg/" ".octave_packages" ".gconf/" ".odbc.ini" ".xsession-errors" ".gtkrc-2.0-kde4" ".bashrc-anaconda3.bak" ".apport-ignore.xml" ".Xauthority" ".fonts.conf" ".texmf-var/" "./" ".octave_hist" "Downloads/" ".emacs.d/" ".cache/" ".zshrc" ".pki/" ".gtkrc-2.0" ".conda/" ".continuum/" ".xsession-errors.old" ".saves/" ".pip/" ".bash_history" ".config/" ".zsh_history" ".docsets/" ".ipynb_checkpoints/" ".latexmk" ".local/" ".kingsoft/" ".goldendict/" ".autojump/" ".latexmkrc" ".fonts/" ".recently-used" "Eigen/" ".lesshst" "Potenza/" ".nv/" "seaborn-data/" ".profile" ".presage/" ".mozilla/" ".bash_logout" ".sudo_as_admin_successful" ".dbus/" ".wine/" ".icons/" "../" "ycmd/" "zzscript/" ".adobe/" ".zsh-update" "Documents/" "Pictures/" ".zotero/" ".gitconfig" ".thumbnails/" ".oh-my-zsh/" ".directory" ".ipython/" "播放列表/" ".zcompdump" ".macromedia/" ".lastpass/" ".copy/" ".python_history" "CloudMusic/" ".wiznote/" ".xinputrc" ".kde/")
+
+ ("/home/simplex/.emacs.d/core/" (22470 42720 68622 37000) "keybindings.el" "el-get-init-files/" "tex-setup.el" "elpy.el" "functions.el" "./" ".#base.elc3035GmY" "base.el" "math-setup.el" "fzby" "basic.el" "org-setup.el" "appearance-setup.el" ".#base.elc2957Fr0" "../" "base-bak.el")
+
+ ("/home/simplex/.emacs.d/" (22464 16603 766891 244000) "ido.last" ".git/" "README.md" "desktops/" "init.el" ".mc-lists.el" "tutorial/" "el-get/" "./" "elpa/" "core/" ".debris/" ".emacs.desktop" "ido.last~" "auto-save-list/" "recentf" "smex-items" "themes/" "ac-comphist.dat" ".gitignore" "../" "ycmd/" "snippets/" ".directory" "helm-doc.org")
+
+ ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/" (22464 5908 406893 400000) "__pycache__/" "stock_data_tidy.py" "stock_data_fetch.py" "stocks-data-original.xlsx" "stocks-code-list.txt" "kpca-svr.py" "data_set.mat" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cjsc/python/" (22461 12976 978272 700000) "testWind.py" "kpca-svr/" "../" "./")
+
+ ("/home/simplex/.emacs.d/core/el-get-init-files/" (22464 5624 424682 669000) "init-spaceline.el" "init-auto-complete.el" "init-ycmd.elc" "init-xcscope.el" "init-elpy.elc" "init-smex.elc" "init-flx-ido.el" "init-window-numbering.elc" "init-helm-swoop.el" "init-gnuplot-mode.elc" "init-yasnippet.el" "init-flx-ido.elc" "init-spaceline.elc" "init-vimish-fold.el" "init-company.elc" "./" "init-auctex-latexmk.el" "init-smartparens.elc" "init-yasnippet.elc" "init-flycheck.elc" "init-helm-bibtex.el" "init-ein.elc" "init-langtool.el" "init-helm.el" "init-window-numbering.el" "init-company.el" "init-flycheck-ycmd.elc" "init-langtool.elc" "init-flycheck-ycmd.el" "init-helm-swoop.elc" "init-auto-compile.el" "init-multi-term.el" "init-ido-vertical-mode.el" "init-elpy.el" "init-smartparens.el" "init-auto-complete.elc" "init-ido-vertical-mode.elc" "init-flycheck.el" "init-multi-term.elc" "init-xcscope.elc" "init-ein.el" "../" "init-powerline-bak.el" "init-popwin.el" "init-helm-bibtex.elc" "init-avy.el" "init-company-ycmd.elc" "init-avy.elc" "init-company-ycmd.el" "init-swiper.el" "init-smex.el" "init-ycmd.el" "init-vimish-fold.elc" "init-auctex-latexmk.elc" "init-helm.elc" "init-popwin.elc" "init-auto-compile.elc" "init-gnuplot-mode.el" "init-swiper.elc")
+
+ ("/home/simplex/zzsweet/src/cjsc/report/" (22393 46293 26450 200000) "Simplex.cls" "HUSTtils.sty" "fourier.thm" "fourier.tex" "fourier.out" "fourier.log" "fourier.fls" "fourier.fdb_latexmk" "fourier.aux" "fft-src/" "auto/" "HUSTThesis.bst" "../" "./")
+
+ ("/home/simplex/zzsweet/src/tex/" (22455 53433 753365 800000) "Simplex.cls" "SIMKAI.TTF" "ref1.pdf" "prv_body.log" "preamble.log" "pic.tex" "pic.pdf" "pic.log" "pic.fls" "mergepdf.fls" "mergepdf.fdb_latexmk" "mergepdf.aux" "maxima.tex" "maxima.log" "maxima.fls" "figure.tex" "figure.log" "figure.fls" "figure.fdb_latexmk" "cv/" "conference-ornate-20min.en.tex" "color.aux" "cjk.thm" "cjk.tex" "cjk.out" "cjk.log" "cjk.fls" "cjk.fdb_latexmk" "cjk.dvi" "cjk.aux" "body.out" "body.log" "body.fls" "body.fdb_latexmk" "body.aux" "ball.tex" "zt4.png" "studybeamer.tex" "studybeamer.snm" "studybeamer.rel" "studybeamer.pdf" "studybeamer.out" "studybeamer.nav" "studybeamer.log" "studybeamer.fls" "studybeamer.fdb_latexmk" "studybeamer.blg" "studybeamer.bbl" "studybeamer.aux" "study2.tex" "study2.rel" "study2.pdf" "study.aux" "preamble.tex" "pic.fdb_latexmk" "mergepdf.log" "maxima.fdb_latexmk" "HUSTthesis.cpx" "figure.aux" "color.tex" "color.fdb_latexmk" "chuangxindian.pdf" "body.rel" "ball.pdf" "study2.out" "study2.log" "study2.lof" "study2.fls" "study2.fdb_latexmk" "study2.blg" "study2.bbl" "study2.aux" "study.tex" "study.rel" "study.pdf" "study.log" "study.fls" "study.fdb_latexmk" "study.dvi" "study.blg" "study.bbl" "pic.aux" "pe.pdf" "papers/" "missfont.log" "mergepdf.tex" "maxima.aux" "main.pdf" "IEEEtran.tgz" "hust_phd_thesis_template_V2.1.zip" "hust_phd_thesis_template_V2.1/" "color.rel" "color.pdf" "color.log" "color.fls" "ccmap.sty" "body.tex" "ball.log" "ball.fls" "ball.fdb_latexmk" "ball.aux" ".directory" "#mergepdf.tex#" "../" "./")
+
+ ("/home/simplex/zzsweet/src/" (22455 53097 323920 600000) "thesis/" "tex/" "shell/" "python/" "org/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "notes/" "mfile/" "maxima/" "lisp/" "job/" "gnuplot/" "fzby.cpp~" "doc/" "cmake/" "cjsc/" "cfamily/" ".directory" "../" "./")
+
+ ("/media/simplex/NOSDisk/desktop/cjsc/智能化研究/评估指标/" (22455 52786 542884 700000) "评估方案初稿.doc" "评估指标.doc" "股票评价指标.docx" "股票六大指标.doc" "期刊论文/" "智能投顾.doc" "支持向量机择时.toc" "支持向量机择时.tex" "支持向量机择时.pdf" "支持向量机择时.out" "支持向量机择时.org" "支持向量机择时.log" "支持向量机择时.fls" "支持向量机择时.fdb_latexmk" "支持向量机择时.aux" "基金评估.vsd" "_基于安卓系统的股票推荐系统设计与实现.pdf" "auto/" "#支持向量机择时.org#" "../" "./")
+
+ ("/media/simplex/NOSDisk/desktop/cjsc/智能化研究/" (22453 9596 261600 900000) "迭代二智能定投需求方案2.0.docx" "财富管理平台系统解决方案.doc" "评估指标/" "目标账户/" "猜你喜欢前台设置需求文档.docx" "武汉中台支持组合委托方案-修订版V1.1.doc" "智能选股.pptx" "智能理财业务对交易系统适应性需求.docx" "智能理财/" "智能推荐功能需求文档.docx" "智能投顾项目讨论会-会议纪要20160802.doc" "智能投顾项目日程表.xls" "智能投顾.rar" "智能投顾/" "晨星资料.rar" "晨星资料/" "基金评级.pdf" "个性推荐/" "../" "./")
+
+ ("/media/simplex/NOSDisk/desktop/cjsc/" (22449 2437 639422 400000) "算法/" "武汉地区员工五险一金办理需提交资料及注意事项（2013）.doc" "智能化研究/" "新员工办理五险一金通知函(新).xls" "报价系统互联接口.rar" "报价系统互联接口/" "工作周报-朱仲书-20160814.xls" "场外资管产品销售和转让.rar" "场外资管产品销售和转让/" "中证金通.rar" "中证金通/" "desktop.ini" "../" "./")
+
+ ("/media/simplex/NOSDisk/desktop/" (22455 13254 734147 100000) "报销说明.doc" "收藏.eif" "为知笔记 Wiz.lnk" "zzs2016.pdf" "desktop.ini" "~$樱子-应用宣传网络广告文案策划初探.doc" "~$zzs.docx" "~$uzhixin.docx" "~$ Microsoft Word 文档.docx" "_基于线性学习函数的泛证券投资组合策略.pdf" "迅雷极速版.lnk" "资料.lnk" "百度云管家.lnk" "毕业论文.pdf" "杂质/" "zzs.docx" "Thumbs.db" "sphinx-eldomain-master.zip" "sphinx-eldomain-master/" "MachineLearningTechniquesforStockPrediction.pdf" "emacs.lnk" "cjsc/" "360云盘.lnk" "2012.李航.统计学习方法.pdf" "182_D201177675_朱仲书.docx" "../" "./")
+
+ ("/media/simplex/NOSDisk/" (22454 40825 416458 0) "Pic/" "Documents/" "MyDrivers/" "音乐/" "银行卡号&上网账号.txt" "迅雷下载/" "视频/" "网盘资源/" "当前设定.speeddial" "个人简历-朱仲书.pdf" "下载/" "zzs.tex" "upan/" "System Volume Information/" "QQMusicCache/" "Program Files (x86)/" "desktop/" "CloudMusic/" "BaiduYunDownload/" "360CloudUI/" ".#zzs.tex" "$RECYCLE.BIN/" "#zzs.tex#" "../" "./")
+
+ ("/media/simplex/" (22455 51139 697630 22000) "乙/" "甲/" "NOSDisk/" "../" "./" "丙/")
+
+ ("/home/simplex/zzsweet/src/cfamily/Numerical recipes/recipes/" (22436 36424 379953 900000) "zroots.cpp" "zriddr.cpp" "zrhqr.cpp" "zbrent.cpp" "zbrak.cpp" "zbrac.cpp" "wwghts.cpp" "wtn.cpp" "wt1.cpp" "voltra.cpp" "vegas.cpp" "vander.cpp" "twofft.cpp" "tutest.cpp" "ttest.cpp" "trnspt.cpp" "trncst.cpp" "tridag.cpp" "tred2.cpp" "trapzd.cpp" "tqli.cpp" "tptest.cpp" "svdvar.cpp" "svdfit.cpp" "svdcmp.cpp" "svbksb.cpp" "stoerm.cpp" "stiff.cpp" "stifbs.cpp" "sprstx.cpp" "sprstp.cpp" "sprstm.cpp" "sprspm.cpp" "sprsin.cpp" "sprsax.cpp" "spread.cpp" "splint.cpp" "spline.cpp" "splin2.cpp" "splie2.cpp" "sphoot.cpp" "sphbes.cpp" "spear.cpp" "spctrm.cpp" "sort3.cpp" "sort2.cpp" "sort.cpp" "sor.cpp" "solvde.cpp" "sobseq.cpp" "snrm.cpp" "sncndn.cpp" "slvsml.cpp" "slvsm2.cpp" "sinft.cpp" "simpr.cpp" "simplx.cpp" "simp3.cpp" "simp2.cpp" "simp1.cpp" "shoot.cpp" "shell.cpp" "sfroid.cpp" "selip.cpp" "select.cpp" "scrsho.cpp" "savgol.cpp" "rzextr.cpp" "rtsec.cpp" "rtsafe.cpp" "rtnewt.cpp" "rtflsp.cpp" "rtbis.cpp" "rstrct.cpp" "rsolv.cpp" "rotate.cpp" "rofunc.cpp" "rlft3.cpp" "rkqs.cpp" "rkck.cpp" "rk4.cpp" "rj.cpp" "rf.cpp" "reverse.cpp" "revcst.cpp" "resid.cpp" "relax2.cpp" "relax.cpp" "red.cpp" "rebin.cpp" "realft.cpp" "rd.cpp" "rc.cpp" "ratval.cpp" "ratlsq.cpp" "ratint.cpp" "ranpt.cpp" "rank.cpp" "ran3.cpp" "ran2.cpp" "ran1.cpp" "ran0.cpp" "quadvl.cpp" "quadmx.cpp" "quadct.cpp" "quad3d.cpp" "qtrap.cpp" "qsimp.cpp" "qrupdt.cpp" "qrsolv.cpp" "qroot.cpp" "qromo.cpp" "qromb.cpp" "qrdcmp.cpp" "qgaus.cpp" "pzextr.cpp" "pythag.cpp" "pwt.cpp" "psdes.cpp" "probks.cpp" "predic.cpp" "powell.cpp" "polint.cpp" "polin2.cpp" "poldiv.cpp" "polcof.cpp" "polcoe.cpp" "poidev.cpp" "plgndr.cpp" "pinvs.cpp" "piksrt.cpp" "piksr2.cpp" "period.cpp" "pearsn.cpp" "pcshft.cpp" "pccheb.cpp" "orthog.cpp" "odeint.cpp" "newt.cpp" "mrqmin.cpp" "mrqcof.cpp" "mpsqrt.cpp" "mprove.cpp" "mppi.cpp" "mpops.cpp" "mpmul.cpp" "mpinv.cpp" "mpdiv.cpp" "mp2dfr.cpp" "moment.cpp" "mnewt.cpp" "mnbrak.cpp" "mmid.cpp" "miser.cpp" "midsqu.cpp" "midpnt.cpp" "midinf.cpp" "midexp.cpp" "mglin.cpp" "mgfas.cpp" "metrop.cpp" "memcof.cpp" "medfit.cpp" "matsub.cpp" "matadd.cpp" "machar.cpp" "ludcmp.cpp" "lubksb.cpp" "lop.cpp" "locate.cpp" "lnsrch.cpp" "linmin.cpp" "linbcg.cpp" "lfit.cpp" "kstwo.cpp" "ksone.cpp" "ks2d2s.cpp" "ks2d1s.cpp" "kermom.cpp" "kendl2.cpp" "kendl1.cpp" "julday.cpp" "jacobn.cpp" "jacobi.cpp" "irbit2.cpp" "irbit1.cpp" "interp.cpp" "indexx.cpp" "igray.cpp" "icrc1.cpp" "icrc.cpp" "hypser.cpp" "hypgeo.cpp" "hunt.cpp" "hufmak.cpp" "hufenc.cpp" "hufdec.cpp" "hufapp.cpp" "hqr.cpp" "hpsort.cpp" "hpsel.cpp" "gser.cpp" "golden.cpp" "gcf.cpp" "gaussj.cpp" "gauleg.cpp" "gaulag.cpp" "gaujac.cpp" "gauher.cpp" "gaucof.cpp" "gasdev.cpp" "gammq.cpp" "gammln.cpp" "gamdev.cpp" "ftest.cpp" "frprmn.cpp" "frenel.cpp" "fredin.cpp" "fredex.cpp" "fred2.cpp" "fpoly.cpp" "fourn.cpp" "fourfs.cpp" "fourew.cpp" "four1.cpp" "fmin.cpp" "flmoon.cpp" "fleg.cpp" "fixrts.cpp" "fitexy.cpp" "fit.cpp" "toeplz.cpp" "sphfpt.cpp" "shootf.cpp" "rkdumb.cpp" "ran4.cpp" "pwtset.cpp" "pade.cpp" "midsql.cpp" "laguer.cpp" "hypdrv.cpp" "gammp.cpp" "fgauss.cpp" "eclass.cpp" "convlv.cpp" "bico.cpp" "bcucof.cpp" "fdjac.cpp" "fasper.cpp" "factrl.cpp" "factln.cpp" "f1dim.cpp" "expint.cpp" "expdev.cpp" "evlmem.cpp" "eulsum.cpp" "erffc.cpp" "erff.cpp" "erfcc.cpp" "elmhes.cpp" "ellpi.cpp" "ellf.cpp" "elle.cpp" "eigsrt.cpp" "ei.cpp" "eclazz.cpp" "dlinmin.cpp" "difeq.cpp" "dftint.cpp" "dftcor.cpp" "dfridr.cpp" "dfpmin.cpp" "df1dim.cpp" "decchk.cpp" "ddpoly.cpp" "dbrent.cpp" "dawson.cpp" "daub4.cpp" "cyclic.cpp" "crank.cpp" "covsrt.cpp" "cosft2.cpp" "cosft1.cpp" "correl.cpp" "copy.cpp" "cntab2.cpp" "cntab1.cpp" "cisi.cpp" "chstwo.cpp" "chsone.cpp" "cholsl.cpp" "choldc.cpp" "chixy.cpp" "chint.cpp" "chebpc.cpp" "chebft.cpp" "chebev.cpp" "chder.cpp" "caldat.cpp" "bsstep.cpp" "broydn.cpp" "brent.cpp" "bnldev.cpp" "bksub.cpp" "betai.cpp" "betacf.cpp" "beta.cpp" "bessy1.cpp" "bessy0.cpp" "bessy.cpp" "bessk1.cpp" "bessk0.cpp" "bessk.cpp" "bessjy.cpp" "bessj1.cpp" "bessj0.cpp" "bessj.cpp" "bessik.cpp" "bessi1.cpp" "bessi0.cpp" "bessi.cpp" "beschb.cpp" "bcuint.cpp" "banmul.cpp" "bandec.cpp" "banbks.cpp" "balanc.cpp" "badluk.cpp" "avevar.cpp" "atimes.cpp" "asolve.cpp" "arcsum.cpp" "arcode.cpp" "arcmak.cpp" "anorm2.cpp" "anneal.cpp" "amotsa.cpp" "amotry.cpp" "amoeba.cpp" "amebsa.cpp" "airy.cpp" "addint.cpp" "../" "./")
+
+ ("/home/simplex/.local/share/applications/" (22453 31528 559422 52000) "wine-extension-jpe.desktop" "emacsclient.desktop" "vlc-2.desktop" "wine-extension-chm.desktop" "wine-extension-ini.desktop" "wine-extension-gif.desktop" "./" "Zotero.desktop" "wine-extension-jfif.desktop" "wiznote.desktop" "wine-extension-wri.desktop" "wine-extension-png.desktop" "mimeapps.list" "wps.desktop" "wine-extension-xml.desktop" "wine-extension-html.desktop" "wine-extension-url.desktop" "wine-extension-rtf.desktop" "wps-2.desktop" "wine-extension-htm.desktop" "vlc-3.desktop" "emacs.desktop" "../" "wine-extension-hlp.desktop" "emacs24-2.desktop" "wine-extension-vbs.desktop" "wine-extension-msp.desktop" "wine-extension-txt.desktop")
+
+ ("/home/simplex/zzsweet/src/tex/cv/" (22450 41813 295203 0) "华中科技大学+博士+光学工程+朱仲书.pdf" "云计算开发平台+朱仲书+华中科技大学.pdf" "zzs.jpg" "yidong.tex" "yidong.pdf" "yidong.out" "yidong.log" "yidong.fls" "yidong.fdb_latexmk" "yidong.aux" "template-zh.aux" "ruisheng.tex" "ruisheng.out" "ruisheng.log" "ruisheng.fls" "ruisheng.fdb_latexmk" "ruisheng.aux" "ruichu.tex" "ruichu.pdf" "ruichu.out" "template-zh.fdb_latexmk" "ruichu.log" "hardware.fls" "haowei.fls" "1007.tex" "it.tex" "it.pdf" "it.out" "it.log" "it.fls" "it.fdb_latexmk" "it.aux" "hardware.tex" "hardware.pdf" "hardware.out" "hardware.log" "haowei.fdb_latexmk" "haowei.aux" "cv.txt" "auto/" "701.tex" "701.pdf" "701.out" "701.log" "701.fls" "701.fdb_latexmk" "701.aux" "template-zh.tex" "template-zh.pdf" "template-zh.out" "template-zh.log" "template-zh.fls" "ruichu.fls" "ruichu.fdb_latexmk" "ruichu.aux" "picture.eps" "hardware.fdb_latexmk" "hardware.aux" "haowei.tex" "haowei.out" "haowei.log" "1007.pdf" "1007.out" "1007.log" "1007.fls" "1007.fdb_latexmk" "1007.aux" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cjsc/" (22454 48508 999933 800000) "report/" "python/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/ML/" (22454 45364 560082 200000) "pmtkdata-master.zip" "pmtk3-master.zip" "pmtk3-master/" "logReg.py" "data/" "#logReg.py#" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/" (22454 48440 876037 400000) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "study.py" "notebook/" "newtonRaphson.py" "MLiA-src/" "ML/" "../" "./")
+
+ ("/home/simplex/scikit-learn/sklearn/svm/src/libsvm/" (22438 40074 149209 901000) "libsvm_sparse_helper.c" "./" "LIBSVM_CHANGES" "libsvm_template.cpp" "svm.h" "../" "libsvm_helper.c" "svm.cpp")
+
+ ("/home/simplex/scikit-learn/sklearn/svm/src/" (22438 40074 149209 901000) "./" "liblinear/" "libsvm/" "../")
+
+ ("/home/simplex/scikit-learn/sklearn/svm/" (22438 40074 149209 901000) "tests/" "liblinear.pyx" "classes.py" "bounds.py" "./" "liblinear.pxd" "libsvm_sparse.pyx" "__init__.py" "libsvm.pyx" "setup.py" "../" "src/" "libsvm.pxd" "base.py")
+
+ ("/home/simplex/scikit-learn/sklearn/" (22438 40074 157210 14000) "neighbors/" "cross_decomposition/" "manifold/" "model_selection/" "svm/" "calibration.py" "tests/" "linear_model/" "_build_utils/" "decomposition/" "./" "naive_bayes.py" "gaussian_process/" "exceptions.py" "learning_curve.py" "random_projection.py" "feature_selection/" "feature_extraction/" "multiclass.py" "metrics/" "pipeline.py" "_isotonic.pyx" "semi_supervised/" "__init__.py" "dummy.py" "datasets/" "grid_search.py" "utils/" "mixture/" "externals/" "covariance/" "qda.py" "setup.py" "tree/" "kernel_ridge.py" "kernel_approximation.py" "../" "cluster/" "lda.py" "src/" "neural_network/" "isotonic.py" "ensemble/" "multioutput.py" "__check_build/" "cross_validation.py" "discriminant_analysis.py" "base.py" "preprocessing/")
+
+ ("/home/simplex/scikit-learn/" (22438 40074 85208 998000) ".landscape.yml" ".git/" "sklearn/" "setup.cfg" "circle.yml" ".coveragerc" "./" "CONTRIBUTING.md" "site.cfg" "AUTHORS.rst" "examples/" "benchmarks/" "doc/" "appveyor.yml" ".gitattributes" "MANIFEST.in" "setup.py" ".gitignore" "Makefile" "../" ".travis.yml" "PULL_REQUEST_TEMPLATE.md" ".mailmap" "build_tools/" "ISSUE_TEMPLATE.md" "COPYING" "README.rst" "setup32.cfg")
+
+ ("/opt/" (22438 38093 161602 701000) "kingsoft/" "anaconda3/" "zotero/" "../" "./")
+
+ ("/opt/anaconda3/" (22437 27654 462318 666000) "include/" "etc/" "envs/" "conda-meta/" "share/" "bin/" "pkgs/" "lib/" "../" "LICENSE.txt" "./" "ssl/" "var/")
+
+ ("/opt/anaconda3/pkgs/" (22437 27394 412894 733000) "decorator-4.0.10-py35_0/" "cloudpickle-0.2.1-py35_0/" "cython-0.24-py35_0/" "statsmodels-0.6.1-np111py35_1/" "pillow-3.2.0-py35_1/" "pytest-2.9.2-py35_0/" "unicodecsv-0.14.1-py35_0/" "redis-py-2.10.5-py35_0/" "scipy-0.17.1-np111py35_1/" "python-3.5.2-0/" "idna-2.1-py35_0/" "psutil-4.3.0-py35_0/" "requests-2.10.0-py35_0/" "scikit-learn-0.17.1-np111py35_2/" "py-1.4.31-py35_0/" "urls" "yaml-0.1.6-0/" "six-1.10.0-py35_0/" "mkl-service-1.1.2-py35_2/" "ptyprocess-0.5.1-py35_0/" "argcomplete-1.0.0-py35_1/" "conda-env-2.5.2-py35_0.tar.bz2.part" "pexpect-4.0.1-py35_0/" "conda-build-1.21.3-py35_0/" "tk-8.5.18-0/" "libxslt-1.1.28-0/" "beautifulsoup4-4.4.1-py35_0/" "conda-4.1.9-py35_0/" "pycparser-2.14-py35_1/" "flask-cors-2.1.2-py35_0/" "boto-2.40.0-py35_0/" "multipledispatch-0.4.8-py35_0/" "mkl-11.3.3-0/" "pyasn1-0.1.9-py35_0/" "conda-4.1.9-py35_0.tar.bz2" "docutils-0.12-py35_2/" "configobj-5.0.6-py35_0/" "astropy-1.2.1-np111py35_0/" "sqlite-3.13.0-0/" "nose-1.3.7-py35_1/" "redis-3.2.0-0/" "libpng-1.6.22-0/" ".install.py" "flask-0.11.1-py35_0/" "numexpr-2.6.0-np111py35_0/" "traitlets-4.2.1-py35_0/" "sympy-1.0-py35_0/" "pyzmq-15.2.0-py35_1/" "jpeg-8d-1/" "jupyter_client-4.3.0-py35_0/" "anaconda-navigator-1.2.1-py35_0/" "zlib-1.2.8-3/" "pyflakes-1.2.3-py35_0/" "sphinx-1.4.1-py35_0/" ".cio-config.py" "libsodium-1.0.10-0/" "singledispatch-3.4.0.3-py35_0/" "bitarray-0.8.1-py35_0/" "bottleneck-1.1.0-np111py35_0/" "datashape-0.5.2-py35_0/" "xlwt-1.1.2-py35_0/" "nb_conda-1.1.0-py35_0/" "odo-0.5.0-py35_1/" "heapdict-1.0.0-py35_1/" "setuptools-23.0.0-py35_0/" "sip-4.16.9-py35_0/" "pyqt-4.11.4-py35_3/" "pep8-1.7.0-py35_0/" "zeromq-4.1.4-0/" "lxml-3.6.0-py35_0/" "h5py-2.6.0-np111py35_1/" "anaconda-client-1.4.0-py35_0/" "markupsafe-0.23-py35_2/" "click-6.6-py35_0/" "sqlalchemy-1.0.13-py35_0/" "nbpresent-3.0.2-py35_0/" "pyopenssl-0.16.0-py35_0/" "ipython-4.2.0-py35_0/" "conda-env-2.5.1-py35_0/" "patchelf-0.9-0/" "freetype-2.5.5-1/" "libxml2-2.9.2-0/" "sphinx_rtd_theme-0.1.9-py35_0/" "hdf5-1.8.16-0/" "bokeh-0.12.0-py35_0/" "imagesize-0.7.1-py35_0/" "qtpy-1.0.2-py35_0/" "python-dateutil-2.5.3-py35_0/" "fastcache-1.0.2-py35_1/" "jupyter_core-4.1.0-py35_0/" "itsdangerous-0.24-py35_0/" "cache/" "pycrypto-2.6.1-py35_4/" "pyparsing-2.1.4-py35_0/" "xlsxwriter-0.9.2-py35_0/" "mistune-0.7.2-py35_0/" "nbconvert-4.2.0-py35_0/" "xz-5.2.2-0/" "mpmath-0.19-py35_1/" "pygments-2.1.3-py35_0/" "matplotlib-1.5.1-np111py35_0/" "partd-0.3.4-py35_0/" "cffi-1.6.0-py35_0/" "sockjs-tornado-1.0.3-py35_0/" "ipykernel-4.3.1-py35_0/" "pyyaml-3.11-py35_4/" "dill-0.2.5-py35_0/" "werkzeug-0.11.10-py35_0/" "pandas-0.18.1-np111py35_0/" "jdcal-1.2-py35_1/" "dynd-python-0.7.2-py35_0/" "notebook-4.2.1-py35_0/" "terminado-0.6-py35_0/" "toolz-0.8.0-py35_0/" "jupyter_console-4.1.1-py35_0/" "wheel-0.29.0-py35_0/" "libffi-3.2.1-0/" "qt-4.8.7-3/" "simplegeneric-0.8.1-py35_1/" "curl-7.49.0-0/" "babel-2.3.3-py35_0/" "conda-4.1.6-py35_0/" "pytz-2016.4-py35_0/" "jedi-0.9.0-py35_1/" "cycler-0.10.0-py35_0/" "nltk-3.2.1-py35_0/" "patsy-0.4.1-py35_0/" "colorama-0.3.7-py35_0/" "numba-0.26.0-np111py35_0/" "gevent-1.1.1-py35_0/" "path.py-8.2.1-py35_0/" "chest-0.2.3-py35_0/" "libtiff-4.0.6-2/" "ruamel_yaml-0.11.7-py35_0/" "blaze-0.10.1-py35_0/" "pip-8.1.2-py35_0/" "numpy-1.11.1-py35_0/" "anaconda-4.1.1-np111py35_0/" "contextlib2-0.5.3-py35_0/" "networkx-1.11-py35_0/" "rope-0.9.4-py35_1/" "openssl-1.0.2h-1/" "cytoolz-0.8.0-py35_0/" "jbig-2.1-0/" "entrypoints-0.2.2-py35_0/" "jinja2-2.8-py35_1/" "jsonschema-2.5.1-py35_0/" "alabaster-0.7.8-py35_0/" "nbformat-4.0.1-py35_0/" "openpyxl-2.3.2-py35_0/" "greenlet-0.4.10-py35_0/" "libdynd-0.7.2-0/" "ply-3.8-py35_0/" "clyent-1.2.2-py35_0/" "pytables-3.2.2-np111py35_4/" "fontconfig-2.11.1-6/" "ipython_genutils-0.1.0-py35_0/" "dask-0.10.0-py35_0/" "pycosat-0.6.1-py35_1/" "libgfortran-3.0.0-1/" "xlrd-1.0.0-py35_0/" "cryptography-1.4-py35_0/" "get_terminal_size-1.0.0-py35_0/" "nb_anacondacloud-1.1.0-py35_0/" "jupyter-1.0.0-py35_3/" "pycurl-7.43.0-py35_0/" "_nb_ext_conf-0.2.0-py35_0/" "nb_conda_kernels-1.0.3-py35_0/" "backports-1.0-py35_0/" "pickleshare-0.7.2-py35_0/" "ipywidgets-4.1.1-py35_0/" "pathlib2-2.1.0-py35_0/" "snowballstemmer-1.2.1-py35_0/" "et_xmlfile-1.0.1-py35_0/" "scikit-image-0.12.3-np111py35_1/" "llvmlite-0.11.0-py35_0/" "qtconsole-4.2.1-py35_0/" "locket-0.2.0-py35_1/" "readline-6.2-2/" "tornado-4.3-py35_1/" "spyder-2.3.9-py35_0/" "urls.txt" "../" "./")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/" (22419 39333 698697 920000) "info/" "lib/" "../" "./")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/lib/" (22419 39333 698697 920000) "python3.5/" "../" "./")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/lib/python3.5/" (22419 39333 698697 920000) "../" "./" "site-packages/")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/lib/python3.5/site-packages/" (22419 39333 698697 920000) "scikit_learn-0.17.1-py3.5.egg-info" "../" "sklearn/" "./")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/lib/python3.5/site-packages/sklearn/" (22419 39334 606739 417000) "feature_extraction/" "semi_supervised/" "ensemble/" "pipeline.py" "__init__.py" "grid_search.py" "kernel_approximation.py" "mixture/" "qda.py" "gaussian_process/" "_build_utils.py" "random_projection.py" "tree/" "covariance/" "discriminant_analysis.py" "svm/" "kernel_ridge.py" "utils/" "neighbors/" "cluster/" "datasets/" "isotonic.py" "calibration.py" "manifold/" "setup.py" "__pycache__/" "linear_model/" "learning_curve.py" "../" "./" "decomposition/" "_isotonic.so" "multiclass.py" "lda.py" "neural_network/" "base.py" "metrics/" "naive_bayes.py" "externals/" "cross_decomposition/" "cross_validation.py" "tests/" "feature_selection/" "__check_build/" "dummy.py" "preprocessing/")
+
+ ("/opt/anaconda3/pkgs/scikit-learn-0.17.1-np111py35_2/lib/python3.5/site-packages/sklearn/svm/" (22419 39334 514735 212000) "libsvm_sparse.so" "__init__.py" "liblinear.so" "bounds.py" "setup.py" "__pycache__/" "../" "./" "base.py" "libsvm.so" "tests/" "classes.py")
+
+ ("/home/simplex/.emacs.d/el-get/elpy/" (22437 27355 232705 381000) "elpy-refactor.el" "elpy-pkg.el" ".git/" "elpy.el" "elpy/" "setup.cfg" "requirements-dev.txt" ".coveragerc" "./" "elpy.elc" "docs/" "elpy-pkg.elc" "RELEASE.txt" "elpy-refactor.elc" "LICENSE" "CONTRIBUTING.rst" "MANIFEST.in" "setup.py" "#elpy.el#" ".gitignore" "test/" "requirements.txt" "../" ".travis.yml" ".bumpversion.cfg" "Cask" "scripts/" "snippets/" "requirements3.txt" "NEWS.rst" "README.rst")
+
+ ("/home/simplex/dianzishu/晋江【总分榜】/" (22439 12153 982268 247000) "异世蔷薇.txt" "如梦令.txt" "遗爱记.txt" "后夺舍时代1—182.txt" "江山如画（全二册）.txt" "黑色高跟鞋.Txt" "亲爱的，驾！.txt" "当LOLI穿越成了崇祯.TXT" "无方少年游VIP完结+番外.txt" "心肝_派派小说.txt" "《潇洒出墙》晋江VIP文.txt" "玛丽在隔壁.txt" "《月上重火》出书版完结.txt" "《林小乐在末世》全集.txt" "三千鸦杀.txt" "小凰不是仙.txt" "王牌丫环.txt" "以王之名.txt" "三国咒之江湖有贼第一部.txt" "[167]城外的月光.txt" "庶女生存手册.txt" "你听说了吗全文.txt" "姻缘（完结 全部番外）_派派小说.txt" "《一骑绝尘》那只狐狸.TXT" "原来我是妞.txt" "No.021 谁的等待，恰逢花开.txt" "公子无耻.txt" "尘沙下的传奇  .txt" "目标已锁定.txt" "绿红妆之军营穿越.txt" "清·旧梦（全+续）.txt" "若薇(TXT).txt" "不负如来不负卿.txt" "莫笑我胡为(颠覆妲己)完结.txt" "No.072 小贼[未完结].txt" "《人间烟火》桔子树(天堂太远人间正好续).txt" "青莲记事(完结版)_葡萄_耽美小说_连城读书.TXT" "丑女念玉.txt" "书虫在清朝的米虫生活.txt" "归路.txt" "凤栖冰语-焚歌.txt" "逍遥行[完本]作者：百世经纶.txt.TXT" "兰陵旧事.txt" "武侠《笑傲红尘》(完&amp;番外) 作者_黯夜妖灵.txt" "《穿越三从四德》作者：朱绯，完结加番外.txt" "君芷锍 缚石.txt" "[穿越]四爷，我爱宅.txt" "《绝艳皇朝之诱魂》全集完整版TXT电子书.txt" "七上九下.txt" "复生.txt" "《有一种爱情叫兄弟》TXT下载(全本)作者：十八子墨.txt" "斜阳若影.txt" "与大神JQ的日子.txt" "穿越之武林怪传.txt" "皇后策（全）.txt" "宁非.txt" "穿越与反穿越.txt" "木槿花西月锦绣.txt" "上古.txt" "契约王妃.txt" "《情不自禁》txt下载 作者：墨妖.TXT" "我靠！被潜了！[kao,被潜了].TXT" "无心法师.txt" "《十年一品温如言》书海沧生(完结加4番外).TXT" "梨花雪后.txt" "贵族.txt" "95温暖的弦作者安宁完结TXT下载.txt" "No.096 天下不帅.txt" "《穿越之天雷一部》蜀客.txt.TXT" "香墨弯弯画.txt" "《盈月舞清风》作者 逐汐完清穿.txt" "双阙（10.1完结版）.txt" "午门囧事.txt" "No.15 因缘妙美人.txt" "你好旧时光by八月长安（又名玛丽苏病例报告）出书版全文+番外.txt" "《烈火如歌[内地实体版]》作者：明晓溪.txt" "斩春.txt" "《弄玉风云》原名 弄玉天下完结含VIP作者 禾火水也.txt" "[书包网]《特工皇妃倾天下 有凤来仪》.TXT" "然后，爱情随遇而安.txt" "一路荣华.txt" "No.029 大龙门客栈.txt" "他，来自火星BY饭卡.txt" "坏事多磨.txt" "乌龙女仵差.txt" "《凤舞战歌》完+番外作者 印莲.txt" "No.60 最禛心.txt" "月满霜河（原江天漠漠）全文完结 箫楼.txt" "穿越市井田园.txt" "君生我已老by爱爬树的鱼(完结).txt" "《客官不可以》作者：蓝白色 完结.txt" "笑倾三国(修改版)-小说阅读网.txt" "当糟糠遇见黑色会.txt" "《天生凉薄》全集.txt" "No.041 当穿越女遇到古代强人.txt" "奥汀的祝福全本(完整版).txt" "非主流清穿.txt" "No.042 如此多娇[未完结].txt" "花间一梦.txt" "香蜜沉沉烬如霜全文+番外.txt" "将军在上我在下（完）.txt" "No.81 奈何跳错墙.TXT" "最鸳缘.txt" "《至爱吾爱》八爷党.txt" "小房东 全本（上下两部）完结.txt" "魔女游戏规则.txt" "太平.txt" "《三国咒之江湖有贼（第二部）》作者：武箭.txt" "执子之手将子拖走里.txt" "水色胭脂.txt" "No.19 鸾：我的前半生 我的后半生.txt" "《潇然梦》TXT.TXT" "斩情丝_弃后.txt" "呜呼佞臣当道.txt" "跋涉千年.txt" "无爱承欢_蓝白色+番外（孤男寡女、栗子篇）+书版结局.txt" "意外美人.txt" "《穿越不是电视剧》(完)作者_抽风的漠兮.txt" "独家记忆--木浮生.txt" "失落大陆.txt" "仙侠奇缘之花千骨+番外.txt" "两只前夫一台戏.txt" "红九--你好毒（强强）.txt" "梦转纱窗晓.txt" "特工皇妃倾天下：有凤来仪.txt" "《师父》_校长恨霸王太多_(完结).txt" "十里红妆.txt" "无肉不欢.txt" "(种田文系列)穿越后的悠闲生活.txt" "红了樱桃，绿了芭蕉.txt" "天启悠闲生活.txt" "冠绝笑天下.txt" "仙路慢慢.txt" "饕餮盛宴 2 玫瑰人生梦.txt" "千妖百魅BY饭卡.txt" "云醉月微眠.txt" "《云鬓凤钗(古代宅女幸福札记)》 清歌一片.TXT" "No.075 云翻雨覆.txt" "《一夜成名》 作者：张一一.txt" "三世缘.txt" "醉游记.txt" "流水迢迢.txt" "剩女修真记.txt" "花好孕圆.txt" "美人在侧花满堂.txt" "穿越做回单亲妈妈.txt" "No.036 婀娜传说.txt" "佳偶天成(正文完).txt" "《风槿如画》.txt" "仙女豇豆红_派派小说.txt" "水墨山河+终结篇（出书版）.txt" "《美人驾到》凌凌君.txt" ".directory" "《艳歌行》.txt" "狐狸相公by跳跃的火焰.txt" "应该.txt" "最后的女神（完结）.txt" "除了我你还能爱谁.txt" "《莫道未撩君心醉》(全文+番外)红九.txt" "穿越事件簿.txt" "玉颜皎凤.txt" "痞女囧天下(痞女色天下）.txt" "潇洒如风.txt" "贱妾 枯荷听雨声.txt" "《长生1+2》出书版完结作者 书闲庭.txt" "琉璃般若花(完&番外全)byFresh果果.txt" "重紫 出书版完结+两番外 .txt" "天下倾歌.txt" "《落花时节又逢君》完.txt" "No.53 秦简.txt" "海妖-饭卡.txt.TXT" "薄荷荼靡梨花白_派派小说_派派小说.txt" "明月珰《皇瓜》.txt" "路鸟（强男强女）.txt" "No.054 小人通天[未完结].txt" "清梦&#8226;繁华冢 .txt" "No.073 淡云来往月疏疏.txt" "穿越之第一夫君.txt" "微微一笑很倾城-顾漫_TXT全集下载.txt" "醉卧红尘梦未醒之三生石.txt" "月沉吟.txt" "知否知否应是绿肥红瘦全集+番外.txt" "寻爱上弦月.txt" "《三救姻缘》(完&番外) 作者：笑声.txt" "Blood X Blood（出书版）.txt" "元徵宫词.txt" "满庭芳-多木木多(古代穿越种田文).txt" "饕餮盛宴 1.txt" "下堂妻的悠哉日子.txt" "卿本佳人.txt" "兔子压倒窝边草.txt" "../" "./")
+
+ ("/home/simplex/dianzishu/" (22439 12042 283078 621000) "梦落芳华.txt" "晋江【总分榜】.rar" "潇然梦-番外-1.txt" "富贵荣华怎敌她2.txt" "./" "复生.txt" "尘尘三昧.txt" "无方少年游.txt" "百里长安.txt" "只是替身吗.txt" "痞女囧天下.txt" "兽类辅导员.txt" "谁把流年暗偷换.txt" "风槿如画.txt" "几回魂梦.txt" "晋江【总分榜】/" "六花禁爱(全文 番外).txt" "少年丞相世外客.txt" "爱早已离开.txt" "君似小黄花.txt" "../" "十佳女.txt" "萌兽奇缘.txt" "风起青萍（加番外）.txt" "流水迢迢.txt" "天雨情.txt" "归宿.txt" "清澜传.txt" "杨柳青青轻烟凝.txt" "心素如简.txt")
+
+ ("/home/simplex/.local/share/" (22427 22992 747250 539000) "contacts/" "telepathy/" "autojump/" "icons/" "Trash/" "gravatar/" "user-places.xbel" "autocorrect/" "libdiscover/" "tmp/" "icc/" "knewstuff3/" "messageviewer/" "remoteview/" "dolphin/" "./" "kontact/" "color-schemes/" "RecentDocuments/" "local-mail/" "baloo/" "applications/" "cur/" "servicemenu-download/" "gvfs-metadata/" "user-places.xbel.tbcache" "kate/" "klipper/" "user-places.xbel.bak" "akonadi_migration_agent/" "kxmlgui5/" "akonadi_maildir_resource_0/" "notes/" "new/" "kcookiejar/" "Zeal/" "keyrings/" "kmail2/" "akregator/" "../" "plasma/" "akonadi/" "mime/" "kscreen/" "kactivitymanagerd/" "kwalletd/" "vlc/" "org.kde.gwenview/" "konsole/" "recently-used.xbel")
+
+ ("/home/simplex/.local/" (22408 28229 143875 210000) "bin/" "lib/" "./" "share/" "../")
+
+ ("/home/simplex/.emacs.d/el-get/" (22437 26330 969981 129000) "highlight-indentation/" "idomenu/" "vimish-fold/" "swiper/" "fuzzy/" "find-file-in-project/" "f/" "langtool/" ".loaddefs.elc" "epl/" "elpy/" "company-ycmd/" "s/" "flycheck-ycmd/" "comment-dwim-2/" "el-get/" "powerline/" "helm/" "./" "async/" "helm-cscope/" "pyvenv/" "avy/" "parsebib/" "auto-compile/" "helm-dash/" ".loaddefs.el" "ein/" "auctex-latexmk/" "cl-lib/" "packed/" "yasnippet/" "seq/" "rainbow-delimiters/" "reftex/" "xcscope/" "websocket/" "flycheck/" "helm-swoop/" "company-mode/" "deferred/" "package/" "request-deferred/" "ido-vertical-mode/" "flx/" "spaceline/" "../" "ycmd/" "flycheck-pos-tip/" "gnuplot-mode/" "dash/" "auctex/" "helm-gtags/" "popwin/" "window-numbering/" "let-alist/" "helm-bibtex/" "pkg-info/" "company-quickhelp/" ".loaddefs.el~" "request/" "multi-term/" "smartparens/" "auto-complete/" "pos-tip/" ".status.el" "popup/" "smex/" "helm-ag/" "helm-core/" "flx-ido/" "company/")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/Ch04/" (22424 29992 373458 400000) "EXTRAS/" "email.zip" "email/" "bayes.pyc" "bayes.py" "#bayes.py#" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/Ch05/" (22425 20943 687371 900000) "testSet.txt" "logRegres.pyc" "logRegres.py" "horseColicTraining.txt" "horseColicTest.txt" "EXTRAS/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/Ch14/" (20950 26730 0 0) "svdRec.pyc" "svdRec.py" "0_5.txt" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/Ch03/" (20950 26729 0 0) "trees.pyc" "trees.py" "treePlotter.pyc" "treePlotter.py" "lenses.txt" "classifierStorage.txt" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/Ch13/" (20950 26730 0 0) "testSet3.txt" "testSet.txt" "secom.data" "pca.pyc" "pca.py" "iris.data.txt" "extras/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/MLiA-src/" (20950 26730 0 0) "README.rst" "Ch15/" "Ch14/" "Ch13/" "Ch12/" "Ch11/" "Ch10/" "Ch09/" "Ch08/" "Ch07/" "Ch06/" "Ch05/" "Ch04/" "Ch03/" "Ch02/" ".git/" "../" "./")
+
+ ("/home/simplex/.config/matplotlib/" (22423 3405 953580 677000) "./" "../")
+
+ ("/home/simplex/.config/" (22422 65254 390681 776000) "ktimezonedrc" "menus/" "ksmserverrc" "arkrc" "konsolerc" "upstart/" "baloofilerc" "systemsettingsrc" "startupconfig" "spectaclerc" "akonadi_ical_resource_0rc" "kiorc" "korgacrc" "touchpadrc" "plasma-workspace/" "SogouPY.users/" "pulse/" "kontactrc" "dragonplayerrc" "katemetainfos" "Barracuda Networks, Inc./" "akonadi-migrationrc" "kmail2rc" "./" "ksplashrc" "user-dirs.dirs" "drkonqirc" "kwalletrc" "kcmshell5rc" "krunnerrc" "katevirc" "org.kde.gwenviewrc" "kcmfonts" "sogou-qimpanel/" "notificationhelper" "kcmdisplayrc" "mimeapps.list" "kgammarc" "breezerc" "kwinrc" "muondiscoverrc" "kdeglobals" "emaildefaults" "kfontviewrc" "Trolltech.conf" "kmixrc" "kingsoft/" "gtkrc-2.0" "plasma-localerc" "autostart-scripts/" "plasmarc" "kscreenlockerrc" "dconf/" "kwinrulesrc" "powerdevilrc" "kconf_updaterc" "libreoffice/" "katepartrc" "kwalletmanager5rc" "fontconfig/" "akonadi_akonotes_resource_0rc" "Zeal/" "audacious/" "kdebugrc" "SogouPY/" "kmenueditrc" "trashrc" "kxkbrc" "kontact_summaryrc" "khotkeysrc" "fcitx/" "bluedevilglobalrc" "vlcrc" "akonadi-firstrunrc" "kio_desktoprc" "../" "user-dirs.locale" "emailidentities" "enchant/" "katerc" "plasma-org.kde.plasma.desktop-appletsrc" "kactivitymanagerdrc" "Kingsoft/" "kded_device_automounterrc" "libaccounts-glib/" "QtProject.conf" "dolphinrc" "kcminputrc" "powermanagementprofilesrc" "startupconfigkeys" "startupconfigfiles" "kde5-nm-connection-editorrc" "specialmailcollectionsrc" "akonadi/" "gtkrc" "kglobalshortcutsrc" "filetypesrc" "plasma-locale-settings.sh" "kdeconnect/" "gtk-3.0/" "kfontinstrc" "kservicemenurc" "plasmashellrc" "akregatorrc" "akonadi_maildir_resource_0rc" "vlc/" "ibus/" "autostart/" "gtk-2.0/" "session/" "matplotlib/" "oxygen-gtk/" "kfontinstuirc")
+
+ ("/home/simplex/.emacs.d/themes/" (22421 57028 136382 622000) "gnome2-theme.el" "./" "monokai-theme.el" "molokai-theme.el" "../")
+
+ ("/home/simplex/oh-my-emacs/modules/" (22420 44737 792268 972000) "ome-ruby.org" "ome-java.org" "ome-sml.org" "ome-php.org" "ome-python.org" "./" "ome-scheme.org" "ome-golang.org" "ome-tex.org" "ome-web.org" "ome-experimental.org" "ome-emacs-lisp.org" "ome-common-lisp.org" "../" "ome-javascript.org" "ome-haskell.org" "ome-clojure.org" "ome-ocaml.org" "ome-cc.org")
+
+ ("/home/simplex/oh-my-emacs/" (22420 51296 182729 216000) "CONTRIBUTING.org" ".git/" "init.el" "LICENSE.txt" "ome.org" "./" "modules/" "core/" "#init.el#" "custom.el" "CHANGELOG.org" ".gitignore" "Makefile" "../" "README.org" "ome-publish.org")
+
+ ("/home/simplex/zzsweet/src/cfamily/cpp_study/" (22420 52184 584835 800000) "waveguide/" "travelling wave solver/" "test.cpp" "study.h" "study.cpp" "study" "sig_receive.cpp" "regex.cpp" "read_matrix.cpp" "poly.cpp" "plotwavegide/" "mynamespace.h" "mynamespace.cpp" "mygnuplot.h" "mygnuplot.cpp" "mpi/" "Makefile" "iospeed.cpp" "gnuplotter/" "gadget/" "CMakeFiles/" "cgal/" ".directory" "#study.cpp#" "string_to_double.cpp" "my_code/" "../" "./")
+
+ ("/home/simplex/.emacs.d/elpa/elpy-20160613.1005/" (22409 58057 319582 187000) "elpy-refactor.el" "elpy-pkg.el" "elpy.el" "elpy/" "./" "elpy.elc" "elpy-refactor.elc" "../" "snippets/" "elpy-autoloads.el" "NEWS.rst")
+
+ ("/home/simplex/zzscript/" (22409 42420 748540 41000) "proxy.sh.part" "iphostname.sh" "zzsnet.sh" ".zzsplitter.sh.kate-swp" "zzserver.sh" "./" "ubuntu.sh" "rj/" "zzsplitter.sh" "ascii" "modifyme.sh" "zzsbak.sh" "zzstart.sh" "zzs.txt" "../" "plotter" "zzsremote.sh" "host.conf")
+
+ ("/home/simplex/.emacs.d/url/" (22408 64766 948159 915000) "cookies" "./" "../")
+
+ ("/home/simplex/.emacs.d/snippets/python-mode/" (22388 38522 780682 763000) "__contains__" "utf8" "script" "main" "parse_args" "not_impl" "assertEqual" "test_class" "interact" "iter" "logging" "function" "selfassign" "repr" "try" "ifmain" "__exit__" "__setitem__" "assertNotEqual" "static" "__getitem__" "./" "metaclass" "size" "unicode" "django_test_class" "self_without_dot" "tryelse" "assertNotIn" "trace" "cls" "setup" "print" "doctest" "pass" "init_docstring" "ipdbdebug" "setdef" "from" "assertFalse" "if" "lambda" ".yas-setup.el" "dec" "parser" "self" "doc" "for" "super" "test_file" "str" "logger_name" "__enter__" "deftest" "pl" "function_docstring" "method_docstring" "np" "prop" "init" "../" "ife" "all" "with" "celery_pdb" ".yas-parents" "with_statement" "assertIn" "assertRaises.with" "__new__" "assertTrue" "eq" "while" "assertRaises" "arg_positional" "ass" "classmethod" "reg" "import" "arg" "__len__" "list" "return" "method")
+
+ ("/home/simplex/.emacs.d/snippets/" (22388 38522 784682 807000) "prog-mode/" "nsis-mode/" "ensime-mode" "tuareg-mode/" "README.md" "nesc-mode/" "lisp-mode/" "erlang-mode/" "f90-mode/" "conf-unix-mode/" "css-mode/" "rst-mode/" "enh-ruby-mode" "elixir-mode/" "nix-mode/" "cpp-omnet-mode/" "text-mode/" "makefile-automake-mode/" "js-mode/" "./" "js3-mode" "haskell-mode/" "org-mode/" "makefile-gmake-mode/" "applescript-mode/" "cider-repl-mode" "markdown-mode/" "chef-mode/" "java-mode/" "web-mode" "udev-mode/" "go-mode/" "perl-mode/" "ruby-mode/" "rename_add_contr.py" "html-mode/" "LICENSE" "csharp-mode/" "c-mode/" "typerex-mode" "c++-mode/" "faust-mode/" "lisp-interaction-mode/" "dix-mode/" "ned-mode/" "fundamental-mode/" "sql-mode/" "lua-mode/" "../" "CONTRIBUTORS.txt" "emacs-lisp-mode/" "snippet-mode/" "cmake-mode/" "makefile-bsdmake-mode/" "groovy-mode/" "m4-mode/" "clojure-mode/" "git-commit-mode/" "latex-mode/" "sh-mode/" "malabar-mode/" "scala-mode/" "antlr-mode/" "erc-mode/" "octave-mode/" "cperl-mode/" "cc-mode/" "js2-mode" "yaml-mode/" "python-mode/" "makefile-mode/" "nxml-mode/")
+
+ ("/home/simplex/.emacs.d/elpa/elpy-20160613.1005/snippets/python-mode/" (22409 3817 604640 430000) "__isub__" "py3" "__contains__" "__iadd__" "__mod__" "__ipow__" "__ilshift__" "__hash__" "__delattr__" "__getattribute__" "asr" "__radd__" "__ixor__" "__add__" "__truediv__" "__imod__" "__slots__" "__rxor__" "__ror__" "__exit__" "__gt__" "__setitem__" "__del__" "__repr__" "__set__" "__getitem__" "./" "__rand__" "__irshift__" "ase" "__delete__" "__ne__" "enc" "__itruediv__" "__rshift__" "__nonzero__" "__call__" "__hex__" "__rdivmod__" "__ge__" "__divmod__" "__index__" "__neg__" "__lt__" "__bool__" "__ifloordiv__" "__ior__" "__abs__" "__sub__" "from" "__le__" "__cmp__" ".yas-setup.el" "__rmul__" "__float__" "__setattr__" "__invert__" "__eq__" "__xor__" "__coerce__" "asne" "__iter__" "super" "__oct__" "__and__" "__idiv__" "__unicode__" "__enter__" "__pow__" "__rpow__" "class" "__init__" "__imul__" "__rsub__" "__or__" "../" "__complex__" "__delitem__" "__div__" ".yas-setup.elc" "__rrshift__" "__instancecheck__" "__str__" "__lshift__" "__subclasscheck__" "__new__" "__getattr__" "__rlshift__" "__rfloordiv__" "__get__" "__rmod__" "__reversed__" "pdb" "__int__" "__floordiv__" "__len__" "__pos__" "__rtruediv__" "__mul__" "__iand__" "env" "defs" "__long__")
+
+ ("/home/simplex/.emacs.d/elpa/elpy-20160613.1005/snippets/" (22409 3814 808473 256000) "./" "../" "python-mode/")
+
+ ("/home/simplex/.emacs.d/elpa/" (22409 3818 160673 607000) "expand-region-20150902.558/" "solarized-theme-20160515.442/" "ac-octave-20150111.1708/" "bind-key-20160227.48/" "helm-ag-20160629.2017/" "helm-gtags-20160417.555/" "yasnippet-20160629.1922/" "multi-term-20160619.233/" "auctex-11.89.4/" "helm-core-20160627.324/" "ido-ubiquitous-20160623.815/" "windresize-0.1/" "elpy-20160613.1005/" "diminish-20151215.915/" "biblio-core-20160625.923/" "epl-20150517.433/" "request-deferred-20160419.1605/" "rainbow-delimiters-20160430.2358/" "company-math-20160229.732/" "pyvenv-20160527.442/" "deferred-20160109.2046/" "async-20160513.128/" "helm-cscope-20150609.649/" "company-ycmd-20160624.823/" "helm-20160629.116/" "flx-ido-20151030.1112/" "exec-path-from-shell-20160112.2246/" "readline-complete-20150708.737/" "highlight-indentation-20150307.208/" "helm-dash-20160613.138/" "flx-20151030.1112/" "deferred-20151007.1657/" "s-20160508.2357/" "ecb-20140215.114/" "zeal-at-point-20151231.48/" "helm-fuzzier-20160605.1445/" "vimish-fold-20160531.932/" "paradox-20160525.736/" "gnupg/" "auto-complete-20160416.604/" "parsebib-20151006.232/" "paganini-theme-readme.txt" "ido-vertical-mode-20160429.1037/" "archives/" "ein-20160422.629/" "flycheck-ycmd-20160320.424/" "makey-20131231.630/" "smartparens-20160619.322/" "ycmd-20160625.753/" "flx-isearch-20160105.1217/" "htmlize-20130207.1202/" "packed-20160523.600/" "request-20160623.1938/" "hydra-20160616.24/" "ivy-20160630.857/" "fuzzy-20150729.2037/" "tablist-20160424.235/" "auctex-latexmk-20160522.1050/" "figlet-20160218.1437/" "helm-swoop-20160619.953/" "pdf-tools-20160525.920/" "swiper-20160630.1302/" "drag-stuff-20160520.1159/" "mode-icons-20160531.1708/" "idle-highlight-mode-20120920.948/" "ergoemacs-status-20160317.2238/" "micgoline-readme.txt" "langtool-20160116.1654/" "ido-completing-read+-20160623.815/" "ac-helm-readme.txt" "cl-lib-0.5/" "company-ycmd-readme.txt" "pos-tip-20150318.813/" "ebib-20160627.1206/" "swiper-helm-20151116.330/" "websocket-20160510.2001/" "popup-20160531.425/" "gnuplot-mode-20151122.2339/" "cmake-mode-20160510.1140/" "xcscope-20160628.2324/" "math-symbol-lists-20160302.1431/" "ycmd-20160714.54/" "cl-generic-0.3/" "avy-20160620.1240/" "smex-20151212.1409/" "popwin-20150315.600/" "pcsv-20150220.331/" "find-file-in-project-20160712.1541/" "helm-bibtex-20160422.1600/" "ac-capf-20151031.1917/" "auctex-11.89.4.signed" "f-20160426.527/" "flycheck-20160622.952/" "let-alist-1.0.4/" "cl-generic-0.3.signed" "package-build-20160619.1317/" "0blayout-readme.txt" "ace-jump-mode-20140616.115/" "elpy-readme.txt" "company-quickhelp-20160211.718/" "auto-compile-20160424.418/" "powerline-20160601.724/" "company-irony-20160613.1120/" "pkg-info-20150517.443/" "dash-20160619.611/" "use-package-20160614.803/" "irony-20160628.1329/" "multiple-cursors-20160616.1404/" "comment-dwim-2-20150825.1549/" "auto-complete-clang-async-20130526.814/" "ein-readme.txt" "2048-game-20151026.1233/" "ac-ispell-20151031.1926/" "rich-minority-20151201.400/" "flycheck-pos-tip-20160323.129/" "company-20160626.1903/" "spinner-1.7.1/" "biblio-20160625.923/" "seq-20151028.759/" "window-numbering-20150228.1247/" "../" "./")
+
+ ("/home/simplex/.emacs.d/ycmd/cpp/ycm/" (22392 38455 869551 364000) "ycm_core.cpp" "Utils.h" "IdentifierUtils.h" "DLLDefines.h" "LetterNode.h" "tests/" "exceptions.h" "ReleaseGil.h" "CustomAssert.h" "IdentifierDatabase.h" "ClangCompleter/" "IdentifierDatabase.cpp" "CustomAssert.cpp" "./" "standard.h" "LetterNodeListMap.h" "LetterNode.cpp" "CMakeLists.txt" "versioning.cpp" "versioning.h" ".ycm_extra_conf.pyc" "Candidate.h" "Utils.cpp" "CandidateRepository.h" "Result.cpp" "CandidateRepository.cpp" ".ycm_extra_conf.py" "Candidate.cpp" "IdentifierCompleter.h" "IdentifierCompleter.cpp" "../" "IdentifierUtils.cpp" "Result.h" "PythonSupport.h" "PythonSupport.cpp" "LetterNodeListMap.cpp")
+
+ ("/home/simplex/.emacs.d/ycmd/cpp/" (22392 36792 0 0) "llvm/" "./" "CMakeLists.txt" "../" "ycm/" "BoostParts/")
+
+ ("/home/simplex/.emacs.d/ycmd/third_party/JediHTTP/" (22392 37079 0 0) ".git" "README.md" "test_requirements.txt" "./" "NOTICE" "jedihttp/" ".gitmodules" "appveyor.yml" "LICENSE" ".gitignore" "../" ".travis.yml" "jedihttp.py" "vendor/" "tox.ini" "travis/")
+
+ ("/home/simplex/.emacs.d/ycmd/third_party/" (22392 36792 0 0) "requests/" "OmniSharpServer/" "godef/" "./" "tern_runtime/" "bottle/" "JediHTTP/" "python-future/" "gocode/" "waitress/" "argparse/" "frozendict/" "../" "racerd/")
+
+ ("/home/simplex/.emacs.d/ycmd/ycmd/completers/general/" (22392 38455 913552 188000) "general_completer_store.py" "ultisnips_completer.py" "filename_completer.pyc" "tests/" "./" "__init__.pyc" "__init__.py" "ultisnips_completer.pyc" "general_completer_store.pyc" "../" "filename_completer.py")
+
+ ("/home/simplex/.emacs.d/ycmd/ycmd/completers/c/" (22392 36792 0 0) "hook.py" "./" "../")
+
+ ("/home/simplex/.emacs.d/ycmd/ycmd/completers/python/" (22408 29635 836236 920000) "hook.py" "./" "__init__.pyc" "jedi_completer.pyc" "jedi_completer.py" "__init__.py" "hook.pyc" "../")
+
+ ("/home/simplex/.emacs.d/ycmd/ycmd/completers/" (22392 38455 889551 738000) "completer.py" "c/" "objcpp/" "javascript/" "./" "__init__.pyc" "cs/" "rust/" "general_completer.pyc" "python/" "typescript/" "objc/" "cpp/" "__init__.py" "general_completer.py" "../" "go/" "all/" "completer.pyc" "completer_utils.py" "completer_utils.pyc" "general/")
+
+ ("/home/simplex/.emacs.d/ycmd/ycmd/" (22392 38455 913552 188000) "watchdog_plugin.py" "user_options_store.pyc" "utils.py" "tests/" "bottle_utils.pyc" "server_state.pyc" "utils.pyc" "./" "__main__.py" "__init__.pyc" "watchdog_plugin.pyc" "hmac_plugin.pyc" "server_utils.pyc" "extra_conf_store.py" "user_options_store.py" "identifier_utils.py" "responses.py" "request_validation.pyc" "hmac_plugin.py" "hmac_utils.pyc" "completers/" "__init__.py" "server_utils.py" "hmac_utils.py" "request_wrap.py" "responses.pyc" "identifier_utils.pyc" "default_settings.json" "handlers.py" "bottle_utils.py" "../" "request_wrap.pyc" "request_validation.py" "server_state.py" "extra_conf_store.pyc" "handlers.pyc")
+
+ ("/home/simplex/.emacs.d/ycmd/examples/" (22392 36792 0 0) "README.md" "LICENSE.txt" "samples/" "./" "__init__.py" ".ycm_extra_conf.py" "requirements.txt" "../" "example_client.py")
+
+ ("/home/simplex/.emacs.d/ycmd/" (22392 38309 0 0) ".git/" "README.md" "run_tests.py" "libclang.so.3.8" "clang_archives/" "test_requirements.txt" ".coveragerc" "./" "CODE_OF_CONDUCT.md" "ycm_core.so" "CONTRIBUTING.md" ".gitmodules" "vagrant_bootstrap.sh" "ci/" "examples/" "cpp/" "appveyor.yml" "third_party/" "CORE_VERSION" "build.py" ".gitignore" "../" "ycmd/" "style_format.sh" ".travis.yml" "Vagrantfile" "update_boost.py" "clang_includes/" "codecov.yml" "TESTS.md" "COPYING.txt" "tox.ini" "DEV_SETUP.md")
+
+ ("/home/simplex/Pictures/" (21910 35824 0 0) "140401083165315.jpg" "images/" "1206181312d24570e5029cbc97.jpg" "074707b0z511pk019z1z2e.jpg" "12060717316578.png" "12110222085ffbed8a9f57b5ff.jpg" "025712i5fwbo75mzcorz5c.jpg" "101739rc1m7ducl9f79uul.jpg" "./" "254-140FF92354.jpg" "254-14052ZS058.jpg" "抓图/" "19650-1.jpg" "105001d61mdlloti1dkmjd.jpg" "136791487775.jpg" "254-1404010Z303.png" "1367480973601.jpg" "127217-NeonBkub.jpg" "console/" "730494.jpg" "smplayer_screenshots/" "180544ibdsedp7i8esbydi.jpg" "163112an5ngjrjx8b4i70j.jpg" "12031520353196.jpg" "254-14102ZT627.jpg" "163419pebo77occbo4ceee.jpg" "798f6c224f4a20a48e063c5293529822730ed0a0.jpg" "361901.jpg" "RAvMgXx.png" "../" "PS140N49-1.jpg" "254-140H00Z520.jpg" "180546xljkb5yx0q6c1sum.jpg" "20120706120559.jpg" "Thumbs.db" "104805indenrbfng2bbobb.jpg" "1_120122230539_1.jpg" "林依晨/" "1405564845878-1.jpg" "254-14101Z94138.jpg" "180545jzjj6khhqrqz6gjj.jpg" "1350113003106.jpg" "12061321006061.png" "1405564845878.jpg" "200557xhfh56ccz165hfhm.jpg" "1365588558499.jpg" "254-140P3091451.jpg" "1104042007998df9748dac3c2c.jpg" "254-131125092058.jpg")
+
+ ("/home/simplex/.emacs.d/elpa/ein-20160422.629/" (22408 61230 387539 288000) "ein-cell-output.el" "ein-iexec.elc" "ein-console.el" "ein-ipynb-mode.el" "ein-junk.el" "debug-ein.elc" "ein-junk.elc" "ein-multilang-fontify.elc" "ein-connect.elc" "ein-websocket.elc" "ein-kernelinfo.el" "debug-ein.el" "ein-helm.elc" "ein-ipynb-mode.elc" "ein-log.el" "ein-autoloads.el" "ein-kernel.elc" "ein-node.elc" "ein-kill-ring.elc" "ein-smartrep.elc" "ein-completer.elc" "ein-subpackages.el" "ein-pager.elc" "ein.py" "ein-ac.el" "ein-iexec.el" "./" "ein-output-area.el" "ein-traceback.elc" "ein-notebooklist.elc" "ein-events.el" "ein-python.el" "ein-python.elc" "ein-org.elc" "ein-pager.el" "ein-events.elc" "zeroein.elc" "ein-log.elc" "ein-org.el" "ein-shared-output.el" "ein-pytools.elc" "ein-ipdb.el" "ein-query.el" "ein-subpackages.elc" "ein-pytools.el" "ein-utils.elc" "zeroein.el" "ein-multilang.el" "ein-smartrep.el" "ein-contents-api.elc" "ein-scratchsheet.elc" "ein-core.elc" "ein-websocket.el" "ein-core.el" "ein-cell.elc" "ein-helm.el" "ein-cell-output.elc" "ein-multilang.elc" "ein-dev.el" "ein-worksheet.el" "ein-pseudo-console.el" "ein-kill-ring.el" "ein-pseudo-console.elc" "ein-loaddefs.el" "ein-console.elc" "ein-scratchsheet.el" "ein.elc" "ein-connect.el" "ein-notification.elc" "ein-traceback.el" "ein-completer.el" "ein-shared-output.elc" "ein-jedi.el" "../" "ein-jedi.elc" "ein-notebook.el" "ein-output-area.elc" "ein-notebook.elc" "ein-contents-api.el" "ein-notification.el" "ein-worksheet.elc" "ein-kernelinfo.elc" "ein-ipdb.elc" "ein-node.el" "ein-ac.elc" "ein-utils.el" "ein-pkg.el" "ein-kernel.el" "ein-cell.el" "ein-dev.elc" "ein.el" "ein-query.elc" "ein-multilang-fontify.el" "ein-notebooklist.el")
+
+ ("/etc/default/" (22408 61891 367631 89000) "ufw" "dbus" "devpts" "nss" "keyboard" "useradd" "crda" "locale" "acpid" "cron" "cacerts" "bsdmainutils" "saned" "console-setup" "networking" "rcS" "rsync" "../" "grub" "rsyslog" "irqbalance" "./" "anacron" "im-config" "kerneloops" "halt" "apport" "alsa" "cryptdisks" "acpi-support" "avahi-daemon")
+
+ ("/etc/" (22408 39858 335130 904000) "insserv/" "ufw/" "calendar/" "rc.local" "octave.conf" "cracklib/" "host.conf" "rc3.d/" "bluetooth/" "emacs24/" "kbd/" "gshadow" "dhcp/" "rcS.d/" ".pwd.lock" "gai.conf" "pulse/" "protocols" "group-" "zsh_command_not_found" "init/" "rc6.d/" "modprobe.d/" "sudoers.d/" "pnm2ppa.conf" "sddm/" "sysctl.conf" "usb_modeswitch.conf" "NetworkManager/" "ca-certificates.conf" "kde4rc" "dconf/" "magic" "python/" "sensors.d/" "netscsid.conf" "bash_completion" "resolv.conf" "passwd-" "modules-load.d/" "init.d/" "chatscripts/" "update-notifier/" "X11/" "issue.net" "appstream.conf" "apache2/" "securetty" "cron.daily/" "crontab" "apparmor.d/" "ssh/" "adduser.conf" "python3/" "purple/" "gdb/" "xml/" "emacs/" "profile.d/" "terminfo/" "gshadow-" "vim/" "tmpfiles.d/" "anacrontab" "sensors3.conf" "shadow" "ucf.conf" "kernel/" "kerneloops.conf" "cron.hourly/" "libnl-3/" "rpc" "update-manager/" "sane.d/" "sysctl.d/" "signon-ui/" "pcmcia/" "localtime" "udisks2/" "default/" "mailcap.order" "hosts.deny" "network/" "lighttpd/" "iproute2/" "sudoers" "python3.5/" "fstab" "signond.conf" "logcheck/" "group" "wodim.conf" "avahi/" "rc5.d/" "cron.weekly/" "logrotate.conf" "catdocrc" "mime.types" "logrotate.d/" "texmf/" "pm/" "polkit-1/" "ld.so.cache" "libaudit.conf" "groff/" "gconf/" "kubuntu-default-settings/" "hosts" "skel/" "udev/" "cron.monthly/" "ksysguarddrc" "cups/" "gss/" "rc0.d/" "python2.7/" "update-motd.d/" "fonts/" "dnsmasq.d/" "ca-certificates/" "sound/" "locale.gen" "mke2fs.conf" "tex4ht/" "usb_modeswitch.d/" "fwupd.conf" "subuid" "console-setup/" "subgid-" "gnome-vfs-2.0/" "updatedb.conf" "chktexrc" "inputrc" "rc2.d/" "LatexMk" "matplotlibrc" "pam.d/" "deluser.conf" "pam.conf" "profile" "bonobo-activation/" "acpi/" "popularity-contest.conf" "mtab" "wpa_supplicant/" "discover-modprobe.conf" "drirc" ".java/" "lintianrc" "papersize" "ltrace.conf" "insserv.conf" "zsh/" "opt/" "modules" "subuid-" "subgid" "perl/" "bash.bashrc" "hosts.allow" "rc1.d/" "dpkg/" "at-spi2/" "legal" "ld.so.conf.d/" "hp/" "java-8-openjdk/" "systemd/" "ImageMagick-6/" "rsyslog.conf" "ghostscript/" "ifplugd/" "nsswitch.conf" "rc4.d/" "binfmt.d/" "cupshelpers/" "resolvconf/" "locale.alias" "alternatives/" "insserv.conf.d/" "networks" "environment" "ldap/" "rsyslog.d/" "initramfs-tools/" "wgetrc" "discover.conf.d/" "nanorc" "manpath.config" "dictionaries-common/" "presage.xml" "security/" "machine-id" "thunderbird/" "timezone" "bindresvport.blacklist" "vdpau_wrapper.cfg" "libao.conf" "shadow-" "debconf.conf" "vtrgb" "ld.so.conf" "login.defs" "grub.d/" "thermald/" "lsb-release" "kernel-img.conf" "bash_completion.d/" "selinux/" "rmt" "apport/" "UPower/" "os-release" "mysql/" "hostname" "mailcap" "firefox/" "gtk-2.0/" "iftab" "services" "sgml/" "ppp/" "passwd" "newt/" "hdparm.conf" "fuse.conf" "libreoffice/" "libpaper.d/" "sddm.conf" "xdg/" "magic.mime" "apt/" "ssl/" "cron.d/" "debian_version" "apm/" "apparmor/" "depmod.d/" "issue" "gtk-3.0/" "dbus-1/" "shells" "pki/" "../" "./")
+
+ ("/home/simplex/.ipynb_checkpoints/" (22408 36134 331637 472000) "./" "Untitled2-checkpoint.ipynb" "../" "Untitled0-checkpoint.ipynb")
+
+ ("/home/simplex/.ipython/extensions/" (22408 20942 858117 191000) "./" "../")
+
+ ("/home/simplex/.ipython/" (22408 20942 858117 191000) "./" "nbextensions/" "profile_default/" "../" "README" "extensions/")
+
+ ("/home/simplex/zzsweet/src/doc/" (22358 54281 173883 600000) "预付款申请书.txt" "加工明细表" "共享上网设置" "zotero.txt" "SOI光隔离器说明" "samba服务器配置" "qiuzhixin.txt" "mail.txt~" "mail.txt" "grub引导修复" "flashplayer安装" "emacs-conf~" "emacs-conf" "cv.txt" "#预付款申请书.txt#" "#emacs-conf#" "linux下制作U盘启动盘的方法" "../" "./")
+
+ ("/home/simplex/zzsweet/src/Numerical recipes/code/" (22407 778 974521 600000) "zrhqr.h" "weights.h" "wavelet.h" "voronoi.h" "voltra.h" "vegas.h" "vander.h" "tridag.h" "toeplz.h" "svm.h" "svd.h" "stringalign.h" "stochsim.h" "stiel.h" "stepperstoerm.h" "steppersie.h" "stepperross.h" "stepperdopr853.h" "stepperdopr5.h" "stepperbs.h" "stepper.h" "stattests.h" "sphfpt.h" "sphcirc.h" "spectrum.h" "sparse.h" "sort.h" "sor.h" "solvde.h" "sobseq.h" "simplex.h" "shootf.h" "shoot.h" "sfroid.h" "series.h" "selip.h" "scrsho.h" "savgol.h" "roots_poly.h" "roots_multidim.h" "roots.h" "rlft3_sharpen.h" "rk4.h" "rebin.h" "ratlsq.h" "ranpt.h" "ran.h" "quasinewton.h" "quadvl.h" "quadrature.h" "quad3d.h" "qroot.h" "qrdcmp.h" "qotree.h" "qgaus.h" "psplotexample.h" "psplot.h" "primpolytest.h" "polygon.h" "poly.h" "sphoot.h" "romberg.h" "polcoef.h" "markovgen.h" "incgammabeta.h" "fitsvd.h" "derule.h" "pointbox.h" "plegendre.h" "phylo.h" "period.h" "pcshft.h" "pade.h" "odeint.h" "nr3.h" "multinormaldev.h" "mparith.h" "moment.h" "mnewt.h" "miser.h" "mins_ndim.h" "mins.h" "mglin.h" "mgfas.h" "mcmc.h" "mcintegrate.h" "machar.h" "ludcmp.h" "linpredict.h" "linbcg.h" "levex.h" "kstests_2d.h" "kstests.h" "ksdist.h" "krig.h" "kmeans.h" "kdtree.h" "iqagent.h" "interp_rbf.h" "interp_linear.h" "interp_laplace.h" "interp_curve.h" "interp_2d.h" "interp_1d.h" "interior.h" "igray.h" "icrc.h" "hypgeo.h" "huffcode.h" "hmm.h" "hashall.h" "hash.h" "gauss_wgts2.h" "gauss_wgts.h" "gaussj.h" "gaumixmod.h" "gamma.h" "frenel.h" "fred_singular.h" "fred2.h" "fourier_ndim.h" "fourier.h" "fourfs.h" "fit_examples.h" "fitmrq.h" "fitmed.h" "fitlin.h" "fitexy.h" "fitab.h" "fermi.h" "fasper.h" "expint.h" "erf.h" "elliptint.h" "eigen_unsym.h" "eigen_sym.h" "eclass.h" "dynpro.h" "distributions.h" "difeq.h" "dftintegrate.h" "dfridr.h" "deviates.h" "delaunay.h" "decchk.h" "dawson.h" "correl.h" "convlv.h" "cisi.h" "circumcircle.h" "cholesky.h" "chebyshev.h" "calendar.h" "besselfrac.h" "bessel.h" "banded.h" "asolve.h" "arithcode.h" "anneal.h" "amoeba.h" "amebsa.h" "adapt.h" "#besselfrac.h#" "../" "./")
+
+ ("/home/simplex/zzsweet/src/Numerical recipes/" (22406 57933 109862 600000) "license.htm" "legacy/" "index_by_section.htm" "index_by_ident.htm" "index_by_file.htm" "index.htm" "gfx/" "code/" "../" "./")
+
+ ("/media/simplex/NOSDisk/Documents/LinuxHome/zzsweet/src/cjsc/report/fft-src/" (22392 42876 964847 0) "xfour1.cpp" "nrutil_nr.h" "nrtypes_nr.h" "nr.h" "fourier-app.m" "four1.cpp" "fft" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cjsc/report/fft-src/" (22392 40202 158319 400000) "xfour1.cpp" "nrutil_nr.h" "nrtypes_nr.h" "nr.h" "fourier-app.m" "four1.cpp" "fft" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/cpp_study/my_code/" (22358 53945 137663 500000) "waveguide_test.cc" "sum_data.cpp" "string_to_double.cpp" "real_time_plot.cc" "read_matrix.cpp" "plotwavegide/" "plotter.cc" "plotter" "gnuplotter/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/Numerical recipes/utils/" (22390 27284 348600 700000) "print_array.h" "nrutil_val.h" "nrutil_tnt.h" "nrutil_nr.h" "nrutil_mtl.h" "nrutil.h" "nrtypes_nr.h" "nrtypes_lib.h" "nrtypes.h" "nrexit.cpp" "nrdiff.pl" "nr.h" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/Numerical recipes/" (22390 27284 348900 500000) "utils/" "recipes/" "misc/" "doc/" "demo/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/" (22390 27284 219640 100000) "wgms/" "tlpi-dist/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "NR_C301/" "newBPM/" "lpic-1.3.2/" "IFD4-BPM-old/" "IFD4-BPM/" "fzby.cpp" "cpp_study/" "C++Primer/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/tex/hust_phd_thesis_template_V2.1/data/" (22390 12330 653267 0) "publications.tex" "project.tex" "patent.tex" "denotation.tex" "cover.tex" "conclusion.tex" "conclusion.aux" "chap02.tex" "chap02.log" "chap02.aux" "chap01.tex" "chap01.fls" "chap01.fdb_latexmk" "chap01.aux" "auto/" "appendix01.tex" "ack.tex" "ack.aux" "chap01.log" "../" "./")
+
+ ("/home/simplex/zzsweet/src/tex/hust_phd_thesis_template_V2.1/" (22372 53154 740664 700000) "ref/" "main.tex" "main.pdf" "hypernat.sty" "HUSTtils.sty" "HUSTthesis.cls" "HUSTThesis.bst" "figures/" "data/" ".#diff.txt" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/NR_C301/code/" (22372 49951 961476 200000) "zrhqr.h" "weights.h" "wavelet.h" "voronoi.h" "voltra.h" "vegas.h" "vander.h" "tridag.h" "toeplz.h" "svd.h" "stringalign.h" "stochsim.h" "stiel.h" "stattests.h" "sphoot.h" "sphfpt.h" "sphcirc.h" "spectrum.h" "sparse.h" "sort.h" "sor.h" "solvde.h" "sobseq.h" "simplex.h" "shootf.h" "roots_poly.h" "roots_multidim.h" "roots.h" "romberg.h" "rlft3_sharpen.h" "rk4.h" "rebin.h" "ratlsq.h" "ranpt.h" "ran.h" "qotree.h" "qgaus.h" "psplotexample.h" "psplot.h" "primpolytest.h" "polygon.h" "poly.h" "polcoef.h" "pointbox.h" "plegendre.h" "multinormaldev.h" "mparith.h" "moment.h" "mnewt.h" "miser.h" "mins_ndim.h" "mins.h" "mglin.h" "mgfas.h" "mcmc.h" "levex.h" "kstests_2d.h" "kstests.h" "ksdist.h" "krig.h" "kmeans.h" "kdtree.h" "iqagent.h" "interior.h" "incgammabeta.h" "igray.h" "icrc.h" "hypgeo.h" "huffcode.h" "hmm.h" "frenel.h" "fred_singular.h" "fred2.h" "fourier_ndim.h" "fourier.h" "fourfs.h" "fit_examples.h" "fitsvd.h" "fitmrq.h" "fitmed.h" "elliptint.h" "eigen_unsym.h" "eigen_sym.h" "eclass.h" "dynpro.h" "distributions.h" "difeq.h" "dftintegrate.h" "dfridr.h" "convlv.h" "cisi.h" "circumcircle.h" "cholesky.h" "chebyshev.h" "calendar.h" "besselfrac.h" "stepperstoerm.h" "steppersie.h" "stepperross.h" "stepperdopr853.h" "stepperdopr5.h" "stepperbs.h" "stepper.h" "sfroid.h" "series.h" "selip.h" "scrsho.h" "savgol.h" "quadvl.h" "quadrature.h" "quad3d.h" "qroot.h" "period.h" "pcshft.h" "pade.h" "odeint.h" "nr3.h" "svm.h" "shoot.h" "quasinewton.h" "qrdcmp.h" "phylo.h" "mcintegrate.h" "linbcg.h" "interp_1d.h" "hashall.h" "gamma.h" "fitlin.h" "erf.h" "deviates.h" "correl.h" "bessel.h" "markovgen.h" "machar.h" "ludcmp.h" "linpredict.h" "interp_rbf.h" "interp_linear.h" "interp_laplace.h" "interp_curve.h" "interp_2d.h" "hash.h" "gauss_wgts2.h" "gauss_wgts.h" "gaussj.h" "gaumixmod.h" "fitexy.h" "fitab.h" "fermi.h" "fasper.h" "expint.h" "derule.h" "delaunay.h" "decchk.h" "dawson.h" "banded.h" "asolve.h" "arithcode.h" "anneal.h" "amoeba.h" "amebsa.h" "adapt.h" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cfamily/NR_C301/" (22358 53996 133580 300000) "license.htm" "legacy/" "index_by_section.htm" "index_by_ident.htm" "index_by_file.htm" "index.htm" "gfx/" "code/" "../" "./")
+
+ ("/media/" (22388 49698 574845 673000) ".hidden" ".directory" "../" "./" "simplex/")
+
+ ("/home/simplex/zzsweet/src/cmake/" (22349 40521 426750 400000) "t1/" "../" "./")
+
+ ("/home/simplex/zzsweet/src/thesis/manuscript/texfile/" (22372 53557 772716 800000) "project.fdb_latexmk" "conclusion.aux" "chap04.tex" "chap03.aux" "chap01.aux" "_region_.tex" "publications.tex~" "publications.tex" "publications.log" "publications.fls" "publications.fdb_latexmk" "publications.aux" "project.tex" "project.log" "project.fls" "chap06.tex" "chap06.log" "chap06.fls" "chap06.fdb_latexmk" "chap06.aux" "chap05.tex" "chap05.rel" "chap05.log" "chap05.fls" "chap05.fdb_latexmk" "chap05.aux" "chap02.tex" "chap02.rel" "chap02.aux" "chap01.tex" "chap01.rel" "chap01.log" "chap01.fls" "chap01.fdb_latexmk" "chap01.docx" "project.aux" "patent.tex" "octave-workspace" "denotation.tex" "cover.tex" "conclusion.tex" "chap04.rel" "chap04.aux" "chap03.tex" "chap03.rel" "bibliography.tex" "auto/" "appendix01.tex" "ack.tex" "ack.aux" "../" "./")
+
+ ("/home/simplex/zzsweet/src/thesis/manuscript/" (22372 53476 309057 300000) "盲审格式论文.pdf" "摘要和总结.docx" "thesis.doc" "texfile/" "SIMYOU.TTF" "SIMSUN.TTF" "SIMLI.TTF" "SIMKAI.TTF" "SIMHEI.TTF" "SIMFANG.TTF" "ref/" "main.toc" "main.thm" "main.tex" "main.rel" "main.out" "main.log" "main.fls" "main.fdb_latexmk" "main.blg" "main.bbl.aux" "main.bbl" "main.aux" "hypernat.sty" "HUSTtils.sty" "HUSTthesis.log" "HUSTthesis.fls" "HUSTthesis.fdb_latexmk" "HUSTthesis.cpx" "HUSTthesis.cls" "HUSTThesis.bst" "HUSTthesis.aux" "figures/" "diff.txt" "chachong.tex" "chachong.pdf" "chachong.log" "chachong.fls" "chachong.fdb_latexmk" "chachong.aux" "c19song.fd" "c19hei.fd" "auto/" "main.pdf" "HUSTthesis.pdf" "../" "./")
+
+ ("/home/simplex/zzsweet/src/thesis/" (22372 53441 229050 900000) "查重.zip" "查重/" "华科博士论文latex模板.zip" "thesis.doc" "src/" "slide/" "pbs_spectrum.m" "notes.toc" "notes.tex" "notes.pdf" "notes.out" "notes.org~" "notes.org" "notes.log" "notes.fdb_latexmk" "notes.aux" "manuscript/" "hust_phd_thesis_template_V2.1/" "hust_phd_thesis_template.zip" "hust_phd_thesis_template/" "documents/" "auto/" ".git/" "notes.fls" "../" "./")
+
+ ("/home/" (22389 8178 470267 935000) "./" "simplex/" "lost+found/" "../" ".directory")
+
+ ("/home/simplex/zzsweet/" (22358 53775 186942 800000) "src/" "mfile/" "desktop.ini" "cad/" ".octaverc" ".directory" ".debris/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

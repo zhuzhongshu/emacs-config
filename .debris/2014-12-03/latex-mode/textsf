@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: textsf
+# key: sf
+# --
+\textsf{$1}$0

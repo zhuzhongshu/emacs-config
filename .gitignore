@@ -1,0 +1,10 @@
+#忽略日志文件和emacs自动保存文件
+*~
+*.elc
+url/
+ac-dict/
+desktops/
+auto-save-list/
+LanguageTool-2.6/
+el-get/
+elpa/

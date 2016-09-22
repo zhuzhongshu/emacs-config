@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: parallel
+# key: para
+# --
+\begin{Parallel}[${1:c}]{${2:0.5\textwidth}}{${3:0.5\textwidth}}
+	\ParallelLText{$0}
+	\ParallelRText{}
+\end{Parallel}

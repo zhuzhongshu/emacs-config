@@ -1,0 +1,17 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: zhpkg
+# key: zhpkg
+# binding: direct-keybinding
+# --
+\usepackage{xeCJK}
+\setCJKmainfont[BoldFont=WenQuanYi Micro Hei]{WenQuanYi Micro Hei}
+\setCJKmonofont{WenQuanYi Micro Hei Mono}
+\setCJKsansfont{WenQuanYi Micro Hei}
+\setmainfont{Nimbus Roman No9 L}
+\setsansfont{Nimbus Sans L}
+\setmonofont{Monaco}
+% 定义其他中文字体命令
+% \setCJKfamilyfont{llt}{萝莉体 第二版}
+% \newcommand{\luoliti}[0]{\CJKfamily{llt}}
+
+$0

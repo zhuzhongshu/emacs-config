@@ -1,0 +1,320 @@
+ %                                                               程序说明：有限差分光束传播法(E场)
+%                                                  |       |       |                 |             |              |
+%                                                --NW------N------NE--         --(x-1,y-1)-----(x-1, y )-----(x-1,y+1)--
+%                                                  |       |       |                 |             |              |
+%                                                  |   1   n   4   |                 |      1      n      4       |
+%                                                  |       |       |                 |             |              |
+%                                                --W---w---P---e---E--         --( x ,y-1)--w--( x , y )--e--( x ,y+1)--
+%                                                  |       |       |                 |             |              | 
+%                                                  |   2   s   3   |                 |      2      s      3       |
+%                                                  |       |       |                 |             |              |
+%                                                --SW------S------SE--         --(x+1,y-1)-----(x+1, y )-----(x+1,y+1)--
+%                                                  |       |       |                 |             |              |
+%                                                         图a                                     图b        
+%           a.本程序是三维全矢量BMP算法，采用有限差分的方法，格点划分如图a所示，x,y坐标的选取如图b所示，这样选取和matlab默认的方式一样。
+%           b.采用五点差分格式，即图中P点和围绕P点的NSWE四点。NW NE SW SE在计算耦合项时才会用到。
+%           c.计算时利用向量化的方法，将(nx,ny)的电场值矩阵化为(nx*ny,1)的向量，要注意NSWEP五点系数在系数矩阵中的分布，刚好是5对角形。
+%           d.为了提高计算效率，采用ADI(交替方向隐式)方法，将1步计算分为4小步。其中第34步是计算耦合项所用，将其省略即为半矢量算法。
+%           e.根据ADI算法，理论上每步求解都可以采用追赶法。不过这里为了简化代码， 采用的是直接矩阵相除的方法，行列分开计算
+%           f.采用PML，构造方法为complex coordinate stretching。PML需距离计算区域远一些，否则会严重影响计算结果
+%
+%*******************************************************************************************************************************************************************************************
+%% 一点点清理工作以及常量、表达式等的定义 
+clc;
+clear all;
+close all;
+format long;
+% zzs=load('TEsource.dat');
+tic                                                                         
+lambda=1.55;                                                             %真空中的波长
+k0=2*pi/lambda;                                                             %真空中的波矢            
+nx=200;             ny=100;         nz=60;                                 %x,y,z方向上取样点数
+dx0=0.01;                        dx=ones(nx*ny,1);
+dy0=0.01;                        dy=ones(nx*ny,1);
+step=0.01i;                                                                %x,y,z方向上的网格间距，z向定义为step
+% epsilon0=(1e-9)/(36*pi);
+epsilon=ones(nx,ny,nz);                                                     %介电常数初始值
+source=zeros(nx,ny);                                                        %激励源
+Ex=zeros(nx*ny,1);                  Ey=zeros(nx*ny,1);                      %电场分量初始化，以列向量的形式给出                                             
+Exc=zeros(nx,ny);
+Eyc=zeros(nx,ny);
+EX=zeros(nx,ny,nz);                 EY=zeros(nx,ny,nz);                     %分别存储Ex和Ey的所有数据
+%*************************************************************************************************************************************************************************************
+%% 设置PML
+hx=15;                              hy=10;                                  %PML厚度
+x0=1:nx+1;                          y0=1:ny+1;
+
+n_pml=1:hx+1;
+q1=x0(1+hx);                        q2=x0(1);
+x0(n_pml)=x0(n_pml) - 0j*(q1-x0(n_pml)).^3/(1*(q1-q2).^2);                %x起点
+
+n_pml=length(x0)-hx:length(x0);
+q1=x0(length(x0)-hx);               q2=x0(length(x0));
+x0(n_pml)=x0(n_pml) - 0j*(q1-x0(n_pml)).^3/(1*(q1-q2).^2);                %x结束
+
+n_pml=1:hy+1;
+q1=y0(1+hy);                        q2=y0(1);
+y0(n_pml)=y0(n_pml) - 0j*(q1-y0(n_pml)).^3/(1*(q1-q2).^2);                %y起点
+
+n_pml=length(y0)-hy:length(y0);
+q1=y0(length(y0)-hy);               q2=y0(length(y0));
+y0(n_pml)=y0(n_pml) - 0j*(q1-y0(n_pml)).^3/(1*(q1-q2).^2);                %y结束
+
+dx_temp=(1-1i*abs(imag(diff(x0).')))*dx0;                                   %求得dx的值                                                            
+dy_temp=(1-1i*abs(imag(diff(y0))))*dy0;                                     %求得dx的值 
+
+temp=dx_temp*ones(1,ny);            dx(:)=temp(:);
+temp=ones(nx,1)*dy_temp;            dy(:)=temp(:);
+
+
+%*************************************************************************************************************************************************************************************
+%% 定义波导参数，激励源以及计算中用到的系数
+n_core=3.455;
+n_cladding=1.445;
+
+epsilon(1:nx,1:35,:)=n_cladding^2;
+epsilon(47:86,36:60,:)=n_core^2;%40~25
+
+epsilon_bar=(  2.212527477211812)^2;                                                  %n0^2  
+
+figure(1)
+pcolor(abs(epsilon(:,:,1)).'); 
+pause(0.1);
+
+r=30;                                                                       %光源宽度
+x=(1:nx).';                         xm=round(nx/2);           
+y=1:ny;                             ym=round(ny/2);                         %高斯光源的峰值位置
+% source = (exp (-4*pi*(x-xm).^2/r^2))*(exp (-4*pi*(y-ym).^2/r^2));           %产生高斯脉冲
+% source=zzs;
+source(46:86,36:60)=1;
+Ex(:)=source(:);                   
+% Ey(:)=source(:);    
+
+ii = zeros(nx,ny);                  ii(:) = (1:nx*ny);                      %用于决定参数在矩阵中的坐标
+ip = zeros(1,nx*ny);                ip(:) = ii;                             %m,n,   b
+is = zeros(1,(nx-1)*ny);            is(:) = ii(2:nx,1:ny);                  %m+1,n, c    
+in = zeros(1,(nx-1)*ny);            in(:) = ii(1:nx-1,1:ny);                %m-1,n, a
+ie = zeros(1,nx*(ny-1));            ie(:) = ii(1:nx,2:ny);                  %m,n+1, c
+iw = zeros(1,nx*(ny-1));            iw(:) = ii(1:nx,1:ny-1);                %m,n-1, a
+ise = zeros(1,(nx-1)*(ny-1));       ise(:) = ii(2:nx, 2:ny);                %m+1,n+1
+isw = zeros(1,(nx-1)*(ny-1));       isw(:) = ii(2:nx, 1:ny-1);              %m+1,n-1
+ine = zeros(1,(nx-1)*(ny-1));       ine(:) = ii(1:nx-1, 2:ny);              %m-1,n+1
+inw = zeros(1,(nx-1)*(ny-1));       inw(:) = ii(1:nx-1, 1:ny-1);            %m-1,n-1
+
+%系数初始化，都是行向量的形式  
+lp = zeros(nx*ny,1);               rp = zeros(nx*ny,1);                          
+ls = zeros(nx*ny,1);               rs = zeros(nx*ny,1);         
+ln = zeros(nx*ny,1);               rn = zeros(nx*ny,1);
+le = zeros(nx*ny,1);               re = zeros(nx*ny,1);
+lw = zeros(nx*ny,1);               rw = zeros(nx*ny,1);
+lne = zeros(nx*ny,1);              rne= zeros(nx*ny,1);
+lse = zeros(nx*ny,1);              rse = zeros(nx*ny,1);
+lsw = zeros(nx*ny,1);              rsw = zeros(nx*ny,1);
+lnw = zeros(nx*ny,1);              rnw = zeros(nx*ny,1);
+
+sigma = 1j*step/(4*sqrt(epsilon_bar)*k0);                                   %最常用的一个系数~~
+%*************************************************************************************************************************************************************************************
+%% 开始计算
+for zz=1:nz-1
+    eps_zz=epsilon(:,:,zz);
+    eps_zz = [eps_zz(:,1),eps_zz,eps_zz(:,ny)];
+    eps_zz = [eps_zz(1,1:ny+2);eps_zz;eps_zz(nx,1:ny+2)];                   %扩展成(nx+2)*(ny+2),其中，2:nx+1，2:ny+1是计算区域
+    
+    epsp=ones(nx*ny,1);             epsp(:)=eps_zz(2:nx+1,2:ny+1);          %基准点,nx*ny
+    epss=ones(nx*ny,1);             epss(:)=eps_zz(3:nx+2,2:ny+1);
+    epsn=ones(nx*ny,1);             epsn(:)=eps_zz(1:nx,2:ny+1);
+    epse=ones(nx*ny,1);             epse(:)=eps_zz(2:nx+1,3:ny+2);
+    epsw=ones(nx*ny,1);             epsw(:)=eps_zz(2:nx+1,1:ny);
+    epsne=ones(nx*ny,1);            epsne(:)=eps_zz(1:nx,3:ny+2);
+    epsse=ones(nx*ny,1);            epsse(:)=eps_zz(3:nx+2,3:ny+2);
+    epssw=ones(nx*ny,1);            epssw(:)=eps_zz(3:nx+2,1:ny);
+    epsnw=ones(nx*ny,1);            epsnw(:)=eps_zz(1:nx,1:ny);
+    %*************************************************************************************************************************************************************************************
+    %Ex0->Ex0.25
+    lp = 1+sigma*(k0^2*(epsp-epsilon_bar)./2 - 1./dx.^2.*(2*epsp./(epss+epsp)+2*epsp./(epsn+epsp)));
+    ln = sigma*(1./dx.^2.*(2*epsn./(epsp+epsn)));
+    ls = sigma*(1./dx.^2.*(2*epss./(epsp+epss)));
+    
+    rp = 1-sigma*(k0^2*(epsp-epsilon_bar)./2 - 2./dy.^2);
+    rw = -sigma*(1./dy.^2);
+    re = rw;
+    
+    Alx = sparse([ip,in,is],[ip,is,in],[lp(ip);ls(in);ln(is)]);              %<--如果用追赶法求解，会用到，这里并没用~(@^_^@)~ 
+    Arx = sparse([ip,iw,ie],[ip,ie,iw],[rp(ip);re(iw);rw(ie)]);      
+    D = Arx*Ex;
+    
+    for apple=1:ny 
+        amber=1+nx*(apple-1):nx*apple;%
+        b=lp(amber);
+        a=ln(amber);
+        c=ls(amber);                                                            %这里的abc与nsp的对应关系见上面注释
+        matrix=diag(a(2:nx),-1)+diag(b)+diag(c(1:nx-1),1) ;                     %这个就是系数矩阵，三对角的 
+        Ex(amber)=matrix\D(amber);                                              %<--这里其实可以用追赶法求解
+    end
+    %*************************************************************************************************************************************************************************************
+    %Ey0->Ey0.25(注释同上)
+    lp = 1+sigma*(k0^2*(epsp-epsilon_bar)./2-2./dx.^2);
+    ln = sigma*(1./dx.^2);
+    ls = ln;
+    
+    rp = 1-sigma*(k0^2*(epsp-epsilon_bar)./2 - 1./dy.^2.*(2*epsp./(epse+epsp)+2*epsp./(epsw+epsp)));
+    rw = -sigma*(1./dy.^2.*(2*epsw./(epsp+epsw)));
+    re = -sigma*(1./dy.^2.*(2*epse./(epsp+epse)));
+    
+    Aly = sparse([ip,in,is],[ip,is,in],[lp(ip);ls(in);ln(is)]);
+    Ary = sparse([ip,iw,ie],[ip,ie,iw],[rp(ip);re(iw);rw(ie)]);
+    D = Ary*Ey;
+    
+    for apple=1:ny 
+        amber=1+nx*(apple-1):nx*apple;
+        b=lp(amber);
+        a=ln(amber);
+        c=ls(amber);
+        matrix=diag(a(2:nx),-1)+diag(b)+diag(c(1:nx-1),1) ; 
+        Ey(amber)=matrix\D(amber);
+    end
+    %*************************************************************************************************************************************************************************************
+    %Ex0.25->Ex0.5 (注释同上上)
+    lp = 1+sigma*(k0^2*(epsp-epsilon_bar)./2 - 2./dy.^2);
+    lw = sigma*(1./dy.^2);
+    le = lw;
+    
+    rp = 1-sigma*(k0^2*(epsp-epsilon_bar)./2 - 1./dx.^2.*(2*epsp./(epss+epsp)+2*epsp./(epsn+epsp)));
+    rn = -sigma*(1./dx.^2.*(2*epsn./(epsp+epsn)));
+    rs = -sigma*(1./dx.^2.*(2*epss./(epsp+epss)));
+    
+    Alx = sparse([ip,iw,ie],[ip,ie,iw],[lp(ip);le(iw);lw(ie)]);          
+    Arx = sparse([ip,in,is],[ip,is,in],[rp(ip);rs(in);rn(is)]);           
+    D = Arx*Ex;
+
+    for apple=1:nx
+        amber=apple:nx:nx*(ny-1)+apple;
+        b=lp(amber);
+        a=lw(amber);
+        c=le(amber);
+        matrix=diag(a(2:ny),-1)+diag(b)+diag(c(1:ny-1),1);
+        Ex(amber)=matrix\D(amber);
+    end
+    %*************************************************************************************************************************************************************************************
+    %Ey0.25->Ey0.5(注释同上上上)
+    lp = 1+sigma*(k0^2*(epsp-epsilon_bar)./2 - 1./dy.^2.*(2*epsp./(epse+epsp)+2*epsp./(epsw+epsp)));
+    lw = sigma*(1./dy.^2.*(2*epsw./(epsp+epsw)));
+    le = sigma*(1./dy.^2.*(2*epse./(epsp+epse)));
+    
+    rp = 1-sigma*(k0^2*(epsp-epsilon_bar)./2-2./dx.^2);
+    rn = -sigma*(1./dx.^2);
+    ls = rn;
+    
+    Aly = sparse([ip,iw,ie],[ip,ie,iw],[lp(ip);le(iw);lw(ie)]);
+    Ary = sparse([ip,in,is],[ip,is,in],[rp(ip);ls(in);rn(is)]);  
+    D = Ary*Ey;
+    
+    for apple=1:nx
+        amber=apple:nx:nx*(ny-1)+apple;
+        b=lp(amber);
+        a=lw(amber);
+        c=le(amber);
+        matrix=diag(a(2:ny),-1)+diag(b)+diag(c(1:ny-1),1);
+        Ey(amber)=matrix\D(amber);
+    end
+    %*************************************************************************************************************************************************************************************
+    %Ey0.5->Ey0.75(从这一步往下，都是计算Ex,Ey的耦合的，其中有些系数矩阵为单位阵，可以略去。为了格式与前面统一而保留)
+    lp = ones(nx,ny);
+    
+    rp = ones(nx,ny);
+    rne = -sigma*(-(1./(4*dx./dy)).*(epsne./epse-1));
+    rse = -sigma*((1./(4*dx./dy)).*(epsse./epse-1));
+    rnw = -sigma*((1./(4*dx./dy)).*(epsnw./epsw-1));
+    rsw = -sigma*(-(1./(4*dx./dy)).*(epssw./epsw-1));
+    
+    %Aly = sparse(ip,ip,lp(ip));                                              %<--比如这个
+    
+    %Ary = sparse(ip,ip,rp(ip));
+    Arx = sparse([isw,inw,ise,ine],[ine,ise,inw,isw],[rne(isw);rse(inw);rnw(ise);rsw(ine)]);  
+    
+    %Ey = Ey+Arx*Ex;
+    %*************************************************************************************************************************************************************************************
+    %Ex0.5->Ex0.75
+    lp = ones(nx,ny);                                                      
+    lne = sigma*(-(1./(4*dx./dy)).*(-epsne./epse-1));
+    lse = sigma*((1./(4*dx./dy)).*(-epsse./epse-1));
+    lnw = sigma*((1./(4*dx./dy)).*(-epsne./epse-1));
+    lsw = sigma*(-(1./(4*dx./dy)).*(-epsne./epse-1));
+    
+    rp=ones(nx,ny);
+    
+    %Alx = sparse(ip,ip,lp(ip));                                             
+    Aly = sparse([isw,inw,ise,ine],[ine,ise,inw,isw],[lne(isw);lse(inw);lnw(ise);lsw(ine)]);
+    Arx = sparse(ip,ip,rp(ip));
+    
+    %Ex = Ex-Aly*Ey;
+    %*************************************************************************************************************************************************************************************
+    %Ex0.75->Ex1
+    lp = ones(nx,ny);
+    
+    rp = ones(nx,ny);
+    rne = -sigma*(-(1./(4*dx./dy)).*(-epsne./epse-1));
+    rse = -sigma*((1./(4*dx./dy)).*(-epsse./epse-1));
+    rnw = -sigma*((1./(4*dx./dy)).*(-epsne./epse-1));
+    rsw = -sigma*(-(1./(4*dx./dy)).*(-epsne./epse-1));
+    
+    %Alx = sparse(ip,ip,lp(ip));                                             
+    Arx = sparse(ip,ip,rp(ip));
+    Ary = sparse([isw,inw,ise,ine],[ine,ise,inw,isw],[rne(isw);rse(inw);rnw(ise);rsw(ine)]);
+    
+    %Ex = Ex+Ary*Ey;
+    %*************************************************************************************************************************************************************************************
+    %Ey0.75->Ey1
+    lp = ones(nx,ny);
+    lne = sigma*(-(1./(4*dx./dy)).*(epsne./epse-1));
+    lse = sigma*((1./(4*dx./dy)).*(epsse./epse-1));
+    lnw = sigma*((1./(4*dx./dy)).*(epsnw./epsw-1));
+    lsw = sigma*(-(1./(4*dx./dy)).*(epssw./epsw-1));
+    
+    rp = ones(nx,ny);
+    
+    Aly = sparse(ip,ip,lp(ip));
+    Alx = sparse([isw,inw,ise,ine],[ine,ise,inw,isw],[lne(isw);lse(inw);lnw(ise);lsw(ine)]);
+    Ary = sparse(ip,ip,rp(ip));
+    
+    %Ey = Ey-Alx*Ex;
+    
+    Exc(:)=abs(Ex(:));      EX(:,:,zz)=Exc;     
+    Eyc(:)=abs(Ey(:));      EY(:,:,zz)=Eyc;
+%*************************************************************************************************************************************************************************************
+%% 作图
+if mod(zz,1)==0
+    figure(2);
+    pcolor(Exc.');
+    colorbar('vert') ;
+    shading interp;
+    xlabel('X');
+    ylabel('Y'); 
+    title(num2str(zz));
+    pause(0.01);
+
+ end
+end
+toc
+
+% Eyc=Eyc/(max(Eyc(:)));
+Exc=Exc/(max(Exc(:)));
+%*************************************************************************************************************************************************************************************
+%0.625---0.625
+% 
+
+%********************************************************************************************************************
+power1=sum(sum(EY(:,:,nz-1)))*dx0*dy0;
+power2=sum(sum(EY(:,:,nz-2)))*dx0*dy0;
+neff=sqrt(epsilon_bar) +1/k0/imag(step)*(log(power1)-log(power2))
+%**************虚距离方法2**********************
+temp = [zeros(nx,1),EY(:,:,nz-1),zeros(nx,1)];                       
+temp = [zeros(1,ny+2);temp;zeros(1,ny+2)];  
+% rErx=(temp(1:nx,2:ny+1)-temp(3:nx+2,2:ny+1))/2/dx0;
+% rEry=(temp(2:nx+1,1:ny)-temp(2:nx+1,3:ny+2))/2/dy0;%中心差分
+rErx=(temp(2:nx+1,2:ny+1)-temp(1:nx,2:ny+1))/dx0;
+rEry=(temp(2:nx+1,2:ny+1)-temp(2:nx+1,1:ny))/dy0;%后向差分
+% rErx=(temp(3:nx+2,2:ny+1)-temp(2:nx+1,2:ny+1))/dx0;
+% rEry=(temp(3:nx+2,2:ny+1)-temp(2:nx+1,2:ny+1))/dy0;%前向差分
+integ=k0^2*epsilon(:,:,nz-1).*EY(:,:,nz-1).^2-rErx.^2-rEry.^2;
+neff=sqrt(sum(sum(integ))/sum(sum(EY(:,:,nz-1).^2)))/k0
