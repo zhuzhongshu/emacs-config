@@ -1,0 +1,8 @@
+(:name skewer-mode
+:auto-generated t
+:type elpa
+:description "live browser JavaScript, CSS, and HTML interaction"
+:repo nil
+:depends (simple-httpd js2-mode)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name emms-player-simple-mpv
+:auto-generated t
+:type elpa
+:description "An extension of emms-player-simple.el for mpv JSON IPC"
+:repo nil
+:depends (cl-lib emms)
+:minimum-emacs-version (24)
+)

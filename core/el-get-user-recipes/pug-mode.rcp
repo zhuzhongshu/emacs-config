@@ -1,0 +1,7 @@
+(:name pug-mode
+:auto-generated t
+:type elpa
+:description "Major mode for jade/pug template files"
+:repo nil
+:depends (cl-lib)
+)

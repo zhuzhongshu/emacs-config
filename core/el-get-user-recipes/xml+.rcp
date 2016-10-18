@@ -1,0 +1,8 @@
+(:name xml+
+:auto-generated t
+:type elpa
+:description "Utilities for xml and html trees"
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

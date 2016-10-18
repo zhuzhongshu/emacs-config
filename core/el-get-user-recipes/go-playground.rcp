@@ -1,0 +1,8 @@
+(:name go-playground
+:auto-generated t
+:type elpa
+:description "Local Golang playground for short snippets."
+:repo nil
+:depends (go-mode gotest)
+:minimum-emacs-version (24)
+)

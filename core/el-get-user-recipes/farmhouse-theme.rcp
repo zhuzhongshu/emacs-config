@@ -1,0 +1,6 @@
+(:name farmhouse-theme
+:auto-generated t
+:type elpa
+:description "Farmhouse Theme, Emacs edition"
+:repo nil
+)

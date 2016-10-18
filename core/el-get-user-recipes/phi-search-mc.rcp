@@ -1,0 +1,7 @@
+(:name phi-search-mc
+:auto-generated t
+:type elpa
+:description "multiple-cursors extension for phi-search"
+:repo nil
+:depends (phi-search multiple-cursors)
+)

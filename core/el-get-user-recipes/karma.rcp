@@ -1,0 +1,8 @@
+(:name karma
+:auto-generated t
+:type elpa
+:description "Karma Test Runner Emacs Integration"
+:repo nil
+:depends (pkg-info)
+:minimum-emacs-version (24)
+)

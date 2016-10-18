@@ -1,0 +1,6 @@
+(:name transpose-frame
+:auto-generated t
+:type elpa
+:description "Transpose windows arrangement in a frame"
+:repo nil
+)

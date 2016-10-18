@@ -1,0 +1,6 @@
+(:name xo
+:auto-generated t
+:type elpa
+:description "XO linter integration with compilation mode"
+:repo nil
+)

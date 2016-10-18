@@ -1,0 +1,7 @@
+(:name evil-anzu
+:auto-generated t
+:type elpa
+:description "anzu for evil-mode"
+:repo nil
+:depends (evil anzu)
+)

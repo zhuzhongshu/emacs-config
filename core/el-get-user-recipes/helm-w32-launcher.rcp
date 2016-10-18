@@ -1,0 +1,8 @@
+(:name helm-w32-launcher
+:auto-generated t
+:type elpa
+:description "Start Menu entry launcher using Helm"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name netrunner
+:auto-generated t
+:type elpa
+:description "Create Android: Netrunner decklists using Company, Helm and org-mode"
+:repo nil
+:depends (popup company helm)
+)

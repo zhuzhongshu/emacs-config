@@ -1,0 +1,8 @@
+(:name jabber-otr
+:auto-generated t
+:type elpa
+:description "Off-The-Record messaging for jabber.el"
+:repo nil
+:depends (jabber)
+:minimum-emacs-version (24)
+)

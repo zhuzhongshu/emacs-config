@@ -1,0 +1,7 @@
+(:name company-shell
+:auto-generated t
+:type elpa
+:description "Company mode backend for shell functions"
+:repo nil
+:depends (company dash cl-lib)
+)

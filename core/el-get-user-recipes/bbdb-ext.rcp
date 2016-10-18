@@ -1,0 +1,7 @@
+(:name bbdb-ext
+:auto-generated t
+:type elpa
+:description "Extra commands for BBDB"
+:repo nil
+:depends (bbdb)
+)

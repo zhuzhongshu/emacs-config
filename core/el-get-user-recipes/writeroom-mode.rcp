@@ -1,0 +1,8 @@
+(:name writeroom-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for distraction-free writing"
+:repo nil
+:depends (visual-fill-column)
+:minimum-emacs-version (24 1)
+)

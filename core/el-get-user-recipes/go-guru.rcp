@@ -1,0 +1,7 @@
+(:name go-guru
+:auto-generated t
+:type elpa
+:description "Integration of the Go 'guru' analysis tool into Emacs."
+:repo nil
+:depends (go-mode cl-lib)
+)

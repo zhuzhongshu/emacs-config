@@ -1,0 +1,6 @@
+(:name elisp-lint
+:auto-generated t
+:type elpa
+:description "basic linting for Emacs Lisp"
+:repo nil
+)

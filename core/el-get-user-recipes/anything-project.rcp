@@ -1,0 +1,7 @@
+(:name anything-project
+:auto-generated t
+:type elpa
+:description "finding any resource of a project"
+:repo nil
+:depends (imakado anything)
+)

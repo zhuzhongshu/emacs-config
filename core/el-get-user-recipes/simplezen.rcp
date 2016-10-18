@@ -1,0 +1,7 @@
+(:name simplezen
+:auto-generated t
+:type elpa
+:description "A simple subset of zencoding-mode for Emacs."
+:repo nil
+:depends (s dash)
+)

@@ -1,0 +1,8 @@
+(:name helm-smex
+:auto-generated t
+:type elpa
+:description "Helm interface for smex"
+:repo nil
+:depends (smex helm)
+:minimum-emacs-version (24)
+)

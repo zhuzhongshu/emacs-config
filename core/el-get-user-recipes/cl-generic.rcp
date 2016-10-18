@@ -1,0 +1,6 @@
+(:name cl-generic
+:auto-generated t
+:type elpa
+:description "Forward cl-generic compatibility for Emacs<25"
+:repo nil
+)

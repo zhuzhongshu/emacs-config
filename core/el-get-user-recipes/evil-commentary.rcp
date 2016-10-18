@@ -1,0 +1,7 @@
+(:name evil-commentary
+:auto-generated t
+:type elpa
+:description "Comment stuff out. A port of vim-commentary."
+:repo nil
+:depends (evil)
+)

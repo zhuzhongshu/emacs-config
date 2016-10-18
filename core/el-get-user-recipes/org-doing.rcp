@@ -1,0 +1,6 @@
+(:name org-doing
+:auto-generated t
+:type elpa
+:description "Keep track of what you're doing"
+:repo nil
+)

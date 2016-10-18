@@ -1,0 +1,6 @@
+(:name eshell-prompt-extras
+:auto-generated t
+:type elpa
+:description "Display extra information for your eshell prompt."
+:repo nil
+)

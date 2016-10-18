@@ -1,0 +1,7 @@
+(:name verify-url
+:auto-generated t
+:type elpa
+:description "find out invalid urls in the buffer or region"
+:repo nil
+:depends (cl-lib)
+)

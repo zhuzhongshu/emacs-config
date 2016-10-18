@@ -1,0 +1,7 @@
+(:name debug-print
+:auto-generated t
+:type elpa
+:description "A nice printf debugging environment by the way Gauche do"
+:repo nil
+:minimum-emacs-version (24)
+)

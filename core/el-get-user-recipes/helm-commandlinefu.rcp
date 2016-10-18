@@ -1,0 +1,8 @@
+(:name helm-commandlinefu
+:auto-generated t
+:type elpa
+:description "Search and browse commandlinefu.com from helm"
+:repo nil
+:depends (helm json let-alist)
+:minimum-emacs-version (24 1)
+)

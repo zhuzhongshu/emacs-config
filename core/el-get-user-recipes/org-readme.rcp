@@ -1,0 +1,7 @@
+(:name org-readme
+:auto-generated t
+:type elpa
+:description "Integrates Readme.org and Commentary/Change-logs."
+:repo nil
+:depends (http-post-simple yaoddmuse header2 lib-requires cl-lib)
+)

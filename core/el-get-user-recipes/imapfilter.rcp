@@ -1,0 +1,6 @@
+(:name imapfilter
+:auto-generated t
+:type elpa
+:description "run the imapfilter executable"
+:repo nil
+)

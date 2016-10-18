@@ -1,0 +1,6 @@
+(:name px
+:auto-generated t
+:type elpa
+:description "preview inline latex in any mode"
+:repo nil
+)

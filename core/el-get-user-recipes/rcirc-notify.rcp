@@ -1,0 +1,6 @@
+(:name rcirc-notify
+:auto-generated t
+:type elpa
+:description "libnotify popups"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name ycmd
+:auto-generated t
+:type elpa
+:description "emacs bindings to the ycmd completion server"
+:repo nil
+:depends (dash s deferred cl-lib let-alist request request-deferred)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name snapshot-timemachine-rsnapshot
+:auto-generated t
+:type elpa
+:description "rsnapshot backend for snapshot-timemachine"
+:repo nil
+:depends (snapshot-timemachine seq)
+)

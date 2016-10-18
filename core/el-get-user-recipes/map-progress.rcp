@@ -1,0 +1,6 @@
+(:name map-progress
+:auto-generated t
+:type elpa
+:description "mapping macros that report progress"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name seclusion-mode
+:auto-generated t
+:type elpa
+:description "Edit in seclusion. A Dark Room mode."
+:repo nil
+)

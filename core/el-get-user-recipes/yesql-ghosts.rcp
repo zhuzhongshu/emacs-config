@@ -1,0 +1,7 @@
+(:name yesql-ghosts
+:auto-generated t
+:type elpa
+:description "Display ghostly yesql defqueries inline"
+:repo nil
+:depends (s dash cider)
+)

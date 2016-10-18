@@ -1,0 +1,7 @@
+(:name pushover
+:auto-generated t
+:type elpa
+:description "Pushover API Access"
+:repo nil
+:depends (cl-lib)
+)

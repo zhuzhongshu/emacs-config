@@ -1,0 +1,7 @@
+(:name basic-theme
+:auto-generated t
+:type elpa
+:description "Minimalistic light color theme"
+:repo nil
+:minimum-emacs-version (24)
+)

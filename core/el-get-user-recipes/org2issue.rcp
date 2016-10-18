@@ -1,0 +1,8 @@
+(:name org2issue
+:auto-generated t
+:type elpa
+:description "export org to github issue"
+:repo nil
+:depends (org ox-gfm gh s)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,8 @@
+(:name name-this-color
+:auto-generated t
+:type elpa
+:description "Match RGB codes to names easily and precisely"
+:repo nil
+:depends (cl-lib dash)
+:minimum-emacs-version (24)
+)

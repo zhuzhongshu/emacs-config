@@ -1,0 +1,8 @@
+(:name meghanada
+:auto-generated t
+:type elpa
+:description "A better java development mode"
+:repo nil
+:depends (cl-lib yasnippet company flycheck)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,6 @@
+(:name org-wc
+:auto-generated t
+:type elpa
+:description "Count words in org mode trees."
+:repo nil
+)

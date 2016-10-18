@@ -1,0 +1,7 @@
+(:name read-aloud
+:auto-generated t
+:type elpa
+:description "A simple interface to TTS engines"
+:repo nil
+:minimum-emacs-version (24 4)
+)

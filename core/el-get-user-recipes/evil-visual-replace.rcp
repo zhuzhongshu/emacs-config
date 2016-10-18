@@ -1,0 +1,7 @@
+(:name evil-visual-replace
+:auto-generated t
+:type elpa
+:description "search/replace commands for evil visual state, inc. blocks"
+:repo nil
+:depends (evil)
+)

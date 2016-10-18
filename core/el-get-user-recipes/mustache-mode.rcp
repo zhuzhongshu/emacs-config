@@ -1,0 +1,6 @@
+(:name mustache-mode
+:auto-generated t
+:type elpa
+:description "A major mode for editing Mustache files."
+:repo nil
+)

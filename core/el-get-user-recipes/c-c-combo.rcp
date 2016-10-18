@@ -1,0 +1,6 @@
+(:name c-c-combo
+:auto-generated t
+:type elpa
+:description "Make stuff happen when you reach a target wpm"
+:repo nil
+)

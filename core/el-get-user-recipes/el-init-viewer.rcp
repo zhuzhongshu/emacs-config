@@ -1,0 +1,8 @@
+(:name el-init-viewer
+:auto-generated t
+:type elpa
+:description "Record viewer for el-init"
+:repo nil
+:depends (cl-lib ctable dash anaphora el-init)
+:minimum-emacs-version (24)
+)

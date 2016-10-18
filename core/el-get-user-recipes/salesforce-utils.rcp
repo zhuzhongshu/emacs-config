@@ -1,0 +1,7 @@
+(:name salesforce-utils
+:auto-generated t
+:type elpa
+:description "simple utilities for Salesforce"
+:repo nil
+:depends (cl-lib)
+)

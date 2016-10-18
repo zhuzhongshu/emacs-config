@@ -1,0 +1,7 @@
+(:name flymake-hlint
+:auto-generated t
+:type elpa
+:description "A flymake handler for haskell-mode files using hlint"
+:repo nil
+:depends (flymake-easy)
+)

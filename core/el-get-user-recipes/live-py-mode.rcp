@@ -1,0 +1,7 @@
+(:name live-py-mode
+:auto-generated t
+:type elpa
+:description "Live Coding in Python"
+:repo nil
+:minimum-emacs-version (24 1)
+)

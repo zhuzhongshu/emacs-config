@@ -1,0 +1,7 @@
+(:name flycheck-ghcmod
+:auto-generated t
+:type elpa
+:description "A flycheck checker for Haskell using ghcmod"
+:repo nil
+:depends (flycheck dash)
+)

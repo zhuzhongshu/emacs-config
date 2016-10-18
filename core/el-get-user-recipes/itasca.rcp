@@ -1,0 +1,7 @@
+(:name itasca
+:auto-generated t
+:type elpa
+:description "Major modes for Itasca software data files."
+:repo nil
+:minimum-emacs-version (24 3)
+)

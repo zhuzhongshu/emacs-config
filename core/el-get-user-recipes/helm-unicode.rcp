@@ -1,0 +1,8 @@
+(:name helm-unicode
+:auto-generated t
+:type elpa
+:description "Helm command for unicode characters."
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 4)
+)

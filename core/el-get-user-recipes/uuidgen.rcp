@@ -1,0 +1,6 @@
+(:name uuidgen
+:auto-generated t
+:type elpa
+:description "Provides various UUID generating functions"
+:repo nil
+)

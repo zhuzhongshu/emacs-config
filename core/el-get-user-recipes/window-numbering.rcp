@@ -1,0 +1,6 @@
+(:name window-numbering
+:auto-generated t
+:type elpa
+:description "Numbered window shortcuts"
+:repo nil
+)

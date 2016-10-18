@@ -1,0 +1,7 @@
+(:name evil-space
+:auto-generated t
+:type elpa
+:description "Repeat motion in Evil. Correct the behaviour of what SPC should do."
+:repo nil
+:depends (evil)
+)

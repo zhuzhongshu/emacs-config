@@ -1,0 +1,6 @@
+(:name modtime-skip-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for disabling modtime and supersession checks on files."
+:repo nil
+)

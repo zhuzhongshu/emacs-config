@@ -1,0 +1,7 @@
+(:name erc-yt
+:auto-generated t
+:type elpa
+:description "An erc module to display youtube links nicely"
+:repo nil
+:depends (dash)
+)

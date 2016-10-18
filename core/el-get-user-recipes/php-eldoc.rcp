@@ -1,0 +1,6 @@
+(:name php-eldoc
+:auto-generated t
+:type elpa
+:description "eldoc backend for php"
+:repo nil
+)

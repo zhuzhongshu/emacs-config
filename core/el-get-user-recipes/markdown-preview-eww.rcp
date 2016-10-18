@@ -1,0 +1,7 @@
+(:name markdown-preview-eww
+:auto-generated t
+:type elpa
+:description "Realtime preview by eww"
+:repo nil
+:minimum-emacs-version (24 4)
+)

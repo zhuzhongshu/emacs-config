@@ -1,3 +1,5 @@
+(require 'auctex-latexmk)
+
 (auctex-latexmk-setup)
 
 (provide 'init-auctex-latexmk)

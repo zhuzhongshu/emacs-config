@@ -1,0 +1,7 @@
+(:name org-download
+:auto-generated t
+:type elpa
+:description "Image drag-and-drop for Emacs org-mode"
+:repo nil
+:depends (async)
+)

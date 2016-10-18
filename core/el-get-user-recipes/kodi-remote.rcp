@@ -1,0 +1,7 @@
+(:name kodi-remote
+:auto-generated t
+:type elpa
+:description "functions to remote control a kodi instance"
+:repo nil
+:depends (request)
+)

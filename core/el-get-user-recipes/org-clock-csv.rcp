@@ -1,0 +1,6 @@
+(:name org-clock-csv
+:auto-generated t
+:type elpa
+:description "Export `org-mode' clock entries to CSV format."
+:repo nil
+)

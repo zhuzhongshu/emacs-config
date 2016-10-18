@@ -1,0 +1,6 @@
+(:name cssfmt
+:auto-generated t
+:type elpa
+:description "Cssfmt interface"
+:repo nil
+)

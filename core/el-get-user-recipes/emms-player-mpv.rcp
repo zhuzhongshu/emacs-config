@@ -1,0 +1,7 @@
+(:name emms-player-mpv
+:auto-generated t
+:type elpa
+:description "mpv support for EMMS"
+:repo nil
+:depends (emms)
+)

@@ -1,0 +1,6 @@
+(:name http-post-simple
+:auto-generated t
+:type elpa
+:description "HTTP POST requests using the url library"
+:repo nil
+)

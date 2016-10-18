@@ -1,0 +1,7 @@
+(:name repeatable-motion
+:auto-generated t
+:type elpa
+:description "Make repeatable versions of motions"
+:repo nil
+:minimum-emacs-version (24)
+)

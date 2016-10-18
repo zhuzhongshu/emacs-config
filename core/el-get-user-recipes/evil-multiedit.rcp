@@ -1,0 +1,8 @@
+(:name evil-multiedit
+:auto-generated t
+:type elpa
+:description "multiple cursors for evil-mode"
+:repo nil
+:depends (evil iedit cl-lib)
+:minimum-emacs-version (24 4)
+)

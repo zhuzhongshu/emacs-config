@@ -1,0 +1,7 @@
+(:name aggressive-fill-paragraph
+:auto-generated t
+:type elpa
+:description "A mode to automatically keep paragraphs filled"
+:repo nil
+:depends (dash)
+)

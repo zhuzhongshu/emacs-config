@@ -1,0 +1,6 @@
+(:name hippie-expand-slime
+:auto-generated t
+:type elpa
+:description "Hook slime's completion into hippie-expand"
+:repo nil
+)

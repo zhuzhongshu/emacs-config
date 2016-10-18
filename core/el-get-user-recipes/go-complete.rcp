@@ -1,0 +1,7 @@
+(:name go-complete
+:auto-generated t
+:type elpa
+:description "Native code completion for Go"
+:repo nil
+:depends (go-mode cl-lib)
+)

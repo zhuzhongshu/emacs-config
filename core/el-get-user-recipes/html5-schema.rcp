@@ -1,0 +1,6 @@
+(:name html5-schema
+:auto-generated t
+:type elpa
+:description "Add HTML5 schemas for use by nXML"
+:repo nil
+)

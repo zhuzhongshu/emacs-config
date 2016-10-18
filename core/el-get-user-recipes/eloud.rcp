@@ -1,0 +1,7 @@
+(:name eloud
+:auto-generated t
+:type elpa
+:description "A lightweight, interactive screen reader"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name eshell-fringe-status
+:auto-generated t
+:type elpa
+:description "Show last status in fringe"
+:repo nil
+)

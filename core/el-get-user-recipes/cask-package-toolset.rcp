@@ -1,0 +1,8 @@
+(:name cask-package-toolset
+:auto-generated t
+:type elpa
+:description "Toolsettize your package"
+:repo nil
+:depends (cl-lib s dash f commander ansi shut-up)
+:minimum-emacs-version (24)
+)

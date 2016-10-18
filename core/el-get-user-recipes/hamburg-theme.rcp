@@ -1,0 +1,7 @@
+(:name hamburg-theme
+:auto-generated t
+:type elpa
+:description "Color Theme with a dark blue background."
+:repo nil
+:minimum-emacs-version (24)
+)

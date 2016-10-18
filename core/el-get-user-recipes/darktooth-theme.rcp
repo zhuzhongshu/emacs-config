@@ -1,0 +1,6 @@
+(:name darktooth-theme
+:auto-generated t
+:type elpa
+:description "Color theme for Emacs, when soothe and gruvbox collide"
+:repo nil
+)

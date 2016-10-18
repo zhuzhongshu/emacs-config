@@ -1,0 +1,6 @@
+(:name atom-one-dark-theme
+:auto-generated t
+:type elpa
+:description "Atom One Dark color theme"
+:repo nil
+)

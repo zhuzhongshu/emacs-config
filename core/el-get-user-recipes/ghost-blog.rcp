@@ -1,0 +1,7 @@
+(:name ghost-blog
+:auto-generated t
+:type elpa
+:description "A package to manage Ghost blog"
+:repo nil
+:depends (markdown-mode)
+)

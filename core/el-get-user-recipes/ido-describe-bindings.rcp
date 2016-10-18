@@ -1,0 +1,7 @@
+(:name ido-describe-bindings
+:auto-generated t
+:type elpa
+:description "Yet another `describe-bindings' with `ido'."
+:repo nil
+:depends (dash)
+)

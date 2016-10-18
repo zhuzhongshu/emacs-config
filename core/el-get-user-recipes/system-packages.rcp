@@ -1,0 +1,7 @@
+(:name system-packages
+:auto-generated t
+:type elpa
+:description "functions to manage system packages"
+:repo nil
+:depends (cl-lib)
+)

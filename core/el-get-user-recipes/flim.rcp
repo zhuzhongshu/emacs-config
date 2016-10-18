@@ -1,0 +1,7 @@
+(:name flim
+:auto-generated t
+:type elpa
+:description "A library to provide basic features about message representation or encoding."
+:repo nil
+:depends (apel)
+)

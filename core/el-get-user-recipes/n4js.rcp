@@ -1,0 +1,8 @@
+(:name n4js
+:auto-generated t
+:type elpa
+:description "Neo4j Shell"
+:repo nil
+:depends (cypher-mode)
+:minimum-emacs-version (24)
+)

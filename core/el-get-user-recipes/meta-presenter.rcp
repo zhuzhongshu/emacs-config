@@ -1,0 +1,6 @@
+(:name meta-presenter
+:auto-generated t
+:type elpa
+:description "A simple multi-file presentation tool for Emacs"
+:repo nil
+)

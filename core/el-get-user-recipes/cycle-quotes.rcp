@@ -1,0 +1,6 @@
+(:name cycle-quotes
+:auto-generated t
+:type elpa
+:description "Cycle between quote styles"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name rustfmt
+:auto-generated t
+:type elpa
+:description "Format rust code using rustfmt"
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name fsbot-data-browser
+:auto-generated t
+:type elpa
+:description "browse the fsbot database using tabulated-list-mode"
+:repo nil
+)

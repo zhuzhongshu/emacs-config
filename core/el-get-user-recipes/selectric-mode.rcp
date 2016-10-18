@@ -1,0 +1,6 @@
+(:name selectric-mode
+:auto-generated t
+:type elpa
+:description "IBM Selectric mode for Emacs"
+:repo nil
+)

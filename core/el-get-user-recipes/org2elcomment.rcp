@@ -1,0 +1,7 @@
+(:name org2elcomment
+:auto-generated t
+:type elpa
+:description "Convert Org file to Elisp comments"
+:repo nil
+:depends (org)
+)

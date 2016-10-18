@@ -1,0 +1,7 @@
+(:name symon-lingr
+:auto-generated t
+:type elpa
+:description "A notification-based Lingr client powered by symon.el"
+:repo nil
+:depends (symon cl-lib)
+)

@@ -1,0 +1,8 @@
+(:name helm-circe
+:auto-generated t
+:type elpa
+:description "helm circe buffer management."
+:repo nil
+:depends (helm circe cl-lib)
+:minimum-emacs-version (24)
+)

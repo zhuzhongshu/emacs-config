@@ -1,0 +1,7 @@
+(:name yatemplate
+:auto-generated t
+:type elpa
+:description "File templates with yasnippet"
+:repo nil
+:depends (yasnippet)
+)

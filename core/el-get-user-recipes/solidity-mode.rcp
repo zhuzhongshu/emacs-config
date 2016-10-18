@@ -1,0 +1,6 @@
+(:name solidity-mode
+:auto-generated t
+:type elpa
+:description "Major mode for ethereum's solidity language"
+:repo nil
+)

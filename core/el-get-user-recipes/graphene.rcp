@@ -1,0 +1,7 @@
+(:name graphene
+:auto-generated t
+:type elpa
+:description "Friendly Emacs defaults"
+:repo nil
+:depends (dash exec-path-from-shell ppd-sr-speedbar sr-speedbar ido-ubiquitous smex web-mode smartparens graphene-meta-theme flycheck company)
+)

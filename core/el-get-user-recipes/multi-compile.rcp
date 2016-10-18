@@ -1,0 +1,8 @@
+(:name multi-compile
+:auto-generated t
+:type elpa
+:description "Multi target interface to compile."
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24)
+)

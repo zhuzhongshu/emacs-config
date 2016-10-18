@@ -1,0 +1,8 @@
+(:name evil-swap-keys
+:auto-generated t
+:type elpa
+:description "intelligently swap keys on text input with evil"
+:repo nil
+:depends (evil)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name smeargle
+:auto-generated t
+:type elpa
+:description "Highlighting region by last updated time"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

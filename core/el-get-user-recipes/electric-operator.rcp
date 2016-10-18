@@ -1,0 +1,8 @@
+(:name electric-operator
+:auto-generated t
+:type elpa
+:description "Automatically add spaces around operators"
+:repo nil
+:depends (dash names)
+:minimum-emacs-version (24 4)
+)

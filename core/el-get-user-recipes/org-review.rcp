@@ -1,0 +1,6 @@
+(:name org-review
+:auto-generated t
+:type elpa
+:description "schedule reviews for Org entries"
+:repo nil
+)

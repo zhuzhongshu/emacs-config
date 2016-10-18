@@ -1,0 +1,7 @@
+(:name php-auto-yasnippets
+:auto-generated t
+:type elpa
+:description "Creates snippets for PHP functions"
+:repo nil
+:depends (php-mode yasnippet)
+)

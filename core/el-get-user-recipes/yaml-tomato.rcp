@@ -1,0 +1,7 @@
+(:name yaml-tomato
+:auto-generated t
+:type elpa
+:description "copy or show the yaml path currently under cursor."
+:repo nil
+:depends (s)
+)

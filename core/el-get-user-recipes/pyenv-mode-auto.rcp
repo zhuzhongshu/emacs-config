@@ -1,0 +1,7 @@
+(:name pyenv-mode-auto
+:auto-generated t
+:type elpa
+:description "Automatically activates pyenv version if .python-version file exists."
+:repo nil
+:depends (pyenv-mode s f)
+)

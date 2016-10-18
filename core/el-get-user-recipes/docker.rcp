@@ -1,0 +1,8 @@
+(:name docker
+:auto-generated t
+:type elpa
+:description "Emacs interface to Docker"
+:repo nil
+:depends (dash docker-tramp magit-popup s tablist json-mode)
+:minimum-emacs-version (24 4)
+)

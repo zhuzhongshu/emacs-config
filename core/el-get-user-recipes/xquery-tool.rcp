@@ -1,0 +1,6 @@
+(:name xquery-tool
+:auto-generated t
+:type elpa
+:description "A simple interface to saxonb's xquery."
+:repo nil
+)

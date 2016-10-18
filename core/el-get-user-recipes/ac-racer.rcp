@@ -1,0 +1,7 @@
+(:name ac-racer
+:auto-generated t
+:type elpa
+:description "auto-complete source of racer"
+:repo nil
+:depends (auto-complete racer cl-lib)
+)

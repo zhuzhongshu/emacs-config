@@ -1,0 +1,7 @@
+(:name cpanfile-mode
+:auto-generated t
+:type elpa
+:description "Major mode for cpanfiles"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name sed-mode
+:auto-generated t
+:type elpa
+:description "Major mode to edit sed scripts"
+:repo nil
+)

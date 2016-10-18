@@ -1,0 +1,7 @@
+(:name elpa-clone
+:auto-generated t
+:type elpa
+:description "Clone ELPA archive"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name github-search
+:auto-generated t
+:type elpa
+:description "Clone repositories by searching github"
+:repo nil
+:depends (magit gh)
+)

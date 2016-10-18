@@ -1,0 +1,6 @@
+(:name molokai-theme
+:auto-generated t
+:type elpa
+:description "molokai theme with Emacs theme engine"
+:repo nil
+)

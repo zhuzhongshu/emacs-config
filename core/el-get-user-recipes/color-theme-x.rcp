@@ -1,0 +1,7 @@
+(:name color-theme-x
+:auto-generated t
+:type elpa
+:description "convert color themes to X11 resource settings"
+:repo nil
+:depends (cl-lib)
+)

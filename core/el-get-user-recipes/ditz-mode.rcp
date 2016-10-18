@@ -1,0 +1,6 @@
+(:name ditz-mode
+:auto-generated t
+:type elpa
+:description "Emacs interface to Ditz issue tracking system"
+:repo nil
+)

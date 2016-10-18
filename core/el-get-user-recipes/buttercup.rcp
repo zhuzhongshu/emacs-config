@@ -1,0 +1,6 @@
+(:name buttercup
+:auto-generated t
+:type elpa
+:description "Behavior-Driven Emacs Lisp Testing"
+:repo nil
+)

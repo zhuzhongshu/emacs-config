@@ -1,0 +1,8 @@
+(:name flycheck-css-colorguard
+:auto-generated t
+:type elpa
+:description "Detect similar colors in CSS"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

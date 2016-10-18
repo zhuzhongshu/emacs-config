@@ -1,0 +1,7 @@
+(:name ox-clip
+:auto-generated t
+:type elpa
+:description "Cross-platform Formatted copy commands for org-mode"
+:repo nil
+:depends (org htmlize)
+)

@@ -1,0 +1,8 @@
+(:name psession
+:auto-generated t
+:type elpa
+:description "Persistent save of elisp objects."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

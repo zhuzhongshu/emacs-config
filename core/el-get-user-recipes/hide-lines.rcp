@@ -1,0 +1,6 @@
+(:name hide-lines
+:auto-generated t
+:type elpa
+:description "Commands for hiding lines based on a regexp"
+:repo nil
+)

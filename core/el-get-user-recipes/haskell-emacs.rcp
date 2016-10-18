@@ -1,0 +1,6 @@
+(:name haskell-emacs
+:auto-generated t
+:type elpa
+:description "Write emacs extensions in haskell"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name nameframe
+:auto-generated t
+:type elpa
+:description "Manage frames by name."
+:repo nil
+)

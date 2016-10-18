@@ -1,0 +1,6 @@
+(:name angry-police-captain
+:auto-generated t
+:type elpa
+:description "Show quote from http://theangrypolicecaptain.com in the minibuffer"
+:repo nil
+)

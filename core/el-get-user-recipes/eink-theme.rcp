@@ -1,0 +1,6 @@
+(:name eink-theme
+:auto-generated t
+:type elpa
+:description "E Ink color theme"
+:repo nil
+)

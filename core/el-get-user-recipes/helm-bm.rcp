@@ -1,0 +1,7 @@
+(:name helm-bm
+:auto-generated t
+:type elpa
+:description "helm sources for bm.el"
+:repo nil
+:depends (bm cl-lib helm s)
+)

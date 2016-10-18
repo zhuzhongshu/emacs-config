@@ -1,0 +1,8 @@
+(:name ox-latex-chinese
+:auto-generated t
+:type elpa
+:description "An example org latex exporter configure for Chinese users"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 4)
+)

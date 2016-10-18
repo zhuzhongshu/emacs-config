@@ -1,0 +1,7 @@
+(:name haxor-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Haxor Assembly Files"
+:repo nil
+:minimum-emacs-version (24 0)
+)

@@ -1,0 +1,7 @@
+(:name drawille
+:auto-generated t
+:type elpa
+:description "Drawille implementation in elisp"
+:repo nil
+:depends (cl-lib)
+)

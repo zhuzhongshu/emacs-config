@@ -1,0 +1,6 @@
+(:name gather
+:auto-generated t
+:type elpa
+:description "Gather string in buffer."
+:repo nil
+)

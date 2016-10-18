@@ -1,0 +1,7 @@
+(:name imenus
+:auto-generated t
+:type elpa
+:description "Imenu for multiple buffers and without subgroups"
+:repo nil
+:depends (cl-lib)
+)

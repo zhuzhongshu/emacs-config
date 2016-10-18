@@ -1,0 +1,6 @@
+(:name pc-bufsw
+:auto-generated t
+:type elpa
+:description "PC style quick buffer switcher"
+:repo nil
+)

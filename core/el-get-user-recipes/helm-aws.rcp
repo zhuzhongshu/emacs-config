@@ -1,0 +1,7 @@
+(:name helm-aws
+:auto-generated t
+:type elpa
+:description "Manage AWS EC2 server instances directly from Emacs"
+:repo nil
+:depends (helm cl-lib s)
+)

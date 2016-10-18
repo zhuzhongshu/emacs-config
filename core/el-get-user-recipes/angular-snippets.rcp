@@ -1,0 +1,7 @@
+(:name angular-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for AngularJS"
+:repo nil
+:depends (s dash)
+)

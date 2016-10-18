@@ -1,0 +1,7 @@
+(:name req-package
+:auto-generated t
+:type elpa
+:description "A use-package wrapper for package runtime dependencies management"
+:repo nil
+:depends (use-package dash log4e ht)
+)

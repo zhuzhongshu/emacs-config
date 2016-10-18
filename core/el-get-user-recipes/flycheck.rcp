@@ -1,0 +1,8 @@
+(:name flycheck
+:auto-generated t
+:type elpa
+:description "On-the-fly syntax checking"
+:repo nil
+:depends (dash pkg-info let-alist seq)
+:minimum-emacs-version (24 3)
+)

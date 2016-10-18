@@ -1,0 +1,7 @@
+(:name helm-ctest
+:auto-generated t
+:type elpa
+:description "Run ctest from within emacs"
+:repo nil
+:depends (s dash helm-core)
+)

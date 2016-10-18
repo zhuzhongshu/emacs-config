@@ -1,0 +1,7 @@
+(:name helm-dirset
+:auto-generated t
+:type elpa
+:description "helm sources for multi directories"
+:repo nil
+:depends (f helm s cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name noccur
+:auto-generated t
+:type elpa
+:description "Run multi-occur on project/dired files"
+:repo nil
+)

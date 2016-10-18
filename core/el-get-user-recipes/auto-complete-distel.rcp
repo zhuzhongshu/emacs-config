@@ -1,0 +1,7 @@
+(:name auto-complete-distel
+:auto-generated t
+:type elpa
+:description "Erlang/distel completion backend for auto-complete-mode"
+:repo nil
+:depends (auto-complete distel-completion-lib)
+)

@@ -1,0 +1,6 @@
+(:name org-table-comment
+:auto-generated t
+:type elpa
+:description "Org table comment modes."
+:repo nil
+)

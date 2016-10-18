@@ -1,0 +1,8 @@
+(:name jss
+:auto-generated t
+:type elpa
+:description "An emacs interface to webkit and mozilla debuggers"
+:repo nil
+:depends (websocket js2-mode)
+:minimum-emacs-version (24 1)
+)

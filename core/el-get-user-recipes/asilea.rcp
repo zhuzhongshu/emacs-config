@@ -1,0 +1,8 @@
+(:name asilea
+:auto-generated t
+:type elpa
+:description "Find best compiler options using simulated annealing"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name ahungry-theme
+:auto-generated t
+:type elpa
+:description "Ahungry color theme for Emacs.  Make sure to (load-theme 'ahungry)."
+:repo nil
+:minimum-emacs-version (24)
+)

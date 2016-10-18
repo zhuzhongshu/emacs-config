@@ -1,0 +1,7 @@
+(:name systemd
+:auto-generated t
+:type elpa
+:description "Major mode for editing systemd units"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name flycheck-liquidhs
+:auto-generated t
+:type elpa
+:description "A flycheck checker for Haskell using liquid (i.e. liquidhaskell)"
+:repo nil
+:depends (flycheck)
+)

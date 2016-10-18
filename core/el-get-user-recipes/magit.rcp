@@ -1,0 +1,8 @@
+(:name magit
+:auto-generated t
+:type elpa
+:description "A Git porcelain inside Emacs"
+:repo nil
+:depends (async dash with-editor git-commit magit-popup)
+:minimum-emacs-version (24 4)
+)

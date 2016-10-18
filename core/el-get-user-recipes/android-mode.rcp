@@ -1,0 +1,6 @@
+(:name android-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for Android application development"
+:repo nil
+)

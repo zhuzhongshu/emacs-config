@@ -1,0 +1,7 @@
+(:name sql-mssql
+:auto-generated t
+:type elpa
+:description "Connect Microsoft SQL Server with sql.el in Linux/Unix environment"
+:repo nil
+:minimum-emacs-version (24 4)
+)

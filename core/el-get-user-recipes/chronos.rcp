@@ -1,0 +1,6 @@
+(:name chronos
+:auto-generated t
+:type elpa
+:description "multiple simultaneous countdown / countup timers"
+:repo nil
+)

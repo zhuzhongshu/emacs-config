@@ -1,0 +1,7 @@
+(:name plsense
+:auto-generated t
+:type elpa
+:description "provide interface for PlSense that is a development tool for Perl."
+:repo nil
+:depends (auto-complete log4e yaxception)
+)

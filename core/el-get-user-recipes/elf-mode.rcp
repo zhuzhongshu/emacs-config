@@ -1,0 +1,7 @@
+(:name elf-mode
+:auto-generated t
+:type elpa
+:description "Show symbols in binaries"
+:repo nil
+:minimum-emacs-version (24 3)
+)

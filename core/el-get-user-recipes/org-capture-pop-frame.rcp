@@ -1,0 +1,7 @@
+(:name org-capture-pop-frame
+:auto-generated t
+:type elpa
+:description "Run org-capture in a new pop frame"
+:repo nil
+:minimum-emacs-version (24 4)
+)

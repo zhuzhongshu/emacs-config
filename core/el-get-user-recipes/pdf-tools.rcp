@@ -1,0 +1,8 @@
+(:name pdf-tools
+:auto-generated t
+:type elpa
+:description "Support library for PDF documents."
+:repo nil
+:depends (tablist let-alist)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name plsense-direx
+:auto-generated t
+:type elpa
+:description "Perl Package Explorer"
+:repo nil
+:depends (direx plsense log4e yaxception)
+)

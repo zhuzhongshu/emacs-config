@@ -1,0 +1,6 @@
+(:name find-dired+
+:auto-generated t
+:type elpa
+:description "Extensions to `find-dired.el'."
+:repo nil
+)

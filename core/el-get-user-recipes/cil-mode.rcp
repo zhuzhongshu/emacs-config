@@ -1,0 +1,6 @@
+(:name cil-mode
+:auto-generated t
+:type elpa
+:description "Common Intermediate Language mode"
+:repo nil
+)

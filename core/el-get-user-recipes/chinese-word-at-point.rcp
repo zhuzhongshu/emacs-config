@@ -1,0 +1,7 @@
+(:name chinese-word-at-point
+:auto-generated t
+:type elpa
+:description "Add `chinese-word' thing to `thing-at-point'"
+:repo nil
+:depends (cl-lib)
+)

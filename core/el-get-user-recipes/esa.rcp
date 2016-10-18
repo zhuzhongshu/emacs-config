@@ -1,0 +1,7 @@
+(:name esa
+:auto-generated t
+:type elpa
+:description "Interface to esa.io"
+:repo nil
+:depends (cl-lib)
+)

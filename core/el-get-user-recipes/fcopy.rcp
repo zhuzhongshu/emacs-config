@@ -1,0 +1,6 @@
+(:name fcopy
+:auto-generated t
+:type elpa
+:description "Funny Copy, set past point HERE then search copy text"
+:repo nil
+)

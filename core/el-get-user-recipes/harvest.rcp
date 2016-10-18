@@ -1,0 +1,7 @@
+(:name harvest
+:auto-generated t
+:type elpa
+:description "Harvest integration"
+:repo nil
+:depends (swiper hydra s)
+)

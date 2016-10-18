@@ -1,0 +1,8 @@
+(:name term-manager
+:auto-generated t
+:type elpa
+:description "Contextual terminal management"
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

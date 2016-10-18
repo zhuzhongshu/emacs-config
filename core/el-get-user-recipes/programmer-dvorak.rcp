@@ -1,0 +1,6 @@
+(:name programmer-dvorak
+:auto-generated t
+:type elpa
+:description "Input method for Programmer Dvorak."
+:repo nil
+)

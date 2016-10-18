@@ -1,0 +1,7 @@
+(:name mhc
+:auto-generated t
+:type elpa
+:description "Message Harmonized Calendaring system."
+:repo nil
+:depends (calfw)
+)

@@ -1,0 +1,6 @@
+(:name sqlplus
+:auto-generated t
+:type elpa
+:description "User friendly interface to SQL*Plus and support for PL/SQL compilation"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name fm-bookmarks
+:auto-generated t
+:type elpa
+:description "Use file manager bookmarks (eg Dolphin, Nautilus, PCManFM) in Dired"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

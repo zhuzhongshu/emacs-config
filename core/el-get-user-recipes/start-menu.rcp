@@ -1,0 +1,7 @@
+(:name start-menu
+:auto-generated t
+:type elpa
+:description "start-menu for executing external program like in windows"
+:repo nil
+:depends (cl-lib config-parser)
+)

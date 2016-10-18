@@ -1,0 +1,6 @@
+(:name ruby-guard
+:auto-generated t
+:type elpa
+:description "Launching guard directly inside emacs."
+:repo nil
+)

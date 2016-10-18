@@ -1,0 +1,8 @@
+(:name gildas-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Gildas"
+:repo nil
+:depends (polymode)
+:minimum-emacs-version (24 3)
+)

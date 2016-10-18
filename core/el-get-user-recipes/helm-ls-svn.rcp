@@ -1,0 +1,8 @@
+(:name helm-ls-svn
+:auto-generated t
+:type elpa
+:description "helm extension to list svn files"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,7 @@
+(:name mosey
+:auto-generated t
+:type elpa
+:description "Mosey around your buffers"
+:repo nil
+:minimum-emacs-version (24 4)
+)

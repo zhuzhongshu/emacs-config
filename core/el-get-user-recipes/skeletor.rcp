@@ -1,0 +1,8 @@
+(:name skeletor
+:auto-generated t
+:type elpa
+:description "Provides project skeletons for Emacs"
+:repo nil
+:depends (s f dash cl-lib let-alist)
+:minimum-emacs-version (24 1)
+)

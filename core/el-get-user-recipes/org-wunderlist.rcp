@@ -1,0 +1,8 @@
+(:name org-wunderlist
+:auto-generated t
+:type elpa
+:description "Org sync with Wunderlist"
+:repo nil
+:depends (request-deferred alert cl-lib org s)
+:minimum-emacs-version (24)
+)

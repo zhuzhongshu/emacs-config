@@ -1,0 +1,7 @@
+(:name date-field
+:auto-generated t
+:type elpa
+:description "Date widget"
+:repo nil
+:depends (dash log4e yaxception)
+)

@@ -1,0 +1,8 @@
+(:name contrast-color
+:auto-generated t
+:type elpa
+:description "Pick best contrast color for you"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

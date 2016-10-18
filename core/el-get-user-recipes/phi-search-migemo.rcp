@@ -1,0 +1,7 @@
+(:name phi-search-migemo
+:auto-generated t
+:type elpa
+:description "migemo extension for phi-search"
+:repo nil
+:depends (phi-search migemo)
+)

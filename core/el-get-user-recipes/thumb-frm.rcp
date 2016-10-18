@@ -1,0 +1,7 @@
+(:name thumb-frm
+:auto-generated t
+:type elpa
+:description "Commands for thumbnail frames."
+:repo nil
+:depends (frame-fns frame-cmds)
+)

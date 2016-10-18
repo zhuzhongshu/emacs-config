@@ -1,0 +1,7 @@
+(:name grails
+:auto-generated t
+:type elpa
+:description "Minor mode for Grails projects"
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name related
+:auto-generated t
+:type elpa
+:description "Switch back and forth between similarly named buffers."
+:repo nil
+:depends (cl-lib)
+)

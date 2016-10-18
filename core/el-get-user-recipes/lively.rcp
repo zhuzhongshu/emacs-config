@@ -1,0 +1,6 @@
+(:name lively
+:auto-generated t
+:type elpa
+:description "interactively updating text"
+:repo nil
+)

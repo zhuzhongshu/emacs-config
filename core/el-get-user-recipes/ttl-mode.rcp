@@ -1,0 +1,6 @@
+(:name ttl-mode
+:auto-generated t
+:type elpa
+:description "mode for Turtle (and Notation 3)"
+:repo nil
+)

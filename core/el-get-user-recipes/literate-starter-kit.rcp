@@ -1,0 +1,7 @@
+(:name literate-starter-kit
+:auto-generated t
+:type elpa
+:description "A literate starter kit to configure Emacs using Org-mode files."
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name evil-ediff
+:auto-generated t
+:type elpa
+:description "Make ediff a little evil"
+:repo nil
+:depends (evil)
+)

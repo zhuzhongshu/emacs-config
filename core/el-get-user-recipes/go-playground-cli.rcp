@@ -1,0 +1,8 @@
+(:name go-playground-cli
+:auto-generated t
+:type elpa
+:description "Go Playground client tool"
+:repo nil
+:depends (request deferred names s f let-alist cl-lib)
+:minimum-emacs-version (24)
+)

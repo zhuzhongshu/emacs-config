@@ -1,0 +1,7 @@
+(:name hindent
+:auto-generated t
+:type elpa
+:description "Indent haskell code using the \"hindent\" program"
+:repo nil
+:depends (cl-lib)
+)

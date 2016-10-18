@@ -1,0 +1,7 @@
+(:name pkg-info
+:auto-generated t
+:type elpa
+:description "Information about packages"
+:repo nil
+:depends (epl)
+)

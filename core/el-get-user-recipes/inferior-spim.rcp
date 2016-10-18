@@ -1,0 +1,6 @@
+(:name inferior-spim
+:auto-generated t
+:type elpa
+:description "inferior mode for spim."
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name persistent-scratch
+:auto-generated t
+:type elpa
+:description "Preserve the scratch buffer across Emacs sessions"
+:repo nil
+:minimum-emacs-version (24)
+)

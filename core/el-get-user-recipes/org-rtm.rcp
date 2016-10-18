@@ -1,0 +1,7 @@
+(:name org-rtm
+:auto-generated t
+:type elpa
+:description "Simple import/export from rememberthemilk to org-mode"
+:repo nil
+:depends (rtm)
+)

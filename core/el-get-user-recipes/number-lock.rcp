@@ -1,0 +1,6 @@
+(:name number-lock
+:auto-generated t
+:type elpa
+:description "Enter symbols on your number keys without pressing shift"
+:repo nil
+)

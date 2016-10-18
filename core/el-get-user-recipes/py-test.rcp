@@ -1,0 +1,8 @@
+(:name py-test
+:auto-generated t
+:type elpa
+:description "A test runner for Python code."
+:repo nil
+:depends (dash f)
+:minimum-emacs-version (24 4)
+)

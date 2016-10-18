@@ -1,0 +1,6 @@
+(:name ycm
+:auto-generated t
+:type elpa
+:description "Emacs client for the YouCompleteMe auto-completion server."
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name kill-or-bury-alive
+:auto-generated t
+:type elpa
+:description "Precise control over buffer killing in Emacs"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 4)
+)

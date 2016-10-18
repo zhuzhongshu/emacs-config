@@ -1,0 +1,8 @@
+(:name boon
+:auto-generated t
+:type elpa
+:description "Ergonomic Command Mode for Emacs."
+:repo nil
+:depends (expand-region dash multiple-cursors)
+:minimum-emacs-version (25 1)
+)

@@ -1,0 +1,7 @@
+(:name helm-make
+:auto-generated t
+:type elpa
+:description "Select a Makefile target with helm"
+:repo nil
+:depends (helm projectile)
+)

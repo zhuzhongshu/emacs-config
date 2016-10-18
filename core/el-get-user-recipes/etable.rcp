@@ -1,0 +1,8 @@
+(:name etable
+:auto-generated t
+:type elpa
+:description "Implementation of javax.swing.JTable for Emacs."
+:repo nil
+:depends (dash interval-list)
+:minimum-emacs-version (24 4)
+)

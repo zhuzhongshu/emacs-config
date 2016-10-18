@@ -1,0 +1,6 @@
+(:name list-environment
+:auto-generated t
+:type elpa
+:description "A tabulated process environment editor"
+:repo nil
+)

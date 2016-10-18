@@ -1,0 +1,7 @@
+(:name smart-forward
+:auto-generated t
+:type elpa
+:description "Semantic navigation"
+:repo nil
+:depends (expand-region)
+)

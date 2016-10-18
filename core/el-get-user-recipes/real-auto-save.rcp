@@ -1,0 +1,6 @@
+(:name real-auto-save
+:auto-generated t
+:type elpa
+:description "Automatically save your all your buffers/files at regular intervals."
+:repo nil
+)

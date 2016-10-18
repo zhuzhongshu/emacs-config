@@ -1,0 +1,6 @@
+(:name holiday-pascha-etc
+:auto-generated t
+:type elpa
+:description "Eastern Christian analog to holiday-easter-etc"
+:repo nil
+)

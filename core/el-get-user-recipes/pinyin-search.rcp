@@ -1,0 +1,7 @@
+(:name pinyin-search
+:auto-generated t
+:type elpa
+:description "Search Chinese by Pinyin"
+:repo nil
+:depends (pinyinlib)
+)

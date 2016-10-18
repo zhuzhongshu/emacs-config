@@ -1,0 +1,7 @@
+(:name shackle
+:auto-generated t
+:type elpa
+:description "Enforce rules for popups"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name delim-kill
+:auto-generated t
+:type elpa
+:description "Kill text between delimiters."
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name el-pocket
+:auto-generated t
+:type elpa
+:description "Read and write to Pocket (getpocket.com)"
+:repo nil
+:depends (web)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name highlight-thing
+:auto-generated t
+:type elpa
+:description "Minimalistic minor mode to highlight current thing under point."
+:repo nil
+)

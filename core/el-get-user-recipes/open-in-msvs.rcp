@@ -1,0 +1,6 @@
+(:name open-in-msvs
+:auto-generated t
+:type elpa
+:description "Open current file:line:column in Microsoft Visual Studio"
+:repo nil
+)

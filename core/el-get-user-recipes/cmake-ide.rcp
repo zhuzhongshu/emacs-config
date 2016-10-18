@@ -1,0 +1,8 @@
+(:name cmake-ide
+:auto-generated t
+:type elpa
+:description "Calls CMake to find out include paths and other compiler flags"
+:repo nil
+:depends (cl-lib seq levenshtein)
+:minimum-emacs-version (24 1)
+)

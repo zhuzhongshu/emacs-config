@@ -1,0 +1,8 @@
+(:name docker-tramp
+:auto-generated t
+:type elpa
+:description "TRAMP integration for docker containers"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name defproject
+:auto-generated t
+:type elpa
+:description "Manager dir-locals and project specific variables"
+:repo nil
+:minimum-emacs-version (24)
+)

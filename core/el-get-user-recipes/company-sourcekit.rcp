@@ -1,0 +1,8 @@
+(:name company-sourcekit
+:auto-generated t
+:type elpa
+:description "company-mode completion backend for SourceKit"
+:repo nil
+:depends (company dash dash-functional sourcekit)
+:minimum-emacs-version (24 3)
+)

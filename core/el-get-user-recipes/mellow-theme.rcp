@@ -1,0 +1,7 @@
+(:name mellow-theme
+:auto-generated t
+:type elpa
+:description "an Emacs 24 theme based on Mellow (tmTheme)"
+:repo nil
+:minimum-emacs-version (24 0)
+)

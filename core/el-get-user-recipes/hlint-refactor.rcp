@@ -1,0 +1,6 @@
+(:name hlint-refactor
+:auto-generated t
+:type elpa
+:description "Apply HLint suggestions"
+:repo nil
+)

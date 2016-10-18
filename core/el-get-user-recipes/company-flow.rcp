@@ -1,0 +1,7 @@
+(:name company-flow
+:auto-generated t
+:type elpa
+:description "Flow backend for company-mode"
+:repo nil
+:depends (company dash)
+)

@@ -1,0 +1,7 @@
+(:name url-http-ntlm
+:auto-generated t
+:type elpa
+:description "NTLM authentication for the url library"
+:repo nil
+:depends (cl-lib ntlm)
+)

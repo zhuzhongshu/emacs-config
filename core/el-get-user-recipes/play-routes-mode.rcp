@@ -1,0 +1,6 @@
+(:name play-routes-mode
+:auto-generated t
+:type elpa
+:description "Play Framework Routes File Support"
+:repo nil
+)

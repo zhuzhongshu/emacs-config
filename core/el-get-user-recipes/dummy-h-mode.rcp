@@ -1,0 +1,6 @@
+(:name dummy-h-mode
+:auto-generated t
+:type elpa
+:description "switch major mode to c-/c++-/objc-mode on .h file"
+:repo nil
+)

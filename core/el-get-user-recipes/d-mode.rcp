@@ -1,0 +1,6 @@
+(:name d-mode
+:auto-generated t
+:type elpa
+:description "D Programming Language major mode for (X)Emacs"
+:repo nil
+)

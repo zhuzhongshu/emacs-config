@@ -1,0 +1,7 @@
+(:name bpr
+:auto-generated t
+:type elpa
+:description "Background Process Runner"
+:repo nil
+:minimum-emacs-version (24)
+)

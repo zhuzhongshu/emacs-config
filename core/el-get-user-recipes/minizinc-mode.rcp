@@ -1,0 +1,7 @@
+(:name minizinc-mode
+:auto-generated t
+:type elpa
+:description "Major mode for MiniZinc code"
+:repo nil
+:minimum-emacs-version (24 1)
+)

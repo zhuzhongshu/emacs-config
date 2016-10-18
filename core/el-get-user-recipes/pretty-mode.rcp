@@ -1,0 +1,6 @@
+(:name pretty-mode
+:auto-generated t
+:type elpa
+:description "Redisplay parts of the buffer as pretty Unicode symbols."
+:repo nil
+)

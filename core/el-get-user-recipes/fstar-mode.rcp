@@ -1,0 +1,8 @@
+(:name fstar-mode
+:auto-generated t
+:type elpa
+:description "Support for F* programming"
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 3)
+)

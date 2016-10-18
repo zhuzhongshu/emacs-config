@@ -1,0 +1,8 @@
+(:name flimenu
+:auto-generated t
+:type elpa
+:description "Flatten imenu automatically"
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name vi-tilde-fringe
+:auto-generated t
+:type elpa
+:description "Displays tildes in the fringe on empty lines a la Vi."
+:repo nil
+:minimum-emacs-version (24)
+)

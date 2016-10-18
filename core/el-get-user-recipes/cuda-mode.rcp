@@ -1,0 +1,6 @@
+(:name cuda-mode
+:auto-generated t
+:type elpa
+:description "NVIDIA CUDA Major Mode"
+:repo nil
+)

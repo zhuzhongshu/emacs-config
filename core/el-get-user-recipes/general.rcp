@@ -1,0 +1,7 @@
+(:name general
+:auto-generated t
+:type elpa
+:description "Convenience wrappers for keybindings."
+:repo nil
+:depends (cl-lib)
+)

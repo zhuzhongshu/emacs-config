@@ -1,0 +1,7 @@
+(:name phpcbf
+:auto-generated t
+:type elpa
+:description "Format PHP code in Emacs using PHP_CodeSniffer's phpcbf"
+:repo nil
+:depends (s)
+)

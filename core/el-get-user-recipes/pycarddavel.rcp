@@ -1,0 +1,8 @@
+(:name pycarddavel
+:auto-generated t
+:type elpa
+:description "Integrate pycarddav"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 0)
+)

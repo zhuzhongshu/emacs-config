@@ -1,0 +1,6 @@
+(:name picolisp-mode
+:auto-generated t
+:type elpa
+:description "Major mode for PicoLisp programming."
+:repo nil
+)

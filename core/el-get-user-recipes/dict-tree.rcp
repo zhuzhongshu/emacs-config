@@ -1,0 +1,7 @@
+(:name dict-tree
+:auto-generated t
+:type elpa
+:description "Dictionary data structure"
+:repo nil
+:depends (trie tNFA heap)
+)

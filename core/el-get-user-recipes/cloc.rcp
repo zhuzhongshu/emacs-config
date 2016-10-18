@@ -1,0 +1,7 @@
+(:name cloc
+:auto-generated t
+:type elpa
+:description "count lines of code over emacs buffers"
+:repo nil
+:depends (cl-lib)
+)

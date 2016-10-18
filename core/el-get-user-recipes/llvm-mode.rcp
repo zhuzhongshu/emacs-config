@@ -1,0 +1,6 @@
+(:name llvm-mode
+:auto-generated t
+:type elpa
+:description "Major mode for the LLVM assembler language."
+:repo nil
+)

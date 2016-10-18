@@ -1,0 +1,6 @@
+(:name vc-darcs
+:auto-generated t
+:type elpa
+:description "a VC backend for darcs"
+:repo nil
+)

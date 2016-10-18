@@ -1,0 +1,6 @@
+(:name pixiv-novel-mode
+:auto-generated t
+:type elpa
+:description "Major mode for pixiv novel"
+:repo nil
+)

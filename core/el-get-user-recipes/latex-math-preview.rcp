@@ -1,0 +1,6 @@
+(:name latex-math-preview
+:auto-generated t
+:type elpa
+:description "preview LaTeX mathematical expressions."
+:repo nil
+)

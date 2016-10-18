@@ -1,0 +1,8 @@
+(:name orgit
+:auto-generated t
+:type elpa
+:description "support for Org links to Magit buffers"
+:repo nil
+:depends (dash magit org)
+:minimum-emacs-version (24 4)
+)

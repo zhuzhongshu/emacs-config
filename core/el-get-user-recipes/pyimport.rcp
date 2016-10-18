@@ -1,0 +1,7 @@
+(:name pyimport
+:auto-generated t
+:type elpa
+:description "Manage Python imports!"
+:repo nil
+:depends (dash s)
+)

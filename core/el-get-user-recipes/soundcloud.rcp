@@ -1,0 +1,7 @@
+(:name soundcloud
+:auto-generated t
+:type elpa
+:description "a SoundCloud client for Emacs"
+:repo nil
+:depends (emms json deferred string-utils request request-deferred)
+)

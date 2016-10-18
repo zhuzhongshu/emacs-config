@@ -1,0 +1,8 @@
+(:name ess-smart-equals
+:auto-generated t
+:type elpa
+:description "better smart-assignment with =-key in R and S"
+:repo nil
+:depends (ess)
+:minimum-emacs-version (24)
+)

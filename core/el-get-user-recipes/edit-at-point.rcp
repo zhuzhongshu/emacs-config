@@ -1,0 +1,6 @@
+(:name edit-at-point
+:auto-generated t
+:type elpa
+:description "edit(copy,cut..) current things(word,symbol..) under cursor"
+:repo nil
+)

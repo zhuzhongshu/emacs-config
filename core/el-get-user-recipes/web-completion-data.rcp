@@ -1,0 +1,6 @@
+(:name web-completion-data
+:auto-generated t
+:type elpa
+:description "Shared completion data for ac-html and company-web"
+:repo nil
+)

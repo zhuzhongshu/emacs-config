@@ -1,0 +1,7 @@
+(:name ipcalc
+:auto-generated t
+:type elpa
+:description "IP subnet calculator"
+:repo nil
+:depends (cl-lib)
+)

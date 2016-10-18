@@ -1,0 +1,7 @@
+(:name bfbuilder
+:auto-generated t
+:type elpa
+:description "A brainfuck development environment with interactive debugger"
+:repo nil
+:depends (cl-lib)
+)

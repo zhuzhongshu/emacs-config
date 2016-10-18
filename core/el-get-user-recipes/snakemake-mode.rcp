@@ -1,0 +1,8 @@
+(:name snakemake-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Snakemake files"
+:repo nil
+:depends (cl-lib magit-popup)
+:minimum-emacs-version (24)
+)

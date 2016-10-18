@@ -1,0 +1,7 @@
+(:name bracketed-paste
+:auto-generated t
+:type elpa
+:description "bracketed paste mode support within emacs -nw"
+:repo nil
+:minimum-emacs-version (24 3)
+)

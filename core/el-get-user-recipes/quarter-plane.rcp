@@ -1,0 +1,6 @@
+(:name quarter-plane
+:auto-generated t
+:type elpa
+:description "Minor mode for quarter-plane style editing"
+:repo nil
+)

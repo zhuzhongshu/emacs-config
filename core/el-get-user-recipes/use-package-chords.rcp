@@ -1,0 +1,7 @@
+(:name use-package-chords
+:auto-generated t
+:type elpa
+:description "key-chord keyword for use-package"
+:repo nil
+:depends (use-package bind-key bind-chord)
+)

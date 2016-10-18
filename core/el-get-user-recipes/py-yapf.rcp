@@ -1,0 +1,6 @@
+(:name py-yapf
+:auto-generated t
+:type elpa
+:description "Use yapf to beautify a Python buffer"
+:repo nil
+)

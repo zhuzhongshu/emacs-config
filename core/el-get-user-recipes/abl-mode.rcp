@@ -1,0 +1,6 @@
+(:name abl-mode
+:auto-generated t
+:type elpa
+:description "Python TDD minor mode"
+:repo nil
+)

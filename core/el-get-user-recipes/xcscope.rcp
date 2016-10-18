@@ -1,0 +1,6 @@
+(:name xcscope
+:auto-generated t
+:type elpa
+:description "cscope interface for (X)Emacs"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name coq-commenter
+:auto-generated t
+:type elpa
+:description "Coq commenting minor mode for proof"
+:repo nil
+:depends (dash s cl-lib)
+)

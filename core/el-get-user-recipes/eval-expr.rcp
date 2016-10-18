@@ -1,0 +1,6 @@
+(:name eval-expr
+:auto-generated t
+:type elpa
+:description "enhanced eval-expression command"
+:repo nil
+)

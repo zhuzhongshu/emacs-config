@@ -1,0 +1,7 @@
+(:name auto-yasnippet
+:auto-generated t
+:type elpa
+:description "Quickly create disposable yasnippets"
+:repo nil
+:depends (yasnippet)
+)

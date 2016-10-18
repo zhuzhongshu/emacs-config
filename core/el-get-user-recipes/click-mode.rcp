@@ -1,0 +1,7 @@
+(:name click-mode
+:auto-generated t
+:type elpa
+:description "Major mode for the Click Modular Router Project"
+:repo nil
+:minimum-emacs-version (24)
+)

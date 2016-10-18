@@ -1,0 +1,8 @@
+(:name docean
+:auto-generated t
+:type elpa
+:description "Interact with DigitalOcean from Emacs."
+:repo nil
+:depends (cl-lib request)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name node-resolver
+:auto-generated t
+:type elpa
+:description "hook to install node modules in background"
+:repo nil
+:depends (cl-lib)
+)

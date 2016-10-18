@@ -1,0 +1,6 @@
+(:name chinese-remote-input
+:auto-generated t
+:type elpa
+:description "Input Chinese with a remote input method (e.g. Android Voice Input Method)"
+:repo nil
+)

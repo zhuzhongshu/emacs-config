@@ -1,0 +1,6 @@
+(:name shell-split-string
+:auto-generated t
+:type elpa
+:description "Split strings using shell-like syntax"
+:repo nil
+)

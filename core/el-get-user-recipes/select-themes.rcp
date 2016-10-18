@@ -1,0 +1,6 @@
+(:name select-themes
+:auto-generated t
+:type elpa
+:description "Color theme selection with completing-read"
+:repo nil
+)

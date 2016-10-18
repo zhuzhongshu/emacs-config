@@ -1,0 +1,8 @@
+(:name maven-test-mode
+:auto-generated t
+:type elpa
+:description "Utilities for navigating test files and running maven test tasks."
+:repo nil
+:depends (s)
+:minimum-emacs-version (24)
+)

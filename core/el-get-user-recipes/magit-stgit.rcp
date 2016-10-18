@@ -1,0 +1,8 @@
+(:name magit-stgit
+:auto-generated t
+:type elpa
+:description "StGit extension for Magit"
+:repo nil
+:depends (magit)
+:minimum-emacs-version (24 4)
+)

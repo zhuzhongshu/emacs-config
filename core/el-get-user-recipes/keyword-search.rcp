@@ -1,0 +1,6 @@
+(:name keyword-search
+:auto-generated t
+:type elpa
+:description "browser keyword search from Emacs"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name decide
+:auto-generated t
+:type elpa
+:description "rolling dice and other random things"
+:repo nil
+)

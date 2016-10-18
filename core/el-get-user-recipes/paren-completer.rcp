@@ -1,0 +1,7 @@
+(:name paren-completer
+:auto-generated t
+:type elpa
+:description "Automatically, language agnostically, fill in delimiters."
+:repo nil
+:minimum-emacs-version (24 3)
+)

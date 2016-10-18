@@ -1,0 +1,7 @@
+(:name helm-flycheck
+:auto-generated t
+:type elpa
+:description "Show flycheck errors with helm"
+:repo nil
+:depends (dash flycheck helm-core)
+)

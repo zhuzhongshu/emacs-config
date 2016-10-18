@@ -1,0 +1,7 @@
+(:name rally-mode
+:auto-generated t
+:type elpa
+:description "a mode to interact with the Rally Software web site."
+:repo nil
+:depends (popwin)
+)

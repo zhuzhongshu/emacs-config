@@ -1,0 +1,6 @@
+(:name tea-time
+:auto-generated t
+:type elpa
+:description "Simple timer package, useful to make perfect tea."
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name mingus
+:auto-generated t
+:type elpa
+:description "MPD Interface"
+:repo nil
+:depends (libmpdee)
+)

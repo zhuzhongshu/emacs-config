@@ -1,0 +1,8 @@
+(:name evil-easymotion
+:auto-generated t
+:type elpa
+:description "A port of vim's easymotion to emacs"
+:repo nil
+:depends (avy cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name sly-named-readtables
+:auto-generated t
+:type elpa
+:description "Support named readtables in Common Lisp files"
+:repo nil
+:depends (sly)
+)

@@ -1,0 +1,8 @@
+(:name dklrt
+:auto-generated t
+:type elpa
+:description "Ledger Recurring Transactions."
+:repo nil
+:depends (dkmisc ledger-mode)
+:minimum-emacs-version (24 1)
+)

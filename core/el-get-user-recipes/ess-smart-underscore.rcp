@@ -1,0 +1,7 @@
+(:name ess-smart-underscore
+:auto-generated t
+:type elpa
+:description "Ess Smart Underscore"
+:repo nil
+:depends (ess)
+)

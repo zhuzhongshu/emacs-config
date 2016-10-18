@@ -1,0 +1,6 @@
+(:name default-text-scale
+:auto-generated t
+:type elpa
+:description "Easily adjust the font size in all frames"
+:repo nil
+)

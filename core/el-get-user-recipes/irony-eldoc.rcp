@@ -1,0 +1,8 @@
+(:name irony-eldoc
+:auto-generated t
+:type elpa
+:description "irony-mode support for eldoc-mode"
+:repo nil
+:depends (cl-lib irony)
+:minimum-emacs-version (24)
+)

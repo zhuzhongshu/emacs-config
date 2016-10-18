@@ -1,0 +1,7 @@
+(:name nand2tetris-assembler
+:auto-generated t
+:type elpa
+:description "Assembler For the Nand2tetris Course"
+:repo nil
+:depends (nand2tetris)
+)

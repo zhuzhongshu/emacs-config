@@ -1,0 +1,6 @@
+(:name org-chinese-utils
+:auto-generated t
+:type elpa
+:description "A org-mode utils manager for Chinese users"
+:repo nil
+)

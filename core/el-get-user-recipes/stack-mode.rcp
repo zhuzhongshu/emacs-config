@@ -1,0 +1,7 @@
+(:name stack-mode
+:auto-generated t
+:type elpa
+:description "A minor mode enabling various features based on stack-ide."
+:repo nil
+:depends (haskell-mode cl-lib flycheck)
+)

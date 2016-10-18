@@ -1,0 +1,7 @@
+(:name magit-gitflow
+:auto-generated t
+:type elpa
+:description "gitflow extension for magit"
+:repo nil
+:depends (magit magit-popup)
+)

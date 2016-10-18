@@ -1,0 +1,6 @@
+(:name date-at-point
+:auto-generated t
+:type elpa
+:description "Add `date' to `thing-at-point' function"
+:repo nil
+)

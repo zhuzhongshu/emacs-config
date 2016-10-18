@@ -1,0 +1,7 @@
+(:name firefox-controller
+:auto-generated t
+:type elpa
+:description "An improved Firefox controller"
+:repo nil
+:depends (moz popwin cl-lib)
+)

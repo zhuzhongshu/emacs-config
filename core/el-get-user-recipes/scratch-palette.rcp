@@ -1,0 +1,7 @@
+(:name scratch-palette
+:auto-generated t
+:type elpa
+:description "make scratch buffer for each files"
+:repo nil
+:depends (popwin)
+)

@@ -1,0 +1,6 @@
+(:name psysh
+:auto-generated t
+:type elpa
+:description "PsySH, PHP interactive shell (REPL)"
+:repo nil
+)

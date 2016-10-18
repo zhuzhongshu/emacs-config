@@ -1,0 +1,7 @@
+(:name mmm-jinja2
+:auto-generated t
+:type elpa
+:description "MMM submode class for Jinja2 Templates"
+:repo nil
+:depends (mmm-mode)
+)

@@ -1,0 +1,6 @@
+(:name go-stacktracer
+:auto-generated t
+:type elpa
+:description "parse Go stack traces"
+:repo nil
+)

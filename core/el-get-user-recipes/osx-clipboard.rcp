@@ -1,0 +1,6 @@
+(:name osx-clipboard
+:auto-generated t
+:type elpa
+:description "Use the OS X clipboard from terminal Emacs"
+:repo nil
+)

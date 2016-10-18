@@ -1,0 +1,6 @@
+(:name devdocs
+:auto-generated t
+:type elpa
+:description "Launch DevDocs search"
+:repo nil
+)

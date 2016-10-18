@@ -1,0 +1,7 @@
+(:name django-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for django"
+:repo nil
+:depends (yasnippet)
+)

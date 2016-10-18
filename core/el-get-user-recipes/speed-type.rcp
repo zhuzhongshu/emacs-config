@@ -1,0 +1,7 @@
+(:name speed-type
+:auto-generated t
+:type elpa
+:description "Practice touch and speed typing"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name hl-anything
+:auto-generated t
+:type elpa
+:description "Highlight symbols, selections, enclosing parens and more."
+:repo nil
+:minimum-emacs-version (24 3)
+)

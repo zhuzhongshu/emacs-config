@@ -1,0 +1,7 @@
+(:name isearch-dabbrev
+:auto-generated t
+:type elpa
+:description "Use dabbrev in isearch"
+:repo nil
+:depends (cl-lib)
+)

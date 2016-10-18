@@ -1,0 +1,7 @@
+(:name ac-html-bootstrap
+:auto-generated t
+:type elpa
+:description "auto complete bootstrap3/fontawesome classes for `ac-html' and `company-web'"
+:repo nil
+:depends (web-completion-data)
+)

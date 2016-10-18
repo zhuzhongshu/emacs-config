@@ -1,0 +1,7 @@
+(:name chee
+:auto-generated t
+:type elpa
+:description "Interface to chee using dired and image-dired"
+:repo nil
+:depends (dash s f)
+)

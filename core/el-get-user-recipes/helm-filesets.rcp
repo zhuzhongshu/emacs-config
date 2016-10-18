@@ -1,0 +1,7 @@
+(:name helm-filesets
+:auto-generated t
+:type elpa
+:description "A helm source for emacs filesets"
+:repo nil
+:depends (helm filesets+)
+)

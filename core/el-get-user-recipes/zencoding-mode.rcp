@@ -1,0 +1,6 @@
+(:name zencoding-mode
+:auto-generated t
+:type elpa
+:description "Unfold CSS-selector-like expressions to markup"
+:repo nil
+)

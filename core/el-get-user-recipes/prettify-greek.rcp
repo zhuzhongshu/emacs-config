@@ -1,0 +1,6 @@
+(:name prettify-greek
+:auto-generated t
+:type elpa
+:description "Greek letters for prettify-symbols"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name darkroom
+:auto-generated t
+:type elpa
+:description "Remove visual distractions and focus on writing"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name auto-async-byte-compile
+:auto-generated t
+:type elpa
+:description "Automatically byte-compile when saved"
+:repo nil
+)

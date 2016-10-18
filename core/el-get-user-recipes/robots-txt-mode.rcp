@@ -1,0 +1,6 @@
+(:name robots-txt-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing robots.txt"
+:repo nil
+)

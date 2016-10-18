@@ -1,0 +1,6 @@
+(:name yoshi-theme
+:auto-generated t
+:type elpa
+:description "Theme named after my cat"
+:repo nil
+)

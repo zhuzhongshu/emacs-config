@@ -1,0 +1,7 @@
+(:name ensime
+:auto-generated t
+:type elpa
+:description "ENhanced Scala Interaction Mode for Emacs"
+:repo nil
+:depends (scala-mode sbt-mode yasnippet company dash s popup)
+)

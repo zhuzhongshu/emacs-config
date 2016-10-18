@@ -1,0 +1,8 @@
+(:name projectile-variable
+:auto-generated t
+:type elpa
+:description "Store project local variables."
+:repo nil
+:depends (cl-lib projectile)
+:minimum-emacs-version (24)
+)

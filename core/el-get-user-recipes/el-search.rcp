@@ -1,0 +1,7 @@
+(:name el-search
+:auto-generated t
+:type elpa
+:description "Expression based incremental search for emacs-lisp-mode"
+:repo nil
+:minimum-emacs-version (25)
+)

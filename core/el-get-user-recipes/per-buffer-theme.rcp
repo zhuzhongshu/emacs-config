@@ -1,0 +1,7 @@
+(:name per-buffer-theme
+:auto-generated t
+:type elpa
+:description "Change theme according to buffer name or major mode."
+:repo nil
+:depends (cl-lib)
+)

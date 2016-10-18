@@ -1,0 +1,7 @@
+(:name ox-impress-js
+:auto-generated t
+:type elpa
+:description "impress.js Back-End for Org Export Engine"
+:repo nil
+:depends (org)
+)

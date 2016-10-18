@@ -1,0 +1,6 @@
+(:name niceify-info
+:auto-generated t
+:type elpa
+:description "improve usability of Info pages"
+:repo nil
+)

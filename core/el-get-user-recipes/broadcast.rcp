@@ -1,0 +1,7 @@
+(:name broadcast
+:auto-generated t
+:type elpa
+:description "Links buffers together for simultaneous editing."
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name intellij-theme
+:auto-generated t
+:type elpa
+:description "Inspired by IntelliJ's default theme"
+:repo nil
+)

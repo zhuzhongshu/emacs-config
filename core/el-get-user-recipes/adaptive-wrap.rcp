@@ -1,0 +1,6 @@
+(:name adaptive-wrap
+:auto-generated t
+:type elpa
+:description "Smart line-wrapping with wrap-prefix"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name maruo-macro-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Hidemaru/Maruo macro script"
+:repo nil
+:minimum-emacs-version (24 3)
+)

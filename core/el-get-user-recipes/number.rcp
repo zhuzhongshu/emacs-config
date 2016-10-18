@@ -1,0 +1,6 @@
+(:name number
+:auto-generated t
+:type elpa
+:description "Working with numbers at point."
+:repo nil
+)

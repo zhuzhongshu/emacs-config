@@ -1,0 +1,7 @@
+(:name flycheck-pony
+:auto-generated t
+:type elpa
+:description "Pony support in Flycheck"
+:repo nil
+:depends (flycheck)
+)

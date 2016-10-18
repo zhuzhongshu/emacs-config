@@ -1,0 +1,7 @@
+(:name python-test
+:auto-generated t
+:type elpa
+:description "Python testing integration"
+:repo nil
+:minimum-emacs-version (24 3)
+)

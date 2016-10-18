@@ -1,0 +1,7 @@
+(:name flycheck-cython
+:auto-generated t
+:type elpa
+:description "Support Cython in flycheck"
+:repo nil
+:depends (flycheck)
+)

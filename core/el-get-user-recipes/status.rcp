@@ -1,0 +1,6 @@
+(:name status
+:auto-generated t
+:type elpa
+:description "This package adds support for status icons to Emacs."
+:repo nil
+)

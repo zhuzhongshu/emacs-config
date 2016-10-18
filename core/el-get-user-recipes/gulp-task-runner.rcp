@@ -1,0 +1,6 @@
+(:name gulp-task-runner
+:auto-generated t
+:type elpa
+:description "Gulp task runner"
+:repo nil
+)

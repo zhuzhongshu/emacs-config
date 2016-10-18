@@ -1,0 +1,6 @@
+(:name omni-scratch
+:auto-generated t
+:type elpa
+:description "Easy and mode-specific draft buffers"
+:repo nil
+)

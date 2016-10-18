@@ -1,0 +1,6 @@
+(:name selected
+:auto-generated t
+:type elpa
+:description "Keymap for when region is active"
+:repo nil
+)

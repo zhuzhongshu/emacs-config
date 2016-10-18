@@ -1,0 +1,8 @@
+(:name auto-org-md
+:auto-generated t
+:type elpa
+:description "export a markdown file automatically when you save an org-file"
+:repo nil
+:depends (org)
+:minimum-emacs-version (24 4)
+)

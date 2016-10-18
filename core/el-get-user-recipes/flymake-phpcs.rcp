@@ -1,0 +1,7 @@
+(:name flymake-phpcs
+:auto-generated t
+:type elpa
+:description "making flymake work with PHP CodeSniffer"
+:repo nil
+:depends (flymake-easy)
+)

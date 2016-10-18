@@ -1,0 +1,6 @@
+(:name faceup
+:auto-generated t
+:type elpa
+:description "Regression test system for font-lock"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name xml-rpc
+:auto-generated t
+:type elpa
+:description "An elisp implementation of clientside XML-RPC"
+:repo nil
+)

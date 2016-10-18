@@ -1,0 +1,7 @@
+(:name projectile-sift
+:auto-generated t
+:type elpa
+:description "Run a sift with Projectile"
+:repo nil
+:depends (sift projectile)
+)

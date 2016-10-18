@@ -1,0 +1,8 @@
+(:name mozc-temp
+:auto-generated t
+:type elpa
+:description "Use mozc temporarily"
+:repo nil
+:depends (dash mozc)
+:minimum-emacs-version (24)
+)

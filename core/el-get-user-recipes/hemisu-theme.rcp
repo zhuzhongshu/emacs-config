@@ -1,0 +1,6 @@
+(:name hemisu-theme
+:auto-generated t
+:type elpa
+:description "Hemisu for Emacs."
+:repo nil
+)

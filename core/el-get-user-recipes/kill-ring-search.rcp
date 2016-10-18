@@ -1,0 +1,6 @@
+(:name kill-ring-search
+:auto-generated t
+:type elpa
+:description "incremental search for the kill ring"
+:repo nil
+)

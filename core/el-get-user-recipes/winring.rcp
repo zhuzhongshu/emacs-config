@@ -1,0 +1,6 @@
+(:name winring
+:auto-generated t
+:type elpa
+:description "Window configuration rings"
+:repo nil
+)

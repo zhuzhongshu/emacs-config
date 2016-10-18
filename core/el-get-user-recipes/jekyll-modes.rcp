@@ -1,0 +1,7 @@
+(:name jekyll-modes
+:auto-generated t
+:type elpa
+:description "Major modes (markdown and HTML) for authoring Jekyll content"
+:repo nil
+:depends (polymode)
+)

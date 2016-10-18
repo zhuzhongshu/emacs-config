@@ -1,0 +1,7 @@
+(:name livid-mode
+:auto-generated t
+:type elpa
+:description "Live browser eval of JavaScript every time a buffer changes"
+:repo nil
+:depends (skewer-mode s)
+)

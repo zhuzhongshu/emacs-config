@@ -1,0 +1,6 @@
+(:name gotham-theme
+:auto-generated t
+:type elpa
+:description "A very dark Emacs color theme."
+:repo nil
+)

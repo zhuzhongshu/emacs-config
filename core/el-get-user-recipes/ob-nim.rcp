@@ -1,0 +1,7 @@
+(:name ob-nim
+:auto-generated t
+:type elpa
+:description "Babel Functions for nim"
+:repo nil
+:depends (cl-lib)
+)

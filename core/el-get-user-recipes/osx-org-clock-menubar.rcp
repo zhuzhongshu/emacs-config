@@ -1,0 +1,6 @@
+(:name osx-org-clock-menubar
+:auto-generated t
+:type elpa
+:description "simple menubar integration for org-clock"
+:repo nil
+)

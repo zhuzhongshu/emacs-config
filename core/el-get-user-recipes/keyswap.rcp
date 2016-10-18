@@ -1,0 +1,7 @@
+(:name keyswap
+:auto-generated t
+:type elpa
+:description "swap bindings between key pairs"
+:repo nil
+:minimum-emacs-version (24 3)
+)

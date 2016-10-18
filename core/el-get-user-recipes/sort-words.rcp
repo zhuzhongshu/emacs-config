@@ -1,0 +1,6 @@
+(:name sort-words
+:auto-generated t
+:type elpa
+:description "Sort words in a selected region"
+:repo nil
+)

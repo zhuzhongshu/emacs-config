@@ -1,0 +1,6 @@
+(:name nash-mode
+:auto-generated t
+:type elpa
+:description "Nash major mode"
+:repo nil
+)

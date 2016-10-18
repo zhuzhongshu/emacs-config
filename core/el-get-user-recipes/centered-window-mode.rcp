@@ -1,0 +1,7 @@
+(:name centered-window-mode
+:auto-generated t
+:type elpa
+:description "Center the text when there's only one window"
+:repo nil
+:depends (s)
+)

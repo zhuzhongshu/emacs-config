@@ -1,0 +1,6 @@
+(:name faust-mode
+:auto-generated t
+:type elpa
+:description "Basic faust syntax colorizer for emacs."
+:repo nil
+)

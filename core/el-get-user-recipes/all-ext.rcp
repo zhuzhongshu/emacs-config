@@ -1,0 +1,7 @@
+(:name all-ext
+:auto-generated t
+:type elpa
+:description "M-x all with helm(-swoop)/anything/multiple-cursors/line-number"
+:repo nil
+:depends (all)
+)

@@ -1,0 +1,7 @@
+(:name ppd-sr-speedbar
+:auto-generated t
+:type elpa
+:description "Sr Speedbar adaptor for project-persist-drawer."
+:repo nil
+:depends (sr-speedbar project-persist-drawer)
+)

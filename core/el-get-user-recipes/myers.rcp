@@ -1,0 +1,7 @@
+(:name myers
+:auto-generated t
+:type elpa
+:description "Random-access singly-linked lists"
+:repo nil
+:minimum-emacs-version (25)
+)

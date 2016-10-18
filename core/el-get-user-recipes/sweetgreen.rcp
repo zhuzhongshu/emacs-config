@@ -1,0 +1,7 @@
+(:name sweetgreen
+:auto-generated t
+:type elpa
+:description "Order Salads from sweetgreen.com"
+:repo nil
+:depends (dash helm request cl-lib)
+)

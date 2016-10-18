@@ -1,0 +1,7 @@
+(:name focus-autosave-mode
+:auto-generated t
+:type elpa
+:description "Automatically save files in focus-out-hook."
+:repo nil
+:minimum-emacs-version (24 4)
+)

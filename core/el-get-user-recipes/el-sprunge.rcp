@@ -1,0 +1,8 @@
+(:name el-sprunge
+:auto-generated t
+:type elpa
+:description "Command line paste server with Emacs highlighting"
+:repo nil
+:depends (web-server htmlize)
+:minimum-emacs-version (24 3)
+)

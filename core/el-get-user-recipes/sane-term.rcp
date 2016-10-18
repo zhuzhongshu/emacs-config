@@ -1,0 +1,7 @@
+(:name sane-term
+:auto-generated t
+:type elpa
+:description "Multi Term is crazy. This is not."
+:repo nil
+:minimum-emacs-version (24 1)
+)

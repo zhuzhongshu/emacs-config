@@ -1,0 +1,6 @@
+(:name inflections
+:auto-generated t
+:type elpa
+:description "convert english words between singular and plural"
+:repo nil
+)

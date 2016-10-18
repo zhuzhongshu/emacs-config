@@ -1,0 +1,8 @@
+(:name bongo
+:auto-generated t
+:type elpa
+:description "play music with Emacs"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

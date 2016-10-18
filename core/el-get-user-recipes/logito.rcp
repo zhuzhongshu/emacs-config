@@ -1,0 +1,7 @@
+(:name logito
+:auto-generated t
+:type elpa
+:description "logging library for Emacs"
+:repo nil
+:depends (eieio)
+)

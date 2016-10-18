@@ -1,0 +1,7 @@
+(:name cycle-themes
+:auto-generated t
+:type elpa
+:description "A global minor mode to make switching themes easier"
+:repo nil
+:depends (cl-lib)
+)

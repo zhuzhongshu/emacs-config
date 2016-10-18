@@ -1,0 +1,6 @@
+(:name dynamic-ruler
+:auto-generated t
+:type elpa
+:description "Displays a dynamic ruler at point."
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name helm-grepint
+:auto-generated t
+:type elpa
+:description "Generic helm interface to grep"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24)
+)

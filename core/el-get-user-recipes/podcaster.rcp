@@ -1,0 +1,7 @@
+(:name podcaster
+:auto-generated t
+:type elpa
+:description "Podcast client"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name doremi-frm
+:auto-generated t
+:type elpa
+:description "Incrementally adjust face attributes and frame parameters."
+:repo nil
+:depends (doremi faces+ frame-fns hexrgb)
+)

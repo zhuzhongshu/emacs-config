@@ -1,3 +1,5 @@
+(require 'yasnippet)
+(require 'smartparens)
 (yas-global-mode 1)
 ;; 快捷键设置：取消yasnippet对tab的占用，全部改成M-tab
 (define-key yas-minor-mode-map (kbd "<tab>") nil)

@@ -1,0 +1,7 @@
+(:name go
+:auto-generated t
+:type elpa
+:description "Play GO, translate and transfer between GO back ends"
+:repo nil
+:minimum-emacs-version (24)
+)

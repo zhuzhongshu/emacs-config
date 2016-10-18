@@ -1,0 +1,7 @@
+(:name gorepl-mode
+:auto-generated t
+:type elpa
+:description "Go REPL Interactive Development in top of Gore"
+:repo nil
+:minimum-emacs-version (24)
+)

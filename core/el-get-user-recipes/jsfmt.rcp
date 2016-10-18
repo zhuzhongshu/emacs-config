@@ -1,0 +1,6 @@
+(:name jsfmt
+:auto-generated t
+:type elpa
+:description "Interface to jsfmt command for javascript files"
+:repo nil
+)

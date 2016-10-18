@@ -1,0 +1,6 @@
+(:name highlight-symbol
+:auto-generated t
+:type elpa
+:description "automatic and manual symbol highlighting"
+:repo nil
+)

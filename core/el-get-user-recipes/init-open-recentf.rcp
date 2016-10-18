@@ -1,0 +1,7 @@
+(:name init-open-recentf
+:auto-generated t
+:type elpa
+:description "Open recentf immediately after Emacs is started"
+:repo nil
+:minimum-emacs-version (24 4)
+)

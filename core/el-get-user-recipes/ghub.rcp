@@ -1,0 +1,7 @@
+(:name ghub
+:auto-generated t
+:type elpa
+:description "minuscule client for the Github API"
+:repo nil
+:minimum-emacs-version (25)
+)

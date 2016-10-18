@@ -1,0 +1,7 @@
+(:name persistent-soft
+:auto-generated t
+:type elpa
+:description "Persistent storage, returning nil on failure"
+:repo nil
+:depends (pcache list-utils)
+)

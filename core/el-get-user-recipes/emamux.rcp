@@ -1,0 +1,8 @@
+(:name emamux
+:auto-generated t
+:type elpa
+:description "Interact with tmux"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

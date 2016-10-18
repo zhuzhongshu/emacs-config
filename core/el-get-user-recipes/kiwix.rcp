@@ -1,0 +1,8 @@
+(:name kiwix
+:auto-generated t
+:type elpa
+:description "Kiwix interface and support."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

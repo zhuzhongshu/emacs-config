@@ -1,0 +1,6 @@
+(:name apu
+:auto-generated t
+:type elpa
+:description "Apropos Unicode characters."
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name kanji-mode
+:auto-generated t
+:type elpa
+:description "View stroke order for kanji characters at cursor"
+:repo nil
+)

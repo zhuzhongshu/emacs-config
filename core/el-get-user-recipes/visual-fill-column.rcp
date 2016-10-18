@@ -1,0 +1,7 @@
+(:name visual-fill-column
+:auto-generated t
+:type elpa
+:description "fill-column for visual-line-mode"
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name evil-mark-replace
+:auto-generated t
+:type elpa
+:description "replace the thing in marked area"
+:repo nil
+:depends (evil)
+)

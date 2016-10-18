@@ -1,0 +1,7 @@
+(:name pastelmac-theme
+:auto-generated t
+:type elpa
+:description "a soothing theme with a pastel color palette"
+:repo nil
+:minimum-emacs-version (24 1)
+)

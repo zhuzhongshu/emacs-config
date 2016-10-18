@@ -1,0 +1,7 @@
+(:name fraktur-mode
+:auto-generated t
+:type elpa
+:description "Easily insert Unicode mathematical Fraktur characters"
+:repo nil
+:depends (cl-lib)
+)

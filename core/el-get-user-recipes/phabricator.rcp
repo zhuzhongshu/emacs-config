@@ -1,0 +1,8 @@
+(:name phabricator
+:auto-generated t
+:type elpa
+:description "Phabricator/Arcanist helpers for Emacs."
+:repo nil
+:depends (dash projectile s f)
+:minimum-emacs-version (24 4)
+)

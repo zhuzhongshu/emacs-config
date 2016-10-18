@@ -1,0 +1,8 @@
+(:name spaceline
+:auto-generated t
+:type elpa
+:description "Modeline configuration library for powerline"
+:repo nil
+:depends (cl-lib powerline dash s)
+:minimum-emacs-version (24 3)
+)

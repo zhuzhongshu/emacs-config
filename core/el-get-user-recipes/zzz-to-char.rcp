@@ -1,0 +1,8 @@
+(:name zzz-to-char
+:auto-generated t
+:type elpa
+:description "Fancy version of `zap-to-char' command"
+:repo nil
+:depends (cl-lib avy)
+:minimum-emacs-version (24 4)
+)

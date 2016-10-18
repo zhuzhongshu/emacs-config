@@ -1,0 +1,7 @@
+(:name hamburger-menu
+:auto-generated t
+:type elpa
+:description "Mode line hamburger menu"
+:repo nil
+:minimum-emacs-version (24 5)
+)

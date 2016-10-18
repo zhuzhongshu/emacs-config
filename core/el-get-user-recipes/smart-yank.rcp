@@ -1,0 +1,7 @@
+(:name smart-yank
+:auto-generated t
+:type elpa
+:description "A different approach of yank pointer handling"
+:repo nil
+:minimum-emacs-version (24)
+)

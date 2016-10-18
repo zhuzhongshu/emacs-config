@@ -1,0 +1,7 @@
+(:name navi-mode
+:auto-generated t
+:type elpa
+:description "major-mode for easy buffer-navigation"
+:repo nil
+:depends (outshine outorg)
+)

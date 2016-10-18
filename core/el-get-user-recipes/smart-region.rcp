@@ -1,0 +1,8 @@
+(:name smart-region
+:auto-generated t
+:type elpa
+:description "Smartly select region, rectangle, multi cursors"
+:repo nil
+:depends (expand-region multiple-cursors cl-lib)
+:minimum-emacs-version (24 4)
+)

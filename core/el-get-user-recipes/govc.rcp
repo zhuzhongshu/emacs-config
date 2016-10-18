@@ -1,0 +1,8 @@
+(:name govc
+:auto-generated t
+:type elpa
+:description "Interface to govc for managing VMware ESXi and vCenter"
+:repo nil
+:depends (dash s magit-popup json-mode)
+:minimum-emacs-version (24 3)
+)

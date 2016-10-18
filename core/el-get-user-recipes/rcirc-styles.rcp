@@ -1,0 +1,7 @@
+(:name rcirc-styles
+:auto-generated t
+:type elpa
+:description "support mIRC-style color and attribute codes"
+:repo nil
+:depends (cl-lib)
+)

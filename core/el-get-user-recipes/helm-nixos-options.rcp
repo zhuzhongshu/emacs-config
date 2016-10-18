@@ -1,0 +1,7 @@
+(:name helm-nixos-options
+:auto-generated t
+:type elpa
+:description "Helm Interface for nixos-options"
+:repo nil
+:depends (nixos-options helm)
+)

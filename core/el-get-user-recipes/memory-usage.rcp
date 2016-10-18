@@ -1,0 +1,6 @@
+(:name memory-usage
+:auto-generated t
+:type elpa
+:description "Analyze the memory usage of Emacs in various ways"
+:repo nil
+)

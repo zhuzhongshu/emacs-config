@@ -1,0 +1,7 @@
+(:name org-themis
+:auto-generated t
+:type elpa
+:description "Experimental project management mode for org-mode"
+:repo nil
+:depends (cl-lib)
+)

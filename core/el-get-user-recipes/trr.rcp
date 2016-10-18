@@ -1,0 +1,6 @@
+(:name trr
+:auto-generated t
+:type elpa
+:description "a type-writing training program on GNU Emacs."
+:repo nil
+)

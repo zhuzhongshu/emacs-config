@@ -1,0 +1,7 @@
+(:name idea-darkula-theme
+:auto-generated t
+:type elpa
+:description "Color theme based on IntelliJ IDEA Darkula color theme"
+:repo nil
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,7 @@
+(:name helm-bind-key
+:auto-generated t
+:type elpa
+:description "helm-source for for bind-key."
+:repo nil
+:depends (bind-key helm)
+)

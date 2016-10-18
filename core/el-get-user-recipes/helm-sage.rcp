@@ -1,0 +1,7 @@
+(:name helm-sage
+:auto-generated t
+:type elpa
+:description "A helm extension for sage-shell-mode."
+:repo nil
+:depends (cl-lib helm sage-shell-mode)
+)

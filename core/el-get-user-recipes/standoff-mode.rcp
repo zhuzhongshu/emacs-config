@@ -1,0 +1,6 @@
+(:name standoff-mode
+:auto-generated t
+:type elpa
+:description "Create stand-off markup, also called external markup."
+:repo nil
+)

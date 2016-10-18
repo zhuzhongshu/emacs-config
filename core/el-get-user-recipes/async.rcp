@@ -1,0 +1,6 @@
+(:name async
+:auto-generated t
+:type elpa
+:description "Asynchronous processing in Emacs"
+:repo nil
+)

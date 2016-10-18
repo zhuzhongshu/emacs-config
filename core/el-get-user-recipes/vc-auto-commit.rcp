@@ -1,0 +1,6 @@
+(:name vc-auto-commit
+:auto-generated t
+:type elpa
+:description "Auto-committing feature for your repository"
+:repo nil
+)

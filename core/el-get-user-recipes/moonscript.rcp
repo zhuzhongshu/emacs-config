@@ -1,0 +1,8 @@
+(:name moonscript
+:auto-generated t
+:type elpa
+:description "Major mode for editing MoonScript code"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

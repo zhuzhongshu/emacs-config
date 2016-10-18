@@ -1,0 +1,8 @@
+(:name helm-themes
+:auto-generated t
+:type elpa
+:description "Color theme selection with helm interface"
+:repo nil
+:depends (helm-core)
+:minimum-emacs-version (24 4)
+)

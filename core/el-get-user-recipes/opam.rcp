@@ -1,0 +1,7 @@
+(:name opam
+:auto-generated t
+:type elpa
+:description "OPAM tools"
+:repo nil
+:minimum-emacs-version (24 1)
+)

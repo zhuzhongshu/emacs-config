@@ -1,0 +1,8 @@
+(:name foreman-mode
+:auto-generated t
+:type elpa
+:description "View and manage Procfile-based applications"
+:repo nil
+:depends (s dash dash-functional f)
+:minimum-emacs-version (24)
+)

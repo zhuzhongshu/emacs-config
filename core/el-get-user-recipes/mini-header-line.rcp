@@ -1,0 +1,7 @@
+(:name mini-header-line
+:auto-generated t
+:type elpa
+:description "a minimal header-line"
+:repo nil
+:minimum-emacs-version (24 4)
+)

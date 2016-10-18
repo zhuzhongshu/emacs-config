@@ -1,0 +1,7 @@
+(:name keyset
+:auto-generated t
+:type elpa
+:description "A small library for structuring key bindings."
+:repo nil
+:depends (dash cl-lib)
+)

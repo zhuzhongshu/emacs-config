@@ -1,0 +1,7 @@
+(:name malabar-mode
+:auto-generated t
+:type elpa
+:description "JVM Integration mode for EMACS"
+:repo nil
+:depends (fringe-helper groovy-mode)
+)

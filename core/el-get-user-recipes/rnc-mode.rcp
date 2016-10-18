@@ -1,0 +1,6 @@
+(:name rnc-mode
+:auto-generated t
+:type elpa
+:description "Emacs mode to edit Relax-NG Compact files"
+:repo nil
+)

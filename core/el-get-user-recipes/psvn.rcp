@@ -1,0 +1,6 @@
+(:name psvn
+:auto-generated t
+:type elpa
+:description "Subversion interface for emacs"
+:repo nil
+)

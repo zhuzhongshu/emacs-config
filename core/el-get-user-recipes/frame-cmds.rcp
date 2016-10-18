@@ -1,0 +1,7 @@
+(:name frame-cmds
+:auto-generated t
+:type elpa
+:description "Frame and window commands (interactive functions)."
+:repo nil
+:depends (frame-fns)
+)

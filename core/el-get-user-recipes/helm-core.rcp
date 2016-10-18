@@ -1,0 +1,8 @@
+(:name helm-core
+:auto-generated t
+:type elpa
+:description "Development files for Helm"
+:repo nil
+:depends (async)
+:minimum-emacs-version (24 4)
+)

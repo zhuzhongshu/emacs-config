@@ -1,0 +1,6 @@
+(:name toggle-window
+:auto-generated t
+:type elpa
+:description "toggle current window size between half and full"
+:repo nil
+)

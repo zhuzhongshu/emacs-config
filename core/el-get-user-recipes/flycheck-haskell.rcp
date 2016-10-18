@@ -1,0 +1,8 @@
+(:name flycheck-haskell
+:auto-generated t
+:type elpa
+:description "Flycheck: Automatic Haskell configuration"
+:repo nil
+:depends (flycheck haskell-mode dash seq let-alist)
+:minimum-emacs-version (24 3)
+)

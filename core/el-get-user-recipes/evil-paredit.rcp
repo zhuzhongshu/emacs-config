@@ -1,0 +1,7 @@
+(:name evil-paredit
+:auto-generated t
+:type elpa
+:description "Paredit support for evil keybindings"
+:repo nil
+:depends (evil paredit)
+)

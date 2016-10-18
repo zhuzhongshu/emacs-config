@@ -1,0 +1,6 @@
+(:name gitignore-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing .gitignore files"
+:repo nil
+)

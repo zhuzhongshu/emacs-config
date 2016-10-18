@@ -1,0 +1,7 @@
+(:name eyuml
+:auto-generated t
+:type elpa
+:description "Write textual uml diagram from emacs using yuml.me"
+:repo nil
+:depends (request s)
+)

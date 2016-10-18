@@ -1,0 +1,8 @@
+(:name pass
+:auto-generated t
+:type elpa
+:description "Major mode for password-store.el"
+:repo nil
+:depends (password-store f)
+:minimum-emacs-version (24)
+)

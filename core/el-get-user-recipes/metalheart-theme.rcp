@@ -1,0 +1,7 @@
+(:name metalheart-theme
+:auto-generated t
+:type elpa
+:description "Low-contrast theme with a dark blue-green background."
+:repo nil
+:minimum-emacs-version (24)
+)

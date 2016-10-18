@@ -1,0 +1,7 @@
+(:name ebf
+:auto-generated t
+:type elpa
+:description "brainfuck language transpiler to Emacs Lisp"
+:repo nil
+:depends (dash dash-functional cl-lib)
+)

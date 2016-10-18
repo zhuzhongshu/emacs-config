@@ -1,0 +1,7 @@
+(:name sly-quicklisp
+:auto-generated t
+:type elpa
+:description "A template SLY contrib"
+:repo nil
+:depends (sly)
+)

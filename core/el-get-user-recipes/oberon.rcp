@@ -1,0 +1,6 @@
+(:name oberon
+:auto-generated t
+:type elpa
+:description "Major mode for editing Oberon/Oberon-2 program texts"
+:repo nil
+)

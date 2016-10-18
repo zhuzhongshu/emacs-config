@@ -1,0 +1,8 @@
+(:name org-tfl
+:auto-generated t
+:type elpa
+:description "Transport for London meets Orgmode"
+:repo nil
+:depends (org cl-lib)
+:minimum-emacs-version (24 1)
+)

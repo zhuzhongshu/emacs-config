@@ -1,0 +1,7 @@
+(:name bbyac
+:auto-generated t
+:type elpa
+:description "Type a little Bit, and Bang! You Are Completed."
+:repo nil
+:depends (browse-kill-ring cl-lib)
+)

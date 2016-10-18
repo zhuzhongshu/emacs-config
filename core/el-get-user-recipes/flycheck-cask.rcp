@@ -1,0 +1,8 @@
+(:name flycheck-cask
+:auto-generated t
+:type elpa
+:description "Cask support in Flycheck"
+:repo nil
+:depends (flycheck dash)
+:minimum-emacs-version (24 1)
+)

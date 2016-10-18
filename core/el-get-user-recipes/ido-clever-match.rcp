@@ -1,0 +1,8 @@
+(:name ido-clever-match
+:auto-generated t
+:type elpa
+:description "Alternative matcher for ido."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 4)
+)

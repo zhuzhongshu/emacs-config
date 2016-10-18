@@ -1,0 +1,7 @@
+(:name helm-flyspell
+:auto-generated t
+:type elpa
+:description "Helm extension for correcting words with flyspell"
+:repo nil
+:depends (helm)
+)

@@ -1,0 +1,8 @@
+(:name sx
+:auto-generated t
+:type elpa
+:description "StackExchange client. Ask and answer questions on Stack Overflow, Super User, and the likes"
+:repo nil
+:depends (cl-lib json markdown-mode let-alist)
+:minimum-emacs-version (24 1)
+)

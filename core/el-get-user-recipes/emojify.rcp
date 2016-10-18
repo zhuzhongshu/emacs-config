@@ -1,0 +1,8 @@
+(:name emojify
+:auto-generated t
+:type elpa
+:description "Display emojis in Emacs"
+:repo nil
+:depends (seq ht)
+:minimum-emacs-version (24 3)
+)

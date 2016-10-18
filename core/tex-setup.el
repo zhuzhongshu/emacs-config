@@ -1,5 +1,5 @@
 (setq TeX-auto-save t)
-(setq TeX-shell "/bin/bash")
+(setq TeX-shell "/bin/zsh")
 (setq TeX-parse-self t)
 (add-hook 'LaTeX-mode-hook 'turn-on-reftex)   ;; with AUCTeX LaTeX mode
 (add-hook 'latex-mode-hook 'turn-on-reftex)   ;; with Emacs latex mode
@@ -16,7 +16,6 @@
                                      ("Varioref" "varioref" (("\\vref" 118) ("\\vpageref" 103) ("\\Vref" 86) ("\\Ref" 82)))
                                      ("Fancyref" "fancyref" (("\\fref" 102) ("\\Fref" 70)))
                                      ("Hyperref" "hyperref" (("\\autoref" 97) ("\\autopageref" 117))))))
-(add-to-list 'reftex-ref-style-default-list "Hyperref")
 (global-set-key [(control c) (control \\)] 'reftex-reference)   ;;默认定义是C-c C-)
 ;;(add-hook 'find-file-hook 'TeX-fold-buffer t)
 

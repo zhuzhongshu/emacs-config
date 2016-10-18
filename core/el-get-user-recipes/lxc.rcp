@@ -1,0 +1,6 @@
+(:name lxc
+:auto-generated t
+:type elpa
+:description "lxc integration with Emacs"
+:repo nil
+)

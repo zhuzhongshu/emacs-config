@@ -1,0 +1,6 @@
+(:name eslint-fix
+:auto-generated t
+:type elpa
+:description "Fix JavaScript files using ESLint"
+:repo nil
+)

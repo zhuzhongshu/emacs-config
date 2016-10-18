@@ -1,0 +1,6 @@
+(:name pinyinlib
+:auto-generated t
+:type elpa
+:description "Convert first letter of Pinyin to Simplified/Traditional Chinese characters"
+:repo nil
+)

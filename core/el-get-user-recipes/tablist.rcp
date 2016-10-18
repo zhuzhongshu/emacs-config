@@ -1,0 +1,7 @@
+(:name tablist
+:auto-generated t
+:type elpa
+:description "Extended tabulated-list-mode"
+:repo nil
+:minimum-emacs-version (24 3)
+)

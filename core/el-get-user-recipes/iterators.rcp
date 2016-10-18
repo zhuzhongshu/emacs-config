@@ -1,0 +1,7 @@
+(:name iterators
+:auto-generated t
+:type elpa
+:description "Functions for working with iterators"
+:repo nil
+:minimum-emacs-version (25)
+)

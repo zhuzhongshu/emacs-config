@@ -1,0 +1,7 @@
+(:name plur
+:auto-generated t
+:type elpa
+:description "Easily search and replace multiple variants of a word"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name ess
+:auto-generated t
+:type elpa
+:description "Emacs Speaks Statistics"
+:repo nil
+:depends (julia-mode)
+)

@@ -1,0 +1,6 @@
+(:name subemacs
+:auto-generated t
+:type elpa
+:description "Evaluating expressions in a fresh Emacs subprocess"
+:repo nil
+)

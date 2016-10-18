@@ -1,0 +1,7 @@
+(:name django-manage
+:auto-generated t
+:type elpa
+:description "Django minor mode for commanding manage.py"
+:repo nil
+:depends (hydra)
+)

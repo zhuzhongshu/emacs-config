@@ -1,0 +1,8 @@
+(:name telephone-line
+:auto-generated t
+:type elpa
+:description "Rewrite of Powerline"
+:repo nil
+:depends (cl-lib cl-generic seq)
+:minimum-emacs-version (24 4)
+)

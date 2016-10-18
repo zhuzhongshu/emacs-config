@@ -1,0 +1,6 @@
+(:name modern-cpp-font-lock
+:auto-generated t
+:type elpa
+:description "Font-locking for \"Modern C++\""
+:repo nil
+)

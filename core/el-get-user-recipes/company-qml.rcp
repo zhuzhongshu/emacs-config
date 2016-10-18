@@ -1,0 +1,7 @@
+(:name company-qml
+:auto-generated t
+:type elpa
+:description "Company backend for QML files"
+:repo nil
+:depends (qml-mode company)
+)

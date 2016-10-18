@@ -1,0 +1,6 @@
+(:name ghq
+:auto-generated t
+:type elpa
+:description "Ghq interface for emacs"
+:repo nil
+)

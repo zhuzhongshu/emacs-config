@@ -1,0 +1,7 @@
+(:name x-path-walker
+:auto-generated t
+:type elpa
+:description "Navigation feature for JSON/XML/HTML based on path (imenu like)"
+:repo nil
+:depends (helm-core)
+)

@@ -1,0 +1,6 @@
+(:name mpg123
+:auto-generated t
+:type elpa
+:description "A front-end program to mpg123/ogg123"
+:repo nil
+)

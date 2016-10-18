@@ -1,0 +1,8 @@
+(:name mobdebug-mode
+:auto-generated t
+:type elpa
+:description "Major mode for MobDebug"
+:repo nil
+:depends (lua-mode)
+:minimum-emacs-version (24)
+)

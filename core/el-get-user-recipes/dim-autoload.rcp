@@ -1,0 +1,6 @@
+(:name dim-autoload
+:auto-generated t
+:type elpa
+:description "dim complete autoload cookie lines"
+:repo nil
+)

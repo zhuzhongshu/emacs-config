@@ -1,0 +1,7 @@
+(:name company-ngram
+:auto-generated t
+:type elpa
+:description "N-gram based completion"
+:repo nil
+:depends (cl-lib company)
+)

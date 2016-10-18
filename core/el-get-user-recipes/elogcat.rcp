@@ -1,0 +1,7 @@
+(:name elogcat
+:auto-generated t
+:type elpa
+:description "logcat interface"
+:repo nil
+:depends (s dash)
+)

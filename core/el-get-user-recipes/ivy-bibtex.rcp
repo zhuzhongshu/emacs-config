@@ -1,0 +1,7 @@
+(:name ivy-bibtex
+:auto-generated t
+:type elpa
+:description "A bibliography manager based on Ivy"
+:repo nil
+:depends (swiper parsebib s dash f cl-lib biblio)
+)

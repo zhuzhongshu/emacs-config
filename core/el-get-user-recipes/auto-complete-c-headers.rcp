@@ -1,0 +1,7 @@
+(:name auto-complete-c-headers
+:auto-generated t
+:type elpa
+:description "An auto-complete source for C/C++ header files"
+:repo nil
+:depends (auto-complete)
+)

@@ -1,0 +1,6 @@
+(:name opencl-mode
+:auto-generated t
+:type elpa
+:description "Syntax coloring for opencl kernels"
+:repo nil
+)

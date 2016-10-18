@@ -1,0 +1,7 @@
+(:name ox-trac
+:auto-generated t
+:type elpa
+:description "Org Export Backend to Trac WikiFormat"
+:repo nil
+:depends (org)
+)

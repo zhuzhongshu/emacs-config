@@ -1,0 +1,6 @@
+(:name sunny-day-theme
+:auto-generated t
+:type elpa
+:description "Emacs24 theme with a light background."
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name graphene-meta-theme
+:auto-generated t
+:type elpa
+:description "Integrated theming for common packages"
+:repo nil
+)

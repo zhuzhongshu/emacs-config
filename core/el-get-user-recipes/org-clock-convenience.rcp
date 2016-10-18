@@ -1,0 +1,8 @@
+(:name org-clock-convenience
+:auto-generated t
+:type elpa
+:description "convenience functions for org time tracking"
+:repo nil
+:depends (cl-lib org)
+:minimum-emacs-version (24 3)
+)

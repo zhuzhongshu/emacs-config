@@ -1,0 +1,6 @@
+(:name quick-preview
+:auto-generated t
+:type elpa
+:description "quick preview using GNOME sushi, gloobus or quick look"
+:repo nil
+)

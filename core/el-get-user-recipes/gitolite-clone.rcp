@@ -1,0 +1,8 @@
+(:name gitolite-clone
+:auto-generated t
+:type elpa
+:description "Clone gitolite repositories from a completing list"
+:repo nil
+:depends (dash s pcache)
+:minimum-emacs-version (24)
+)

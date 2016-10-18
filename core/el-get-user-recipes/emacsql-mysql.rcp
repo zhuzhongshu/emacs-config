@@ -1,0 +1,8 @@
+(:name emacsql-mysql
+:auto-generated t
+:type elpa
+:description "EmacSQL back-end for MySQL"
+:repo nil
+:depends (cl-lib emacsql)
+:minimum-emacs-version (24 3)
+)

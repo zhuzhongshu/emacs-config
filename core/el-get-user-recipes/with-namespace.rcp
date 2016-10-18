@@ -1,0 +1,7 @@
+(:name with-namespace
+:auto-generated t
+:type elpa
+:description "interoperable elisp namespaces"
+:repo nil
+:depends (dash loop)
+)

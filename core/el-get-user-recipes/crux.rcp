@@ -1,0 +1,7 @@
+(:name crux
+:auto-generated t
+:type elpa
+:description "A Collection of Ridiculously Useful eXtensions"
+:repo nil
+:depends (seq)
+)

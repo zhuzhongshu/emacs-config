@@ -1,0 +1,6 @@
+(:name o-blog
+:auto-generated t
+:type elpa
+:description "Standalone orgmode blog exporter"
+:repo nil
+)

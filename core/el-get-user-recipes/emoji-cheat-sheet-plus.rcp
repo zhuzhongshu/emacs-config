@@ -1,0 +1,8 @@
+(:name emoji-cheat-sheet-plus
+:auto-generated t
+:type elpa
+:description "emoji-cheat-sheet for emacs"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24)
+)

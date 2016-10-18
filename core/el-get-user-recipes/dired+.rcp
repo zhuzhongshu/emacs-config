@@ -1,0 +1,6 @@
+(:name dired+
+:auto-generated t
+:type elpa
+:description "Extensions to Dired."
+:repo nil
+)

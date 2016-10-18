@@ -1,0 +1,6 @@
+(:name dfmt
+:auto-generated t
+:type elpa
+:description "Emacs Interface to D indenting/formatting tool dfmt."
+:repo nil
+)

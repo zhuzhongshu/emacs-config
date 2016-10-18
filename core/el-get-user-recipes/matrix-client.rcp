@@ -1,0 +1,7 @@
+(:name matrix-client
+:auto-generated t
+:type elpa
+:description "A minimal chat client for the Matrix.org RPC"
+:repo nil
+:depends (json request)
+)

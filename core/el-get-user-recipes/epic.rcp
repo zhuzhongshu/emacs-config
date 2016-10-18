@@ -1,0 +1,7 @@
+(:name epic
+:auto-generated t
+:type elpa
+:description "Evernote Picker for Cocoa Emacs"
+:repo nil
+:depends (htmlize)
+)

@@ -1,0 +1,7 @@
+(:name ob-elixir
+:auto-generated t
+:type elpa
+:description "org-babel functions for elixir evaluation"
+:repo nil
+:depends (org)
+)

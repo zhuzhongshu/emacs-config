@@ -1,0 +1,6 @@
+(:name visual-ascii-mode
+:auto-generated t
+:type elpa
+:description "Visualize ascii code (small integer) on buffer."
+:repo nil
+)

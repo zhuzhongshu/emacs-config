@@ -1,0 +1,6 @@
+(:name org-mac-link
+:auto-generated t
+:type elpa
+:description "Insert org-mode links to items selected in various Mac apps"
+:repo nil
+)

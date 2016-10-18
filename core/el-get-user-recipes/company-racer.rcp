@@ -1,0 +1,8 @@
+(:name company-racer
+:auto-generated t
+:type elpa
+:description "Company integration for racer"
+:repo nil
+:depends (cl-lib company deferred dash)
+:minimum-emacs-version (24)
+)

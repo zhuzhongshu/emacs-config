@@ -1,0 +1,6 @@
+(:name otama
+:auto-generated t
+:type elpa
+:description "Org-table Manipulator"
+:repo nil
+)

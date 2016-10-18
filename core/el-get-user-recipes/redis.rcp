@@ -1,0 +1,8 @@
+(:name redis
+:auto-generated t
+:type elpa
+:description "Redis integration"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

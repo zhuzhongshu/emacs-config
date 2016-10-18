@@ -1,0 +1,8 @@
+(:name helm-safari
+:auto-generated t
+:type elpa
+:description "Browse your Safari bookmarks and history"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24)
+)

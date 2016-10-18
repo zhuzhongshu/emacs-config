@@ -1,0 +1,7 @@
+(:name resize-window
+:auto-generated t
+:type elpa
+:description "easily resize windows"
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name helm-purpose
+:auto-generated t
+:type elpa
+:description "Helm Interface for Purpose"
+:repo nil
+:depends (helm window-purpose)
+:minimum-emacs-version (24)
+)

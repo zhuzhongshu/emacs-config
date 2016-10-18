@@ -1,0 +1,6 @@
+(:name logstash-conf
+:auto-generated t
+:type elpa
+:description "basic mode for editing logstash configuration"
+:repo nil
+)

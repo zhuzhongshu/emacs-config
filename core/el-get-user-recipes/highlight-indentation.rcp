@@ -1,0 +1,6 @@
+(:name highlight-indentation
+:auto-generated t
+:type elpa
+:description "Minor modes for highlighting indentation"
+:repo nil
+)

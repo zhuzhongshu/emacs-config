@@ -1,0 +1,6 @@
+(:name golden-ratio-scroll-screen
+:auto-generated t
+:type elpa
+:description "Scroll half screen down or up, and highlight current line"
+:repo nil
+)

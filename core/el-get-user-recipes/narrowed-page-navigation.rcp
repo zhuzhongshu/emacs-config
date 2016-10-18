@@ -1,0 +1,8 @@
+(:name narrowed-page-navigation
+:auto-generated t
+:type elpa
+:description "A minor mode for showing one page at a time"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

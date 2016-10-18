@@ -1,0 +1,8 @@
+(:name ivy-pages
+:auto-generated t
+:type elpa
+:description "Complete current buffer's pages with Ivy"
+:repo nil
+:depends (ivy)
+:minimum-emacs-version (24 1)
+)

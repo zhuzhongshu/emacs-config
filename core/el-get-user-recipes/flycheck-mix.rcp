@@ -1,0 +1,7 @@
+(:name flycheck-mix
+:auto-generated t
+:type elpa
+:description "Elixir mix flycheck integration"
+:repo nil
+:depends (flycheck elixir-mode)
+)

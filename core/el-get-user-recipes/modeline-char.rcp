@@ -1,0 +1,6 @@
+(:name modeline-char
+:auto-generated t
+:type elpa
+:description "In the mode-line, show the value of the character after point."
+:repo nil
+)

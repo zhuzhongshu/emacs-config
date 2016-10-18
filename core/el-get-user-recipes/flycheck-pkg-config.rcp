@@ -1,0 +1,7 @@
+(:name flycheck-pkg-config
+:auto-generated t
+:type elpa
+:description "configure flycheck using pkg-config"
+:repo nil
+:depends (dash s cl-lib)
+)

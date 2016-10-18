@@ -1,0 +1,7 @@
+(:name wconf
+:auto-generated t
+:type elpa
+:description "Minimal window layout manager"
+:repo nil
+:minimum-emacs-version (24 4)
+)

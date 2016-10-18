@@ -1,0 +1,7 @@
+(:name ham-mode
+:auto-generated t
+:type elpa
+:description "Html As Markdown. Transparently edit an html file using markdown"
+:repo nil
+:depends (html-to-markdown markdown-mode)
+)

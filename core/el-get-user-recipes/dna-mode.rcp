@@ -1,0 +1,6 @@
+(:name dna-mode
+:auto-generated t
+:type elpa
+:description "a major mode for editing dna sequences"
+:repo nil
+)

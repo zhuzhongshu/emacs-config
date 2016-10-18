@@ -1,0 +1,8 @@
+(:name micgoline
+:auto-generated t
+:type elpa
+:description "powerline mode, color schemes from microsoft and google's logo."
+:repo nil
+:depends (powerline)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name anything-git-files
+:auto-generated t
+:type elpa
+:description "anything for git files"
+:repo nil
+:depends (anything)
+)

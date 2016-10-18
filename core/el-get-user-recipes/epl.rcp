@@ -1,0 +1,7 @@
+(:name epl
+:auto-generated t
+:type elpa
+:description "Emacs Package Library"
+:repo nil
+:depends (cl-lib)
+)

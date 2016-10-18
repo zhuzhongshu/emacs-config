@@ -1,0 +1,6 @@
+(:name djvu
+:auto-generated t
+:type elpa
+:description "Edit and view Djvu files via djvused"
+:repo nil
+)

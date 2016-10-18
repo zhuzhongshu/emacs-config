@@ -1,0 +1,8 @@
+(:name live-code-talks
+:auto-generated t
+:type elpa
+:description "Support for slides with live code in them"
+:repo nil
+:depends (cl-lib narrowed-page-navigation)
+:minimum-emacs-version (24)
+)

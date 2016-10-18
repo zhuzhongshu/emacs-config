@@ -1,0 +1,8 @@
+(:name ivy-purpose
+:auto-generated t
+:type elpa
+:description "Ivy Interface for Purpose"
+:repo nil
+:depends (ivy window-purpose)
+:minimum-emacs-version (24)
+)

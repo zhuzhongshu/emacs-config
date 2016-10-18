@@ -1,0 +1,7 @@
+(:name term-projectile
+:auto-generated t
+:type elpa
+:description "projectile terminal management"
+:repo nil
+:depends (term-manager projectile)
+)

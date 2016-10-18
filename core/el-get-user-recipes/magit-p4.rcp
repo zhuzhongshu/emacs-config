@@ -1,0 +1,7 @@
+(:name magit-p4
+:auto-generated t
+:type elpa
+:description "git-p4 plug-in for Magit"
+:repo nil
+:depends (magit magit-popup p4 cl-lib)
+)

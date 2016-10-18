@@ -1,0 +1,7 @@
+(:name gnomenm
+:auto-generated t
+:type elpa
+:description "Emacs interface to Gnome nmcli command"
+:repo nil
+:depends (s dash kv)
+)

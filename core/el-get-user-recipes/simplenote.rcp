@@ -1,0 +1,6 @@
+(:name simplenote
+:auto-generated t
+:type elpa
+:description "Interact with simple-note.appspot.com"
+:repo nil
+)

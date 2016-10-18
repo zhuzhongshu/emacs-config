@@ -1,0 +1,8 @@
+(:name names
+:auto-generated t
+:type elpa
+:description "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

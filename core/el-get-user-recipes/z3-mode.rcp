@@ -1,0 +1,8 @@
+(:name z3-mode
+:auto-generated t
+:type elpa
+:description "A z3/SMTLIBv2 interactive development environment"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name org-pdfview
+:auto-generated t
+:type elpa
+:description "Support for links to documents in pdfview mode"
+:repo nil
+:depends (org pdf-tools)
+)

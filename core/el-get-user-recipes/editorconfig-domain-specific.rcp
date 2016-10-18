@@ -1,0 +1,7 @@
+(:name editorconfig-domain-specific
+:auto-generated t
+:type elpa
+:description "Apply brace style and other \"domain-specific\" EditorConfig properties"
+:repo nil
+:depends (cl-lib editorconfig)
+)

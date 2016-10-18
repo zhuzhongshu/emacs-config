@@ -1,0 +1,7 @@
+(:name helm-bundle-show
+:auto-generated t
+:type elpa
+:description "bundle show with helm interface"
+:repo nil
+:depends (helm)
+)

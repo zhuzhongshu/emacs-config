@@ -1,0 +1,6 @@
+(:name window+
+:auto-generated t
+:type elpa
+:description "Extensions to `window.el'."
+:repo nil
+)

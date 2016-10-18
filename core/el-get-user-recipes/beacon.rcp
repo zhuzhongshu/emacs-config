@@ -1,0 +1,7 @@
+(:name beacon
+:auto-generated t
+:type elpa
+:description "Highlight the cursor whenever the window scrolls"
+:repo nil
+:depends (seq)
+)

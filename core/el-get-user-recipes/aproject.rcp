@@ -1,0 +1,6 @@
+(:name aproject
+:auto-generated t
+:type elpa
+:description "Basic project framework for Emacs"
+:repo nil
+)

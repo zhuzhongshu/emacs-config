@@ -1,0 +1,8 @@
+(:name mode-icons
+:auto-generated t
+:type elpa
+:description "Show icons for modes"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

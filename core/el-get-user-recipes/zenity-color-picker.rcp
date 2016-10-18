@@ -1,0 +1,7 @@
+(:name zenity-color-picker
+:auto-generated t
+:type elpa
+:description "Insert and adjust colors using Zenity"
+:repo nil
+:minimum-emacs-version (24 4)
+)

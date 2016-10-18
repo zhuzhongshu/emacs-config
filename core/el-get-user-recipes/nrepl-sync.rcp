@@ -1,0 +1,7 @@
+(:name nrepl-sync
+:auto-generated t
+:type elpa
+:description "connect to nrepl port and eval .sync.clj."
+:repo nil
+:depends (cider)
+)

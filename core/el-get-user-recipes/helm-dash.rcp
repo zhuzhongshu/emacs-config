@@ -1,0 +1,7 @@
+(:name helm-dash
+:auto-generated t
+:type elpa
+:description "Offline documentation browser for +150 APIs using Dash docsets."
+:repo nil
+:depends (helm cl-lib)
+)

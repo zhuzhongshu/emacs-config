@@ -1,0 +1,8 @@
+(:name shut-up
+:auto-generated t
+:type elpa
+:description "Shut up would you!"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

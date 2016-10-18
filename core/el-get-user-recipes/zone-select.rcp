@@ -1,0 +1,8 @@
+(:name zone-select
+:auto-generated t
+:type elpa
+:description "Select zone programs."
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 3)
+)

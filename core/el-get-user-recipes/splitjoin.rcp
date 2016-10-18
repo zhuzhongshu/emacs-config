@@ -1,0 +1,7 @@
+(:name splitjoin
+:auto-generated t
+:type elpa
+:description "Transition between multiline and single-line code"
+:repo nil
+:depends (cl-lib)
+)

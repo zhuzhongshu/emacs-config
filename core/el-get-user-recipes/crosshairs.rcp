@@ -1,0 +1,7 @@
+(:name crosshairs
+:auto-generated t
+:type elpa
+:description "Highlight the current line and column."
+:repo nil
+:depends (hl-line+ col-highlight vline)
+)

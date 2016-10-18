@@ -1,0 +1,7 @@
+(:name mb-url
+:auto-generated t
+:type elpa
+:description "Multiple Backends for Emacs URL package."
+:repo nil
+:depends (cl-lib)
+)

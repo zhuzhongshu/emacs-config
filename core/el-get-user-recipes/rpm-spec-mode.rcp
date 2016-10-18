@@ -1,0 +1,6 @@
+(:name rpm-spec-mode
+:auto-generated t
+:type elpa
+:description "RPM spec file editing commands for Emacs/XEmacs"
+:repo nil
+)

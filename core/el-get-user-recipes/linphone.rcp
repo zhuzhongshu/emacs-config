@@ -1,0 +1,6 @@
+(:name linphone
+:auto-generated t
+:type elpa
+:description "Emacs interface to Linphone"
+:repo nil
+)

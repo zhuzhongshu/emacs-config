@@ -1,0 +1,8 @@
+(:name eshell-git-prompt
+:auto-generated t
+:type elpa
+:description "Some Eshell prompt for Git users"
+:repo nil
+:depends (cl-lib dash s)
+:minimum-emacs-version (24 1)
+)

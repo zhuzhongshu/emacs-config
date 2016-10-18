@@ -1,0 +1,6 @@
+(:name jack-connect
+:auto-generated t
+:type elpa
+:description "Manage jack connections within Emacs"
+:repo nil
+)

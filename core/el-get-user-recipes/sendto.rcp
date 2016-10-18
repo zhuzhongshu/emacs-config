@@ -1,0 +1,7 @@
+(:name sendto
+:auto-generated t
+:type elpa
+:description "send the region content to a function"
+:repo nil
+:minimum-emacs-version (24 4)
+)

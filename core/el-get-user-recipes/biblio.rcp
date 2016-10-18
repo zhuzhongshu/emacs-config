@@ -1,0 +1,8 @@
+(:name biblio
+:auto-generated t
+:type elpa
+:description "Browse and import bibliographic references from CrossRef, arXiv, DBLP, HAL, Dissemin, and doi.org"
+:repo nil
+:depends (biblio-core)
+:minimum-emacs-version (24 3)
+)

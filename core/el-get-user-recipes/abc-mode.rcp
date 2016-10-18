@@ -1,0 +1,6 @@
+(:name abc-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing abc music files"
+:repo nil
+)

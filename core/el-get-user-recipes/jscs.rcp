@@ -1,0 +1,8 @@
+(:name jscs
+:auto-generated t
+:type elpa
+:description "Consistent JavaScript editing using JSCS"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

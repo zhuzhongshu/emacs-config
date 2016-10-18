@@ -1,0 +1,6 @@
+(:name recover-buffers
+:auto-generated t
+:type elpa
+:description "revisit all buffers from an auto-save file"
+:repo nil
+)

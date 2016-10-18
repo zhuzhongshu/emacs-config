@@ -1,0 +1,7 @@
+(:name dired-atool
+:auto-generated t
+:type elpa
+:description "Pack/unpack files with atool on dired."
+:repo nil
+:minimum-emacs-version (24)
+)

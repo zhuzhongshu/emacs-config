@@ -1,0 +1,6 @@
+(:name sentence-highlight
+:auto-generated t
+:type elpa
+:description "highlight the current sentence"
+:repo nil
+)

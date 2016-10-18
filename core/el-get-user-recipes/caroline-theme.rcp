@@ -1,0 +1,7 @@
+(:name caroline-theme
+:auto-generated t
+:type elpa
+:description "A trip down to New Orleans..."
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name uimage
+:auto-generated t
+:type elpa
+:description "An iimage like mode with the ability to display url images"
+:repo nil
+)

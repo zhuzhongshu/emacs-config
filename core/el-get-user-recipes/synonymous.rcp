@@ -1,0 +1,8 @@
+(:name synonymous
+:auto-generated t
+:type elpa
+:description "A thesaurus at your fingertips"
+:repo nil
+:depends (cl-lib request)
+:minimum-emacs-version (24)
+)

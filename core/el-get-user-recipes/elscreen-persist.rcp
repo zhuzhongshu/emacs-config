@@ -1,0 +1,7 @@
+(:name elscreen-persist
+:auto-generated t
+:type elpa
+:description "persist the elscreen across sessions"
+:repo nil
+:depends (elscreen revive)
+)

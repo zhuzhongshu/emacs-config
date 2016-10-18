@@ -1,0 +1,7 @@
+(:name git-lens
+:auto-generated t
+:type elpa
+:description "Show new, deleted or modified files in branch"
+:repo nil
+:minimum-emacs-version (24 4)
+)

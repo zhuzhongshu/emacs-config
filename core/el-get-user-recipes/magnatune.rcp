@@ -1,0 +1,7 @@
+(:name magnatune
+:auto-generated t
+:type elpa
+:description "browse magnatune's music catalog"
+:repo nil
+:depends (dash s)
+)

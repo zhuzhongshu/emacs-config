@@ -1,0 +1,6 @@
+(:name minesweeper
+:auto-generated t
+:type elpa
+:description "play minesweeper in Emacs"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name synquid
+:auto-generated t
+:type elpa
+:description "Major mode for editing Synquid files"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24 3)
+)

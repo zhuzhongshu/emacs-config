@@ -1,0 +1,8 @@
+(:name avy
+:auto-generated t
+:type elpa
+:description "tree-based completion"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

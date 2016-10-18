@@ -1,0 +1,7 @@
+(:name shelldoc
+:auto-generated t
+:type elpa
+:description "shell command editing support with man page."
+:repo nil
+:depends (cl-lib s)
+)

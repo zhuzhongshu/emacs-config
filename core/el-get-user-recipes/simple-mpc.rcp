@@ -1,0 +1,7 @@
+(:name simple-mpc
+:auto-generated t
+:type elpa
+:description "provides a simple interface to mpc"
+:repo nil
+:depends (s)
+)

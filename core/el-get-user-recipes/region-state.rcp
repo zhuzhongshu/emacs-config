@@ -1,0 +1,6 @@
+(:name region-state
+:auto-generated t
+:type elpa
+:description "Show the number of chars/lines or rows/columns in the region"
+:repo nil
+)

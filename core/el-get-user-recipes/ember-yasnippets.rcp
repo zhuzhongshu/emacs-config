@@ -1,0 +1,7 @@
+(:name ember-yasnippets
+:auto-generated t
+:type elpa
+:description "Snippets for Ember.js development"
+:repo nil
+:depends (yasnippet)
+)

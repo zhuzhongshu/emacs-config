@@ -1,0 +1,6 @@
+(:name yankpad
+:auto-generated t
+:type elpa
+:description "Paste snippets from an org-mode file"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name s-buffer
+:auto-generated t
+:type elpa
+:description "s operations for buffers"
+:repo nil
+:depends (s noflet)
+)

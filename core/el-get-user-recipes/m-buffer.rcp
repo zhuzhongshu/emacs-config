@@ -1,0 +1,7 @@
+(:name m-buffer
+:auto-generated t
+:type elpa
+:description "List-Oriented, Functional Buffer Manipulation"
+:repo nil
+:minimum-emacs-version (25 0)
+)

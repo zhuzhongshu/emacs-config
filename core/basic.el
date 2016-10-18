@@ -68,7 +68,7 @@
 ;;============================================================================================================
 ;; 这是从apper下载的，所以在site-lisp下，如果在MELPA下载，就不用这句命令了
 ;; 关于格式化选项，参照：http://clang.llvm.org/docs/ClangFormatStyleOptions.html
-(add-to-list 'load-path "/usr/share/emacs/site-lisp/clang-format-3.8")
+(add-to-list 'load-path "/usr/share/clang")
 (load "clang-format.el")
 ;;设置F10和C-F10为局部快捷键，只对c-mode有效
 (add-hook 'c-mode-common-hook
@@ -129,6 +129,7 @@
 ;;                                              Math
 ;;============================================================================================================
 (require 'math-setup)
+
 
 (provide 'basic)
 ;;; basic.el ends here

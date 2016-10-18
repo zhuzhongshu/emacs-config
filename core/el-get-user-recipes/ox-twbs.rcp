@@ -1,0 +1,6 @@
+(:name ox-twbs
+:auto-generated t
+:type elpa
+:description "Bootstrap compatible HTML Back-End for Org"
+:repo nil
+)

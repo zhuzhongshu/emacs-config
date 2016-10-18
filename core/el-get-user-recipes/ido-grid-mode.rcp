@@ -1,0 +1,7 @@
+(:name ido-grid-mode
+:auto-generated t
+:type elpa
+:description "Display ido-prospects in the minibuffer in a grid."
+:repo nil
+:minimum-emacs-version (24 4)
+)

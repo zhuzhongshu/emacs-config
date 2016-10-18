@@ -1,0 +1,7 @@
+(:name elmacro
+:auto-generated t
+:type elpa
+:description "Convert keyboard macros to emacs lisp"
+:repo nil
+:depends (s dash)
+)

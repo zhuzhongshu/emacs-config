@@ -1,0 +1,8 @@
+(:name vdirel
+:auto-generated t
+:type elpa
+:description "Manipulate vdir (i.e., vCard) repositories"
+:repo nil
+:depends (org-vcard helm seq)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name auto-capitalize
+:auto-generated t
+:type elpa
+:description "Automatically capitalize (or upcase) words"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name company-distel
+:auto-generated t
+:type elpa
+:description "Erlang/distel completion backend for company-mode"
+:repo nil
+:depends (distel-completion-lib)
+)

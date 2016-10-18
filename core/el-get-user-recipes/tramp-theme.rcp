@@ -1,0 +1,7 @@
+(:name tramp-theme
+:auto-generated t
+:type elpa
+:description "Custom theme for remote buffers"
+:repo nil
+:minimum-emacs-version (24 1)
+)

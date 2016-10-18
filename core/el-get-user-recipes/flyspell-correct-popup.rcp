@@ -1,0 +1,7 @@
+(:name flyspell-correct-popup
+:auto-generated t
+:type elpa
+:description "correcting words with flyspell via popup interface"
+:repo nil
+:depends (flyspell-correct popup)
+)

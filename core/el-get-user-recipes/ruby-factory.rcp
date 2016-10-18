@@ -1,0 +1,7 @@
+(:name ruby-factory
+:auto-generated t
+:type elpa
+:description "Minor mode for Ruby test object generation libraries"
+:repo nil
+:depends (inflections)
+)

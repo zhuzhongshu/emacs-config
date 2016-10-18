@@ -1,0 +1,8 @@
+(:name multi-line
+:auto-generated t
+:type elpa
+:description "multi-line statements"
+:repo nil
+:depends (s cl-lib dash shut-up)
+:minimum-emacs-version (24)
+)

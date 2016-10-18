@@ -1,0 +1,7 @@
+(:name pandoc
+:auto-generated t
+:type elpa
+:description "Pandoc interface"
+:repo nil
+:minimum-emacs-version (24 4)
+)

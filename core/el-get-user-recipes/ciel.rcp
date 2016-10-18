@@ -1,0 +1,7 @@
+(:name ciel
+:auto-generated t
+:type elpa
+:description "A command that is clone of \"ci\" in vim."
+:repo nil
+:minimum-emacs-version (24)
+)

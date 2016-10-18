@@ -1,0 +1,6 @@
+(:name wavefront-obj-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Wavefront obj files"
+:repo nil
+)

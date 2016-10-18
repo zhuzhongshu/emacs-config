@@ -1,0 +1,8 @@
+(:name dumb-jump
+:auto-generated t
+:type elpa
+:description "jump to definition for multiple languages without configuration."
+:repo nil
+:depends (f s dash popup)
+:minimum-emacs-version (24 3)
+)

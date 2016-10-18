@@ -1,0 +1,7 @@
+(:name timerfunctions
+:auto-generated t
+:type elpa
+:description "Enhanced versions of some timer.el functions"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name bind-key
+:auto-generated t
+:type elpa
+:description "A simple way to manage personal keybindings"
+:repo nil
+)

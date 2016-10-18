@@ -6,9 +6,17 @@
   (flycheck-pos-tip-mode))
 
 ;;(setq flycheck-highlighting-mode (quote lines));;高亮模式，默认是symbols
+
+;;cpp语法检查
 (setq flycheck-clang-language-standard "c++11");;设置clang -std="c++11"
 (setq flycheck-clang-include-path
       (quote ("/usr/local/include/Eigen")));;为clang添加include路径,其他需要的路径可以类似的在列表中添加
+
+;;python语法检查
+(setq flycheck-python-flake8-executable
+      (concat python-executable-path "flake8"))
+(setq flycheck-flake8rc nil);;没有配置文件
+
 
 (eval-after-load 'flycheck
   '(custom-set-variables

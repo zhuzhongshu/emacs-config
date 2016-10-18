@@ -1,0 +1,6 @@
+(:name smart-dash
+:auto-generated t
+:type elpa
+:description "Smart-Dash minor mode"
+:repo nil
+)

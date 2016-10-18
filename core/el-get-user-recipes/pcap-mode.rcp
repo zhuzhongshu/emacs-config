@@ -1,0 +1,7 @@
+(:name pcap-mode
+:auto-generated t
+:type elpa
+:description "Major mode for working with PCAP files"
+:repo nil
+:minimum-emacs-version (24 3)
+)

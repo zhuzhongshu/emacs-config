@@ -1,0 +1,6 @@
+(:name tree-mode
+:auto-generated t
+:type elpa
+:description "A mode to manage tree widgets"
+:repo nil
+)

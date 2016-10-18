@@ -1,0 +1,8 @@
+(:name smart-mode-line-powerline-theme
+:auto-generated t
+:type elpa
+:description "smart-mode-line theme that mimics the powerline appearance."
+:repo nil
+:depends (powerline smart-mode-line)
+:minimum-emacs-version (24 3)
+)

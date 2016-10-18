@@ -1,0 +1,8 @@
+(:name mysql-to-org
+:auto-generated t
+:type elpa
+:description "Minor mode to output the results of mysql queries to org tables"
+:repo nil
+:depends (s)
+:minimum-emacs-version (24 3)
+)

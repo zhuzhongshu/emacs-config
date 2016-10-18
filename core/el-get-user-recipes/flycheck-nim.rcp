@@ -1,0 +1,7 @@
+(:name flycheck-nim
+:auto-generated t
+:type elpa
+:description "Defines a flycheck syntax checker for nim"
+:repo nil
+:depends (dash flycheck)
+)

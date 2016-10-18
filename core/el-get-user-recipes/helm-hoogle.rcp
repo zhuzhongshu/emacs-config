@@ -1,0 +1,8 @@
+(:name helm-hoogle
+:auto-generated t
+:type elpa
+:description "Use helm to navigate query results from Hoogle"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 4)
+)

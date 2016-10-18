@@ -1,0 +1,8 @@
+(:name xref-js2
+:auto-generated t
+:type elpa
+:description "Jump to references/definitions using ag & js2-mode's AST"
+:repo nil
+:depends (js2-mode)
+:minimum-emacs-version (25)
+)

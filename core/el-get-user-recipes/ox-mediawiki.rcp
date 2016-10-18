@@ -1,0 +1,7 @@
+(:name ox-mediawiki
+:auto-generated t
+:type elpa
+:description "Mediawiki Back-End for Org Export Engine"
+:repo nil
+:depends (cl-lib s)
+)

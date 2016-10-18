@@ -1,0 +1,6 @@
+(:name minibuffer-line
+:auto-generated t
+:type elpa
+:description "Display status info in the minibuffer window"
+:repo nil
+)

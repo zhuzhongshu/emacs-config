@@ -1,0 +1,6 @@
+(:name avandu
+:auto-generated t
+:type elpa
+:description "Gateway to Tiny Tiny RSS"
+:repo nil
+)

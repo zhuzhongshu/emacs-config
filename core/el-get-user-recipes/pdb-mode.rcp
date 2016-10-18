@@ -1,0 +1,6 @@
+(:name pdb-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Protein Data Bank files"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name flyspell-correct-ivy
+:auto-generated t
+:type elpa
+:description "correcting words with flyspell via ivy interface"
+:repo nil
+:depends (flyspell-correct ivy)
+)

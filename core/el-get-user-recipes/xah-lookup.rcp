@@ -1,0 +1,6 @@
+(:name xah-lookup
+:auto-generated t
+:type elpa
+:description "look up word on internet"
+:repo nil
+)

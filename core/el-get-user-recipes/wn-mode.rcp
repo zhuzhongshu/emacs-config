@@ -1,0 +1,7 @@
+(:name wn-mode
+:auto-generated t
+:type elpa
+:description "numeric window switching shortcuts"
+:repo nil
+:minimum-emacs-version (24)
+)

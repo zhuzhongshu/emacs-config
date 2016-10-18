@@ -1,0 +1,7 @@
+(:name ddskk
+:auto-generated t
+:type elpa
+:description "Simple Kana to Kanji conversion program."
+:repo nil
+:depends (ccc cdb)
+)

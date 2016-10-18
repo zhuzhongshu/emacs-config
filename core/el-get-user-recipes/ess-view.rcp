@@ -1,0 +1,7 @@
+(:name ess-view
+:auto-generated t
+:type elpa
+:description "View R dataframes in a spreadsheet software"
+:repo nil
+:depends (ess s f)
+)

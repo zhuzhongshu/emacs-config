@@ -1,0 +1,7 @@
+(:name flycheck-credo
+:auto-generated t
+:type elpa
+:description "flycheck checker for elixir credo"
+:repo nil
+:depends (flycheck)
+)

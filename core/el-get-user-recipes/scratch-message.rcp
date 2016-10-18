@@ -1,0 +1,6 @@
+(:name scratch-message
+:auto-generated t
+:type elpa
+:description "Changing message in your scratch buffer"
+:repo nil
+)

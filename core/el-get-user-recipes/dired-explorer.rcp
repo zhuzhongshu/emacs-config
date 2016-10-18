@@ -1,0 +1,7 @@
+(:name dired-explorer
+:auto-generated t
+:type elpa
+:description "minor-mode provides Explorer like select file at dired."
+:repo nil
+:depends (cl-lib)
+)

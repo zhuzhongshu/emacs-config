@@ -1,0 +1,6 @@
+(:name auto-overlays
+:auto-generated t
+:type elpa
+:description "Automatic regexp-delimited overlays"
+:repo nil
+)

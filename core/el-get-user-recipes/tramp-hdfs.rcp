@@ -1,0 +1,6 @@
+(:name tramp-hdfs
+:auto-generated t
+:type elpa
+:description "Tramp extension to access hadoop/hdfs file system in Emacs"
+:repo nil
+)

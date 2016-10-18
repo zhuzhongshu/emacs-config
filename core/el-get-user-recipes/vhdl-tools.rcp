@@ -1,0 +1,8 @@
+(:name vhdl-tools
+:auto-generated t
+:type elpa
+:description "Utilities for navigating vhdl sources."
+:repo nil
+:depends (ggtags outshine helm)
+:minimum-emacs-version (24 5)
+)

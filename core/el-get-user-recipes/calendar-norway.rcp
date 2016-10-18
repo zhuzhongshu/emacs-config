@@ -1,0 +1,6 @@
+(:name calendar-norway
+:auto-generated t
+:type elpa
+:description "Norwegian calendar"
+:repo nil
+)

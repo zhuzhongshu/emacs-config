@@ -1,0 +1,8 @@
+(:name helm-ghc
+:auto-generated t
+:type elpa
+:description "A Helm datasource for ghc-mod errors"
+:repo nil
+:depends (cl-lib helm ghc)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name ido-exit-target
+:auto-generated t
+:type elpa
+:description "Commands and keys for selecting other window and frame targets within ido"
+:repo nil
+:minimum-emacs-version (24 4)
+)

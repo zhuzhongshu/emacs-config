@@ -1,0 +1,7 @@
+(:name cmake-font-lock
+:auto-generated t
+:type elpa
+:description "Advanced, type aware, highlight support for CMake"
+:repo nil
+:depends (cmake-mode)
+)

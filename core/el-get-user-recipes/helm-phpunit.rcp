@@ -1,0 +1,7 @@
+(:name helm-phpunit
+:auto-generated t
+:type elpa
+:description "Helm integration for phpunit.el"
+:repo nil
+:depends (helm phpunit)
+)

@@ -1,0 +1,7 @@
+(:name scratch-pop
+:auto-generated t
+:type elpa
+:description "Generate, popup (& optionally backup) scratch buffer(s)."
+:repo nil
+:depends (popwin)
+)

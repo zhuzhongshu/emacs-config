@@ -1,0 +1,8 @@
+(:name evil-mu4e
+:auto-generated t
+:type elpa
+:description "evil-based key bindings for mu4e"
+:repo nil
+:depends (dash evil)
+:minimum-emacs-version (24 4)
+)

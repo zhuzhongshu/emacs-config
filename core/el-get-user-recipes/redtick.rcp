@@ -1,0 +1,7 @@
+(:name redtick
+:auto-generated t
+:type elpa
+:description "Smallest pomodoro timer (1 char)"
+:repo nil
+:minimum-emacs-version (24)
+)

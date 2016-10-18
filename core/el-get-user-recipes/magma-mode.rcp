@@ -1,0 +1,7 @@
+(:name magma-mode
+:auto-generated t
+:type elpa
+:description "Magma mode for Emacs"
+:repo nil
+:depends (cl-lib dash f)
+)

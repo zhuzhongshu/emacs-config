@@ -1,0 +1,6 @@
+(:name gitty
+:auto-generated t
+:type elpa
+:description "vc-mode extension for fast git interaction"
+:repo nil
+)

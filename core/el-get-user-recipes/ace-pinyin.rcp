@@ -1,0 +1,7 @@
+(:name ace-pinyin
+:auto-generated t
+:type elpa
+:description "Jump to Chinese characters using avy or ace-jump-mode"
+:repo nil
+:depends (ace-jump-mode avy pinyinlib)
+)

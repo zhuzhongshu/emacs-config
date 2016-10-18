@@ -1,0 +1,6 @@
+(:name elein
+:auto-generated t
+:type elpa
+:description "running leiningen commands from emacs"
+:repo nil
+)

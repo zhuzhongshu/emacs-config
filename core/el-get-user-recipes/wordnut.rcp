@@ -1,0 +1,7 @@
+(:name wordnut
+:auto-generated t
+:type elpa
+:description "Major mode interface to WordNet"
+:repo nil
+:minimum-emacs-version (24 4)
+)

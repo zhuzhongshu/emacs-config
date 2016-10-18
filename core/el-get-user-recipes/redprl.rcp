@@ -1,0 +1,7 @@
+(:name redprl
+:auto-generated t
+:type elpa
+:description "Major mode for editing RedPRL proofs and interacting with RedPRL"
+:repo nil
+:minimum-emacs-version (24 3)
+)

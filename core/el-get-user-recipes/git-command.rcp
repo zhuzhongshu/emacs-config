@@ -1,0 +1,7 @@
+(:name git-command
+:auto-generated t
+:type elpa
+:description "Yet another Git interface"
+:repo nil
+:depends (term-run with-editor)
+)

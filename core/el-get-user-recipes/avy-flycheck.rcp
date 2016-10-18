@@ -1,0 +1,8 @@
+(:name avy-flycheck
+:auto-generated t
+:type elpa
+:description "Jump to and fix syntax errors using `flycheck' with `avy' interface"
+:repo nil
+:depends (flycheck seq avy)
+:minimum-emacs-version (24 1)
+)

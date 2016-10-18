@@ -1,0 +1,8 @@
+(:name rectangle-utils
+:auto-generated t
+:type elpa
+:description "Some useful rectangle functions."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

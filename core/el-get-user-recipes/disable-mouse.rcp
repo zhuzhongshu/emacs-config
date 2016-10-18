@@ -1,0 +1,6 @@
+(:name disable-mouse
+:auto-generated t
+:type elpa
+:description "Disable mouse commands globally"
+:repo nil
+)

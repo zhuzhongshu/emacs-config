@@ -1,0 +1,6 @@
+(:name sibilant-mode
+:auto-generated t
+:type elpa
+:description "Support for the Sibilant programming language"
+:repo nil
+)

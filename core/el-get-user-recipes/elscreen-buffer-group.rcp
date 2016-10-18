@@ -1,0 +1,8 @@
+(:name elscreen-buffer-group
+:auto-generated t
+:type elpa
+:description "elscreen buffer group"
+:repo nil
+:depends (elscreen cl-lib)
+:minimum-emacs-version (24 4)
+)

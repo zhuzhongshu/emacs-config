@@ -1,0 +1,6 @@
+(:name punctuality-logger
+:auto-generated t
+:type elpa
+:description "Punctuality logger for Emacs"
+:repo nil
+)

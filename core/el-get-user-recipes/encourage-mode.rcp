@@ -1,0 +1,7 @@
+(:name encourage-mode
+:auto-generated t
+:type elpa
+:description "Encourages you in your work. :D"
+:repo nil
+:minimum-emacs-version (24 4)
+)

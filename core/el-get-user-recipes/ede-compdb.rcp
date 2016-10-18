@@ -1,0 +1,7 @@
+(:name ede-compdb
+:auto-generated t
+:type elpa
+:description "Support for compilation database projects in EDE"
+:repo nil
+:depends (ede semantic cl-lib)
+)

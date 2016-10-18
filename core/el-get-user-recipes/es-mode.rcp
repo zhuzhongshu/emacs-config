@@ -1,0 +1,7 @@
+(:name es-mode
+:auto-generated t
+:type elpa
+:description "A major mode for editing Elasticsearch queries"
+:repo nil
+:depends (dash cl-lib spark)
+)

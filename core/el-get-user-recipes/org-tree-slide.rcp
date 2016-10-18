@@ -1,0 +1,6 @@
+(:name org-tree-slide
+:auto-generated t
+:type elpa
+:description "A presentation tool for org-mode"
+:repo nil
+)

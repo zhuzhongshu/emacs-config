@@ -1,0 +1,7 @@
+(:name ox-tiddly
+:auto-generated t
+:type elpa
+:description "org TiddlyWiki exporter"
+:repo nil
+:depends (org cl-lib)
+)

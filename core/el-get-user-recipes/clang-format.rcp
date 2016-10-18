@@ -1,0 +1,7 @@
+(:name clang-format
+:auto-generated t
+:type elpa
+:description "Format code using clang-format"
+:repo nil
+:depends (cl-lib)
+)

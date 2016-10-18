@@ -1,0 +1,6 @@
+(:name kroman
+:auto-generated t
+:type elpa
+:description "Korean hangul romanization"
+:repo nil
+)

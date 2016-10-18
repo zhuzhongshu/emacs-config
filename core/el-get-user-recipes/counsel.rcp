@@ -1,0 +1,8 @@
+(:name counsel
+:auto-generated t
+:type elpa
+:description "Various completion functions using Ivy"
+:repo nil
+:depends (swiper)
+:minimum-emacs-version (24 3)
+)

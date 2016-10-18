@@ -1,0 +1,6 @@
+(:name jknav
+:auto-generated t
+:type elpa
+:description "Automatically enable j/k keys for line-based navigation"
+:repo nil
+)

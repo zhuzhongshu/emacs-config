@@ -1,0 +1,7 @@
+(:name datomic-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Datomic"
+:repo nil
+:depends (s dash yasnippet)
+)

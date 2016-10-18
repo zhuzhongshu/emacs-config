@@ -1,0 +1,7 @@
+(:name sly-macrostep
+:auto-generated t
+:type elpa
+:description "fancy macro-expansion via macrostep.el"
+:repo nil
+:depends (sly macrostep)
+)

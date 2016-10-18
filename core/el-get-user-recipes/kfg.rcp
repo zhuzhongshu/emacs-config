@@ -1,0 +1,7 @@
+(:name kfg
+:auto-generated t
+:type elpa
+:description "an emacs configuration system"
+:repo nil
+:depends (f)
+)

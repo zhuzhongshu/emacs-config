@@ -1,0 +1,7 @@
+(:name tabula-rasa
+:auto-generated t
+:type elpa
+:description "Distraction free writing mode"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name ioccur
+:auto-generated t
+:type elpa
+:description "Incremental occur"
+:repo nil
+)

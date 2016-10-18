@@ -1,0 +1,6 @@
+(:name highlight-escape-sequences
+:auto-generated t
+:type elpa
+:description "Highlight escape sequences"
+:repo nil
+)

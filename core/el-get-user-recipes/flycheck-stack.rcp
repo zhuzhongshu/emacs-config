@@ -1,0 +1,7 @@
+(:name flycheck-stack
+:auto-generated t
+:type elpa
+:description "Flychecker using stack ghci"
+:repo nil
+:depends (flycheck haskell-mode)
+)

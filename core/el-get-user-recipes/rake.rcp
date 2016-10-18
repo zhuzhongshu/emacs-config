@@ -1,0 +1,7 @@
+(:name rake
+:auto-generated t
+:type elpa
+:description "Run rake commands"
+:repo nil
+:depends (f dash cl-lib)
+)

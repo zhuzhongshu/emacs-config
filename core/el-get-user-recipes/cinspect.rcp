@@ -1,0 +1,8 @@
+(:name cinspect
+:auto-generated t
+:type elpa
+:description "Use cinspect to look at the CPython source of builtins and other C objects!"
+:repo nil
+:depends (cl-lib deferred python-environment)
+:minimum-emacs-version (24)
+)

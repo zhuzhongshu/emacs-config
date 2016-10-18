@@ -1,0 +1,7 @@
+(:name memolist
+:auto-generated t
+:type elpa
+:description "memolist.el is Emacs port of memolist.vim."
+:repo nil
+:depends (markdown-mode ag)
+)

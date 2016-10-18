@@ -1,0 +1,6 @@
+(:name shell-toggle
+:auto-generated t
+:type elpa
+:description "Toggle to and from the shell buffer"
+:repo nil
+)

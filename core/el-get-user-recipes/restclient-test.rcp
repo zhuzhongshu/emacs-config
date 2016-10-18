@@ -1,0 +1,8 @@
+(:name restclient-test
+:auto-generated t
+:type elpa
+:description "Run tests with restclient.el"
+:repo nil
+:depends (restclient)
+:minimum-emacs-version (24 4)
+)

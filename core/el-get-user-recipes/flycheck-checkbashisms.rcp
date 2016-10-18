@@ -1,0 +1,8 @@
+(:name flycheck-checkbashisms
+:auto-generated t
+:type elpa
+:description "checkbashisms checker for flycheck"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

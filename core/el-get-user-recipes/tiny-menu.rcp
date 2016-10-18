@@ -1,0 +1,7 @@
+(:name tiny-menu
+:auto-generated t
+:type elpa
+:description "Display tiny menus."
+:repo nil
+:minimum-emacs-version (24 4)
+)

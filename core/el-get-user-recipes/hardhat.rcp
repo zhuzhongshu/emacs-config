@@ -1,0 +1,7 @@
+(:name hardhat
+:auto-generated t
+:type elpa
+:description "Protect against clobbering user-writable files"
+:repo nil
+:depends (ignoramus)
+)

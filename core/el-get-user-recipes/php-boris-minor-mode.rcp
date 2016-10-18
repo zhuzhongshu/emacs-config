@@ -1,0 +1,7 @@
+(:name php-boris-minor-mode
+:auto-generated t
+:type elpa
+:description "a minor mode to evaluate PHP code in the Boris repl"
+:repo nil
+:depends (php-boris highlight)
+)

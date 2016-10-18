@@ -1,0 +1,7 @@
+(:name emoji-recall
+:auto-generated t
+:type elpa
+:description "How many emoji can you recall from memory?"
+:repo nil
+:minimum-emacs-version (24)
+)

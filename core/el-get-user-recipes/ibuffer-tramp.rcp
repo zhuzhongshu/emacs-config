@@ -1,0 +1,6 @@
+(:name ibuffer-tramp
+:auto-generated t
+:type elpa
+:description "Group ibuffer's list by TRAMP connection"
+:repo nil
+)

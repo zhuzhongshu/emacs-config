@@ -1,0 +1,8 @@
+(:name gist
+:auto-generated t
+:type elpa
+:description "Emacs integration for gist.github.com"
+:repo nil
+:depends (gh)
+:minimum-emacs-version (24 1)
+)

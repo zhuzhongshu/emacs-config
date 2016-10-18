@@ -1,0 +1,7 @@
+(:name easy-repeat
+:auto-generated t
+:type elpa
+:description "Repeat easily"
+:repo nil
+:minimum-emacs-version (24 4)
+)

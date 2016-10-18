@@ -1,0 +1,6 @@
+(:name hgignore-mode
+:auto-generated t
+:type elpa
+:description "a major mode for editing hgignore files"
+:repo nil
+)

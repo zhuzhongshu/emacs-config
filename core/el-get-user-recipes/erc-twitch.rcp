@@ -1,0 +1,7 @@
+(:name erc-twitch
+:auto-generated t
+:type elpa
+:description "Support for Twitch emotes for ERC."
+:repo nil
+:depends (json erc)
+)

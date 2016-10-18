@@ -1,0 +1,6 @@
+(:name transpose-mark
+:auto-generated t
+:type elpa
+:description "Transpose data using the Emacs mark"
+:repo nil
+)

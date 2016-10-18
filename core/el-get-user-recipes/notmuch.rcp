@@ -1,0 +1,6 @@
+(:name notmuch
+:auto-generated t
+:type elpa
+:description "run notmuch within emacs"
+:repo nil
+)

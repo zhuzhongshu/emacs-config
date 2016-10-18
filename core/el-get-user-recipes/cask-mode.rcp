@@ -1,0 +1,7 @@
+(:name cask-mode
+:auto-generated t
+:type elpa
+:description "major mode for editing Cask files"
+:repo nil
+:minimum-emacs-version (24 3)
+)

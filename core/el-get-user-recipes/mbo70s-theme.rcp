@@ -1,0 +1,7 @@
+(:name mbo70s-theme
+:auto-generated t
+:type elpa
+:description "70s style palette, with similarities to mbo theme"
+:repo nil
+:minimum-emacs-version (24 0)
+)

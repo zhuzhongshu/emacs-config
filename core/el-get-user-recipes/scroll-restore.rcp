@@ -1,0 +1,6 @@
+(:name scroll-restore
+:auto-generated t
+:type elpa
+:description "restore original position after scrolling"
+:repo nil
+)

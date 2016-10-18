@@ -1,0 +1,6 @@
+(:name revive
+:auto-generated t
+:type elpa
+:description "Resume Emacs"
+:repo nil
+)

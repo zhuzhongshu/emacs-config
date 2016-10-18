@@ -1,0 +1,6 @@
+(:name shpec-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for shpec specification"
+:repo nil
+)

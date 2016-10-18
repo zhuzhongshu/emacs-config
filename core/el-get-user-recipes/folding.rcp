@@ -1,0 +1,6 @@
+(:name folding
+:auto-generated t
+:type elpa
+:description "A folding-editor-like minor mode."
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name multicolumn
+:auto-generated t
+:type elpa
+:description "Creating and managing multiple side-by-side windows."
+:repo nil
+)

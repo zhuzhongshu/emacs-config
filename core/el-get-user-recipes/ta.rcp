@@ -1,0 +1,8 @@
+(:name ta
+:auto-generated t
+:type elpa
+:description "A tool to deal with Chinese homophonic characters"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

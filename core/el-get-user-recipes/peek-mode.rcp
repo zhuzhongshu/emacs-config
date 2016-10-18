@@ -1,0 +1,7 @@
+(:name peek-mode
+:auto-generated t
+:type elpa
+:description "Serve buffers live over HTTP with elnode backend"
+:repo nil
+:depends (elnode)
+)

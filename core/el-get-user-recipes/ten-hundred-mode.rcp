@@ -1,0 +1,7 @@
+(:name ten-hundred-mode
+:auto-generated t
+:type elpa
+:description "use only the ten hundred most usual words"
+:repo nil
+:depends (cl-lib)
+)

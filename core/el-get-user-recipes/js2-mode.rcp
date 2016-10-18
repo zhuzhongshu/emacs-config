@@ -1,0 +1,8 @@
+(:name js2-mode
+:auto-generated t
+:type elpa
+:description "Improved JavaScript editing mode"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

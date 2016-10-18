@@ -1,0 +1,7 @@
+(:name elang
+:auto-generated t
+:type elpa
+:description "A Python-like language for the Emacs VM"
+:repo nil
+:depends (names)
+)

@@ -1,0 +1,6 @@
+(:name ruby-block
+:auto-generated t
+:type elpa
+:description "highlight matching block"
+:repo nil
+)

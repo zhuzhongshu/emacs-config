@@ -1,0 +1,6 @@
+(:name dkl
+:auto-generated t
+:type elpa
+:description "Display keyboard layout."
+:repo nil
+)

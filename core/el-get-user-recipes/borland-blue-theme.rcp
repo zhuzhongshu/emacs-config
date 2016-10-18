@@ -1,0 +1,7 @@
+(:name borland-blue-theme
+:auto-generated t
+:type elpa
+:description "Blue/yellow theme based on old DOS Borland/Turbo C IDE"
+:repo nil
+:minimum-emacs-version (24 1)
+)

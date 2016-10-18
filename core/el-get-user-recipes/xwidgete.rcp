@@ -1,0 +1,7 @@
+(:name xwidgete
+:auto-generated t
+:type elpa
+:description "enhances usability of current xwidget browser"
+:repo nil
+:minimum-emacs-version (25)
+)

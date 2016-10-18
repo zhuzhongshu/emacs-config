@@ -1,0 +1,6 @@
+(:name cursor-in-brackets
+:auto-generated t
+:type elpa
+:description "move cursor in brackets/quotes when right bracket/quote is inserted"
+:repo nil
+)

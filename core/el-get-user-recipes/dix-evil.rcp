@@ -1,0 +1,7 @@
+(:name dix-evil
+:auto-generated t
+:type elpa
+:description "optional evil-integration with dix.el"
+:repo nil
+:depends (dix evil)
+)

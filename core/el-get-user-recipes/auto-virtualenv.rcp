@@ -1,0 +1,7 @@
+(:name auto-virtualenv
+:auto-generated t
+:type elpa
+:description "Auto activate python virtualenvs"
+:repo nil
+:depends (cl-lib pyvenv s)
+)

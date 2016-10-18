@@ -1,0 +1,8 @@
+(:name grizzl
+:auto-generated t
+:type elpa
+:description "Fast fuzzy search index for Emacs."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

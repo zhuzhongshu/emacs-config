@@ -1,0 +1,8 @@
+(:name company-statistics
+:auto-generated t
+:type elpa
+:description "Sort candidates using completion history"
+:repo nil
+:depends (company)
+:minimum-emacs-version (24 3)
+)

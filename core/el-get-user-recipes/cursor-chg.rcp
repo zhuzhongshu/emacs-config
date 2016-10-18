@@ -1,0 +1,6 @@
+(:name cursor-chg
+:auto-generated t
+:type elpa
+:description "Change cursor dynamically, depending on the context."
+:repo nil
+)

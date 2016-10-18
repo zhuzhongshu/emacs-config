@@ -1,0 +1,6 @@
+(:name landmark
+:auto-generated t
+:type elpa
+:description "Neural-network robot that learns landmarks"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name nummm-mode
+:auto-generated t
+:type elpa
+:description "Display the number of minor modes instead of their names"
+:repo nil
+)

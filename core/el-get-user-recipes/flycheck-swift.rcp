@@ -1,0 +1,8 @@
+(:name flycheck-swift
+:auto-generated t
+:type elpa
+:description "Flycheck extension for Apple's Swift."
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24 4)
+)

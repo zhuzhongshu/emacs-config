@@ -1,0 +1,7 @@
+(:name pony-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Pony"
+:repo nil
+:depends (yasnippet)
+)

@@ -1,0 +1,6 @@
+(:name dired-fdclone
+:auto-generated t
+:type elpa
+:description "dired functions and settings to mimic FDclone"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name sage-shell-mode
+:auto-generated t
+:type elpa
+:description "A front-end for Sage Math"
+:repo nil
+:depends (cl-lib deferred)
+:minimum-emacs-version (24 1)
+)

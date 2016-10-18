@@ -1,0 +1,6 @@
+(:name sublimity
+:auto-generated t
+:type elpa
+:description "smooth-scrolling, minimap and distraction-free mode"
+:repo nil
+)

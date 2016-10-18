@@ -1,0 +1,7 @@
+(:name hydra
+:auto-generated t
+:type elpa
+:description "Make bindings that stick around."
+:repo nil
+:depends (cl-lib)
+)

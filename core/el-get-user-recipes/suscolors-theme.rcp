@@ -1,0 +1,6 @@
+(:name suscolors-theme
+:auto-generated t
+:type elpa
+:description "Colorful theme, inspired by Gruvbox."
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name ztree
+:auto-generated t
+:type elpa
+:description "Text mode directory tree"
+:repo nil
+:depends (cl-lib)
+)

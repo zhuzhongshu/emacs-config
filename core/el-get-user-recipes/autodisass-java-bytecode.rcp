@@ -1,0 +1,6 @@
+(:name autodisass-java-bytecode
+:auto-generated t
+:type elpa
+:description "Automatically disassemble Java bytecode"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name cdb
+:auto-generated t
+:type elpa
+:description "constant database (cdb) reader for Emacs Lisp"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name composer
+:auto-generated t
+:type elpa
+:description "Interface to PHP Composer"
+:repo nil
+:depends (s f request)
+:minimum-emacs-version (24)
+)

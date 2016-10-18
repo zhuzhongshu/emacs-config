@@ -1,0 +1,8 @@
+(:name clomacs
+:auto-generated t
+:type elpa
+:description "Simplifies Emacs Lisp interaction with Clojure."
+:repo nil
+:depends (cider)
+:minimum-emacs-version (24 3)
+)

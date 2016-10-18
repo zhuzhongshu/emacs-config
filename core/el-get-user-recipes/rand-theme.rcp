@@ -1,0 +1,7 @@
+(:name rand-theme
+:auto-generated t
+:type elpa
+:description "Random Emacs theme at start-up!"
+:repo nil
+:depends (cl-lib)
+)

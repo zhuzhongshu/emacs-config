@@ -1,0 +1,7 @@
+(:name clocker
+:auto-generated t
+:type elpa
+:description "Note taker and clock-in enforcer"
+:repo nil
+:depends (projectile dash)
+)

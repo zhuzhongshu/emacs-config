@@ -1,0 +1,7 @@
+(:name stan-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Stan"
+:repo nil
+:depends (stan-mode yasnippet)
+)

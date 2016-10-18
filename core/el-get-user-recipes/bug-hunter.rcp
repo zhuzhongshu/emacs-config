@@ -1,0 +1,7 @@
+(:name bug-hunter
+:auto-generated t
+:type elpa
+:description "Hunt down errors by bisecting elisp files"
+:repo nil
+:depends (seq cl-lib)
+)

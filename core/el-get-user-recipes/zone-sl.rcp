@@ -1,0 +1,7 @@
+(:name zone-sl
+:auto-generated t
+:type elpa
+:description "Zone out with steam locomotives."
+:repo nil
+:minimum-emacs-version (24 3)
+)

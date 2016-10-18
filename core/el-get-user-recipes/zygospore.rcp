@@ -1,0 +1,6 @@
+(:name zygospore
+:auto-generated t
+:type elpa
+:description "reversible C-x 1 (delete-other-windows)"
+:repo nil
+)

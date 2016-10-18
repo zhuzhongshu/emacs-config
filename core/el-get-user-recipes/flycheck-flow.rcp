@@ -1,0 +1,7 @@
+(:name flycheck-flow
+:auto-generated t
+:type elpa
+:description "Support Flow in flycheck"
+:repo nil
+:depends (flycheck)
+)

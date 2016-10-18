@@ -1,0 +1,6 @@
+(:name heap
+:auto-generated t
+:type elpa
+:description "Heap (a.k.a. priority queue) data structure"
+:repo nil
+)

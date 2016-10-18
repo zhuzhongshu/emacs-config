@@ -1,0 +1,6 @@
+(:name rainbow-mode
+:auto-generated t
+:type elpa
+:description "Colorize color names in buffers"
+:repo nil
+)

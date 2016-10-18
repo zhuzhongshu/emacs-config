@@ -1,0 +1,7 @@
+(:name weechat-alert
+:auto-generated t
+:type elpa
+:description "Weechat notifier using alerts"
+:repo nil
+:depends (weechat cl-lib alert)
+)

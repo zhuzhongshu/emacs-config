@@ -1,0 +1,6 @@
+(:name roy-mode
+:auto-generated t
+:type elpa
+:description "Roy major mode"
+:repo nil
+)

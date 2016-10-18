@@ -1,0 +1,6 @@
+(:name splitter
+:auto-generated t
+:type elpa
+:description "Manage window splits"
+:repo nil
+)

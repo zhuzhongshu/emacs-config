@@ -1,0 +1,7 @@
+(:name font-lock-studio
+:auto-generated t
+:type elpa
+:description "interactive debugger for Font Lock keywords."
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name fzf
+:auto-generated t
+:type elpa
+:description "A front-end for fzf."
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name smart-comment
+:auto-generated t
+:type elpa
+:description "smarter commenting"
+:repo nil
+)

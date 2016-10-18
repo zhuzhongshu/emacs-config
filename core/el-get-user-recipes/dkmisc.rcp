@@ -1,0 +1,7 @@
+(:name dkmisc
+:auto-generated t
+:type elpa
+:description "Miscellaneous functions required by dk* packages."
+:repo nil
+:minimum-emacs-version (24 1)
+)

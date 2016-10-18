@@ -1,0 +1,7 @@
+(:name rinari
+:auto-generated t
+:type elpa
+:description "Rinari Is Not A Rails IDE"
+:repo nil
+:depends (ruby-mode inf-ruby ruby-compilation jump)
+)

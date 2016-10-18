@@ -1,0 +1,8 @@
+(:name threes
+:auto-generated t
+:type elpa
+:description "A clone of Threes (a tiny puzzle game)"
+:repo nil
+:depends (seq)
+:minimum-emacs-version (24)
+)

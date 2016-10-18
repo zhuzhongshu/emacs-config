@@ -1,0 +1,7 @@
+(:name malinka
+:auto-generated t
+:type elpa
+:description "A C/C++ project configuration package for Emacs"
+:repo nil
+:depends (s dash f cl-lib rtags projectile)
+)

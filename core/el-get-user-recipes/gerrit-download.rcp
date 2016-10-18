@@ -1,0 +1,8 @@
+(:name gerrit-download
+:auto-generated t
+:type elpa
+:description "Show gerrit reviews in a diff buffer."
+:repo nil
+:depends (magit)
+:minimum-emacs-version (24 0)
+)

@@ -1,0 +1,7 @@
+(:name baidu-life
+:auto-generated t
+:type elpa
+:description "Use baidu api to do some interesting things"
+:repo nil
+:depends (cl-lib)
+)

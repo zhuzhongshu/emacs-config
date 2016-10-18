@@ -1,0 +1,6 @@
+(:name emoji-fontset
+:auto-generated t
+:type elpa
+:description "Set font face for Emoji."
+:repo nil
+)

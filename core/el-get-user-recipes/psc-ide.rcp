@@ -1,0 +1,7 @@
+(:name psc-ide
+:auto-generated t
+:type elpa
+:description "Minor mode for PureScript's psc-ide tool."
+:repo nil
+:depends (dash dash-functional company cl-lib s)
+)

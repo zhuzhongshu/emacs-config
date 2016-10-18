@@ -1,0 +1,8 @@
+(:name es-windows
+:auto-generated t
+:type elpa
+:description "Window-management utilities"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

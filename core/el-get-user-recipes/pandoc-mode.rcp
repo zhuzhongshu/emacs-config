@@ -1,0 +1,7 @@
+(:name pandoc-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for interacting with Pandoc"
+:repo nil
+:depends (hydra dash)
+)

@@ -1,0 +1,7 @@
+(:name imenu-list
+:auto-generated t
+:type elpa
+:description "Show imenu entries in a seperate buffer"
+:repo nil
+:depends (cl-lib)
+)

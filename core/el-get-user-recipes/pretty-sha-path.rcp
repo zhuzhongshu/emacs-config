@@ -1,0 +1,6 @@
+(:name pretty-sha-path
+:auto-generated t
+:type elpa
+:description "Prettify Guix/Nix store paths"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name stickyfunc-enhance
+:auto-generated t
+:type elpa
+:description "An enhancement to stock `semantic-stickyfunc-mode'"
+:repo nil
+:minimum-emacs-version (24 3)
+)

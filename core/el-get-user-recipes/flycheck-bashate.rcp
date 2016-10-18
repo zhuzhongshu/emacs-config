@@ -1,0 +1,8 @@
+(:name flycheck-bashate
+:auto-generated t
+:type elpa
+:description "Integrate bashate with flycheck"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24 4)
+)

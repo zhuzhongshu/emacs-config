@@ -1,0 +1,7 @@
+(:name fontawesome
+:auto-generated t
+:type elpa
+:description "fontawesome utility"
+:repo nil
+:depends (helm-core cl-lib)
+)

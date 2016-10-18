@@ -1,0 +1,8 @@
+(:name tawny-mode
+:auto-generated t
+:type elpa
+:description "Ontology Editing with Tawny-OWL"
+:repo nil
+:depends (cider)
+:minimum-emacs-version (25)
+)

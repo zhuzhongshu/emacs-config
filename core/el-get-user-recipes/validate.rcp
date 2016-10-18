@@ -1,0 +1,8 @@
+(:name validate
+:auto-generated t
+:type elpa
+:description "Schema validation for Emacs-lisp"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

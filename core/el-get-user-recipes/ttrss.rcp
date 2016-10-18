@@ -1,0 +1,7 @@
+(:name ttrss
+:auto-generated t
+:type elpa
+:description "Tiny Tiny RSS elisp bindings"
+:repo nil
+:minimum-emacs-version (23 1)
+)

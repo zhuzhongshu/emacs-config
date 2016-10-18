@@ -1,0 +1,6 @@
+(:name darkokai-theme
+:auto-generated t
+:type elpa
+:description "A darker variant on Monokai."
+:repo nil
+)

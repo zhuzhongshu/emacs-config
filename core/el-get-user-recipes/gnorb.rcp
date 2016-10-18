@@ -1,0 +1,7 @@
+(:name gnorb
+:auto-generated t
+:type elpa
+:description "Glue code between Gnus, Org, and BBDB"
+:repo nil
+:depends (cl-lib)
+)

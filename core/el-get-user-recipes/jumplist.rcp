@@ -1,0 +1,7 @@
+(:name jumplist
+:auto-generated t
+:type elpa
+:description "Jump like vim jumplist or ex jumplist"
+:repo nil
+:depends (cl-lib)
+)

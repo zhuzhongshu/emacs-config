@@ -1,0 +1,7 @@
+(:name helm-chronos
+:auto-generated t
+:type elpa
+:description "helm interface for chronos timers"
+:repo nil
+:depends (chronos helm)
+)

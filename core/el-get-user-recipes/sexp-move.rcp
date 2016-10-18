@@ -1,0 +1,6 @@
+(:name sexp-move
+:auto-generated t
+:type elpa
+:description "Improved S-Expression Movement"
+:repo nil
+)

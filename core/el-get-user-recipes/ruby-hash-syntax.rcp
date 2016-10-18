@@ -1,0 +1,6 @@
+(:name ruby-hash-syntax
+:auto-generated t
+:type elpa
+:description "Toggle ruby hash syntax between classic and 1.9 styles"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name ediprolog
+:auto-generated t
+:type elpa
+:description "Emacs Does Interactive Prolog"
+:repo nil
+)

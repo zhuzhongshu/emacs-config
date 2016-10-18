@@ -1,0 +1,7 @@
+(:name try
+:auto-generated t
+:type elpa
+:description "Try out Emacs packages."
+:repo nil
+:minimum-emacs-version (24)
+)

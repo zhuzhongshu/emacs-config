@@ -1,0 +1,7 @@
+(:name manage-minor-mode
+:auto-generated t
+:type elpa
+:description "Manage your minor-modes easily"
+:repo nil
+:minimum-emacs-version (24 3)
+)

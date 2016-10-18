@@ -1,0 +1,7 @@
+(:name fxrd-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing fixed field width files"
+:repo nil
+:depends (s)
+)

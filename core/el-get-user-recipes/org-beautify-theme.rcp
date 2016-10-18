@@ -1,0 +1,6 @@
+(:name org-beautify-theme
+:auto-generated t
+:type elpa
+:description "A sub-theme to make org-mode more beautiful."
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name shelltest-mode
+:auto-generated t
+:type elpa
+:description "Major mode for shelltestrunner"
+:repo nil
+)

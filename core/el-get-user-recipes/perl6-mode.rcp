@@ -1,0 +1,8 @@
+(:name perl6-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Perl 6 code"
+:repo nil
+:depends (pkg-info)
+:minimum-emacs-version (24 4)
+)

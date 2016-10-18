@@ -1,0 +1,7 @@
+(:name embrace
+:auto-generated t
+:type elpa
+:description "Add/Change/Delete pairs based on `expand-region'"
+:repo nil
+:depends (cl-lib expand-region)
+)

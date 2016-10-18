@@ -1,0 +1,7 @@
+(:name json-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing JSON files"
+:repo nil
+:depends (json-reformat json-snatcher)
+)

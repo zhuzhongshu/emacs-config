@@ -1,0 +1,6 @@
+(:name forth-mode
+:auto-generated t
+:type elpa
+:description "Programming language mode for Forth"
+:repo nil
+)

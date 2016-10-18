@@ -1,0 +1,6 @@
+(:name erc-track-score
+:auto-generated t
+:type elpa
+:description "Add score support to tracked channel buffers"
+:repo nil
+)

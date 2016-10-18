@@ -1,0 +1,6 @@
+(:name id-manager
+:auto-generated t
+:type elpa
+:description "id-password management"
+:repo nil
+)

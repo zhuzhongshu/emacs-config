@@ -1,0 +1,7 @@
+(:name describe-number
+:auto-generated t
+:type elpa
+:description "Describe arbitrarily large number at point."
+:repo nil
+:depends (yabin)
+)

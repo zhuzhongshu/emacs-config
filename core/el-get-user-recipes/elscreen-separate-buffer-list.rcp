@@ -1,0 +1,8 @@
+(:name elscreen-separate-buffer-list
+:auto-generated t
+:type elpa
+:description "Separate buffer list manager for elscreen"
+:repo nil
+:depends (elscreen)
+:minimum-emacs-version (24 4)
+)

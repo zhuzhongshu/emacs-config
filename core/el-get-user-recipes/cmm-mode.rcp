@@ -1,0 +1,6 @@
+(:name cmm-mode
+:auto-generated t
+:type elpa
+:description "Major mode for C-- source code"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name smotitah
+:auto-generated t
+:type elpa
+:description "Modular emacs configuration framework"
+:repo nil
+)

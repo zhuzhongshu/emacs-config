@@ -1,0 +1,8 @@
+(:name swiper-helm
+:auto-generated t
+:type elpa
+:description "Helm version of Swiper."
+:repo nil
+:depends (swiper helm)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,8 @@
+(:name term-alert
+:auto-generated t
+:type elpa
+:description "Notifications when commands complete in term.el."
+:repo nil
+:depends (term-cmd alert f)
+:minimum-emacs-version (24 0)
+)

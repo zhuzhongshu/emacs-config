@@ -1,0 +1,7 @@
+(:name company-emoji
+:auto-generated t
+:type elpa
+:description "company-mode backend for emoji"
+:repo nil
+:depends (cl-lib company)
+)

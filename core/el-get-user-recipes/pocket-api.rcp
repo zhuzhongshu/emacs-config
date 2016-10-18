@@ -1,0 +1,8 @@
+(:name pocket-api
+:auto-generated t
+:type elpa
+:description "another pocket api"
+:repo nil
+:depends (request)
+:minimum-emacs-version (24 4)
+)

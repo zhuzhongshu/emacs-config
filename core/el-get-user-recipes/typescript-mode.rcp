@@ -1,0 +1,6 @@
+(:name typescript-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing typescript"
+:repo nil
+)

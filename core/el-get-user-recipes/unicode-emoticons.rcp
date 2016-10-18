@@ -1,0 +1,6 @@
+(:name unicode-emoticons
+:auto-generated t
+:type elpa
+:description "Shortcuts for common unicode emoticons"
+:repo nil
+)

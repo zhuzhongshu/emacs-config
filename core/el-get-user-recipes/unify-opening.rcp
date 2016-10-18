@@ -1,0 +1,7 @@
+(:name unify-opening
+:auto-generated t
+:type elpa
+:description "Make everything use the same mechanism to open files"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,8 @@
+(:name ssh-agency
+:auto-generated t
+:type elpa
+:description "use ssh-agent on win32 from Emacs"
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name bind-map
+:auto-generated t
+:type elpa
+:description "Bind personal keymaps in multiple locations"
+:repo nil
+:minimum-emacs-version (24 3)
+)

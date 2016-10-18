@@ -1,0 +1,8 @@
+(:name org-tracktable
+:auto-generated t
+:type elpa
+:description "Track your writing progress in an org-table"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name flycheck-purescript
+:auto-generated t
+:type elpa
+:description "Flycheck: PureScript support"
+:repo nil
+:depends (flycheck dash let-alist seq)
+:minimum-emacs-version (24 3)
+)

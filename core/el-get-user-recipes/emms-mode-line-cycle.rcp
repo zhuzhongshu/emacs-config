@@ -1,0 +1,8 @@
+(:name emms-mode-line-cycle
+:auto-generated t
+:type elpa
+:description "Display the emms mode line as a ticker"
+:repo nil
+:depends (emms)
+:minimum-emacs-version (24)
+)

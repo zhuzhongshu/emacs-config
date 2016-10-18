@@ -1,0 +1,8 @@
+(:name nim-mode
+:auto-generated t
+:type elpa
+:description "A major mode for the Nim programming language"
+:repo nil
+:depends (epc let-alist commenter flycheck)
+:minimum-emacs-version (24 4)
+)

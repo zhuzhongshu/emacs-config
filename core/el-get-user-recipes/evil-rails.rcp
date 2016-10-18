@@ -1,0 +1,7 @@
+(:name evil-rails
+:auto-generated t
+:type elpa
+:description "Rails support for Evil Mode"
+:repo nil
+:depends (evil projectile-rails)
+)

@@ -1,0 +1,7 @@
+(:name let-alist
+:auto-generated t
+:type elpa
+:description "Easily let-bind values of an assoc-list by their names"
+:repo nil
+:minimum-emacs-version (24 1)
+)

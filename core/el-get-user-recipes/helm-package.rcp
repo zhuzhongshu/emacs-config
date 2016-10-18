@@ -1,0 +1,8 @@
+(:name helm-package
+:auto-generated t
+:type elpa
+:description "Listing ELPA packages with helm interface"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 4)
+)

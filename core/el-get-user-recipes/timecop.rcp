@@ -1,0 +1,7 @@
+(:name timecop
+:auto-generated t
+:type elpa
+:description "Freeze Time for testing"
+:repo nil
+:depends (cl-lib datetime-format)
+)

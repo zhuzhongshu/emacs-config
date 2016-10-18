@@ -1,0 +1,8 @@
+(:name realgud
+:auto-generated t
+:type elpa
+:description "A modular front-end for interacting with external debuggers"
+:repo nil
+:depends (load-relative loc-changes test-simple cl-lib)
+:minimum-emacs-version (24)
+)

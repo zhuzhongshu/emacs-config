@@ -1,0 +1,6 @@
+(:name mozc
+:auto-generated t
+:type elpa
+:description "minor mode to input Japanese with Mozc"
+:repo nil
+)

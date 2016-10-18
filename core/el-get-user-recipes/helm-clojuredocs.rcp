@@ -1,0 +1,7 @@
+(:name helm-clojuredocs
+:auto-generated t
+:type elpa
+:description "search for help in clojuredocs.org"
+:repo nil
+:depends (edn helm)
+)

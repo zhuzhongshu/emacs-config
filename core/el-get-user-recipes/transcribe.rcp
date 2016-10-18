@@ -1,0 +1,6 @@
+(:name transcribe
+:auto-generated t
+:type elpa
+:description "Package for audio transcriptions"
+:repo nil
+)

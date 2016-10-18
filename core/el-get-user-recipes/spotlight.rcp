@@ -1,0 +1,8 @@
+(:name spotlight
+:auto-generated t
+:type elpa
+:description "search files with Mac OS X spotlight"
+:repo nil
+:depends (swiper counsel)
+:minimum-emacs-version (24 1)
+)

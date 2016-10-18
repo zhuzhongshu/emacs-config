@@ -1,0 +1,8 @@
+(:name go-impl
+:auto-generated t
+:type elpa
+:description "impl integration for go-mode"
+:repo nil
+:depends (go-mode)
+:minimum-emacs-version (24)
+)

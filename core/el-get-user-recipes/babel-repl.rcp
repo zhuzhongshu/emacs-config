@@ -1,0 +1,7 @@
+(:name babel-repl
+:auto-generated t
+:type elpa
+:description "Run babel REPL"
+:repo nil
+:minimum-emacs-version (24)
+)

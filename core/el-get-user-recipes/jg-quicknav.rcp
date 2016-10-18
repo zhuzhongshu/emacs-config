@@ -1,0 +1,7 @@
+(:name jg-quicknav
+:auto-generated t
+:type elpa
+:description "Quickly navigate the file system to find a file."
+:repo nil
+:depends (s cl-lib)
+)

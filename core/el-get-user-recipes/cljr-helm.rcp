@@ -1,0 +1,7 @@
+(:name cljr-helm
+:auto-generated t
+:type elpa
+:description "Wraps clojure refactor commands with helm"
+:repo nil
+:depends (clj-refactor helm-core cl-lib)
+)

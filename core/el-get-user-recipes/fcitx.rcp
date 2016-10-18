@@ -1,0 +1,6 @@
+(:name fcitx
+:auto-generated t
+:type elpa
+:description "Make fcitx better in Emacs"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name myanmar-input-methods
+:auto-generated t
+:type elpa
+:description "Emacs Input Method for Myanmar"
+:repo nil
+)

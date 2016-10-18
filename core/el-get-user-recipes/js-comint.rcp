@@ -1,0 +1,6 @@
+(:name js-comint
+:auto-generated t
+:type elpa
+:description "Run a JavaScript interpreter in an inferior process window."
+:repo nil
+)

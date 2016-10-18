@@ -1,0 +1,6 @@
+(:name fingers
+:auto-generated t
+:type elpa
+:description "Modal editing with universal text manipulation helpers."
+:repo nil
+)

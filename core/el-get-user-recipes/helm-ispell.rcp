@@ -1,0 +1,7 @@
+(:name helm-ispell
+:auto-generated t
+:type elpa
+:description "ispell-complete-word with helm interface"
+:repo nil
+:depends (helm-core)
+)

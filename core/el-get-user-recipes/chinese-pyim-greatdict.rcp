@@ -1,0 +1,6 @@
+(:name chinese-pyim-greatdict
+:auto-generated t
+:type elpa
+:description "A chinese-pyim dict, which include three million words."
+:repo nil
+)

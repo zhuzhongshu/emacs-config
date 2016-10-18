@@ -1,0 +1,7 @@
+(:name browse-at-remote
+:auto-generated t
+:type elpa
+:description "Open github/gitlab/bitbucket page from Emacs"
+:repo nil
+:depends (f s cl-lib)
+)

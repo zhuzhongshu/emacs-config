@@ -1,0 +1,7 @@
+(:name config-parser
+:auto-generated t
+:type elpa
+:description "a library for parsing config file"
+:repo nil
+:minimum-emacs-version (24 4)
+)

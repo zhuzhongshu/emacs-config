@@ -1,0 +1,6 @@
+(:name restart-emacs
+:auto-generated t
+:type elpa
+:description "Restart emacs from within emacs"
+:repo nil
+)

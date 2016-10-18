@@ -1,0 +1,7 @@
+(:name helm-bibtex
+:auto-generated t
+:type elpa
+:description "A bibliography manager based on Helm"
+:repo nil
+:depends (helm parsebib s dash f cl-lib biblio)
+)

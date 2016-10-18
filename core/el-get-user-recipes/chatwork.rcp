@@ -1,0 +1,6 @@
+(:name chatwork
+:auto-generated t
+:type elpa
+:description "ChatWork client for Emacs"
+:repo nil
+)

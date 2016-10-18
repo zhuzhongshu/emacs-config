@@ -1,0 +1,8 @@
+(:name cheatsheet
+:auto-generated t
+:type elpa
+:description "create your own cheatsheet"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

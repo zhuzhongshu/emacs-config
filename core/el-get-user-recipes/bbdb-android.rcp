@@ -1,0 +1,7 @@
+(:name bbdb-android
+:auto-generated t
+:type elpa
+:description "Android phone contacts import/export for BBDB"
+:repo nil
+:depends (bbdb-vcard)
+)

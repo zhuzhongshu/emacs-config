@@ -1,0 +1,7 @@
+(:name airline-themes
+:auto-generated t
+:type elpa
+:description "vim-airline themes for emacs powerline"
+:repo nil
+:depends (powerline)
+)

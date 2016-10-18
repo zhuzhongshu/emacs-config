@@ -1,0 +1,7 @@
+(:name midi-kbd
+:auto-generated t
+:type elpa
+:description "Create keyboard events from Midi input"
+:repo nil
+:minimum-emacs-version (25)
+)

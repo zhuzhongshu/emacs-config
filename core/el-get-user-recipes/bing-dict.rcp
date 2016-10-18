@@ -1,0 +1,6 @@
+(:name bing-dict
+:auto-generated t
+:type elpa
+:description "Minimalists' English-Chinese Bing dictionary"
+:repo nil
+)

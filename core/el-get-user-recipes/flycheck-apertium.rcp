@@ -1,0 +1,7 @@
+(:name flycheck-apertium
+:auto-generated t
+:type elpa
+:description "Apertium checkers in flycheck"
+:repo nil
+:depends (flycheck)
+)

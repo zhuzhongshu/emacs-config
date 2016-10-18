@@ -1,0 +1,6 @@
+(:name ewmctrl
+:auto-generated t
+:type elpa
+:description "Use `wmctrl' to manage desktop windows."
+:repo nil
+)

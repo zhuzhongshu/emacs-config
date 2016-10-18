@@ -1,0 +1,7 @@
+(:name prompts
+:auto-generated t
+:type elpa
+:description "utilities for working with text prompts."
+:repo nil
+:depends (dash)
+)

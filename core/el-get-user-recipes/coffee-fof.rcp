@@ -1,0 +1,7 @@
+(:name coffee-fof
+:auto-generated t
+:type elpa
+:description "A coffee-mode configuration for `ff-find-other-file'."
+:repo nil
+:depends (coffee-mode)
+)

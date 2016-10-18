@@ -1,0 +1,7 @@
+(:name litecoin-ticker
+:auto-generated t
+:type elpa
+:description "litecoin price in modeline"
+:repo nil
+:depends (json)
+)

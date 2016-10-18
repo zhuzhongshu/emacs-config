@@ -1,0 +1,7 @@
+(:name dot-mode
+:auto-generated t
+:type elpa
+:description "minor mode to repeat typing or commands"
+:repo nil
+:minimum-emacs-version (24 3)
+)

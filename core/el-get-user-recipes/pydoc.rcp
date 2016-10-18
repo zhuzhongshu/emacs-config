@@ -1,0 +1,6 @@
+(:name pydoc
+:auto-generated t
+:type elpa
+:description "functional, syntax highlighted pydoc navigation"
+:repo nil
+)

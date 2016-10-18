@@ -1,0 +1,7 @@
+(:name evil-dvorak
+:auto-generated t
+:type elpa
+:description "evil keybindings for that work with dvorak mode"
+:repo nil
+:depends (evil)
+)

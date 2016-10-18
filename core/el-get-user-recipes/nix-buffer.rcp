@@ -1,0 +1,8 @@
+(:name nix-buffer
+:auto-generated t
+:type elpa
+:description "Set up buffer environments with nix"
+:repo nil
+:depends (f)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,8 @@
+(:name dired-k
+:auto-generated t
+:type elpa
+:description "highlight dired buffer by file size, modified time, git status"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

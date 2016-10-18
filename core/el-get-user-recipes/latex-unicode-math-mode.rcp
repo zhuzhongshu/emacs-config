@@ -1,0 +1,6 @@
+(:name latex-unicode-math-mode
+:auto-generated t
+:type elpa
+:description "Input method for Unicode math symbols"
+:repo nil
+)

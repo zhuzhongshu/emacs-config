@@ -1,0 +1,6 @@
+(:name win-switch
+:auto-generated t
+:type elpa
+:description "fast, dynamic bindings for window-switching/resizing"
+:repo nil
+)

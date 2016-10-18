@@ -1,0 +1,7 @@
+(:name cliphist
+:auto-generated t
+:type elpa
+:description "Read clipboard history from Parcellite on Linux and Flycut on OS X"
+:repo nil
+:depends (popup)
+)

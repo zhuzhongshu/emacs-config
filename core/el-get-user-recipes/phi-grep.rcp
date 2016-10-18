@@ -1,0 +1,7 @@
+(:name phi-grep
+:auto-generated t
+:type elpa
+:description "Interactively-editable recursive grep implementation in elisp"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name shift-number
+:auto-generated t
+:type elpa
+:description "Increase/decrease the number at point"
+:repo nil
+)

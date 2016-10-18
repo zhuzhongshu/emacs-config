@@ -1,0 +1,6 @@
+(:name showtip
+:auto-generated t
+:type elpa
+:description "Show tip at cursor"
+:repo nil
+)

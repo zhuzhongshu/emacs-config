@@ -1,0 +1,8 @@
+(:name quelpa-use-package
+:auto-generated t
+:type elpa
+:description "quelpa handler for use-package"
+:repo nil
+:depends (quelpa use-package)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name simple-httpd
+:auto-generated t
+:type elpa
+:description "pure elisp HTTP server"
+:repo nil
+:depends (cl-lib)
+)

@@ -1,0 +1,6 @@
+(:name dired-launch
+:auto-generated t
+:type elpa
+:description "Use dired as a launcher"
+:repo nil
+)

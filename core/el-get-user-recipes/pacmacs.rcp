@@ -1,0 +1,8 @@
+(:name pacmacs
+:auto-generated t
+:type elpa
+:description "Pacman for Emacs"
+:repo nil
+:depends (dash dash-functional cl-lib f)
+:minimum-emacs-version (24 4)
+)

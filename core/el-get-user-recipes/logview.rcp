@@ -1,0 +1,8 @@
+(:name logview
+:auto-generated t
+:type elpa
+:description "Major mode for viewing log files"
+:repo nil
+:depends (datetime)
+:minimum-emacs-version (24 1)
+)

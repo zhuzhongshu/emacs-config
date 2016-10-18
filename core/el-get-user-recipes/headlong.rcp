@@ -1,0 +1,6 @@
+(:name headlong
+:auto-generated t
+:type elpa
+:description "reckless completion"
+:repo nil
+)

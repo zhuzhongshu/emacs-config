@@ -1,0 +1,6 @@
+(:name xah-replace-pairs
+:auto-generated t
+:type elpa
+:description "Multi-pair find/replace in strings and region."
+:repo nil
+)

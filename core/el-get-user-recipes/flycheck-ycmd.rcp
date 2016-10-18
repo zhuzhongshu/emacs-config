@@ -1,0 +1,8 @@
+(:name flycheck-ycmd
+:auto-generated t
+:type elpa
+:description "flycheck integration for ycmd"
+:repo nil
+:depends (dash flycheck ycmd let-alist)
+:minimum-emacs-version (24)
+)

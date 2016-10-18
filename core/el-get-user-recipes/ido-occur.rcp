@@ -1,0 +1,7 @@
+(:name ido-occur
+:auto-generated t
+:type elpa
+:description "Yet another `occur' with `ido'."
+:repo nil
+:depends (dash)
+)

@@ -1,0 +1,7 @@
+(:name evil-lisp-state
+:auto-generated t
+:type elpa
+:description "An evil state to edit Lisp code"
+:repo nil
+:depends (evil bind-map smartparens)
+)

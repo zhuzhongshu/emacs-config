@@ -1,0 +1,7 @@
+(:name rpn-calc
+:auto-generated t
+:type elpa
+:description "quick RPN calculator for hackers"
+:repo nil
+:depends (popup)
+)

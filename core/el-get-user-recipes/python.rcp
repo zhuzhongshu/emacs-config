@@ -1,0 +1,8 @@
+(:name python
+:auto-generated t
+:type elpa
+:description "Python's flying circus support for Emacs"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

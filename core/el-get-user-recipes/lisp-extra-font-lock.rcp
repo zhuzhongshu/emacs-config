@@ -1,0 +1,6 @@
+(:name lisp-extra-font-lock
+:auto-generated t
+:type elpa
+:description "Highlight bound variables and quoted exprs."
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name flymake-go
+:auto-generated t
+:type elpa
+:description "A flymake handler for go-mode files"
+:repo nil
+)

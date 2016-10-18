@@ -1,0 +1,8 @@
+(:name flycheck-status-emoji
+:auto-generated t
+:type elpa
+:description "Show flycheck status using cute, compact emoji"
+:repo nil
+:depends (cl-lib flycheck let-alist)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name link
+:auto-generated t
+:type elpa
+:description "Hypertext links in text buffers"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name jenkins
+:auto-generated t
+:type elpa
+:description "Minimalistic Jenkins client for Emacs"
+:repo nil
+:depends (dash json)
+:minimum-emacs-version (24 3)
+)

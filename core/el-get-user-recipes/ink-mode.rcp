@@ -1,0 +1,7 @@
+(:name ink-mode
+:auto-generated t
+:type elpa
+:description "Major mode for writing interactive fiction in Ink"
+:repo nil
+:minimum-emacs-version (24 3)
+)

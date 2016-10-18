@@ -1,0 +1,7 @@
+(:name kite-mini
+:auto-generated t
+:type elpa
+:description "Remotely evaluate JavaScript in the WebKit debugger"
+:repo nil
+:depends (dash websocket)
+)

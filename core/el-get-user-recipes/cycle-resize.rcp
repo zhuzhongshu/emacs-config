@@ -1,0 +1,6 @@
+(:name cycle-resize
+:auto-generated t
+:type elpa
+:description "Cycle resize the current window horizontally or vertically"
+:repo nil
+)

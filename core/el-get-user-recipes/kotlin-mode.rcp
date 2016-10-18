@@ -1,0 +1,7 @@
+(:name kotlin-mode
+:auto-generated t
+:type elpa
+:description "Major mode for kotlin"
+:repo nil
+:minimum-emacs-version (24 3)
+)

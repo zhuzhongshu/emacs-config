@@ -1,0 +1,7 @@
+(:name www-synonyms
+:auto-generated t
+:type elpa
+:description "insert synonym for a word"
+:repo nil
+:depends (request cl-lib)
+)

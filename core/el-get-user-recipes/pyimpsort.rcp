@@ -1,0 +1,7 @@
+(:name pyimpsort
+:auto-generated t
+:type elpa
+:description "Sort python imports."
+:repo nil
+:minimum-emacs-version (24 3)
+)

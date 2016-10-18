@@ -1,0 +1,6 @@
+(:name meacupla-theme
+:auto-generated t
+:type elpa
+:description "meacupla theme for emacs"
+:repo nil
+)

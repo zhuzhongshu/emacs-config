@@ -1,0 +1,7 @@
+(:name org-clock-today
+:auto-generated t
+:type elpa
+:description "Show the total clocked time of the current day in the mode line"
+:repo nil
+:minimum-emacs-version (24 4)
+)

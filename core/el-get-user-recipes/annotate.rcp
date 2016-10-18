@@ -1,0 +1,6 @@
+(:name annotate
+:auto-generated t
+:type elpa
+:description "annotate files without changing them"
+:repo nil
+)

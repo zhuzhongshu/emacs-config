@@ -1,0 +1,7 @@
+(:name searchq
+:auto-generated t
+:type elpa
+:description "Framework of queued search tasks using GREP, ACK, AG and more."
+:repo nil
+:minimum-emacs-version (24 3)
+)

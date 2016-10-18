@@ -1,0 +1,6 @@
+(:name avk-emacs-themes
+:auto-generated t
+:type elpa
+:description "Collection of avk themes"
+:repo nil
+)

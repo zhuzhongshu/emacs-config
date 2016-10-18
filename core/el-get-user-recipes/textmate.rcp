@@ -1,0 +1,6 @@
+(:name textmate
+:auto-generated t
+:type elpa
+:description "TextMate minor mode for Emacs"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name ein
+:auto-generated t
+:type elpa
+:description "Emacs IPython Notebook"
+:repo nil
+:depends (websocket request cl-generic)
+)

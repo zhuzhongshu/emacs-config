@@ -1,0 +1,7 @@
+(:name dictionary
+:auto-generated t
+:type elpa
+:description "Client for rfc2229 dictionary servers"
+:repo nil
+:depends (connection link)
+)

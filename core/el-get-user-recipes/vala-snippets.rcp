@@ -1,0 +1,7 @@
+(:name vala-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Vala"
+:repo nil
+:depends (yasnippet)
+)

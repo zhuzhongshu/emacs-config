@@ -1,0 +1,7 @@
+(:name osx-trash
+:auto-generated t
+:type elpa
+:description "System trash for OS X"
+:repo nil
+:minimum-emacs-version (24 1)
+)

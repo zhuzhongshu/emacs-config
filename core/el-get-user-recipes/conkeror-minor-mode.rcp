@@ -1,0 +1,6 @@
+(:name conkeror-minor-mode
+:auto-generated t
+:type elpa
+:description "Mode for editing conkeror javascript files."
+:repo nil
+)

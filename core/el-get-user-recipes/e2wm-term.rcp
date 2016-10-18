@@ -1,0 +1,7 @@
+(:name e2wm-term
+:auto-generated t
+:type elpa
+:description "Perspective of e2wm.el for work in terminal"
+:repo nil
+:depends (e2wm log4e yaxception)
+)

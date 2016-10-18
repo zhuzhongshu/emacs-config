@@ -1,0 +1,7 @@
+(:name ibuffer-rcirc
+:auto-generated t
+:type elpa
+:description "Ibuffer integration for rcirc"
+:repo nil
+:depends (cl-lib)
+)

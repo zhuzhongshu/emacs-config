@@ -1,0 +1,7 @@
+(:name tblui
+:auto-generated t
+:type elpa
+:description "Define tabulated list UI easily"
+:repo nil
+:depends (dash magit-popup tablist cl-lib)
+)

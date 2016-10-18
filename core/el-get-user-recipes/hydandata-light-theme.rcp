@@ -1,0 +1,6 @@
+(:name hydandata-light-theme
+:auto-generated t
+:type elpa
+:description "A light color theme that is easy on your eyes"
+:repo nil
+)

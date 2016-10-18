@@ -1,0 +1,7 @@
+(:name helm-mu
+:auto-generated t
+:type elpa
+:description "Helm sources for searching emails and contacts"
+:repo nil
+:depends (helm)
+)

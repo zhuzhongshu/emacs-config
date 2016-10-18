@@ -1,0 +1,8 @@
+(:name amd-mode
+:auto-generated t
+:type elpa
+:description "Minor mode for handling JavaScript AMD module requirements."
+:repo nil
+:depends (projectile s f seq makey js2-mode js2-refactor)
+:minimum-emacs-version (25)
+)

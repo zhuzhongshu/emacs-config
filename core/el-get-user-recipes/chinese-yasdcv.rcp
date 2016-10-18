@@ -1,0 +1,7 @@
+(:name chinese-yasdcv
+:auto-generated t
+:type elpa
+:description "Yet another frontend for the StarDict command-line program"
+:repo nil
+:depends (cl-lib chinese-pyim)
+)

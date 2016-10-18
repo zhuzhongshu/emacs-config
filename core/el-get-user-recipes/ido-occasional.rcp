@@ -1,0 +1,7 @@
+(:name ido-occasional
+:auto-generated t
+:type elpa
+:description "Use ido where you choose."
+:repo nil
+:minimum-emacs-version (24 1)
+)

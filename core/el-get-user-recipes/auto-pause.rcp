@@ -1,0 +1,7 @@
+(:name auto-pause
+:auto-generated t
+:type elpa
+:description "Run processes which will be paused when Emacs is idle"
+:repo nil
+:minimum-emacs-version (24 4)
+)

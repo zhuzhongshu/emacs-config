@@ -1,0 +1,6 @@
+(:name pinentry
+:auto-generated t
+:type elpa
+:description "GnuPG Pinentry server implementation"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name no-littering
+:auto-generated t
+:type elpa
+:description "help keeping ~/.emacs.d clean"
+:repo nil
+:depends (cl-lib)
+)

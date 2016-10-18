@@ -1,0 +1,6 @@
+(:name objc-font-lock
+:auto-generated t
+:type elpa
+:description "Highlight Objective-C method calls."
+:repo nil
+)

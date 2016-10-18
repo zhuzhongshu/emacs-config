@@ -1,0 +1,6 @@
+(:name electric-spacing
+:auto-generated t
+:type elpa
+:description "Insert operators with surrounding spaces smartly"
+:repo nil
+)

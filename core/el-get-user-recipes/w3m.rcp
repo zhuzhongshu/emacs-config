@@ -1,0 +1,6 @@
+(:name w3m
+:auto-generated t
+:type elpa
+:description "an Emacs interface to w3m"
+:repo nil
+)

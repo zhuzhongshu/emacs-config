@@ -1,0 +1,8 @@
+(:name fix-word
+:auto-generated t
+:type elpa
+:description "Convenient word transformation"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

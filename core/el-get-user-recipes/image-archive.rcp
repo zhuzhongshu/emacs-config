@@ -1,0 +1,8 @@
+(:name image-archive
+:auto-generated t
+:type elpa
+:description "Image thumbnails in archive file with non-blocking"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

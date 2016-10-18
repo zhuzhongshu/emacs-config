@@ -1,0 +1,6 @@
+(:name liso-theme
+:auto-generated t
+:type elpa
+:description "Eclectic Dark Theme for GNU Emacs"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name apel
+:auto-generated t
+:type elpa
+:description "APEL (A Portable Emacs Library) provides support for portable Emacs Lisp programs"
+:repo nil
+)

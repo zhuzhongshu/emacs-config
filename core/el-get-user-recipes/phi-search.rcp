@@ -1,0 +1,6 @@
+(:name phi-search
+:auto-generated t
+:type elpa
+:description "another incremental search & replace, compatible with \"multiple-cursors\""
+:repo nil
+)

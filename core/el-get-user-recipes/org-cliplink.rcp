@@ -1,0 +1,7 @@
+(:name org-cliplink
+:auto-generated t
+:type elpa
+:description "insert org-mode links from the clipboard"
+:repo nil
+:minimum-emacs-version (24 4)
+)

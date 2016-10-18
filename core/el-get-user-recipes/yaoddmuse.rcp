@@ -1,0 +1,6 @@
+(:name yaoddmuse
+:auto-generated t
+:type elpa
+:description "Major mode for EmacsWiki and other Oddmuse wikis"
+:repo nil
+)

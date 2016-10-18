@@ -1,0 +1,6 @@
+(:name font-lock+
+:auto-generated t
+:type elpa
+:description "Enhancements to standard library `font-lock.el'."
+:repo nil
+)

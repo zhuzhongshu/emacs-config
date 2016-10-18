@@ -1,0 +1,7 @@
+(:name evil-magit
+:auto-generated t
+:type elpa
+:description "evil-based key bindings for magit"
+:repo nil
+:depends (evil magit)
+)

@@ -1,0 +1,7 @@
+(:name utop
+:auto-generated t
+:type elpa
+:description "Universal toplevel for OCaml"
+:repo nil
+:minimum-emacs-version (24)
+)

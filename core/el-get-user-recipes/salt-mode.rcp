@@ -1,0 +1,7 @@
+(:name salt-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Salt States"
+:repo nil
+:depends (yaml-mode mmm-mode mmm-jinja2)
+)

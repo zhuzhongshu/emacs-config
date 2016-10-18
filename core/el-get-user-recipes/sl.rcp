@@ -1,0 +1,8 @@
+(:name sl
+:auto-generated t
+:type elpa
+:description "Clone of sl(1)"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

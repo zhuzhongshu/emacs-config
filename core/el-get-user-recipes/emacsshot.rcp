@@ -1,0 +1,6 @@
+(:name emacsshot
+:auto-generated t
+:type elpa
+:description "Snapshot a frame or window from within Emacs"
+:repo nil
+)

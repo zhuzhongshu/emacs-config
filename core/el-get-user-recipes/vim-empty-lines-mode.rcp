@@ -1,0 +1,7 @@
+(:name vim-empty-lines-mode
+:auto-generated t
+:type elpa
+:description "Vim-like empty line indicator at end of files."
+:repo nil
+:minimum-emacs-version (23)
+)

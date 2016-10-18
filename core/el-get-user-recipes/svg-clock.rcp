@@ -1,0 +1,8 @@
+(:name svg-clock
+:auto-generated t
+:type elpa
+:description "Analog clock using Scalable Vector Graphics"
+:repo nil
+:depends (svg)
+:minimum-emacs-version (25 0)
+)

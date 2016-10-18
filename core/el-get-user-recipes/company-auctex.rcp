@@ -1,0 +1,7 @@
+(:name company-auctex
+:auto-generated t
+:type elpa
+:description "Company-mode auto-completion for AUCTeX"
+:repo nil
+:depends (yasnippet company auctex)
+)

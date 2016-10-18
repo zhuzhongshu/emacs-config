@@ -1,0 +1,6 @@
+(:name god-mode
+:auto-generated t
+:type elpa
+:description "God-like command entering minor mode"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name strace-mode
+:auto-generated t
+:type elpa
+:description "strace output syntax highlighting"
+:repo nil
+)

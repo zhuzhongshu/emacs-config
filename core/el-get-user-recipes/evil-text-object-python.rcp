@@ -1,0 +1,8 @@
+(:name evil-text-object-python
+:auto-generated t
+:type elpa
+:description "Python specific evil text objects"
+:repo nil
+:depends (evil)
+:minimum-emacs-version (24)
+)

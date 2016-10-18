@@ -1,0 +1,8 @@
+(:name kurecolor
+:auto-generated t
+:type elpa
+:description "color editing goodies for Emacs"
+:repo nil
+:depends (s)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,6 @@
+(:name save-visited-files
+:auto-generated t
+:type elpa
+:description "save opened files across sessions"
+:repo nil
+)

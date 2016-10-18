@@ -1,0 +1,7 @@
+(:name elisp-refs
+:auto-generated t
+:type elpa
+:description "find callers of elisp functions or macros"
+:repo nil
+:depends (dash f list-utils loop s)
+)

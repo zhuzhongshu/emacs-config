@@ -1,0 +1,8 @@
+(:name company-restclient
+:auto-generated t
+:type elpa
+:description "company-mode completion back-end for restclient-mode"
+:repo nil
+:depends (cl-lib company know-your-http-well restclient)
+:minimum-emacs-version (24)
+)

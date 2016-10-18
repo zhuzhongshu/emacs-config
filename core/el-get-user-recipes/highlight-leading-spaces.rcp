@@ -1,0 +1,7 @@
+(:name highlight-leading-spaces
+:auto-generated t
+:type elpa
+:description "Highlight leading spaces"
+:repo nil
+:minimum-emacs-version (24 4)
+)

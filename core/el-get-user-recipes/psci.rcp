@@ -1,0 +1,7 @@
+(:name psci
+:auto-generated t
+:type elpa
+:description "Major mode for purescript repl psci"
+:repo nil
+:depends (purescript-mode dash s f)
+)

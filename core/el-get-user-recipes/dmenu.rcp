@@ -1,0 +1,7 @@
+(:name dmenu
+:auto-generated t
+:type elpa
+:description "simulate the dmenu command line program"
+:repo nil
+:depends (cl-lib)
+)

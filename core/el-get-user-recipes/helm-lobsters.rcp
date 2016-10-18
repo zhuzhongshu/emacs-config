@@ -1,0 +1,7 @@
+(:name helm-lobsters
+:auto-generated t
+:type elpa
+:description "helm front-end for lobste.rs"
+:repo nil
+:depends (helm cl-lib)
+)

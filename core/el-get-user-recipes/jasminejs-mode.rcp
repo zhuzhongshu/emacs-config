@@ -1,0 +1,6 @@
+(:name jasminejs-mode
+:auto-generated t
+:type elpa
+:description "A minor mode for manipulating jasmine test files"
+:repo nil
+)

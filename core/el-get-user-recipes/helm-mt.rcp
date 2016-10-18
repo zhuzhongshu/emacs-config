@@ -1,0 +1,8 @@
+(:name helm-mt
+:auto-generated t
+:type elpa
+:description "helm multi-term management"
+:repo nil
+:depends (helm multi-term cl-lib)
+:minimum-emacs-version (24)
+)

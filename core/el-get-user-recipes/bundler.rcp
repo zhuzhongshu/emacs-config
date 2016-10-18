@@ -1,0 +1,7 @@
+(:name bundler
+:auto-generated t
+:type elpa
+:description "Interact with Bundler from Emacs"
+:repo nil
+:depends (inf-ruby cl-lib)
+)

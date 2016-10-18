@@ -1,0 +1,7 @@
+(:name orgbox
+:auto-generated t
+:type elpa
+:description "Mailbox-like task scheduling Org."
+:repo nil
+:depends (org cl-lib)
+)

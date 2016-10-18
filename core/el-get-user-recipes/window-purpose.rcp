@@ -1,0 +1,8 @@
+(:name window-purpose
+:auto-generated t
+:type elpa
+:description "Purpose-based window management for Emacs"
+:repo nil
+:depends (cl-lib let-alist imenu-list)
+:minimum-emacs-version (24)
+)

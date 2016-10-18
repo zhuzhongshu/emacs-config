@@ -1,0 +1,7 @@
+(:name axiom-environment
+:auto-generated t
+:type elpa
+:description "An environment for using Axiom/OpenAxiom/FriCAS"
+:repo nil
+:minimum-emacs-version (24 2)
+)

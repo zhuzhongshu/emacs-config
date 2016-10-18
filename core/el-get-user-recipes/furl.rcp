@@ -1,0 +1,6 @@
+(:name furl
+:auto-generated t
+:type elpa
+:description "Friendly URL retrieval"
+:repo nil
+)

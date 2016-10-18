@@ -1,0 +1,7 @@
+(:name steam
+:auto-generated t
+:type elpa
+:description "Organize and launch Steam games"
+:repo nil
+:depends (cl-lib)
+)

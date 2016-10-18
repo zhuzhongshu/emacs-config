@@ -1,0 +1,6 @@
+(:name form-feed
+:auto-generated t
+:type elpa
+:description "Display ^L glyphs as horizontal lines"
+:repo nil
+)

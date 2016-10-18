@@ -1,0 +1,8 @@
+(:name cubicaltt
+:auto-generated t
+:type elpa
+:description "Mode for cubical type theory"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

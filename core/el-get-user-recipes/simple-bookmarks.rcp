@@ -1,0 +1,7 @@
+(:name simple-bookmarks
+:auto-generated t
+:type elpa
+:description "Bookmark / functioncall manager"
+:repo nil
+:depends (cl-lib)
+)

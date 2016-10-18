@@ -1,0 +1,7 @@
+(:name requirejs
+:auto-generated t
+:type elpa
+:description "Requirejs import manipulation and source traversal."
+:repo nil
+:depends (js2-mode popup s cl-lib yasnippet)
+)

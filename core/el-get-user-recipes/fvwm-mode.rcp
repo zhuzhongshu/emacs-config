@@ -1,0 +1,6 @@
+(:name fvwm-mode
+:auto-generated t
+:type elpa
+:description "A major mode for editing Fvwm configuration files"
+:repo nil
+)

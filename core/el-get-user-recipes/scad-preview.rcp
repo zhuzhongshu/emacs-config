@@ -1,0 +1,7 @@
+(:name scad-preview
+:auto-generated t
+:type elpa
+:description "Preview SCAD models in real-time within Emacs"
+:repo nil
+:depends (scad-mode)
+)

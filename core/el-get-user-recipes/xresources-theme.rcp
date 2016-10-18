@@ -1,0 +1,6 @@
+(:name xresources-theme
+:auto-generated t
+:type elpa
+:description "Use your .Xresources as your emacs theme"
+:repo nil
+)

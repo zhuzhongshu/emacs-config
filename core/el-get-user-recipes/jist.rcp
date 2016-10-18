@@ -1,0 +1,8 @@
+(:name jist
+:auto-generated t
+:type elpa
+:description "Gist integration"
+:repo nil
+:depends (pkg-info dash let-alist magit request)
+:minimum-emacs-version (24 4)
+)

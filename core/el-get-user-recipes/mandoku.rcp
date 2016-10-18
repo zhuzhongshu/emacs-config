@@ -1,0 +1,7 @@
+(:name mandoku
+:auto-generated t
+:type elpa
+:description "A tool to access repositories of premodern Chinese texts"
+:repo nil
+:depends (org magit github-clone git)
+)

@@ -1,0 +1,7 @@
+(:name hyperbole
+:auto-generated t
+:type elpa
+:description "GNU Hyperbole: The Everyday Hypertextual Information Manager"
+:repo nil
+:minimum-emacs-version (24 4)
+)

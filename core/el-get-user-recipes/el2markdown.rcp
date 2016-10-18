@@ -1,0 +1,6 @@
+(:name el2markdown
+:auto-generated t
+:type elpa
+:description "Convert commentary section of elisp files to markdown."
+:repo nil
+)

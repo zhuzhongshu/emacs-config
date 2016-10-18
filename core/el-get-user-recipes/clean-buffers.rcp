@@ -1,0 +1,7 @@
+(:name clean-buffers
+:auto-generated t
+:type elpa
+:description "clean useless buffers"
+:repo nil
+:depends (cl-lib)
+)

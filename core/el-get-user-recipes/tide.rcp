@@ -1,0 +1,7 @@
+(:name tide
+:auto-generated t
+:type elpa
+:description "Typescript Interactive Development Environment"
+:repo nil
+:depends (dash flycheck typescript-mode cl-lib)
+)

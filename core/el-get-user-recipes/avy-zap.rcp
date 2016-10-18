@@ -1,0 +1,7 @@
+(:name avy-zap
+:auto-generated t
+:type elpa
+:description "Zap to char using `avy'"
+:repo nil
+:depends (avy)
+)

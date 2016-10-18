@@ -1,0 +1,7 @@
+(:name show-css
+:auto-generated t
+:type elpa
+:description "Show the css of the html attribute the cursor is on"
+:repo nil
+:depends (doom s)
+)

@@ -1,0 +1,7 @@
+(:name flymake-solidity
+:auto-generated t
+:type elpa
+:description "A flymake handler for solidity using solc"
+:repo nil
+:depends (flymake-easy)
+)

@@ -1,0 +1,7 @@
+(:name elm-yasnippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Elm"
+:repo nil
+:depends (yasnippet)
+)

@@ -1,0 +1,6 @@
+(:name review-mode
+:auto-generated t
+:type elpa
+:description "major mode for ReVIEW"
+:repo nil
+)

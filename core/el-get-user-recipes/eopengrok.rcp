@@ -1,0 +1,7 @@
+(:name eopengrok
+:auto-generated t
+:type elpa
+:description "opengrok interface for emacs"
+:repo nil
+:depends (s dash magit cl-lib)
+)

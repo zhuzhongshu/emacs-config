@@ -1,0 +1,6 @@
+(:name python-docstring
+:auto-generated t
+:type elpa
+:description "Smart Python docstring formatting"
+:repo nil
+)

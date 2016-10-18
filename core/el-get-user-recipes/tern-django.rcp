@@ -1,0 +1,8 @@
+(:name tern-django
+:auto-generated t
+:type elpa
+:description "Create tern projects for django applications."
+:repo nil
+:depends (tern f)
+:minimum-emacs-version (24)
+)

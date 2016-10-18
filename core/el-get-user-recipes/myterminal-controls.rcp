@@ -1,0 +1,8 @@
+(:name myterminal-controls
+:auto-generated t
+:type elpa
+:description "Quick toggle controls at a key-stroke"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

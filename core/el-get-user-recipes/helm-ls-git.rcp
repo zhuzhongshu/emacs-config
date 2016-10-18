@@ -1,0 +1,7 @@
+(:name helm-ls-git
+:auto-generated t
+:type elpa
+:description "list git files."
+:repo nil
+:depends (helm)
+)

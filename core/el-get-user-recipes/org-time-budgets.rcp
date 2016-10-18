@@ -1,0 +1,7 @@
+(:name org-time-budgets
+:auto-generated t
+:type elpa
+:description "Define time budgets and display clocked time."
+:repo nil
+:depends (alert cl-lib)
+)

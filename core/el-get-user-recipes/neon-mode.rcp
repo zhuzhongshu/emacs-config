@@ -1,0 +1,6 @@
+(:name neon-mode
+:auto-generated t
+:type elpa
+:description "Simple major mode for editing neon files"
+:repo nil
+)

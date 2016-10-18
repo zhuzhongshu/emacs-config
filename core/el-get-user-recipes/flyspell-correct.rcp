@@ -1,0 +1,6 @@
+(:name flyspell-correct
+:auto-generated t
+:type elpa
+:description "correcting words with flyspell via custom interface"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name counsel-projectile
+:auto-generated t
+:type elpa
+:description "Ivy integration for Projectile"
+:repo nil
+:depends (counsel projectile)
+)

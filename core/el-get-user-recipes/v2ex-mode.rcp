@@ -1,0 +1,7 @@
+(:name v2ex-mode
+:auto-generated t
+:type elpa
+:description "Major mode for visit http://v2ex.com/ site."
+:repo nil
+:depends (cl-lib request let-alist)
+)

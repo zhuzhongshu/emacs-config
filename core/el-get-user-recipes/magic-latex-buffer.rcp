@@ -1,0 +1,8 @@
+(:name magic-latex-buffer
+:auto-generated t
+:type elpa
+:description "Magically enhance LaTeX-mode font-locking for semi-WYSIWYG editing"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

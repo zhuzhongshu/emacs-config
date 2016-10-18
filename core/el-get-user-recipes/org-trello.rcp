@@ -1,0 +1,8 @@
+(:name org-trello
+:auto-generated t
+:type elpa
+:description "Minor mode to synchronize org-mode buffer and trello board"
+:repo nil
+:depends (request-deferred deferred s dash-functional dash)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name xml-quotes
+:auto-generated t
+:type elpa
+:description "read quotations from an XML document"
+:repo nil
+)

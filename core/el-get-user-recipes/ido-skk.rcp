@@ -1,0 +1,8 @@
+(:name ido-skk
+:auto-generated t
+:type elpa
+:description "ido interface for skk henkan"
+:repo nil
+:depends (ddskk)
+:minimum-emacs-version (24 4)
+)

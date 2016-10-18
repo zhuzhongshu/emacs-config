@@ -1,0 +1,6 @@
+(:name ntlm
+:auto-generated t
+:type elpa
+:description "NTLM (NT LanManager) authentication support"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name swap-buffers
+:auto-generated t
+:type elpa
+:description "The quickest way to swap buffers between windows. Based on switch-window package."
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name webpaste
+:auto-generated t
+:type elpa
+:description "Paste to pastebin-like services"
+:repo nil
+:depends (request cl-lib)
+:minimum-emacs-version (24 1)
+)

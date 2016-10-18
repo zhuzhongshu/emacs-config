@@ -1,0 +1,8 @@
+(:name helm-wordnet
+:auto-generated t
+:type elpa
+:description "Helm interface to local wordnet dictionary"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24)
+)

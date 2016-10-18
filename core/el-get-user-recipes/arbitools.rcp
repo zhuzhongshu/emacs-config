@@ -1,0 +1,7 @@
+(:name arbitools
+:auto-generated t
+:type elpa
+:description "Package for chess tournaments administration"
+:repo nil
+:depends (cl-lib)
+)

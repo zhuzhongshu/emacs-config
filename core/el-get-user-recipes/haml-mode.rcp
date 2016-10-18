@@ -1,0 +1,7 @@
+(:name haml-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Haml files"
+:repo nil
+:depends (ruby-mode)
+)

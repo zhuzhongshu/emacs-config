@@ -1,0 +1,6 @@
+(:name chinese-number
+:auto-generated t
+:type elpa
+:description "Convert numbers between Arabic and Chinese formats"
+:repo nil
+)

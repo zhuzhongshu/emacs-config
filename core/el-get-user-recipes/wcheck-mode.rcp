@@ -1,0 +1,6 @@
+(:name wcheck-mode
+:auto-generated t
+:type elpa
+:description "General interface for text checkers"
+:repo nil
+)

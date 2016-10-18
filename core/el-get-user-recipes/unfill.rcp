@@ -1,0 +1,6 @@
+(:name unfill
+:auto-generated t
+:type elpa
+:description "Unfill paragraphs or regions, and toggle between filled & unfilled"
+:repo nil
+)

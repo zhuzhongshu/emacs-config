@@ -1,0 +1,7 @@
+(:name forecast
+:auto-generated t
+:type elpa
+:description "Display a forecast.io weather report in a buffer"
+:repo nil
+:minimum-emacs-version (24 4)
+)

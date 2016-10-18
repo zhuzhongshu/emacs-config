@@ -1,0 +1,8 @@
+(:name ob-typescript
+:auto-generated t
+:type elpa
+:description "org-babel functions for typescript evaluation"
+:repo nil
+:depends (org)
+:minimum-emacs-version (24)
+)

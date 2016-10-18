@@ -1,0 +1,8 @@
+(:name ox-nikola
+:auto-generated t
+:type elpa
+:description "Export Nikola articles using org-mode."
+:repo nil
+:depends (org ox-rst)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name unicode-input
+:auto-generated t
+:type elpa
+:description "Support for unicode character input"
+:repo nil
+)

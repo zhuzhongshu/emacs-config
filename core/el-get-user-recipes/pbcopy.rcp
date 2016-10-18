@@ -1,0 +1,6 @@
+(:name pbcopy
+:auto-generated t
+:type elpa
+:description "Emacs Interface to pbcopy"
+:repo nil
+)

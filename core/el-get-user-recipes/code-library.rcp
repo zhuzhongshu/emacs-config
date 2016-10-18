@@ -1,0 +1,7 @@
+(:name code-library
+:auto-generated t
+:type elpa
+:description "use org-mode to collect code snippets"
+:repo nil
+:depends (gist)
+)

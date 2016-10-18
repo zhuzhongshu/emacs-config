@@ -1,0 +1,8 @@
+(:name wandbox
+:auto-generated t
+:type elpa
+:description "Wandbox API Library for Emacs"
+:repo nil
+:depends (request s)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name spike-theme
+:auto-generated t
+:type elpa
+:description "A light color theme with muted, autumnal colors."
+:repo nil
+)

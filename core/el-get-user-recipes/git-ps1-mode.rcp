@@ -1,0 +1,6 @@
+(:name git-ps1-mode
+:auto-generated t
+:type elpa
+:description "Global minor-mode to print __git_ps1"
+:repo nil
+)

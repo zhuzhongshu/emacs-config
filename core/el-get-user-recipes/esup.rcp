@@ -1,0 +1,8 @@
+(:name esup
+:auto-generated t
+:type elpa
+:description "the Emacs StartUp Profiler (ESUP)"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

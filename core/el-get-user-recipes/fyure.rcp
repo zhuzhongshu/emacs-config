@@ -1,0 +1,6 @@
+(:name fyure
+:auto-generated t
+:type elpa
+:description "An interface to fix Japanese hyoki-yure"
+:repo nil
+)

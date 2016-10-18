@@ -1,0 +1,8 @@
+(:name org-ref
+:auto-generated t
+:type elpa
+:description "citations, cross-references and bibliographies in org-mode"
+:repo nil
+:depends (dash helm helm-bibtex ivy hydra key-chord s f)
+:minimum-emacs-version (24 4)
+)

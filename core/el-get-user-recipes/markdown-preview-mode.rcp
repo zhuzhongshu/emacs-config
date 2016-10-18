@@ -1,0 +1,7 @@
+(:name markdown-preview-mode
+:auto-generated t
+:type elpa
+:description "markdown realtime preview minor mode."
+:repo nil
+:depends (websocket markdown-mode cl-lib)
+)

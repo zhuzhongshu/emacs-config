@@ -1,0 +1,8 @@
+(:name copyit-pandoc
+:auto-generated t
+:type elpa
+:description "Copy it, yank anything!"
+:repo nil
+:depends (copyit pandoc)
+:minimum-emacs-version (24)
+)

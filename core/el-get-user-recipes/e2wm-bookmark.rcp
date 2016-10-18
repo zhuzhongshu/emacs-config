@@ -1,0 +1,7 @@
+(:name e2wm-bookmark
+:auto-generated t
+:type elpa
+:description "Bookmark plugin for e2wm.el"
+:repo nil
+:depends (e2wm)
+)

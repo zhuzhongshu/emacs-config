@@ -1,0 +1,8 @@
+(:name jedi-core
+:auto-generated t
+:type elpa
+:description "Common code of jedi.el and company-jedi.el"
+:repo nil
+:depends (epc python-environment cl-lib)
+:minimum-emacs-version (24)
+)

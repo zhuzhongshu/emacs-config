@@ -1,0 +1,6 @@
+(:name indy
+:auto-generated t
+:type elpa
+:description "A minor mode and EDSL to manage your mode's indentation rules."
+:repo nil
+)

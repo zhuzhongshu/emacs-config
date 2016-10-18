@@ -1,0 +1,7 @@
+(:name aria2
+:auto-generated t
+:type elpa
+:description "Control aria2c commandline tool from Emacs"
+:repo nil
+:minimum-emacs-version (24 4)
+)

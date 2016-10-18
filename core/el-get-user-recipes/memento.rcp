@@ -1,0 +1,6 @@
+(:name memento
+:auto-generated t
+:type elpa
+:description "maintaining daily journals when the day ends."
+:repo nil
+)

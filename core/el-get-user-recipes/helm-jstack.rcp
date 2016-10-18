@@ -1,0 +1,8 @@
+(:name helm-jstack
+:auto-generated t
+:type elpa
+:description "Helm interface to Jps & Jstack for Java/JVM processes"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24)
+)

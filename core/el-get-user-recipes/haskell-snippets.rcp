@@ -1,0 +1,7 @@
+(:name haskell-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for Haskell"
+:repo nil
+:depends (cl-lib yasnippet)
+)

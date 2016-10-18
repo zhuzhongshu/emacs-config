@@ -1,0 +1,7 @@
+(:name buffer-sets
+:auto-generated t
+:type elpa
+:description "Sets of Buffers for Buffer Management"
+:repo nil
+:depends (cl-lib)
+)

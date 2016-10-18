@@ -1,0 +1,6 @@
+(:name base16-theme
+:auto-generated t
+:type elpa
+:description "Collection of themes built on combinations of 16 base colors"
+:repo nil
+)

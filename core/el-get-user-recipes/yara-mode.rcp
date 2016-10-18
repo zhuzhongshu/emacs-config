@@ -1,0 +1,7 @@
+(:name yara-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing yara rule file"
+:repo nil
+:minimum-emacs-version (24)
+)

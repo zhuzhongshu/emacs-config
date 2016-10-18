@@ -1,0 +1,6 @@
+(:name windata
+:auto-generated t
+:type elpa
+:description "convert window configuration to list"
+:repo nil
+)

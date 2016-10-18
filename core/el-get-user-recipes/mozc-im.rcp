@@ -1,0 +1,7 @@
+(:name mozc-im
+:auto-generated t
+:type elpa
+:description "Mozc with input-method-function interface."
+:repo nil
+:depends (mozc)
+)

@@ -1,0 +1,8 @@
+(:name cff
+:auto-generated t
+:type elpa
+:description "Search of the C/C++ file header by the source and vice versa"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

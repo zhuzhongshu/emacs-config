@@ -1,0 +1,7 @@
+(:name browse-url-dwim
+:auto-generated t
+:type elpa
+:description "Context-sensitive external browse URL or Internet search"
+:repo nil
+:depends (string-utils)
+)

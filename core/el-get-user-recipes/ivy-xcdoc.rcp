@@ -1,0 +1,8 @@
+(:name ivy-xcdoc
+:auto-generated t
+:type elpa
+:description "Search Xcode documents with ivy interface."
+:repo nil
+:depends (ivy)
+:minimum-emacs-version (24 4)
+)

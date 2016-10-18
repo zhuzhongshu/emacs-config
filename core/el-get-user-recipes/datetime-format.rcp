@@ -1,0 +1,6 @@
+(:name datetime-format
+:auto-generated t
+:type elpa
+:description "Datetime functions"
+:repo nil
+)

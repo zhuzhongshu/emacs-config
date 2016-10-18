@@ -1,0 +1,7 @@
+(:name gobgen
+:auto-generated t
+:type elpa
+:description "Generate GObject descendants using a detailed form"
+:repo nil
+:minimum-emacs-version (24 4)
+)

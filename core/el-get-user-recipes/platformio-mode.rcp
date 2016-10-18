@@ -1,0 +1,7 @@
+(:name platformio-mode
+:auto-generated t
+:type elpa
+:description "PlatformIO integration"
+:repo nil
+:depends (projectile)
+)

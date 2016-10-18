@@ -1,0 +1,7 @@
+(:name narrow-reindent
+:auto-generated t
+:type elpa
+:description "Defines a minor mode to left-align narrowed regions."
+:repo nil
+:minimum-emacs-version (24 4)
+)

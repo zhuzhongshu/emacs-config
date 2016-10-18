@@ -1,0 +1,6 @@
+(:name findr
+:auto-generated t
+:type elpa
+:description "Breadth-first file-finding facility for (X)Emacs"
+:repo nil
+)

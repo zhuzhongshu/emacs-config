@@ -1,0 +1,6 @@
+(:name rails-new
+:auto-generated t
+:type elpa
+:description "Handy emacs command for generating rails application."
+:repo nil
+)

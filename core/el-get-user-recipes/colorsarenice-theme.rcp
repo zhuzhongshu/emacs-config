@@ -1,0 +1,7 @@
+(:name colorsarenice-theme
+:auto-generated t
+:type elpa
+:description "A colorful color theme."
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name list-unicode-display
+:auto-generated t
+:type elpa
+:description "Search for and list unicode characters by name"
+:repo nil
+:depends (cl-lib)
+)

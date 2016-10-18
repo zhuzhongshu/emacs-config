@@ -1,0 +1,6 @@
+(:name websocket
+:auto-generated t
+:type elpa
+:description "Emacs WebSocket client and server"
+:repo nil
+)

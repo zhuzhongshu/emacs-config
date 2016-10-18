@@ -1,0 +1,7 @@
+(:name kaesar-file
+:auto-generated t
+:type elpa
+:description "Encrypt/Decrypt file by AES with password."
+:repo nil
+:depends (kaesar)
+)

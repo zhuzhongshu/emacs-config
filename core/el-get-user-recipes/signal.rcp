@@ -1,0 +1,8 @@
+(:name signal
+:auto-generated t
+:type elpa
+:description "Advanced hook"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name anything
+:auto-generated t
+:type elpa
+:description "open anything / QuickSilver-like candidate-selection framework"
+:repo nil
+)

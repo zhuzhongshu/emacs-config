@@ -1,0 +1,8 @@
+(:name phpunit
+:auto-generated t
+:type elpa
+:description "Launch PHP unit tests using phpunit"
+:repo nil
+:depends (s f pkg-info cl-lib)
+:minimum-emacs-version (24 3)
+)

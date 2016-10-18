@@ -1,0 +1,7 @@
+(:name markdownfmt
+:auto-generated t
+:type elpa
+:description "Format markdown using markdownfmt"
+:repo nil
+:minimum-emacs-version (24)
+)

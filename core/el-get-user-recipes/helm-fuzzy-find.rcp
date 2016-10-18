@@ -1,0 +1,8 @@
+(:name helm-fuzzy-find
+:auto-generated t
+:type elpa
+:description "Find file using Fuzzy Search"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 1)
+)

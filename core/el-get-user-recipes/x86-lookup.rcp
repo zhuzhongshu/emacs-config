@@ -1,0 +1,8 @@
+(:name x86-lookup
+:auto-generated t
+:type elpa
+:description "jump to x86 instruction documentation"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

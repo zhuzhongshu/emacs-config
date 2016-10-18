@@ -1,0 +1,6 @@
+(:name majapahit-theme
+:auto-generated t
+:type elpa
+:description "Color theme with a dark and light versions"
+:repo nil
+)

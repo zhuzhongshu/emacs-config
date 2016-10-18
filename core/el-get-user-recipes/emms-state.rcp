@@ -1,0 +1,7 @@
+(:name emms-state
+:auto-generated t
+:type elpa
+:description "Display track description and playing time in the mode line"
+:repo nil
+:depends (emms)
+)

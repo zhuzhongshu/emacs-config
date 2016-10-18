@@ -1,0 +1,8 @@
+(:name fsm
+:auto-generated t
+:type elpa
+:description "state machine library"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
+)

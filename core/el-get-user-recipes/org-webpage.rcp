@@ -1,0 +1,7 @@
+(:name org-webpage
+:auto-generated t
+:type elpa
+:description "A static site generator based on org mode."
+:repo nil
+:depends (cl-lib ht mustache htmlize org dash simple-httpd)
+)

@@ -1,0 +1,7 @@
+(:name evil-tutor-ja
+:auto-generated t
+:type elpa
+:description "Japanese Vimtutor adapted to Evil and wrapped in a major-mode"
+:repo nil
+:depends (evil evil-tutor)
+)

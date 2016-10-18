@@ -1,0 +1,7 @@
+(:name pycoverage
+:auto-generated t
+:type elpa
+:description "Support for coverage stats on Python 2.X and 3"
+:repo nil
+:minimum-emacs-version (24 3)
+)

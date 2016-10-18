@@ -1,0 +1,7 @@
+(:name traad
+:auto-generated t
+:type elpa
+:description "emacs interface to the traad refactoring server."
+:repo nil
+:depends (deferred popup request request-deferred virtualenvwrapper)
+)

@@ -1,0 +1,7 @@
+(:name flycheck-mercury
+:auto-generated t
+:type elpa
+:description "Mercury support in Flycheck"
+:repo nil
+:depends (flycheck s dash)
+)

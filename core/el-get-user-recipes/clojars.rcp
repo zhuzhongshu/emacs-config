@@ -1,0 +1,7 @@
+(:name clojars
+:auto-generated t
+:type elpa
+:description "clojars.org search interface"
+:repo nil
+:depends (request-deferred)
+)

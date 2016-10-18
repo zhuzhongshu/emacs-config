@@ -1,0 +1,7 @@
+(:name chinese-pyim
+:auto-generated t
+:type elpa
+:description "Chinese pinyin input method"
+:repo nil
+:depends (cl-lib pos-tip popup async chinese-pyim-basedict)
+)

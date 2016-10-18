@@ -1,0 +1,6 @@
+(:name sync-recentf
+:auto-generated t
+:type elpa
+:description "Synchronize the recent files list between Emacs instances"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name skewer-less
+:auto-generated t
+:type elpa
+:description "Skewer support for live LESS stylesheet updates"
+:repo nil
+:depends (skewer-mode)
+)

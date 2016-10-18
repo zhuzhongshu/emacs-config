@@ -1,0 +1,6 @@
+(:name matlab-mode
+:auto-generated t
+:type elpa
+:description "Major mode for MATLAB(R) dot-m files"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name markdown-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Markdown-formatted text"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

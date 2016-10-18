@@ -1,0 +1,6 @@
+(:name orgtbl-show-header
+:auto-generated t
+:type elpa
+:description "Show the header of the current column in the minibuffer"
+:repo nil
+)

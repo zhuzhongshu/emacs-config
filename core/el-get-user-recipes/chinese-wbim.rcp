@@ -1,0 +1,6 @@
+(:name chinese-wbim
+:auto-generated t
+:type elpa
+:description "Enable Wubi Input Method in Emacs."
+:repo nil
+)

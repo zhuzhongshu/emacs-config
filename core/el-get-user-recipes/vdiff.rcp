@@ -1,0 +1,8 @@
+(:name vdiff
+:auto-generated t
+:type elpa
+:description "A diff tool similar to  vimdiff"
+:repo nil
+:depends (hydra)
+:minimum-emacs-version (24 4)
+)

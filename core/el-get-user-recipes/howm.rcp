@@ -1,0 +1,7 @@
+(:name howm
+:auto-generated t
+:type elpa
+:description "Wiki-like note-taking tool"
+:repo nil
+:depends (cl-lib)
+)

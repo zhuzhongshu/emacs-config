@@ -1,0 +1,8 @@
+(:name edbi-django
+:auto-generated t
+:type elpa
+:description "Run edbi with django settings"
+:repo nil
+:depends (edbi f)
+:minimum-emacs-version (24)
+)

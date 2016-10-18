@@ -1,0 +1,8 @@
+(:name emacsql-psql
+:auto-generated t
+:type elpa
+:description "EmacSQL back-end for PostgreSQL via psql and pg"
+:repo nil
+:depends (cl-lib emacsql pg)
+:minimum-emacs-version (24 3)
+)

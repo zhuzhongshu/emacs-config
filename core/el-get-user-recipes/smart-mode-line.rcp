@@ -1,0 +1,8 @@
+(:name smart-mode-line
+:auto-generated t
+:type elpa
+:description "A color coded smart mode-line."
+:repo nil
+:depends (rich-minority)
+:minimum-emacs-version (24 3)
+)

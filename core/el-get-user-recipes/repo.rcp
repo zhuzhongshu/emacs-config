@@ -1,0 +1,7 @@
+(:name repo
+:auto-generated t
+:type elpa
+:description "Running repo from Emacs"
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,7 @@
+(:name sunshine
+:auto-generated t
+:type elpa
+:description "Provide weather and forecast information."
+:repo nil
+:depends (cl-lib)
+)

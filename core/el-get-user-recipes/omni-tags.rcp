@@ -1,0 +1,7 @@
+(:name omni-tags
+:auto-generated t
+:type elpa
+:description "Highlight and Actions for 'Tags'"
+:repo nil
+:depends (pcre2el cl-lib)
+)

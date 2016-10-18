@@ -1,0 +1,8 @@
+(:name vimish-fold
+:auto-generated t
+:type elpa
+:description "Fold text like in Vim"
+:repo nil
+:depends (cl-lib f)
+:minimum-emacs-version (24 4)
+)

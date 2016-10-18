@@ -1,0 +1,8 @@
+(:name hasky-extensions
+:auto-generated t
+:type elpa
+:description "Toggle Haskell language extensions"
+:repo nil
+:depends (avy-menu)
+:minimum-emacs-version (24 4)
+)

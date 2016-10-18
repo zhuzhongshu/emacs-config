@@ -1,0 +1,8 @@
+(:name nlinum-relative
+:auto-generated t
+:type elpa
+:description "Relative line number with nlinum"
+:repo nil
+:depends (nlinum)
+:minimum-emacs-version (24 4)
+)

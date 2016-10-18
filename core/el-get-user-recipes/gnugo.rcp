@@ -1,0 +1,7 @@
+(:name gnugo
+:auto-generated t
+:type elpa
+:description "play GNU Go in a buffer"
+:repo nil
+:depends (ascii-art-to-unicode xpm cl-lib)
+)

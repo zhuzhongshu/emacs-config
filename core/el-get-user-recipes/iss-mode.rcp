@@ -1,0 +1,6 @@
+(:name iss-mode
+:auto-generated t
+:type elpa
+:description "Mode for InnoSetup install scripts"
+:repo nil
+)

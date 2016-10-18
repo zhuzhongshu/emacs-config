@@ -1,0 +1,6 @@
+(:name diffview
+:auto-generated t
+:type elpa
+:description "View diffs in side-by-side format"
+:repo nil
+)

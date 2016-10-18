@@ -1,0 +1,8 @@
+(:name hl-indent
+:auto-generated t
+:type elpa
+:description "Highlight irregular indentation."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

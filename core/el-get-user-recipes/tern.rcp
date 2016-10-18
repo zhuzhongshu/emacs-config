@@ -1,0 +1,8 @@
+(:name tern
+:auto-generated t
+:type elpa
+:description "Tern-powered JavaScript integration"
+:repo nil
+:depends (json cl-lib)
+:minimum-emacs-version (24)
+)

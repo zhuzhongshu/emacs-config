@@ -1,0 +1,8 @@
+(:name org-sync
+:auto-generated t
+:type elpa
+:description "Synchronize Org documents with External Issue Trackers"
+:repo nil
+:depends (cl-lib org)
+:minimum-emacs-version (24)
+)

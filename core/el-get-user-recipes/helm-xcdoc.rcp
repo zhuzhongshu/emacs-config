@@ -1,0 +1,8 @@
+(:name helm-xcdoc
+:auto-generated t
+:type elpa
+:description "Search Xcode Document by docsetutil and eww with helm interface"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 4)
+)

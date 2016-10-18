@@ -1,0 +1,7 @@
+(:name terraform-mode
+:auto-generated t
+:type elpa
+:description "Major mode for terraform configuration file"
+:repo nil
+:depends (hcl-mode cl-lib)
+)

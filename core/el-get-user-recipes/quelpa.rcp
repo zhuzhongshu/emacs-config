@@ -1,0 +1,8 @@
+(:name quelpa
+:auto-generated t
+:type elpa
+:description "Emacs Lisp packages built directly from source"
+:repo nil
+:depends (package-build)
+:minimum-emacs-version (24 3)
+)

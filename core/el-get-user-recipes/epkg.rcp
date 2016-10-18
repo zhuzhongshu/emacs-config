@@ -1,0 +1,8 @@
+(:name epkg
+:auto-generated t
+:type elpa
+:description "browse the Emacsmirror package database"
+:repo nil
+:depends (closql dash)
+:minimum-emacs-version (25 1)
+)

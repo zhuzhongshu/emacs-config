@@ -1,0 +1,7 @@
+(:name flymd
+:auto-generated t
+:type elpa
+:description "On the fly markdown preview"
+:repo nil
+:depends (cl-lib)
+)

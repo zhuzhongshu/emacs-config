@@ -1,0 +1,7 @@
+(:name tldr
+:auto-generated t
+:type elpa
+:description "tldr client for Emacs"
+:repo nil
+:minimum-emacs-version (24 3)
+)

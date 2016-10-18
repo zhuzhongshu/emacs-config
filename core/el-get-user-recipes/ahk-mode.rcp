@@ -1,0 +1,7 @@
+(:name ahk-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing AHK (AutoHotkey and AutoHotkey_L)"
+:repo nil
+:minimum-emacs-version (24 3)
+)

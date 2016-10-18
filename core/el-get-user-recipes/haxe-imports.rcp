@@ -1,0 +1,8 @@
+(:name haxe-imports
+:auto-generated t
+:type elpa
+:description "Code for dealing with Haxe imports"
+:repo nil
+:depends (s pcache)
+:minimum-emacs-version (24 4)
+)

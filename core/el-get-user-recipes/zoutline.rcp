@@ -1,0 +1,6 @@
+(:name zoutline
+:auto-generated t
+:type elpa
+:description "Simple outline library."
+:repo nil
+)

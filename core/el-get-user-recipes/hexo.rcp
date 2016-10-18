@@ -1,0 +1,7 @@
+(:name hexo
+:auto-generated t
+:type elpa
+:description "Major mode & tools for Hexo"
+:repo nil
+:minimum-emacs-version (24 3)
+)

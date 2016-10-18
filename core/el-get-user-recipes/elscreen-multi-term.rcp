@@ -1,0 +1,8 @@
+(:name elscreen-multi-term
+:auto-generated t
+:type elpa
+:description "Multi term for elscreen"
+:repo nil
+:depends (elscreen multi-term)
+:minimum-emacs-version (24 4)
+)

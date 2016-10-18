@@ -1,0 +1,7 @@
+(:name edbi-minor-mode
+:auto-generated t
+:type elpa
+:description "Use edbi with regular SQL files."
+:repo nil
+:depends (edbi)
+)

@@ -1,0 +1,6 @@
+(:name format-sql
+:auto-generated t
+:type elpa
+:description "Use format-sql to make your SQL readable in directly Emacs."
+:repo nil
+)

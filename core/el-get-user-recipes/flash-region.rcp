@@ -1,0 +1,6 @@
+(:name flash-region
+:auto-generated t
+:type elpa
+:description "Flash a region"
+:repo nil
+)

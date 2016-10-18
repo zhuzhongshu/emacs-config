@@ -1,0 +1,7 @@
+(:name smartwin
+:auto-generated t
+:type elpa
+:description "A minor mode shows shell like buffers."
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name bury-successful-compilation
+:auto-generated t
+:type elpa
+:description "Bury the *compilation* buffer after successful compilation"
+:repo nil
+)

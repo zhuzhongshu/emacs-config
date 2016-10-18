@@ -1,0 +1,7 @@
+(:name beginend
+:auto-generated t
+:type elpa
+:description "Redefine M-< and M-> for some modes"
+:repo nil
+:minimum-emacs-version (24 4)
+)

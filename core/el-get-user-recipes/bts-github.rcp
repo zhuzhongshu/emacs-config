@@ -1,0 +1,7 @@
+(:name bts-github
+:auto-generated t
+:type elpa
+:description "A plugin of bts.el for GitHub"
+:repo nil
+:depends (bts gh)
+)

@@ -1,0 +1,8 @@
+(:name org-random-todo
+:auto-generated t
+:type elpa
+:description "notify of random TODO's"
+:repo nil
+:depends (alert)
+:minimum-emacs-version (24 3)
+)

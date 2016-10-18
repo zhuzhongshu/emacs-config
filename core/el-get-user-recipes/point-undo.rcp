@@ -1,0 +1,6 @@
+(:name point-undo
+:auto-generated t
+:type elpa
+:description "undo/redo position"
+:repo nil
+)

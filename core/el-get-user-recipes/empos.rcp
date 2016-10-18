@@ -1,0 +1,6 @@
+(:name empos
+:auto-generated t
+:type elpa
+:description "Locate bibtex citations from within emacs"
+:repo nil
+)

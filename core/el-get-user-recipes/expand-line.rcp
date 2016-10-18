@@ -1,0 +1,6 @@
+(:name expand-line
+:auto-generated t
+:type elpa
+:description "Expand selection by line"
+:repo nil
+)

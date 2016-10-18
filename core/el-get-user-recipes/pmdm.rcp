@@ -1,0 +1,6 @@
+(:name pmdm
+:auto-generated t
+:type elpa
+:description "poor man's desktop-mode alternative."
+:repo nil
+)

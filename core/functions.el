@@ -157,8 +157,8 @@
 (add-hook 'comint-mode-hook(lambda ()
                              (local-set-key (kbd "C-l") 'clear-shell)))
 ;;multi-term中的键绑定需要用它提供的alist
-(add-to-list 'term-bind-key-alist
-             '("C-l" . clear-shell))
+;;(add-to-list 'term-bind-key-alist
+;;             '("C-l" . clear-shell))
 (multi-term-keystroke-setup)
 
 (defun replace-eq-braket ()

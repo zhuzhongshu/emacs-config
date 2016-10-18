@@ -1,0 +1,6 @@
+(:name multi-eshell
+:auto-generated t
+:type elpa
+:description "Create and manage multiple shells within Emacs"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name flyparens
+:auto-generated t
+:type elpa
+:description "Check for unbalanced parens on the fly"
+:repo nil
+)

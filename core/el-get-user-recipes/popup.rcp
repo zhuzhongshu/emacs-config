@@ -1,0 +1,7 @@
+(:name popup
+:auto-generated t
+:type elpa
+:description "Visual Popup User Interface"
+:repo nil
+:depends (cl-lib)
+)

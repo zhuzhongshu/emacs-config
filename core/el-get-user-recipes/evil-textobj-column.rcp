@@ -1,0 +1,8 @@
+(:name evil-textobj-column
+:auto-generated t
+:type elpa
+:description "Provides column text objects."
+:repo nil
+:depends (names evil)
+:minimum-emacs-version (24)
+)

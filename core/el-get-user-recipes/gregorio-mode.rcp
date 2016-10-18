@@ -1,0 +1,6 @@
+(:name gregorio-mode
+:auto-generated t
+:type elpa
+:description "Gregorio Mode for .gabc files"
+:repo nil
+)

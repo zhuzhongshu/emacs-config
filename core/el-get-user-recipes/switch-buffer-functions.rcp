@@ -1,0 +1,6 @@
+(:name switch-buffer-functions
+:auto-generated t
+:type elpa
+:description "Hook run when current buffer changed"
+:repo nil
+)

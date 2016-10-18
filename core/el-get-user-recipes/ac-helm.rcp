@@ -1,0 +1,7 @@
+(:name ac-helm
+:auto-generated t
+:type elpa
+:description "Helm interface for auto-complete"
+:repo nil
+:depends (helm auto-complete popup cl-lib)
+)

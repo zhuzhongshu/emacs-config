@@ -1,0 +1,6 @@
+(:name showkey
+:auto-generated t
+:type elpa
+:description "Show keys as you use them."
+:repo nil
+)

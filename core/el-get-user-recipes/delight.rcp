@@ -1,0 +1,6 @@
+(:name delight
+:auto-generated t
+:type elpa
+:description "A dimmer switch for your lighter text."
+:repo nil
+)

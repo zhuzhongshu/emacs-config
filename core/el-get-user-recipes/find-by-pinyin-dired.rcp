@@ -1,0 +1,6 @@
+(:name find-by-pinyin-dired
+:auto-generated t
+:type elpa
+:description "Find file by first Pinyin characters of Chinese Hanzi"
+:repo nil
+)

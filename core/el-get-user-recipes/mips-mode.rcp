@@ -1,0 +1,6 @@
+(:name mips-mode
+:auto-generated t
+:type elpa
+:description "Major-mode for MIPS assembly"
+:repo nil
+)

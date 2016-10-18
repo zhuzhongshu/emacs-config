@@ -1,0 +1,8 @@
+(:name helm
+:auto-generated t
+:type elpa
+:description "Helm is an Emacs incremental and narrowing framework"
+:repo nil
+:depends (async popup helm-core)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,6 @@
+(:name quiet
+:auto-generated t
+:type elpa
+:description "disconnect from the online world for a while"
+:repo nil
+)

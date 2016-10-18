@@ -1,0 +1,6 @@
+(:name dtrace-script-mode
+:auto-generated t
+:type elpa
+:description "DTrace code editing commands for Emacs"
+:repo nil
+)

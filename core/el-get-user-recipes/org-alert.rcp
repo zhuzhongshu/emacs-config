@@ -1,0 +1,7 @@
+(:name org-alert
+:auto-generated t
+:type elpa
+:description "Notify org deadlines via notify-send"
+:repo nil
+:depends (s dash alert)
+)

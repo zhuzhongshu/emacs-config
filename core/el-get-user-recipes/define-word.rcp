@@ -1,0 +1,7 @@
+(:name define-word
+:auto-generated t
+:type elpa
+:description "display the definition of word at point."
+:repo nil
+:minimum-emacs-version (24 1)
+)

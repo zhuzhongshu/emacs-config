@@ -1,0 +1,6 @@
+(:name org-attach-screenshot
+:auto-generated t
+:type elpa
+:description "screenshots integrated with org attachment dirs"
+:repo nil
+)

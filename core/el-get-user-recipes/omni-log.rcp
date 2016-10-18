@@ -1,0 +1,8 @@
+(:name omni-log
+:auto-generated t
+:type elpa
+:description "Logging utilities"
+:repo nil
+:depends (ht s dash)
+:minimum-emacs-version (24)
+)

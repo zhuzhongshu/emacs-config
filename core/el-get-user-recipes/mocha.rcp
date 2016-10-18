@@ -1,0 +1,7 @@
+(:name mocha
+:auto-generated t
+:type elpa
+:description "Run Mocha or Jasmine tests"
+:repo nil
+:depends (js2-mode f)
+)

@@ -1,0 +1,6 @@
+(:name jar-manifest-mode
+:auto-generated t
+:type elpa
+:description "Major mode to edit JAR manifest files"
+:repo nil
+)

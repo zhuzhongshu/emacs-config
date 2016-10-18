@@ -1,0 +1,7 @@
+(:name badwolf-theme
+:auto-generated t
+:type elpa
+:description "Bad Wolf color theme"
+:repo nil
+:minimum-emacs-version (24)
+)

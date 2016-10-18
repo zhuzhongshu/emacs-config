@@ -1,0 +1,6 @@
+(:name anybar
+:auto-generated t
+:type elpa
+:description "Control AnyBar from Emacs"
+:repo nil
+)

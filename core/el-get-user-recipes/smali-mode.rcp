@@ -1,0 +1,6 @@
+(:name smali-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Smali/Baksmali files"
+:repo nil
+)

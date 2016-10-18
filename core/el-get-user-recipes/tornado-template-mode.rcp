@@ -1,0 +1,6 @@
+(:name tornado-template-mode
+:auto-generated t
+:type elpa
+:description "A major mode for editing tornado templates"
+:repo nil
+)

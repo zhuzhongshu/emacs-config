@@ -1,0 +1,8 @@
+(:name org-multiple-keymap
+:auto-generated t
+:type elpa
+:description "Set keymap to elements, such as timestamp and priority."
+:repo nil
+:depends (org cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name helm-w3m
+:auto-generated t
+:type elpa
+:description "W3m bookmark - helm interface."
+:repo nil
+:depends (helm w3m cl-lib)
+:minimum-emacs-version (24 1)
+)

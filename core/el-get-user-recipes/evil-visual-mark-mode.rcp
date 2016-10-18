@@ -1,0 +1,7 @@
+(:name evil-visual-mark-mode
+:auto-generated t
+:type elpa
+:description "Display evil marks on buffer"
+:repo nil
+:depends (evil dash)
+)

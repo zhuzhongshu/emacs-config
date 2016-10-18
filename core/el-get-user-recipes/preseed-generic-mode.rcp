@@ -1,0 +1,6 @@
+(:name preseed-generic-mode
+:auto-generated t
+:type elpa
+:description "Debian preseed file major mode"
+:repo nil
+)

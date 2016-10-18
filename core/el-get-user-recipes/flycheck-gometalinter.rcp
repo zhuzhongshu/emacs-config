@@ -1,0 +1,8 @@
+(:name flycheck-gometalinter
+:auto-generated t
+:type elpa
+:description "flycheck checker for gometalinter"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

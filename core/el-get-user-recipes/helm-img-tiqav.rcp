@@ -1,0 +1,7 @@
+(:name helm-img-tiqav
+:auto-generated t
+:type elpa
+:description "An helm-source for joking."
+:repo nil
+:depends (helm-img)
+)

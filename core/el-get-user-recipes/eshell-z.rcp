@@ -1,0 +1,7 @@
+(:name eshell-z
+:auto-generated t
+:type elpa
+:description "cd to frequent directory in eshell"
+:repo nil
+:depends (cl-lib)
+)

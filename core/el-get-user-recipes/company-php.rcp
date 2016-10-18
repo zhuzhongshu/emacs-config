@@ -1,0 +1,7 @@
+(:name company-php
+:auto-generated t
+:type elpa
+:description "company completion source for php"
+:repo nil
+:depends (cl-lib ac-php-core company)
+)

@@ -1,0 +1,8 @@
+(:name realgud-byebug
+:auto-generated t
+:type elpa
+:description "realgud front-end to the Ruby byebug debugger"
+:repo nil
+:depends (realgud cl-lib)
+:minimum-emacs-version (24)
+)

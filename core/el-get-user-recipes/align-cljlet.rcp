@@ -1,0 +1,7 @@
+(:name align-cljlet
+:auto-generated t
+:type elpa
+:description "Space align various Clojure forms"
+:repo nil
+:depends (clojure-mode)
+)

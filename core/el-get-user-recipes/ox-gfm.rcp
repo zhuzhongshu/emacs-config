@@ -1,0 +1,6 @@
+(:name ox-gfm
+:auto-generated t
+:type elpa
+:description "Github Flavored Markdown Back-End for Org Export Engine"
+:repo nil
+)

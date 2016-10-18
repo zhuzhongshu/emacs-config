@@ -1,0 +1,6 @@
+(:name digistar-mode
+:auto-generated t
+:type elpa
+:description "major mode for Digistar scripts"
+:repo nil
+)

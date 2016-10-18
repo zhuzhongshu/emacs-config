@@ -1,0 +1,7 @@
+(:name slirm
+:auto-generated t
+:type elpa
+:description "Systematic Literature Review Mode for Emacs."
+:repo nil
+:minimum-emacs-version (24 4)
+)

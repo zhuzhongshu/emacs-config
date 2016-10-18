@@ -1,0 +1,7 @@
+(:name org-easy-img-insert
+:auto-generated t
+:type elpa
+:description "An easier way to add images from the web in org mode"
+:repo nil
+:minimum-emacs-version (24 4)
+)

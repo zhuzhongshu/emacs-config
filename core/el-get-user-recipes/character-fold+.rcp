@@ -1,0 +1,6 @@
+(:name character-fold+
+:auto-generated t
+:type elpa
+:description "Extensions to `character-fold.el'"
+:repo nil
+)

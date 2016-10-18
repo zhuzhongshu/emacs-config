@@ -1,0 +1,8 @@
+(:name xcode-mode
+:auto-generated t
+:type elpa
+:description "A minor mode for emacs to perform Xcode like actions."
+:repo nil
+:depends (s dash multiple-cursors)
+:minimum-emacs-version (24 4)
+)

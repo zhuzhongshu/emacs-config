@@ -1,0 +1,6 @@
+(:name tramp-term
+:auto-generated t
+:type elpa
+:description "Automatic setup of directory tracking in ssh sessions."
+:repo nil
+)

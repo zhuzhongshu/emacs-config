@@ -1,0 +1,6 @@
+(:name latest-clojure-libraries
+:auto-generated t
+:type elpa
+:description "Clojure dependency resolver"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name spacegray-theme
+:auto-generated t
+:type elpa
+:description "A Hyperminimal UI Theme"
+:repo nil
+:minimum-emacs-version (24 1)
+)

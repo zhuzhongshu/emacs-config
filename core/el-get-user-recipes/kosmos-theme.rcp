@@ -1,0 +1,7 @@
+(:name kosmos-theme
+:auto-generated t
+:type elpa
+:description "Black and lightgray theme with not so much syntax highlighting."
+:repo nil
+:minimum-emacs-version (24)
+)

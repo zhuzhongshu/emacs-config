@@ -1,0 +1,6 @@
+(:name multishell
+:auto-generated t
+:type elpa
+:description "Easily use multiple shell buffers, local and remote."
+:repo nil
+)

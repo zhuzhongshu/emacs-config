@@ -1,0 +1,6 @@
+(:name sexy-monochrome-theme
+:auto-generated t
+:type elpa
+:description "A sexy dark Emacs 24 theme for your sexy code"
+:repo nil
+)

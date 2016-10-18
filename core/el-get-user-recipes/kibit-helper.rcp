@@ -1,0 +1,8 @@
+(:name kibit-helper
+:auto-generated t
+:type elpa
+:description "Conveniently use the Kibit Leiningen plugin from Emacs"
+:repo nil
+:depends (s)
+:minimum-emacs-version (24)
+)

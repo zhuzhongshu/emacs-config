@@ -1,0 +1,8 @@
+(:name sentence-navigation
+:auto-generated t
+:type elpa
+:description "Commands to navigate one-spaced sentences."
+:repo nil
+:depends (ample-regexps cl-lib)
+:minimum-emacs-version (24 4)
+)

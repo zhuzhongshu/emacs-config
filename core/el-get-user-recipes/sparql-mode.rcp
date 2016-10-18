@@ -1,0 +1,7 @@
+(:name sparql-mode
+:auto-generated t
+:type elpa
+:description "Edit and interactively evaluate SPARQL queries."
+:repo nil
+:depends (cl-lib async)
+)

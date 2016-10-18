@@ -1,0 +1,7 @@
+(:name html-check-frag
+:auto-generated t
+:type elpa
+:description "Check html-fragments"
+:repo nil
+:minimum-emacs-version (24 3)
+)

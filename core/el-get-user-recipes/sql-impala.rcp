@@ -1,0 +1,6 @@
+(:name sql-impala
+:auto-generated t
+:type elpa
+:description "comint support for Cloudera Impala"
+:repo nil
+)

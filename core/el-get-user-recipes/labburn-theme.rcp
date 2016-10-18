@@ -1,0 +1,6 @@
+(:name labburn-theme
+:auto-generated t
+:type elpa
+:description "A lab color space zenburn theme."
+:repo nil
+)

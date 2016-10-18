@@ -1,0 +1,7 @@
+(:name termbright-theme
+:auto-generated t
+:type elpa
+:description "a more usable theme for white-on-black terminals"
+:repo nil
+:minimum-emacs-version (24 1)
+)

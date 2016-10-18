@@ -1,0 +1,7 @@
+(:name lenlen-theme
+:auto-generated t
+:type elpa
+:description "a solarized-based kawaii light theme"
+:repo nil
+:depends (color-theme-solarized)
+)

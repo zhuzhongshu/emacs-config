@@ -1,0 +1,7 @@
+(:name color-theme-modern
+:auto-generated t
+:type elpa
+:description "Reimplement colortheme with Emacs 24 theme framework."
+:repo nil
+:minimum-emacs-version (24)
+)

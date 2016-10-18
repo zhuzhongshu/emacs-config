@@ -1,0 +1,7 @@
+(:name helm-c-yasnippet
+:auto-generated t
+:type elpa
+:description "helm source for yasnippet.el"
+:repo nil
+:depends (helm yasnippet cl-lib)
+)

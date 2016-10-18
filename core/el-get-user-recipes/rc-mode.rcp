@@ -1,0 +1,6 @@
+(:name rc-mode
+:auto-generated t
+:type elpa
+:description "Major mode for the Plan9 rc shell"
+:repo nil
+)

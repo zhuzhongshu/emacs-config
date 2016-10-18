@@ -1,0 +1,7 @@
+(:name whitaker
+:auto-generated t
+:type elpa
+:description "Comint interface for Whitaker's Words"
+:repo nil
+:depends (dash)
+)

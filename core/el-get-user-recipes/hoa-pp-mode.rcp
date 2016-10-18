@@ -1,0 +1,8 @@
+(:name hoa-pp-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Hoa PP grammars"
+:repo nil
+:depends (names)
+:minimum-emacs-version (24 1)
+)

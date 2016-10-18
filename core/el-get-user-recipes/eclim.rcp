@@ -1,0 +1,7 @@
+(:name eclim
+:auto-generated t
+:type elpa
+:description "An interface to the Eclipse IDE."
+:repo nil
+:depends (dash json popup s cl-lib yasnippet)
+)

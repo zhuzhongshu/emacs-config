@@ -1,0 +1,8 @@
+(:name org-drill-table
+:auto-generated t
+:type elpa
+:description "Generate drill cards from org tables"
+:repo nil
+:depends (s dash cl-lib org-plus-contrib)
+:minimum-emacs-version (24 1)
+)

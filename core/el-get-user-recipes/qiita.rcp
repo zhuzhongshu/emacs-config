@@ -1,0 +1,7 @@
+(:name qiita
+:auto-generated t
+:type elpa
+:description "Qiita API Library for emacs"
+:repo nil
+:depends (helm markdown-mode)
+)

@@ -1,0 +1,7 @@
+(:name ruby-refactor
+:auto-generated t
+:type elpa
+:description "A minor mode which presents various Ruby refactoring helpers."
+:repo nil
+:depends (ruby-mode)
+)

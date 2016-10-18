@@ -1,0 +1,6 @@
+(:name qml-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing QT Declarative (QML) code."
+:repo nil
+)

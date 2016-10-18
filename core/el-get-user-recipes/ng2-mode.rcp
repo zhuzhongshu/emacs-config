@@ -1,0 +1,7 @@
+(:name ng2-mode
+:auto-generated t
+:type elpa
+:description "Major modes for editing Angular 2"
+:repo nil
+:depends (typescript-mode)
+)

@@ -1,0 +1,7 @@
+(:name key-leap
+:auto-generated t
+:type elpa
+:description "Leap between lines by typing keywords"
+:repo nil
+:minimum-emacs-version (24 3)
+)

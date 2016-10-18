@@ -1,0 +1,8 @@
+(:name typit
+:auto-generated t
+:type elpa
+:description "Typing game similar to tests on 10 fast fingers"
+:repo nil
+:depends (f mmt)
+:minimum-emacs-version (24 4)
+)

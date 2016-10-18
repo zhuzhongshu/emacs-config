@@ -1,0 +1,8 @@
+(:name company-irony
+:auto-generated t
+:type elpa
+:description "company-mode completion back-end for irony-mode"
+:repo nil
+:depends (company irony cl-lib)
+:minimum-emacs-version (24 1)
+)

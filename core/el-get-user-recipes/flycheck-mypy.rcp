@@ -1,0 +1,7 @@
+(:name flycheck-mypy
+:auto-generated t
+:type elpa
+:description "Support mypy in flycheck"
+:repo nil
+:depends (flycheck)
+)

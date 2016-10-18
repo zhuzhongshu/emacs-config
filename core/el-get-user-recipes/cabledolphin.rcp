@@ -1,0 +1,8 @@
+(:name cabledolphin
+:auto-generated t
+:type elpa
+:description "capture Emacs network traffic"
+:repo nil
+:depends (seq)
+:minimum-emacs-version (24 4)
+)

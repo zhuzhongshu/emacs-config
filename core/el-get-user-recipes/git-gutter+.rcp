@@ -1,0 +1,7 @@
+(:name git-gutter+
+:auto-generated t
+:type elpa
+:description "Manage Git hunks straight from the buffer"
+:repo nil
+:depends (git-commit dash)
+)

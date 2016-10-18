@@ -1,0 +1,7 @@
+(:name helm-rhythmbox
+:auto-generated t
+:type elpa
+:description "control Rhythmbox's play queue via Helm"
+:repo nil
+:depends (helm cl-lib)
+)

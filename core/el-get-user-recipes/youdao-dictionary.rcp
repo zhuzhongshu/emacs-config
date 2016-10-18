@@ -1,0 +1,8 @@
+(:name youdao-dictionary
+:auto-generated t
+:type elpa
+:description "Youdao Dictionary interface for Emacs"
+:repo nil
+:depends (popup chinese-word-at-point names)
+:minimum-emacs-version (24)
+)

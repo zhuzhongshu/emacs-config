@@ -1,0 +1,6 @@
+(:name hal-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing HAL files"
+:repo nil
+)

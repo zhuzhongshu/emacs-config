@@ -1,0 +1,6 @@
+(:name gams-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing GAMS (General Algebraic Modeling System) files."
+:repo nil
+)

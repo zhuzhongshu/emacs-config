@@ -1,0 +1,8 @@
+(:name biblio-core
+:auto-generated t
+:type elpa
+:description "A framework for looking up and displaying bibliographic entries"
+:repo nil
+:depends (let-alist seq dash)
+:minimum-emacs-version (24 3)
+)

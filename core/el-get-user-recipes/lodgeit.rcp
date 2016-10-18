@@ -1,0 +1,6 @@
+(:name lodgeit
+:auto-generated t
+:type elpa
+:description "Paste to a lodgeit powered pastebin"
+:repo nil
+)

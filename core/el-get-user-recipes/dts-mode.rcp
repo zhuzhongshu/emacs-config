@@ -1,0 +1,6 @@
+(:name dts-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Device Tree source files"
+:repo nil
+)

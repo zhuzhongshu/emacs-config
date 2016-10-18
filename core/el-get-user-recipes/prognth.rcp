@@ -1,0 +1,6 @@
+(:name prognth
+:auto-generated t
+:type elpa
+:description "Extend prog1 to arbitrary index"
+:repo nil
+)

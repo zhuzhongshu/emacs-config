@@ -1,0 +1,6 @@
+(:name german-holidays
+:auto-generated t
+:type elpa
+:description "German holidays for Emacs calendar"
+:repo nil
+)

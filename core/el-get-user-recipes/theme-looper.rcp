@@ -1,0 +1,7 @@
+(:name theme-looper
+:auto-generated t
+:type elpa
+:description "Loop thru the available color-themes"
+:repo nil
+:depends (cl-lib)
+)

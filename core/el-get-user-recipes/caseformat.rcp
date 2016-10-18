@@ -1,0 +1,8 @@
+(:name caseformat
+:auto-generated t
+:type elpa
+:description "Format based letter case converter"
+:repo nil
+:depends (cl-lib dash s)
+:minimum-emacs-version (24)
+)

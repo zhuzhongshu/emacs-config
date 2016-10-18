@@ -1,0 +1,7 @@
+(:name org-ac
+:auto-generated t
+:type elpa
+:description "Some auto-complete sources for org-mode"
+:repo nil
+:depends (auto-complete-pcmp log4e yaxception)
+)

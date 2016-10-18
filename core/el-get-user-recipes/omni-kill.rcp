@@ -1,0 +1,6 @@
+(:name omni-kill
+:auto-generated t
+:type elpa
+:description "Kill all the things"
+:repo nil
+)

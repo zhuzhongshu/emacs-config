@@ -1,0 +1,7 @@
+(:name easy-kill-extras
+:auto-generated t
+:type elpa
+:description "Extra functions for easy-kill."
+:repo nil
+:depends (easy-kill)
+)

@@ -1,0 +1,6 @@
+(:name jira-markup-mode
+:auto-generated t
+:type elpa
+:description "Emacs Major mode for JIRA-markup-formatted text files"
+:repo nil
+)

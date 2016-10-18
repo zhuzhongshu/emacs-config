@@ -1,0 +1,8 @@
+(:name helm-firefox
+:auto-generated t
+:type elpa
+:description "Firefox bookmarks"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24 1)
+)

@@ -1,0 +1,8 @@
+(:name transmission
+:auto-generated t
+:type elpa
+:description "Interface to a Transmission session"
+:repo nil
+:depends (let-alist)
+:minimum-emacs-version (24 4)
+)

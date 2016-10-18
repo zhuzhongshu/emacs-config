@@ -1,0 +1,7 @@
+(:name reykjavik-theme
+:auto-generated t
+:type elpa
+:description "Theme with a dark background."
+:repo nil
+:minimum-emacs-version (24)
+)

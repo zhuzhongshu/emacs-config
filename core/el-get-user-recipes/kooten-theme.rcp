@@ -1,0 +1,7 @@
+(:name kooten-theme
+:auto-generated t
+:type elpa
+:description "Dark color theme"
+:repo nil
+:minimum-emacs-version (24 1)
+)

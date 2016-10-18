@@ -1,0 +1,7 @@
+(:name srefactor
+:auto-generated t
+:type elpa
+:description "A refactoring tool based on Semantic parser framework"
+:repo nil
+:minimum-emacs-version (24 4)
+)

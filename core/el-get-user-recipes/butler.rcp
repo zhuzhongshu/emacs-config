@@ -1,0 +1,8 @@
+(:name butler
+:auto-generated t
+:type elpa
+:description "Emacs client for Jenkins"
+:repo nil
+:depends (deferred json)
+:minimum-emacs-version (24)
+)

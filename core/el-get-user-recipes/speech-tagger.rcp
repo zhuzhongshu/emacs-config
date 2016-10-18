@@ -1,0 +1,7 @@
+(:name speech-tagger
+:auto-generated t
+:type elpa
+:description "tag parts of speech using coreNLP"
+:repo nil
+:depends (cl-lib)
+)

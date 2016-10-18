@@ -1,0 +1,7 @@
+(:name anything-sage
+:auto-generated t
+:type elpa
+:description "An anything extension for sage-shell-mode."
+:repo nil
+:depends (cl-lib anything sage-shell-mode)
+)

@@ -1,0 +1,7 @@
+(:name clojure-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Clojure code"
+:repo nil
+:minimum-emacs-version (24 3)
+)

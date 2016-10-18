@@ -1,0 +1,6 @@
+(:name plain-theme
+:auto-generated t
+:type elpa
+:description "Black and white theme without syntax highlighting"
+:repo nil
+)

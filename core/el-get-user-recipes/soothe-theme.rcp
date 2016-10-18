@@ -1,0 +1,7 @@
+(:name soothe-theme
+:auto-generated t
+:type elpa
+:description "a dark colorful theme for Emacs24."
+:repo nil
+:minimum-emacs-version (24 1)
+)

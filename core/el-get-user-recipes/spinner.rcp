@@ -1,0 +1,6 @@
+(:name spinner
+:auto-generated t
+:type elpa
+:description "Add spinners and progress-bars to the mode-line for ongoing operations"
+:repo nil
+)

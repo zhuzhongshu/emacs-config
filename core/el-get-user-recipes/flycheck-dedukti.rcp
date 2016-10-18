@@ -1,0 +1,7 @@
+(:name flycheck-dedukti
+:auto-generated t
+:type elpa
+:description "Flycheck integration of Dedukti"
+:repo nil
+:depends (flycheck dedukti-mode)
+)

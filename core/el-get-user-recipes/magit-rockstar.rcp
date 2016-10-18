@@ -1,0 +1,7 @@
+(:name magit-rockstar
+:auto-generated t
+:type elpa
+:description "commit like a rockstar"
+:repo nil
+:depends (dash magit)
+)

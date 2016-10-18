@@ -1,0 +1,8 @@
+(:name magic-filetype
+:auto-generated t
+:type elpa
+:description "Enhance filetype major mode"
+:repo nil
+:depends (s)
+:minimum-emacs-version (24)
+)

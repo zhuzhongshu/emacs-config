@@ -1,0 +1,7 @@
+(:name helm-sheet
+:auto-generated t
+:type elpa
+:description "helm sources for sheet"
+:repo nil
+:depends (helm)
+)

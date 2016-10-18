@@ -1,0 +1,6 @@
+(:name stgit
+:auto-generated t
+:type elpa
+:description "major mode for StGit interaction"
+:repo nil
+)

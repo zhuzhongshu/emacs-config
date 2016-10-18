@@ -1,0 +1,6 @@
+(:name dired-toggle-sudo
+:auto-generated t
+:type elpa
+:description "Browse directory with sudo privileges."
+:repo nil
+)

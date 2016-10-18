@@ -1,0 +1,7 @@
+(:name mynt-mode
+:auto-generated t
+:type elpa
+:description "Minor mode to work with the mynt static site generator"
+:repo nil
+:depends (virtualenvwrapper)
+)

@@ -1,0 +1,7 @@
+(:name company-lua
+:auto-generated t
+:type elpa
+:description "Company backend for Lua"
+:repo nil
+:depends (company s f lua-mode)
+)

@@ -1,0 +1,8 @@
+(:name prop-menu
+:auto-generated t
+:type elpa
+:description "Create and display a context menu based on text and overlay properties"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 3)
+)

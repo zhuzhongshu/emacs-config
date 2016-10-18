@@ -1,0 +1,6 @@
+(:name gmail2bbdb
+:auto-generated t
+:type elpa
+:description "import email and name into bbdb from vcard."
+:repo nil
+)

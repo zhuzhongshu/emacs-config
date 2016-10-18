@@ -1,0 +1,8 @@
+(:name helm-cscope
+:auto-generated t
+:type elpa
+:description "Helm interface for xcscope.el."
+:repo nil
+:depends (xcscope helm cl-lib)
+:minimum-emacs-version (24 1)
+)

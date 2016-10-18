@@ -1,0 +1,7 @@
+(:name exwm-x
+:auto-generated t
+:type elpa
+:description "Addition tools for exwm (emacs x window manager)"
+:repo nil
+:depends (cl-lib exwm switch-window dmenu start-menu)
+)

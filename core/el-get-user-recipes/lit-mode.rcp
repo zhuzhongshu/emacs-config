@@ -1,0 +1,6 @@
+(:name lit-mode
+:auto-generated t
+:type elpa
+:description "Major mode for lit"
+:repo nil
+)

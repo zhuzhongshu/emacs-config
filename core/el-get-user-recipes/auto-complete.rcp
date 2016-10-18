@@ -1,0 +1,7 @@
+(:name auto-complete
+:auto-generated t
+:type elpa
+:description "Auto Completion for GNU Emacs"
+:repo nil
+:depends (popup cl-lib)
+)

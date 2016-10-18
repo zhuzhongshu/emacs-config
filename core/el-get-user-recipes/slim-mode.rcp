@@ -1,0 +1,6 @@
+(:name slim-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Slim files"
+:repo nil
+)

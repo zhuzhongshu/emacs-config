@@ -1,0 +1,6 @@
+(:name hippie-exp-ext
+:auto-generated t
+:type elpa
+:description "Extension of hippie-expand"
+:repo nil
+)

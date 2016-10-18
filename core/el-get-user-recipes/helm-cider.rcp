@@ -1,0 +1,8 @@
+(:name helm-cider
+:auto-generated t
+:type elpa
+:description "Helm interface to CIDER"
+:repo nil
+:depends (cider helm-core seq)
+:minimum-emacs-version (24 4)
+)

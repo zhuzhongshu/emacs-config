@@ -1,0 +1,6 @@
+(:name flyspell-lazy
+:auto-generated t
+:type elpa
+:description "Improve flyspell responsiveness using idle timers"
+:repo nil
+)

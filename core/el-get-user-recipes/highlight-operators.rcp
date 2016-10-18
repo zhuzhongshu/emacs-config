@@ -1,0 +1,6 @@
+(:name highlight-operators
+:auto-generated t
+:type elpa
+:description "a face for operators in programming modes"
+:repo nil
+)

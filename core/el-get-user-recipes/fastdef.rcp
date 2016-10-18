@@ -1,0 +1,7 @@
+(:name fastdef
+:auto-generated t
+:type elpa
+:description "Insert terminology from Google top search results"
+:repo nil
+:depends (ivy w3m)
+)

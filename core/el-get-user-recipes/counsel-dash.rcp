@@ -1,0 +1,8 @@
+(:name counsel-dash
+:auto-generated t
+:type elpa
+:description "Browse dash docsets using Ivy"
+:repo nil
+:depends (dash dash-functional helm-dash counsel)
+:minimum-emacs-version (24 4)
+)

@@ -1,0 +1,7 @@
+(:name minitest
+:auto-generated t
+:type elpa
+:description "An Emacs mode for ruby minitest files"
+:repo nil
+:depends (dash)
+)

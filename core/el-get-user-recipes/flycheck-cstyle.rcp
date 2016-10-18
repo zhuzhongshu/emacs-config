@@ -1,0 +1,8 @@
+(:name flycheck-cstyle
+:auto-generated t
+:type elpa
+:description "Integrate cstyle with flycheck"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24 4)
+)

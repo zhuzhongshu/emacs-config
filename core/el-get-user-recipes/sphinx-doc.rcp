@@ -1,0 +1,7 @@
+(:name sphinx-doc
+:auto-generated t
+:type elpa
+:description "Sphinx friendly docstrings for Python functions"
+:repo nil
+:depends (s cl-lib dash)
+)

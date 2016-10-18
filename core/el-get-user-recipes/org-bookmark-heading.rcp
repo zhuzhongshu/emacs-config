@@ -1,0 +1,7 @@
+(:name org-bookmark-heading
+:auto-generated t
+:type elpa
+:description "Emacs bookmark support for org-mode"
+:repo nil
+:minimum-emacs-version (24 4)
+)

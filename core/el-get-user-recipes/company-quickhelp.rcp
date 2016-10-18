@@ -1,0 +1,8 @@
+(:name company-quickhelp
+:auto-generated t
+:type elpa
+:description "Popup documentation for completion candidates"
+:repo nil
+:depends (company pos-tip)
+:minimum-emacs-version (24 4)
+)

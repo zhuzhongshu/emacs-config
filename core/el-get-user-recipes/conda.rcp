@@ -1,0 +1,8 @@
+(:name conda
+:auto-generated t
+:type elpa
+:description "Work with your conda environments"
+:repo nil
+:depends (pythonic dash s f)
+:minimum-emacs-version (24 4)
+)

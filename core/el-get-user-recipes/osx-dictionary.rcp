@@ -1,0 +1,7 @@
+(:name osx-dictionary
+:auto-generated t
+:type elpa
+:description "Interface for OSX Dictionary.app"
+:repo nil
+:depends (cl-lib)
+)

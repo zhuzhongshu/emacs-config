@@ -1,0 +1,6 @@
+(:name pyfmt
+:auto-generated t
+:type elpa
+:description "Emacs interface to pyfmt"
+:repo nil
+)

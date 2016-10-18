@@ -1,0 +1,8 @@
+(:name tj-mode
+:auto-generated t
+:type elpa
+:description "Highlight JavaScript with Tern"
+:repo nil
+:depends (tern js2-mode)
+:minimum-emacs-version (24)
+)

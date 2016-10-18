@@ -1,0 +1,7 @@
+(:name kixtart-mode
+:auto-generated t
+:type elpa
+:description "major mode for Kixtart scripting files"
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name helm-hayoo
+:auto-generated t
+:type elpa
+:description "Source and configured helm for searching hayoo"
+:repo nil
+:depends (helm json haskell-mode)
+)

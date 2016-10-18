@@ -1,0 +1,8 @@
+(:name jst
+:auto-generated t
+:type elpa
+:description "JS test mode"
+:repo nil
+:depends (s f dash pcache)
+:minimum-emacs-version (24 4)
+)

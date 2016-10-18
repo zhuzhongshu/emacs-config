@@ -1,0 +1,7 @@
+(:name alect-themes
+:auto-generated t
+:type elpa
+:description "Configurable light, dark and black themes for Emacs 24 or later"
+:repo nil
+:minimum-emacs-version (24 0)
+)

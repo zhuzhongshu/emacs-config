@@ -1,0 +1,7 @@
+(:name company-dcd
+:auto-generated t
+:type elpa
+:description "Company backend for Dlang using DCD."
+:repo nil
+:depends (company flycheck-dmd-dub yasnippet popwin cl-lib ivy)
+)

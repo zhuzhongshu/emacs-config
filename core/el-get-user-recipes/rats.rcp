@@ -1,0 +1,7 @@
+(:name rats
+:auto-generated t
+:type elpa
+:description "Rapid testing suite for Go"
+:repo nil
+:depends (s go-mode cl-lib)
+)

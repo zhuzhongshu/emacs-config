@@ -1,0 +1,8 @@
+(:name evil-mc
+:auto-generated t
+:type elpa
+:description "Multiple cursors for evil-mode"
+:repo nil
+:depends (evil cl-lib)
+:minimum-emacs-version (24 3)
+)

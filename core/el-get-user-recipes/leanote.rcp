@@ -1,0 +1,8 @@
+(:name leanote
+:auto-generated t
+:type elpa
+:description "A minor mode writing markdown leanote"
+:repo nil
+:depends (cl-lib request let-alist pcache s async)
+:minimum-emacs-version (24 4)
+)

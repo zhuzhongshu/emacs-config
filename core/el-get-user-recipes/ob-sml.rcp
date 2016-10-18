@@ -1,0 +1,7 @@
+(:name ob-sml
+:auto-generated t
+:type elpa
+:description "org-babel functions for template evaluation"
+:repo nil
+:depends (sml-mode)
+)

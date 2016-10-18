@@ -1,0 +1,8 @@
+(:name geben-helm-projectile
+:auto-generated t
+:type elpa
+:description "Integrate helm-projectile with geben"
+:repo nil
+:depends (geben helm-projectile)
+:minimum-emacs-version (24)
+)

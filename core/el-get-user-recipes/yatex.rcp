@@ -1,0 +1,6 @@
+(:name yatex
+:auto-generated t
+:type elpa
+:description "Yet Another tex-mode for emacs //野鳥//"
+:repo nil
+)

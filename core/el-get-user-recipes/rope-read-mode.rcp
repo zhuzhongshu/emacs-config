@@ -1,0 +1,6 @@
+(:name rope-read-mode
+:auto-generated t
+:type elpa
+:description "Rearrange lines to read text smoothly"
+:repo nil
+)

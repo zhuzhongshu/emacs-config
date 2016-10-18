@@ -1,0 +1,8 @@
+(:name easy-kill
+:auto-generated t
+:type elpa
+:description "kill & mark things easily"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

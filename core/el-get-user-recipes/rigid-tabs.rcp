@@ -1,0 +1,7 @@
+(:name rigid-tabs
+:auto-generated t
+:type elpa
+:description "Rigidify and adjust the visual alignment of TABs"
+:repo nil
+:minimum-emacs-version (24 3)
+)

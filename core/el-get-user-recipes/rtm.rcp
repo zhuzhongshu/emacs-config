@@ -1,0 +1,7 @@
+(:name rtm
+:auto-generated t
+:type elpa
+:description "An elisp implementation of the Remember The Milk API"
+:repo nil
+:depends (cl-lib)
+)

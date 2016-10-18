@@ -1,0 +1,8 @@
+(:name realgud-old-debuggers
+:auto-generated t
+:type elpa
+:description "realgud front-end to older lesser-used debuggers"
+:repo nil
+:depends (realgud cl-lib)
+:minimum-emacs-version (24)
+)

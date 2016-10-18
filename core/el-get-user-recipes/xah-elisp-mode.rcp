@@ -1,0 +1,7 @@
+(:name xah-elisp-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing emacs lisp."
+:repo nil
+:minimum-emacs-version (24 3)
+)

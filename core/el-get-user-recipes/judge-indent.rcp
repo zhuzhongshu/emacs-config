@@ -1,0 +1,6 @@
+(:name judge-indent
+:auto-generated t
+:type elpa
+:description "detect indent style (indent and tab widths) and change behavior of Emacs"
+:repo nil
+)

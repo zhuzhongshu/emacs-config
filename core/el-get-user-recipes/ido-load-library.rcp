@@ -1,0 +1,7 @@
+(:name ido-load-library
+:auto-generated t
+:type elpa
+:description "Load-library alternative using ido-completing-read"
+:repo nil
+:depends (persistent-soft pcache)
+)

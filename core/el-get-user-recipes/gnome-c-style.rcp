@@ -1,0 +1,6 @@
+(:name gnome-c-style
+:auto-generated t
+:type elpa
+:description "minor mode for editing GNOME-style C source code"
+:repo nil
+)

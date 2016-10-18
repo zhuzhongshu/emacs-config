@@ -1,0 +1,7 @@
+(:name helm-descbinds
+:auto-generated t
+:type elpa
+:description "A convenient `describe-bindings' with `helm'"
+:repo nil
+:depends (helm)
+)

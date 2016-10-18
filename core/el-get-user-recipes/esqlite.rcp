@@ -1,0 +1,7 @@
+(:name esqlite
+:auto-generated t
+:type elpa
+:description "Manipulate sqlite file from Emacs"
+:repo nil
+:depends (pcsv)
+)

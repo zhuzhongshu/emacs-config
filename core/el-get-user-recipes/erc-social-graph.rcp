@@ -1,0 +1,6 @@
+(:name erc-social-graph
+:auto-generated t
+:type elpa
+:description "A social network graph module for ERC."
+:repo nil
+)

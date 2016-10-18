@@ -1,0 +1,8 @@
+(:name helm-zhihu-daily
+:auto-generated t
+:type elpa
+:description "Helm interface for 知乎日报 (http://daily.zhihu.com)"
+:repo nil
+:depends (helm cl-lib)
+:minimum-emacs-version (24 4)
+)

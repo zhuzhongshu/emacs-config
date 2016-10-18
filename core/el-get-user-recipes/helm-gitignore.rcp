@@ -1,0 +1,7 @@
+(:name helm-gitignore
+:auto-generated t
+:type elpa
+:description "Generate .gitignore files with gitignore.io."
+:repo nil
+:depends (gitignore-mode helm request cl-lib)
+)

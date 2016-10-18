@@ -1,0 +1,6 @@
+(:name auto-dim-other-buffers
+:auto-generated t
+:type elpa
+:description "Makes non-current buffers less prominent"
+:repo nil
+)

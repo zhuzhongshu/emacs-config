@@ -1,0 +1,6 @@
+(:name ietf-docs
+:auto-generated t
+:type elpa
+:description "Fetch, Cache and Load IETF documents"
+:repo nil
+)

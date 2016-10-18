@@ -1,0 +1,6 @@
+(:name message-x
+:auto-generated t
+:type elpa
+:description "customizable completion in message headers"
+:repo nil
+)

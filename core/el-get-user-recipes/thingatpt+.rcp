@@ -1,0 +1,6 @@
+(:name thingatpt+
+:auto-generated t
+:type elpa
+:description "Extensions to `thingatpt.el'."
+:repo nil
+)

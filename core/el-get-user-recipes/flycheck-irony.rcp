@@ -1,0 +1,8 @@
+(:name flycheck-irony
+:auto-generated t
+:type elpa
+:description "Flycheck: C/C++ support via Irony"
+:repo nil
+:depends (flycheck irony)
+:minimum-emacs-version (24 1)
+)

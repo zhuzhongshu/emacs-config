@@ -1,0 +1,7 @@
+(:name github-issues
+:auto-generated t
+:type elpa
+:description "Functions and modes for managing GitHub projects' issues"
+:repo nil
+:minimum-emacs-version (24)
+)

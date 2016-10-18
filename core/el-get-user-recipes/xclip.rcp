@@ -1,0 +1,6 @@
+(:name xclip
+:auto-generated t
+:type elpa
+:description "use xclip to copy&paste"
+:repo nil
+)

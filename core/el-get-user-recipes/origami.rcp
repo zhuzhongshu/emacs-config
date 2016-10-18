@@ -1,0 +1,8 @@
+(:name origami
+:auto-generated t
+:type elpa
+:description "Flexible text folding"
+:repo nil
+:depends (s dash)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name seethru
+:auto-generated t
+:type elpa
+:description "Easily change Emacs' transparency"
+:repo nil
+:depends (shadchen)
+)

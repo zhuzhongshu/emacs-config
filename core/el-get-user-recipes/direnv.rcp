@@ -1,0 +1,6 @@
+(:name direnv
+:auto-generated t
+:type elpa
+:description "Load environment variables from direnv"
+:repo nil
+)

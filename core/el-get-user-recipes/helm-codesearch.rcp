@@ -1,0 +1,7 @@
+(:name helm-codesearch
+:auto-generated t
+:type elpa
+:description "helm interface for codesearch"
+:repo nil
+:depends (s dash helm cl-lib)
+)

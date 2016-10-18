@@ -1,0 +1,6 @@
+(:name swbuff
+:auto-generated t
+:type elpa
+:description "Quick switch between Emacs buffers."
+:repo nil
+)

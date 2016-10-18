@@ -1,0 +1,6 @@
+(:name vala-mode
+:auto-generated t
+:type elpa
+:description "Vala mode derived mode"
+:repo nil
+)

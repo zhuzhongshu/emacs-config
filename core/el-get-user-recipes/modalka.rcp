@@ -1,0 +1,7 @@
+(:name modalka
+:auto-generated t
+:type elpa
+:description "Easily introduce native modal editing of your own design"
+:repo nil
+:minimum-emacs-version (24 4)
+)

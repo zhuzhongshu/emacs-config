@@ -1,0 +1,7 @@
+(:name travis
+:auto-generated t
+:type elpa
+:description "Emacs client for Travis"
+:repo nil
+:depends (s dash pkg-info request)
+)

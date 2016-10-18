@@ -1,0 +1,8 @@
+(:name with-editor
+:auto-generated t
+:type elpa
+:description "Use the Emacsclient as $EDITOR"
+:repo nil
+:depends (async dash)
+:minimum-emacs-version (24 4)
+)

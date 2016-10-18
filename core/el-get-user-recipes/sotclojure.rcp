@@ -1,0 +1,8 @@
+(:name sotclojure
+:auto-generated t
+:type elpa
+:description "Write clojure at the speed of thought."
+:repo nil
+:depends (clojure-mode cider sotlisp)
+:minimum-emacs-version (24 1)
+)

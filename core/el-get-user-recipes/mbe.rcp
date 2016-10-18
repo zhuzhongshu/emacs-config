@@ -1,0 +1,8 @@
+(:name mbe
+:auto-generated t
+:type elpa
+:description "Macros by Example"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

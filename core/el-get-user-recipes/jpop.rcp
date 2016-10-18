@@ -1,0 +1,8 @@
+(:name jpop
+:auto-generated t
+:type elpa
+:description "Lightweight project caching and navigation framework"
+:repo nil
+:depends (dash cl-lib)
+:minimum-emacs-version (24)
+)

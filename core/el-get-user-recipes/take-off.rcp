@@ -1,0 +1,8 @@
+(:name take-off
+:auto-generated t
+:type elpa
+:description "Emacs remote web access"
+:repo nil
+:depends (web-server)
+:minimum-emacs-version (24 3)
+)

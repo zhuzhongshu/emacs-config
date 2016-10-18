@@ -1,0 +1,8 @@
+(:name helm-css-scss
+:auto-generated t
+:type elpa
+:description "CSS/SCSS/LESS Selectors with helm interface"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24)
+)

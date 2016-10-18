@@ -1,0 +1,7 @@
+(:name digit-groups
+:auto-generated t
+:type elpa
+:description "Highlight place-value positions in numbers"
+:repo nil
+:depends (dash)
+)

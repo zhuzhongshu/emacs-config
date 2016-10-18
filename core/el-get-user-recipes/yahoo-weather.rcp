@@ -1,0 +1,7 @@
+(:name yahoo-weather
+:auto-generated t
+:type elpa
+:description "Displays weather information in mode-line"
+:repo nil
+:minimum-emacs-version (24)
+)

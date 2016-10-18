@@ -1,0 +1,6 @@
+(:name easy-escape
+:auto-generated t
+:type elpa
+:description "Improve readability of escape characters in regular expressions"
+:repo nil
+)

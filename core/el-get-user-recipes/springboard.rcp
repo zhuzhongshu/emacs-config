@@ -1,0 +1,7 @@
+(:name springboard
+:auto-generated t
+:type elpa
+:description "Temporarily change default-directory for one command"
+:repo nil
+:depends (helm)
+)

@@ -1,0 +1,8 @@
+(:name refine
+:auto-generated t
+:type elpa
+:description "interactive value editing"
+:repo nil
+:depends (s dash list-utils loop)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,8 @@
+(:name ssh-tunnels
+:auto-generated t
+:type elpa
+:description "Manage SSH tunnels"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

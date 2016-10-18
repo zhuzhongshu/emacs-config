@@ -1,0 +1,6 @@
+(:name log4e
+:auto-generated t
+:type elpa
+:description "provide logging framework for elisp"
+:repo nil
+)

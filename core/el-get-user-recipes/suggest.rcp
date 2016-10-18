@@ -1,0 +1,8 @@
+(:name suggest
+:auto-generated t
+:type elpa
+:description "suggest elisp functions that give the output requested"
+:repo nil
+:depends (loop dash s f)
+:minimum-emacs-version (24 4)
+)

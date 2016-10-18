@@ -1,0 +1,7 @@
+(:name jdee
+:auto-generated t
+:type elpa
+:description "Java Development Environment for Emacs"
+:repo nil
+:minimum-emacs-version (24 3)
+)

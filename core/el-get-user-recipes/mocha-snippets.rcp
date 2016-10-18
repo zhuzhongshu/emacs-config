@@ -1,0 +1,7 @@
+(:name mocha-snippets
+:auto-generated t
+:type elpa
+:description "Yasnippets for the Mocha JS Testing Framework"
+:repo nil
+:depends (yasnippet)
+)

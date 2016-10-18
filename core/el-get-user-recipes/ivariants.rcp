@@ -1,0 +1,8 @@
+(:name ivariants
+:auto-generated t
+:type elpa
+:description "Ideographic variants editor and browser"
+:repo nil
+:depends (ivs-edit)
+:minimum-emacs-version (24 3)
+)

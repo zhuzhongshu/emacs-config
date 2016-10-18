@@ -1,0 +1,8 @@
+(:name evil-avy
+:auto-generated t
+:type elpa
+:description "set-based completion"
+:repo nil
+:depends (cl-lib avy evil)
+:minimum-emacs-version (24 1)
+)

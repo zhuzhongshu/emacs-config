@@ -1,0 +1,7 @@
+(:name syndicate
+:auto-generated t
+:type elpa
+:description "evil keybindings for org-mode"
+:repo nil
+:depends (evil)
+)

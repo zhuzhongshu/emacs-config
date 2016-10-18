@@ -1,0 +1,7 @@
+(:name launchctl
+:auto-generated t
+:type elpa
+:description "Interface to launchctl on Mac OS X."
+:repo nil
+:minimum-emacs-version (24 1)
+)

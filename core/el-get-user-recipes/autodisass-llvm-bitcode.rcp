@@ -1,0 +1,6 @@
+(:name autodisass-llvm-bitcode
+:auto-generated t
+:type elpa
+:description "Automatically disassemble LLVM bitcode"
+:repo nil
+)

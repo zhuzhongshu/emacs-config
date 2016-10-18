@@ -1,0 +1,7 @@
+(:name github-elpa
+:auto-generated t
+:type elpa
+:description "Build and publish ELPA repositories with GitHub Pages"
+:repo nil
+:depends (package-build commander git)
+)

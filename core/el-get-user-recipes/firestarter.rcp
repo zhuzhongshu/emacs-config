@@ -1,0 +1,6 @@
+(:name firestarter
+:auto-generated t
+:type elpa
+:description "Execute (shell) commands on save"
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name homebrew-mode
+:auto-generated t
+:type elpa
+:description "minor mode for editing Homebrew formulae"
+:repo nil
+:depends (inf-ruby dash)
+:minimum-emacs-version (24 4)
+)

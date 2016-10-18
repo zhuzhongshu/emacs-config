@@ -1,0 +1,7 @@
+(:name ace-flyspell
+:auto-generated t
+:type elpa
+:description "Jump to and correct spelling errors using `ace-jump-mode' and flyspell"
+:repo nil
+:depends (ace-jump-mode)
+)

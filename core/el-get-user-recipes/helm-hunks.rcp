@@ -1,0 +1,8 @@
+(:name helm-hunks
+:auto-generated t
+:type elpa
+:description "A helm interface for git hunks"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24 4)
+)

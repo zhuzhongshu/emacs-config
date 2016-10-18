@@ -1,0 +1,7 @@
+(:name ox-bibtex-chinese
+:auto-generated t
+:type elpa
+:description "Let ox-bibtex work well for Chinese users"
+:repo nil
+:minimum-emacs-version (24 4)
+)

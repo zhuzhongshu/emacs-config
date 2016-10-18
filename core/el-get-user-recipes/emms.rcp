@@ -1,0 +1,6 @@
+(:name emms
+:auto-generated t
+:type elpa
+:description "The Emacs Multimedia System"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name launch
+:auto-generated t
+:type elpa
+:description "launch files with OS-standard associated applications."
+:repo nil
+)

@@ -1,0 +1,8 @@
+(:name lyrics
+:auto-generated t
+:type elpa
+:description "Show lyrics"
+:repo nil
+:depends (seq)
+:minimum-emacs-version (25 1)
+)

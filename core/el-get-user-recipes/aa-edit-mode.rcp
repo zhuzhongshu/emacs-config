@@ -1,0 +1,8 @@
+(:name aa-edit-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing AA"
+:repo nil
+:depends (navi2ch)
+:minimum-emacs-version (24)
+)

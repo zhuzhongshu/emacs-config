@@ -1,0 +1,6 @@
+(:name sproto-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing sproto."
+:repo nil
+)

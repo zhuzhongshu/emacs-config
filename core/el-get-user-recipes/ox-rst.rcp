@@ -1,0 +1,8 @@
+(:name ox-rst
+:auto-generated t
+:type elpa
+:description "Export reStructuredText using org-mode."
+:repo nil
+:depends (org)
+:minimum-emacs-version (24 4)
+)

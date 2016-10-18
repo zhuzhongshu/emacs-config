@@ -1,0 +1,8 @@
+(:name sonic-pi
+:auto-generated t
+:type elpa
+:description "A Emacs client for SonicPi"
+:repo nil
+:depends (cl-lib osc dash highlight)
+:minimum-emacs-version (24)
+)

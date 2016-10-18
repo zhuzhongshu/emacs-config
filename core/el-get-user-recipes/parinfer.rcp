@@ -1,0 +1,7 @@
+(:name parinfer
+:auto-generated t
+:type elpa
+:description "Simpler Lisp editing"
+:repo nil
+:depends (dash cl-lib)
+)

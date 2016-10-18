@@ -1,0 +1,7 @@
+(:name ac-html-csswatcher
+:auto-generated t
+:type elpa
+:description "css/less class/id completion with `ac-html' or `company-web'"
+:repo nil
+:depends (web-completion-data)
+)

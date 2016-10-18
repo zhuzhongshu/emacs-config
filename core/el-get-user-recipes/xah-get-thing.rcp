@@ -1,0 +1,6 @@
+(:name xah-get-thing
+:auto-generated t
+:type elpa
+:description "get thing or selection at point."
+:repo nil
+)

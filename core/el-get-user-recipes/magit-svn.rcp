@@ -1,0 +1,8 @@
+(:name magit-svn
+:auto-generated t
+:type elpa
+:description "Git-Svn extension for Magit"
+:repo nil
+:depends (magit)
+:minimum-emacs-version (24 4)
+)

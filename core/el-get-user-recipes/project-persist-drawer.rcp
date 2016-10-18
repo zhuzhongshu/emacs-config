@@ -1,0 +1,7 @@
+(:name project-persist-drawer
+:auto-generated t
+:type elpa
+:description "Use a project drawer with project-persist."
+:repo nil
+:depends (project-persist)
+)

@@ -1,0 +1,6 @@
+(:name zones
+:auto-generated t
+:type elpa
+:description "Zones of text - like multiple regions"
+:repo nil
+)

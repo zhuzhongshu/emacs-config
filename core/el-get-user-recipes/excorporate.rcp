@@ -1,0 +1,8 @@
+(:name excorporate
+:auto-generated t
+:type elpa
+:description "Exchange integration"
+:repo nil
+:depends (fsm soap-client url-http-ntlm)
+:minimum-emacs-version (24 1)
+)

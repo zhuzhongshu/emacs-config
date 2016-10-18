@@ -1,0 +1,6 @@
+(:name org-autolist
+:auto-generated t
+:type elpa
+:description "Improved list management in org-mode"
+:repo nil
+)

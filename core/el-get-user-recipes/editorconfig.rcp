@@ -1,0 +1,7 @@
+(:name editorconfig
+:auto-generated t
+:type elpa
+:description "EditorConfig Emacs Plugin"
+:repo nil
+:depends (cl-lib)
+)

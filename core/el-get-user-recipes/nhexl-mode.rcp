@@ -1,0 +1,8 @@
+(:name nhexl-mode
+:auto-generated t
+:type elpa
+:description "Minor mode to edit files via hex-dump format"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

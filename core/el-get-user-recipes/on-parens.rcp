@@ -1,0 +1,8 @@
+(:name on-parens
+:auto-generated t
+:type elpa
+:description "smartparens wrapper to fit with evil-mode/vim normal-state"
+:repo nil
+:depends (dash evil smartparens)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,8 @@
+(:name suggestion-box
+:auto-generated t
+:type elpa
+:description "show tooltip on the cursor"
+:repo nil
+:depends (popup)
+:minimum-emacs-version (25 1)
+)

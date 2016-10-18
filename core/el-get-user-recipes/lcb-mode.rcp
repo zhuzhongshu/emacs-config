@@ -1,0 +1,7 @@
+(:name lcb-mode
+:auto-generated t
+:type elpa
+:description "LiveCode Builder major mode"
+:repo nil
+:minimum-emacs-version (24)
+)

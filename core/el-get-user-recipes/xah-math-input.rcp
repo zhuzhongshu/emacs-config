@@ -1,0 +1,6 @@
+(:name xah-math-input
+:auto-generated t
+:type elpa
+:description "a minor mode for inputting math and Unicode symbols."
+:repo nil
+)

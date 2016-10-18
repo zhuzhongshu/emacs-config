@@ -1,0 +1,6 @@
+(:name rainbow-delimiters
+:auto-generated t
+:type elpa
+:description "Highlight brackets according to their depth"
+:repo nil
+)

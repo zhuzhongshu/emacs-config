@@ -1,0 +1,6 @@
+(:name purescript-mode
+:auto-generated t
+:type elpa
+:description "A PureScript editing mode"
+:repo nil
+)

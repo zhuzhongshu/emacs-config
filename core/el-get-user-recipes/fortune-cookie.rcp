@@ -1,0 +1,6 @@
+(:name fortune-cookie
+:auto-generated t
+:type elpa
+:description "Print a fortune in your scratch buffer."
+:repo nil
+)

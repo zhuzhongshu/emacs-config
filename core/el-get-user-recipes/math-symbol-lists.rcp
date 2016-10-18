@@ -1,0 +1,6 @@
+(:name math-symbol-lists
+:auto-generated t
+:type elpa
+:description "Lists of Unicode math symbols and latex commands"
+:repo nil
+)

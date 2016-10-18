@@ -1,0 +1,7 @@
+(:name helm-open-github
+:auto-generated t
+:type elpa
+:description "Utilities of Opening Github Page"
+:repo nil
+:depends (helm-core gh cl-lib)
+)

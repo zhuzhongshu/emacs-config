@@ -1,0 +1,7 @@
+(:name tabbar-ruler
+:auto-generated t
+:type elpa
+:description "Pretty tabbar, autohide, use both tabbar/ruler"
+:repo nil
+:depends (tabbar powerline mode-icons cl-lib)
+)

@@ -1,0 +1,7 @@
+(:name osx-lib
+:auto-generated t
+:type elpa
+:description "Basic function for Apple/OSX."
+:repo nil
+:minimum-emacs-version (24 4)
+)

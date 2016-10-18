@@ -1,0 +1,8 @@
+(:name lentic
+:auto-generated t
+:type elpa
+:description "One buffer as a view of another"
+:repo nil
+:depends (m-buffer dash f s)
+:minimum-emacs-version (24 4)
+)

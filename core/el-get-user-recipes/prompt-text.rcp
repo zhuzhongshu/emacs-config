@@ -1,0 +1,6 @@
+(:name prompt-text
+:auto-generated t
+:type elpa
+:description "Various information in minibuffer prompt"
+:repo nil
+)

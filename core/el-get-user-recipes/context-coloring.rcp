@@ -1,0 +1,7 @@
+(:name context-coloring
+:auto-generated t
+:type elpa
+:description "Highlight by scope"
+:repo nil
+:minimum-emacs-version (24 3)
+)

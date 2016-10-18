@@ -1,0 +1,8 @@
+(:name git-commit
+:auto-generated t
+:type elpa
+:description "Edit Git commit messages"
+:repo nil
+:depends (dash with-editor)
+:minimum-emacs-version (24 4)
+)

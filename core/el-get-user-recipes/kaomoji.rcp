@@ -1,0 +1,8 @@
+(:name kaomoji
+:auto-generated t
+:type elpa
+:description "Input kaomoji superb easily"
+:repo nil
+:depends (helm-core)
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,8 @@
+(:name grails-projectile-mode
+:auto-generated t
+:type elpa
+:description "Grails mode with Projectile for projects management."
+:repo nil
+:depends (projectile cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name fillcode
+:auto-generated t
+:type elpa
+:description "Fill (wrap) function calls and expressions in source code"
+:repo nil
+)

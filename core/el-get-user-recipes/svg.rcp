@@ -1,0 +1,7 @@
+(:name svg
+:auto-generated t
+:type elpa
+:description "svg image creation functions"
+:repo nil
+:minimum-emacs-version (25)
+)

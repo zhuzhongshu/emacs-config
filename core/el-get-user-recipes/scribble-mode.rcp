@@ -1,0 +1,7 @@
+(:name scribble-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Scribble documents"
+:repo nil
+:minimum-emacs-version (24)
+)

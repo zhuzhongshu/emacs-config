@@ -1,0 +1,6 @@
+(:name ignoramus
+:auto-generated t
+:type elpa
+:description "Ignore backups, build files, et al."
+:repo nil
+)

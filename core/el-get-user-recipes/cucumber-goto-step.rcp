@@ -1,0 +1,7 @@
+(:name cucumber-goto-step
+:auto-generated t
+:type elpa
+:description "Jump to cucumber step definition"
+:repo nil
+:depends (pcre2el)
+)

@@ -1,0 +1,7 @@
+(:name inherit-local
+:auto-generated t
+:type elpa
+:description "Inherited buffer-local variables"
+:repo nil
+:minimum-emacs-version (24 3)
+)

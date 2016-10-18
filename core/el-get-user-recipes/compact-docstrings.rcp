@@ -1,0 +1,6 @@
+(:name compact-docstrings
+:auto-generated t
+:type elpa
+:description "Shrink blank lines in docstrings and doc comments"
+:repo nil
+)

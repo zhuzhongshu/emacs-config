@@ -1,0 +1,7 @@
+(:name helm-hatena-bookmark
+:auto-generated t
+:type elpa
+:description "Hatena::Bookmark with helm interface"
+:repo nil
+:depends (helm)
+)

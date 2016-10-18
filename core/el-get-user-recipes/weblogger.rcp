@@ -1,0 +1,7 @@
+(:name weblogger
+:auto-generated t
+:type elpa
+:description "Weblog maintenance via XML-RPC APIs"
+:repo nil
+:depends (xml-rpc)
+)

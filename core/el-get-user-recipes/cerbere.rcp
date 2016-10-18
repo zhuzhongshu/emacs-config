@@ -1,0 +1,7 @@
+(:name cerbere
+:auto-generated t
+:type elpa
+:description "Unit testing in Emacs for several programming languages"
+:repo nil
+:depends (s f pkg-info)
+)

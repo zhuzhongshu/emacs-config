@@ -1,0 +1,6 @@
+(:name fliptext
+:auto-generated t
+:type elpa
+:description "Input method for flipping characters upside down"
+:repo nil
+)

@@ -1,0 +1,7 @@
+(:name glab
+:auto-generated t
+:type elpa
+:description "minuscule client for the Gitlab API"
+:repo nil
+:minimum-emacs-version (25)
+)

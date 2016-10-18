@@ -1,0 +1,8 @@
+(:name xterm-keybinder
+:auto-generated t
+:type elpa
+:description "Let you extra keybinds in xterm/urxvt"
+:repo nil
+:depends (cl-lib let-alist)
+:minimum-emacs-version (24 3)
+)

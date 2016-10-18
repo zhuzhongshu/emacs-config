@@ -1,0 +1,8 @@
+(:name link-hint
+:auto-generated t
+:type elpa
+:description "Use avy to open or copy visible urls."
+:repo nil
+:depends (avy cl-lib)
+:minimum-emacs-version (24 1)
+)

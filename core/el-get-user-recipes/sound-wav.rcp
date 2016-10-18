@@ -1,0 +1,7 @@
+(:name sound-wav
+:auto-generated t
+:type elpa
+:description "Play wav file"
+:repo nil
+:depends (deferred cl-lib)
+)

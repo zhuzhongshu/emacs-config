@@ -1,0 +1,6 @@
+(:name twittering-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Twitter"
+:repo nil
+)

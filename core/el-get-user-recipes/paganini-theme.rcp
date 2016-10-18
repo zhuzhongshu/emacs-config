@@ -1,0 +1,7 @@
+(:name paganini-theme
+:auto-generated t
+:type elpa
+:description "A colorful, dark and warm theme."
+:repo nil
+:minimum-emacs-version (24 0)
+)

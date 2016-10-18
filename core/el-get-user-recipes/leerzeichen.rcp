@@ -1,0 +1,6 @@
+(:name leerzeichen
+:auto-generated t
+:type elpa
+:description "Minor mode to display whitespace characters."
+:repo nil
+)

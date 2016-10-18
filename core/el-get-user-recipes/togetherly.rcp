@@ -1,0 +1,7 @@
+(:name togetherly
+:auto-generated t
+:type elpa
+:description "allow multiple clients to edit a single buffer online"
+:repo nil
+:depends (cl-lib)
+)

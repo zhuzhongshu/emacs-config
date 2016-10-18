@@ -1,0 +1,8 @@
+(:name ob-sagemath
+:auto-generated t
+:type elpa
+:description "org-babel functions for SageMath evaluation"
+:repo nil
+:depends (sage-shell-mode s)
+:minimum-emacs-version (24)
+)

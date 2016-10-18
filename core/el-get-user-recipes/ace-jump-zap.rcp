@@ -1,0 +1,7 @@
+(:name ace-jump-zap
+:auto-generated t
+:type elpa
+:description "Character zapping, `ace-jump-mode` style"
+:repo nil
+:depends (ace-jump-mode dash)
+)

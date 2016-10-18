@@ -1,0 +1,6 @@
+(:name second-sel
+:auto-generated t
+:type elpa
+:description "Secondary selection commands"
+:repo nil
+)

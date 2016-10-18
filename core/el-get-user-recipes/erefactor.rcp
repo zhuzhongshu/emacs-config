@@ -1,0 +1,7 @@
+(:name erefactor
+:auto-generated t
+:type elpa
+:description "Emacs-Lisp refactoring utilities"
+:repo nil
+:depends (cl-lib)
+)

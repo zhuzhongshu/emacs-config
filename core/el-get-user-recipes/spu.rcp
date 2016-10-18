@@ -1,0 +1,8 @@
+(:name spu
+:auto-generated t
+:type elpa
+:description "Silently upgrade package in the background"
+:repo nil
+:depends (signal timp)
+:minimum-emacs-version (24 4)
+)

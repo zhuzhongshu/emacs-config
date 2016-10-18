@@ -1,0 +1,7 @@
+(:name grab-mac-link
+:auto-generated t
+:type elpa
+:description "Grab link from Mac Apps and insert it into Emacs"
+:repo nil
+:minimum-emacs-version (24)
+)

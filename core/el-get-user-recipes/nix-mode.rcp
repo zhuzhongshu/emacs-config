@@ -1,0 +1,6 @@
+(:name nix-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Nix expressions"
+:repo nil
+)

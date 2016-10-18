@@ -1,0 +1,6 @@
+(:name angular-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Angular.js"
+:repo nil
+)

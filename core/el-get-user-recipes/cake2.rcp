@@ -1,0 +1,7 @@
+(:name cake2
+:auto-generated t
+:type elpa
+:description "CakePHP2 Minor Mode"
+:repo nil
+:depends (dash s f ht json cake-inflector historyf anything)
+)

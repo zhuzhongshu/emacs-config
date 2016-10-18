@@ -1,0 +1,8 @@
+(:name magit-gh-pulls
+:auto-generated t
+:type elpa
+:description "GitHub pull requests extension for Magit"
+:repo nil
+:depends (gh magit pcache s)
+:minimum-emacs-version (24)
+)

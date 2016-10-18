@@ -1,0 +1,8 @@
+(:name alchemist
+:auto-generated t
+:type elpa
+:description "Elixir tooling integration into Emacs"
+:repo nil
+:depends (elixir-mode dash company pkg-info)
+:minimum-emacs-version (24 4)
+)

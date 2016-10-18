@@ -1,0 +1,6 @@
+(:name shadchen
+:auto-generated t
+:type elpa
+:description "pattern matching for elisp"
+:repo nil
+)

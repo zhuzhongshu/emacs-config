@@ -1,0 +1,7 @@
+(:name geeknote
+:auto-generated t
+:type elpa
+:description "Use Evernote in Emacs through geeknote"
+:repo nil
+:minimum-emacs-version (24)
+)

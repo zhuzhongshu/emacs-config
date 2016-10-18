@@ -1,0 +1,7 @@
+(:name material-theme
+:auto-generated t
+:type elpa
+:description "A Theme based on the colors of the Google Material Design"
+:repo nil
+:minimum-emacs-version (24 1)
+)

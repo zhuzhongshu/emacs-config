@@ -1,0 +1,7 @@
+(:name sly
+:auto-generated t
+:type elpa
+:description "Sylvester the Cat's Common Lisp IDE"
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,8 @@
+(:name zombie-trellys-mode
+:auto-generated t
+:type elpa
+:description "A minor mode for interaction with Zombie Trellys"
+:repo nil
+:depends (cl-lib haskell-mode)
+:minimum-emacs-version (24)
+)

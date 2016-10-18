@@ -1,0 +1,6 @@
+(:name babel
+:auto-generated t
+:type elpa
+:description "interface to web translation services such as Babelfish"
+:repo nil
+)

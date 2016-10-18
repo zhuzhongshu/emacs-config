@@ -1,0 +1,7 @@
+(:name dired-quick-sort
+:auto-generated t
+:type elpa
+:description "Persistent quick sorting of dired buffers in various ways."
+:repo nil
+:depends (hydra)
+)

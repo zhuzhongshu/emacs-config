@@ -1,0 +1,7 @@
+(:name discourse
+:auto-generated t
+:type elpa
+:description "discourse api"
+:repo nil
+:depends (cl-lib request s)
+)

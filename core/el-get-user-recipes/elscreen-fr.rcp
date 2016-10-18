@@ -1,0 +1,7 @@
+(:name elscreen-fr
+:auto-generated t
+:type elpa
+:description "Use frame title as screen tab"
+:repo nil
+:depends (elscreen seq)
+)

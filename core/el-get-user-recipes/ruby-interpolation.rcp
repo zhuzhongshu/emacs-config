@@ -1,0 +1,6 @@
+(:name ruby-interpolation
+:auto-generated t
+:type elpa
+:description "Ruby string interpolation helpers"
+:repo nil
+)

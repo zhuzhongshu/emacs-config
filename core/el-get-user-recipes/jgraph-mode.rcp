@@ -1,0 +1,7 @@
+(:name jgraph-mode
+:auto-generated t
+:type elpa
+:description "Major mode for Jgraph files"
+:repo nil
+:depends (cl-lib)
+)

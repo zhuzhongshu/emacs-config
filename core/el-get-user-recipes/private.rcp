@@ -1,0 +1,7 @@
+(:name private
+:auto-generated t
+:type elpa
+:description "take care of your private configuration files."
+:repo nil
+:depends (aes)
+)

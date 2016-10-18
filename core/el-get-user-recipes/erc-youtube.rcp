@@ -1,0 +1,6 @@
+(:name erc-youtube
+:auto-generated t
+:type elpa
+:description "Show info about a YouTube URL in an ERC buffer."
+:repo nil
+)

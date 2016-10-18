@@ -1,0 +1,6 @@
+(:name eclipse-theme
+:auto-generated t
+:type elpa
+:description "Theme based on Eclipse circa 2010"
+:repo nil
+)

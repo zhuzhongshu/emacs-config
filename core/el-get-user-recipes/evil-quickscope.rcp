@@ -1,0 +1,7 @@
+(:name evil-quickscope
+:auto-generated t
+:type elpa
+:description "Highlight unique characters in words for f,F,t,T navigation"
+:repo nil
+:depends (evil)
+)

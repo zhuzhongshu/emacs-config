@@ -1,0 +1,6 @@
+(:name seeing-is-believing
+:auto-generated t
+:type elpa
+:description "minor mode for running the seeing-is-believing ruby gem"
+:repo nil
+)

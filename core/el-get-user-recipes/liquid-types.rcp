@@ -1,0 +1,8 @@
+(:name liquid-types
+:auto-generated t
+:type elpa
+:description "show inferred liquid-types"
+:repo nil
+:depends (flycheck dash popup pos-tip flycheck-liquidhs button-lock)
+:minimum-emacs-version (24 1)
+)

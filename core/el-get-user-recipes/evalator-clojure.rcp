@@ -1,0 +1,7 @@
+(:name evalator-clojure
+:auto-generated t
+:type elpa
+:description "Clojure evaluation context for evalator via CIDER."
+:repo nil
+:depends (cider evalator)
+)

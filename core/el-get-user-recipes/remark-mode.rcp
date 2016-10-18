@@ -1,0 +1,7 @@
+(:name remark-mode
+:auto-generated t
+:type elpa
+:description "Major mode for the remark slideshow tool"
+:repo nil
+:depends (markdown-mode)
+)

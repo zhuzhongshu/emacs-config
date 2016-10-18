@@ -1,0 +1,8 @@
+(:name propfont-mixed
+:auto-generated t
+:type elpa
+:description "Use proportional fonts with space-based indentation."
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

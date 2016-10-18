@@ -1,0 +1,8 @@
+(:name auto-package-update
+:auto-generated t
+:type elpa
+:description "Automatically update Emacs packages."
+:repo nil
+:depends (dash)
+:minimum-emacs-version (24 4)
+)

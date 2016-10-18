@@ -1,0 +1,8 @@
+(:name parsec
+:auto-generated t
+:type elpa
+:description "Parser combinator library"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

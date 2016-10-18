@@ -1,0 +1,6 @@
+(:name world-time-mode
+:auto-generated t
+:type elpa
+:description "show whole days of world-time diffs"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name annotate-depth
+:auto-generated t
+:type elpa
+:description "Annotate buffer if indentation depth is beyond threshold."
+:repo nil
+)

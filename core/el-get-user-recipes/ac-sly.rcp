@@ -1,0 +1,7 @@
+(:name ac-sly
+:auto-generated t
+:type elpa
+:description "An auto-complete source using sly completions"
+:repo nil
+:depends (sly auto-complete cl-lib)
+)

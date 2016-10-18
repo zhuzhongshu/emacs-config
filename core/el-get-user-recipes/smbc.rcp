@@ -1,0 +1,6 @@
+(:name smbc
+:auto-generated t
+:type elpa
+:description "View SMBC from Emacs"
+:repo nil
+)

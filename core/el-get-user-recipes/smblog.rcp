@@ -1,0 +1,7 @@
+(:name smblog
+:auto-generated t
+:type elpa
+:description "samba log viewer"
+:repo nil
+:minimum-emacs-version (24 3)
+)

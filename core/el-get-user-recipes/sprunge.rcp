@@ -1,0 +1,7 @@
+(:name sprunge
+:auto-generated t
+:type elpa
+:description "Upload pastes to sprunge.us"
+:repo nil
+:depends (request cl-lib)
+)

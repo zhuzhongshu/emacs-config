@@ -1,0 +1,7 @@
+(:name recompile-on-save
+:auto-generated t
+:type elpa
+:description "Trigger recompilation on file save."
+:repo nil
+:depends (dash cl-lib)
+)

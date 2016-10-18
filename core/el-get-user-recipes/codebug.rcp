@@ -1,0 +1,6 @@
+(:name codebug
+:auto-generated t
+:type elpa
+:description "Interact with codebug"
+:repo nil
+)

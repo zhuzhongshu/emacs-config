@@ -1,0 +1,6 @@
+(:name viking-mode
+:auto-generated t
+:type elpa
+:description "kill first, ask later"
+:repo nil
+)

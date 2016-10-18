@@ -1,0 +1,6 @@
+(:name git-link
+:auto-generated t
+:type elpa
+:description "Get the GitHub/Bitbucket/GitLab URL for a buffer location"
+:repo nil
+)

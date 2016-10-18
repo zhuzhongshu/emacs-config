@@ -1,0 +1,7 @@
+(:name transfer-sh
+:auto-generated t
+:type elpa
+:description "Simple interface for sending buffer contents to transfer.sh"
+:repo nil
+:depends (async)
+)

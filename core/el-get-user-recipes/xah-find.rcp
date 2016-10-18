@@ -1,0 +1,6 @@
+(:name xah-find
+:auto-generated t
+:type elpa
+:description "find replace in pure emacs lisp. Purpose similar to unix grep/sed."
+:repo nil
+)

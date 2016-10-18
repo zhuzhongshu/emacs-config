@@ -1,0 +1,7 @@
+(:name phi-search-dired
+:auto-generated t
+:type elpa
+:description "interactive filtering for dired powered by phi-search"
+:repo nil
+:depends (phi-search)
+)

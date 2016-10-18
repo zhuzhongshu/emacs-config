@@ -1,0 +1,7 @@
+(:name go-dlv
+:auto-generated t
+:type elpa
+:description "Go Delve - Debug Go programs interactively with the GUD."
+:repo nil
+:depends (go-mode)
+)

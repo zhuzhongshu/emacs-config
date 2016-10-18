@@ -1,0 +1,8 @@
+(:name evil-escape
+:auto-generated t
+:type elpa
+:description "Escape from anything with a customizable key sequence"
+:repo nil
+:depends (evil cl-lib)
+:minimum-emacs-version (24)
+)

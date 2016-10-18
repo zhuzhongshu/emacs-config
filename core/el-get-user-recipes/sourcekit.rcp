@@ -1,0 +1,8 @@
+(:name sourcekit
+:auto-generated t
+:type elpa
+:description "Library to interact with sourcekittendaemon"
+:repo nil
+:depends (dash dash-functional)
+:minimum-emacs-version (24 3)
+)

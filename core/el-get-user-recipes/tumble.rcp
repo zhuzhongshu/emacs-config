@@ -1,0 +1,7 @@
+(:name tumble
+:auto-generated t
+:type elpa
+:description "an Tumblr mode for Emacs"
+:repo nil
+:depends (http-post-simple cl-lib)
+)

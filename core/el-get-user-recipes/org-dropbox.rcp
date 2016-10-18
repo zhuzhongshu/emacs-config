@@ -1,0 +1,8 @@
+(:name org-dropbox
+:auto-generated t
+:type elpa
+:description "move Dropbox notes from phone into org-mode datetree"
+:repo nil
+:depends (dash names)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,6 @@
+(:name log4j-mode
+:auto-generated t
+:type elpa
+:description "major mode for viewing log files"
+:repo nil
+)

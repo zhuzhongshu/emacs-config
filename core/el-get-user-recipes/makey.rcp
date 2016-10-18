@@ -1,0 +1,7 @@
+(:name makey
+:auto-generated t
+:type elpa
+:description "interactive commandline mode"
+:repo nil
+:depends (cl-lib)
+)

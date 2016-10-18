@@ -1,0 +1,7 @@
+(:name cryptsy-public-api
+:auto-generated t
+:type elpa
+:description "Library for working with the Cryptsy public API"
+:repo nil
+:depends (json)
+)

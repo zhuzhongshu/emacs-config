@@ -1,0 +1,8 @@
+(:name overseer
+:auto-generated t
+:type elpa
+:description "Ert-runner Integration Into Emacs"
+:repo nil
+:depends (dash pkg-info f)
+:minimum-emacs-version (24)
+)

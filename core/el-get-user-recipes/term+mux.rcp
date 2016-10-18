@@ -1,0 +1,7 @@
+(:name term+mux
+:auto-generated t
+:type elpa
+:description "term+ terminal multiplexer and session management"
+:repo nil
+:depends (term+ tab-group)
+)

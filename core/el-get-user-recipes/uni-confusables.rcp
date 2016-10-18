@@ -1,0 +1,6 @@
+(:name uni-confusables
+:auto-generated t
+:type elpa
+:description "Unicode confusables table"
+:repo nil
+)

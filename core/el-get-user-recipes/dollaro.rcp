@@ -1,0 +1,7 @@
+(:name dollaro
+:auto-generated t
+:type elpa
+:description "simple text templates"
+:repo nil
+:depends (s)
+)

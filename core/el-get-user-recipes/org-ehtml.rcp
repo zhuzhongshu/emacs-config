@@ -1,0 +1,8 @@
+(:name org-ehtml
+:auto-generated t
+:type elpa
+:description "Export Org-mode files as editable web pages"
+:repo nil
+:depends (web-server)
+:minimum-emacs-version (24 3)
+)

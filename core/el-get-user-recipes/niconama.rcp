@@ -1,0 +1,8 @@
+(:name niconama
+:auto-generated t
+:type elpa
+:description "Tools for Niconico Live Broadcast"
+:repo nil
+:depends (request cl-lib)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name marmalade-client
+:auto-generated t
+:type elpa
+:description "client for marmalade API from emacs"
+:repo nil
+:depends (web kv gh)
+)

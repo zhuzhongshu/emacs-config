@@ -1,0 +1,6 @@
+(:name restclient
+:auto-generated t
+:type elpa
+:description "An interactive HTTP client for Emacs"
+:repo nil
+)

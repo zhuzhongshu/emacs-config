@@ -1,0 +1,6 @@
+(:name google-maps
+:auto-generated t
+:type elpa
+:description "Access Google Maps from Emacs"
+:repo nil
+)

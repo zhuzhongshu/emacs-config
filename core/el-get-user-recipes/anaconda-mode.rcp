@@ -1,0 +1,8 @@
+(:name anaconda-mode
+:auto-generated t
+:type elpa
+:description "Code navigation, documentation lookup and completion for Python"
+:repo nil
+:depends (pythonic dash s f)
+:minimum-emacs-version (24)
+)

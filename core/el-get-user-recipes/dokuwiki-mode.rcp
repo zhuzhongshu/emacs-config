@@ -1,0 +1,6 @@
+(:name dokuwiki-mode
+:auto-generated t
+:type elpa
+:description "Major mode for DokuWiki document"
+:repo nil
+)

@@ -1,0 +1,6 @@
+(:name handoff
+:auto-generated t
+:type elpa
+:description "Get your hand off that mouse, damn it!"
+:repo nil
+)

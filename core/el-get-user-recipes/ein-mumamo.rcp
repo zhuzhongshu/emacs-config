@@ -1,0 +1,7 @@
+(:name ein-mumamo
+:auto-generated t
+:type elpa
+:description "Multiple major mode support for Emacs IPython Notebook"
+:repo nil
+:depends (ein)
+)

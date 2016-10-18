@@ -1,0 +1,8 @@
+(:name org-preview-html
+:auto-generated t
+:type elpa
+:description "automatically use eww to preview the current org file on save"
+:repo nil
+:depends (org)
+:minimum-emacs-version (24 4)
+)

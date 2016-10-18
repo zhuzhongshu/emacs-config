@@ -1,0 +1,6 @@
+(:name unkillable-scratch
+:auto-generated t
+:type elpa
+:description "Disallow buffers from being killed by regexp -- default is *scratch* buffer"
+:repo nil
+)

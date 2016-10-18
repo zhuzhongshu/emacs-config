@@ -1,0 +1,8 @@
+(:name orglink
+:auto-generated t
+:type elpa
+:description "use Org Mode links in other modes"
+:repo nil
+:depends (dash org)
+:minimum-emacs-version (24 3)
+)

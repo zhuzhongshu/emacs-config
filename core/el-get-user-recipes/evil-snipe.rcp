@@ -1,0 +1,7 @@
+(:name evil-snipe
+:auto-generated t
+:type elpa
+:description "emulate vim-sneak & vim-seek"
+:repo nil
+:depends (evil cl-lib)
+)

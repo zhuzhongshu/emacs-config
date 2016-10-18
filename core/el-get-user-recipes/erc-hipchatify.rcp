@@ -1,0 +1,8 @@
+(:name erc-hipchatify
+:auto-generated t
+:type elpa
+:description "Provide emoticons and html rendering for HipChat"
+:repo nil
+:depends (s alert request)
+:minimum-emacs-version (24 4)
+)

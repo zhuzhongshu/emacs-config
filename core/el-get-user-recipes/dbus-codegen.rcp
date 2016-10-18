@@ -1,0 +1,7 @@
+(:name dbus-codegen
+:auto-generated t
+:type elpa
+:description "Lisp code generation for D-Bus."
+:repo nil
+:depends (cl-lib)
+)

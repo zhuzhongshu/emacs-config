@@ -1,0 +1,7 @@
+(:name ghc-imported-from
+:auto-generated t
+:type elpa
+:description "Haskell documentation lookup with ghc-imported-from"
+:repo nil
+:minimum-emacs-version (24 1)
+)

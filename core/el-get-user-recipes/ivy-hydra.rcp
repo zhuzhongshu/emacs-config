@@ -1,0 +1,8 @@
+(:name ivy-hydra
+:auto-generated t
+:type elpa
+:description "Additional key bindings for Ivy"
+:repo nil
+:depends (ivy hydra)
+:minimum-emacs-version (24 1)
+)

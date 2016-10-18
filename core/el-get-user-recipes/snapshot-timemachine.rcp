@@ -1,0 +1,7 @@
+(:name snapshot-timemachine
+:auto-generated t
+:type elpa
+:description "Step through (Btrfs, ZFS, ...) snapshots of files"
+:repo nil
+:minimum-emacs-version (24 4)
+)

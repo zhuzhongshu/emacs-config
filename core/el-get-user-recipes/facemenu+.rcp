@@ -1,0 +1,6 @@
+(:name facemenu+
+:auto-generated t
+:type elpa
+:description "Extensions to `facemenu.el'."
+:repo nil
+)

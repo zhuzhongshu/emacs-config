@@ -1,0 +1,7 @@
+(:name edit-indirect
+:auto-generated t
+:type elpa
+:description "Edit regions in separate buffers"
+:repo nil
+:minimum-emacs-version (24 3)
+)

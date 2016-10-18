@@ -1,0 +1,8 @@
+(:name ox-ioslide
+:auto-generated t
+:type elpa
+:description "Export org-mode to Google I/O HTML5 slide."
+:repo nil
+:depends (org cl-lib f makey)
+:minimum-emacs-version (24 1)
+)

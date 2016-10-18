@@ -1,0 +1,7 @@
+(:name composable
+:auto-generated t
+:type elpa
+:description "composable editing"
+:repo nil
+:minimum-emacs-version (24 4)
+)
