@@ -77,21 +77,25 @@
             (local-set-key [C-f10] 'clang-format-region)))
 
 ;;============================================================================================================
-;;                                              my-sql
+;;                                              psql
 ;;============================================================================================================
 
-;;用sql-connect命令打开一个新的sql进程并将当前文件连接到该进程
+;;用sql-connect命令打开一个新的sql进程并将当前文件连接到该进程，也可以直接利用函数psql-user-simplex
 ;;如果想让该文件绑定到现有sql进程，则使用sql-set-sqli-buffer命令
+;;需要提前开启sql服务：
+;; systemctl enable postgresql
+;; systemctl start postgresql
 
 ;;配置预设sql-connect选项，可以免于在每次连接时输入账号密码信息
+(setq sql-product 'postgres);;全局设置，比如在sql-mode里
 (setq sql-connection-alist  
-      '((user-root  
-         (sql-product 'mysql)  
-         ;; (sql-server "mysql")  
-         (sql-user "root")  
-         (sql-password "asdfasdf")  
-         ;; (sql-database "db1")  
-         ;; (sql-port 6871)
+      '((user-simplex  
+         (sql-product 'postgres)  
+         (sql-server "localhost")  
+         (sql-user "simplex")  
+         ;; (sql-password "asdfasdf")  
+         (sql-database "zzsweet")  
+         (sql-port 5432)
          ))
       ;; '((pool-b  
       ;;    (sql-product 'mysql)  
@@ -109,9 +113,10 @@
            (flet ((sql-get-login (&rest what)))  
              (sql-product-interactive sql-product)))))  
       
-(defun mysql-user-root ()  
+(defun psql-user-simplex ()
+  "直接利用配置好的数据库连接设置`user-simplex'来连接数据库"  
   (interactive)  
-  (sql-connect-preset 'user-root))  
+  (sql-connect-preset 'user-simplex))  
 (add-hook 'sql-mode-hook
           (lambda ()
             (local-set-key [(control x) (control e)] 'sql-send-region)

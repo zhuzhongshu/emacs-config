@@ -948,6 +948,11 @@ Takes and optional `FRAME' as reference."
                         :weight bold
                         :underline t))))
 
+     ;; comint-mode
+     `(comint-highlight-prompt
+       ((t (:inherit minibuffer-prompt
+                     :weight bold))))
+     
      ;; company-mode
      `(company-tooltip
        ((,class (:background ,monokai-grey+5
@@ -3755,7 +3760,7 @@ Takes and optional `FRAME' as reference."
 
     (custom-theme-set-variables
      'monokai
-     `(ansi-color-names-vector [,monokai-bg ,red ,green ,yellow
+     `(ansi-color-names-vector [,monokai-bg ,red ,solarized-green ,yellow
                                             ,blue ,magenta ,cyan ,monokai-fg])
 
      ;; compilation
