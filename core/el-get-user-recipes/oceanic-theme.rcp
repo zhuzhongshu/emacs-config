@@ -1,0 +1,6 @@
+(:name oceanic-theme
+:auto-generated t
+:type elpa
+:description "Oceanic theme."
+:repo nil
+)

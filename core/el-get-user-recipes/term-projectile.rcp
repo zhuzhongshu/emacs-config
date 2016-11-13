@@ -4,4 +4,5 @@
 :description "projectile terminal management"
 :repo nil
 :depends (term-manager projectile)
+:minimum-emacs-version (24)
 )

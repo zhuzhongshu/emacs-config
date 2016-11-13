@@ -1,4 +1,4 @@
-(:name git-blame
+(:name git-blamed
 :auto-generated t
 :type elpa
 :description "Minor mode for incremental blame for Git"

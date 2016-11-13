@@ -1,0 +1,8 @@
+(:name package-lint
+:auto-generated t
+:type elpa
+:description "A linting library for elisp package authors"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

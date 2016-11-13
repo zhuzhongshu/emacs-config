@@ -3,6 +3,5 @@
 :type elpa
 :description "Port of Sublime Text plugin GitGutter"
 :repo nil
-:depends (cl-lib)
-:minimum-emacs-version (24)
+:minimum-emacs-version (24 3)
 )

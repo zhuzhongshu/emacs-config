@@ -3,4 +3,6 @@
 :type elpa
 :description "convert english words between singular and plural"
 :repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
 )

@@ -1,0 +1,6 @@
+(:name wolfram
+:auto-generated t
+:type elpa
+:description "Wolfram Alpha Integration"
+:repo nil
+)

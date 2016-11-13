@@ -3,6 +3,5 @@
 :type elpa
 :description "Show number of matches in mode-line while searching"
 :repo nil
-:depends (cl-lib)
-:minimum-emacs-version (24)
+:minimum-emacs-version (24 3)
 )

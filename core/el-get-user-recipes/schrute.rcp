@@ -1,0 +1,7 @@
+(:name schrute
+:auto-generated t
+:type elpa
+:description "Help you remember there is a better way to do something."
+:repo nil
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,8 @@
+(:name js-import
+:auto-generated t
+:type elpa
+:description "Import Javascript files from your current project or dependencies"
+:repo nil
+:depends (f projectile dash)
+:minimum-emacs-version (24 4)
+)

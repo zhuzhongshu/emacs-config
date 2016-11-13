@@ -1,7 +1,0 @@
-(:name stekene-theme
-:auto-generated t
-:type elpa
-:description "Low-contrast (except for strings) theme, in light and dark versions."
-:repo nil
-:minimum-emacs-version (24)
-)

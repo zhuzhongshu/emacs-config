@@ -1,0 +1,8 @@
+(:name hledger-mode
+:auto-generated t
+:type elpa
+:description "A mode for writing journal entries for hledger."
+:repo nil
+:depends (popup async htmlize)
+:minimum-emacs-version (24 4)
+)

@@ -12,8 +12,10 @@
 ;; installed packages.  Don't delete this line.  If you don't want it,
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
+(require 'package) 
+(setq package-archives '(("melpa" . "https://melpa.org/packages/")
+                           ("gnu" . "http://elpa.gnu.org/packages/")))
 (package-initialize)
-
 (let ((minver "23.3"))
   (when (version<= emacs-version "23.1")
     (error "Your Emacs is too old -- this config requires v%s or higher" minver)))
@@ -38,7 +40,7 @@
           ;; do not build recipes from emacswiki due to poor quality and documentation
           el-get-install-skip-emacswiki-recipes)
       (goto-char (point-max))
-      (eval-print-last-sexp)))
+      (eval-print-last-sexp)))  
 ;; 从melpa下载的软件包里有个pkg.el，会说明与其他包的依赖关系。但是问题是这个依赖关系包含版本号，所以
 ;; 当依赖关系中的某个包不是从melpa上下载的时候，就会报错说找不到package xx-0.0之类，所以现在只从melpa上下载软件包。
 ;; el-get包里自带的有一堆recipe，但是很多源都不是melpa的，经常出问题，所以每次安装el-get的时候执行el-get-elpa-build-local-recipes
@@ -58,7 +60,8 @@
 ;; (dolist (package-name my-packages)
 ;;   (insert (concat package-name "\n")))
 
-;package之间的顺序很重要，有些包可能依赖其他的包
+;package之间的顺序很重要，有些包可能依赖其他的包，可以考虑通过with-eval-after-load命令或者use-package包解决？
+
 (setq required-packages
       '(pos-tip
        auctex-latexmk
@@ -72,15 +75,15 @@
        request-deferred
        let-alist
        avy
-       company
        company-quickhelp
+       company
        ycmd
        company-ycmd
        ein
        elpy
        find-file-in-project
        flx-ido
-       flycheck
+       flycheck       
        flycheck-pos-tip
        flycheck-ycmd
        fuzzy
@@ -91,7 +94,7 @@
        helm-cscope
        helm-dash
        helm-gtags
-       ;;helm-bibtex
+       helm-bibtex
        helm-swoop
        ido-vertical-mode
        langtool
@@ -133,3 +136,4 @@
 
 ;; (provide 'init)
 ;;; init.el ends here
+

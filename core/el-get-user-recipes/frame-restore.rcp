@@ -1,7 +1,0 @@
-(:name frame-restore
-:auto-generated t
-:type elpa
-:description "Restore Emacs frame"
-:repo nil
-:minimum-emacs-version (24 1)
-)

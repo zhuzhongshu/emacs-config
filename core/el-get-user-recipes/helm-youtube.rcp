@@ -1,0 +1,7 @@
+(:name helm-youtube
+:auto-generated t
+:type elpa
+:description "Query YouTube and play videos in your browser"
+:repo nil
+:depends (request helm cl-lib)
+)

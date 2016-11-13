@@ -3,4 +3,5 @@
 :type elpa
 :description "Ring the bell if using arrows too much"
 :repo nil
+:depends (cl-lib)
 )

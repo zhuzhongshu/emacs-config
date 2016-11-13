@@ -1,0 +1,8 @@
+(:name counsel-bbdb
+:auto-generated t
+:type elpa
+:description "Quick search&input email from BBDB based on ivy"
+:repo nil
+:depends (ivy)
+:minimum-emacs-version (24 3)
+)

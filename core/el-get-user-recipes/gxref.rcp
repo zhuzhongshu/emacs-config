@@ -1,0 +1,7 @@
+(:name gxref
+:auto-generated t
+:type elpa
+:description "xref backend using GNU Global."
+:repo nil
+:minimum-emacs-version (25)
+)

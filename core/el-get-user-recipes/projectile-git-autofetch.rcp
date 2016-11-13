@@ -1,0 +1,7 @@
+(:name projectile-git-autofetch
+:auto-generated t
+:type elpa
+:description "automatically fetch git repositories"
+:repo nil
+:depends (projectile alert)
+)

@@ -1,0 +1,8 @@
+(:name wordgen
+:auto-generated t
+:type elpa
+:description "Random word generator"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

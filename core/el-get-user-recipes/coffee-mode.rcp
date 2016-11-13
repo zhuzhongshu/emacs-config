@@ -1,6 +1,8 @@
 (:name coffee-mode
 :auto-generated t
 :type elpa
-:description "Major mode for CoffeeScript files"
+:description "Major mode for CoffeeScript code"
 :repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24 1)
 )

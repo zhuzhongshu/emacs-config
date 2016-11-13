@@ -1,6 +1,6 @@
 (:name ewmctrl
 :auto-generated t
 :type elpa
-:description "Use `wmctrl' to manage desktop windows."
+:description "Use `wmctrl' to manage desktop windows via EWMH/NetWM."
 :repo nil
 )

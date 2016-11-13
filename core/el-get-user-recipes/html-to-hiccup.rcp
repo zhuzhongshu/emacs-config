@@ -1,0 +1,8 @@
+(:name html-to-hiccup
+:auto-generated t
+:type elpa
+:description "Convert HTML to Hiccup syntax"
+:repo nil
+:depends (dash s)
+:minimum-emacs-version (25 1)
+)

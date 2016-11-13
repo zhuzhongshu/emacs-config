@@ -1,0 +1,7 @@
+(:name bool-flip
+:auto-generated t
+:type elpa
+:description "flip the boolean under the point"
+:repo nil
+:minimum-emacs-version (24 3)
+)

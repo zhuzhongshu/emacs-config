@@ -1,6 +1,0 @@
-(:name hipster-theme
-:auto-generated t
-:type elpa
-:description "A low contrast color theme for Emacs."
-:repo nil
-)

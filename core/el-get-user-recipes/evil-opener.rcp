@@ -1,0 +1,7 @@
+(:name evil-opener
+:auto-generated t
+:type elpa
+:description "opening urls as buffers in evil"
+:repo nil
+:depends (evil opener)
+)

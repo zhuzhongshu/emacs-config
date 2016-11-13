@@ -3,6 +3,6 @@
 :type elpa
 :description "Emacs mode based on common modern interface and ergonomics."
 :repo nil
-:depends (undo-tree)
+:depends (undo-tree cl-lib)
 :minimum-emacs-version (24 1)
 )

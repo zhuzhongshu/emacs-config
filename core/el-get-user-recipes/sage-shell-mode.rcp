@@ -3,6 +3,6 @@
 :type elpa
 :description "A front-end for Sage Math"
 :repo nil
-:depends (cl-lib deferred)
+:depends (cl-lib let-alist deferred)
 :minimum-emacs-version (24 1)
 )

@@ -1,0 +1,6 @@
+(:name stylefmt
+:auto-generated t
+:type elpa
+:description "Stylefmt interface"
+:repo nil
+)

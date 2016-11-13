@@ -4,4 +4,5 @@
 :description "File templates with yasnippet"
 :repo nil
 :depends (yasnippet)
+:minimum-emacs-version (24 3)
 )

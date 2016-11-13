@@ -1,7 +1,8 @@
 (:name aurel
 :auto-generated t
 :type elpa
-:description "Search, get info, vote and download AUR packages"
+:description "Search, get info, vote for and download AUR packages"
 :repo nil
+:depends (bui dash)
 :minimum-emacs-version (24 3)
 )

@@ -1,7 +1,0 @@
-(:name flycheck-protobuf
-:auto-generated t
-:type elpa
-:description "protobuf checker for flycheck"
-:repo nil
-:depends (protobuf-mode)
-)

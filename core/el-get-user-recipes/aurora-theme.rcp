@@ -1,6 +1,0 @@
-(:name aurora-theme
-:auto-generated t
-:type elpa
-:description "A theme inspired by SublimeText's Material theme"
-:repo nil
-)

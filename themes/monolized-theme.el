@@ -1,107 +1,66 @@
-;;; monokai-theme.el --- A fruity color theme for Emacs.
+;;; monolized-theme.el --- A fruity color theme  for Emacs, inspired by Monokai + Solarized.
 
-;; Copyright (C) 2011-2013
+;; Copyright (C) 2016
 
-;; Author: Kelvin Smith <oneKelvinSmith@gmail.com>
-;; URL: http://github.com/oneKelvinSmith/monokai-emacs
-;; Version: 20141002.410
-;; X-Original-Version: 0.2.0
-
-;; This program is free software; you can redistribute it and/or modify
-;; it under the terms of the GNU General Public License as published by
-;; the Free Software Foundation, either version 3 of the License, or
-;; (at your option) any later version.
-
-;; This program is distributed in the hope that it will be useful,
-;; but WITHOUT ANY WARRANTY; without even the implied warranty of
-;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-;; GNU General Public License for more details.
-
-;; You should have received a copy of the GNU General Public License
-;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-;;; Commentary:
-;;
-;; A port of the popular Textmate theme Monokai for Emacs 24, built on top
-;; of the new built-in theme support in Emacs 24.
-;;
-;;; Credits:
-;;
-;; Wimer Hazenberg created the original theme.
-;; - http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/
-;;
-;; Bozhidar Batsov created zenburn-theme.el and solarized-theme.el
-;;  on which this file is based.
-;; - https://github.com/bbatsov/zenburn-emacs
-;;
-;; Color Scheme Designer 3 for complementary colours.
-;; - http://colorschemedesigner.com/
-;;
-;; K. Adam Christensen for his personal monokai theme that addresses 256 colours.
-;; - https://github.com/pope/personal/blob/master/etc/emacs.d/monokai-theme.el
-;;
-;; Thomas Frössman for his work on solarized-emacs.
-;; - http://github.com/bbatsov/solarized-emacs
-;;
 ;;; Code:
 
 (unless (>= emacs-major-version 24)
-  (error "The monokai theme requires Emacs 24 or later!"))
+  (error "The monolized theme requires Emacs 24 or later!"))
 
-(deftheme monokai "The Monokai colour theme")
+(deftheme monolized "The monolized colour theme")
 
-(defgroup monokai nil
-  "Monokai theme options.
+(defgroup monolized nil
+  "Monolized theme options.
 The theme has to be reloaded after changing anything in this group."
   :group 'faces)
 
-(defcustom monokai-distinct-fringe-background nil
+(defcustom monolized-distinct-fringe-background nil
   "Make the fringe background different from the normal background color.
 Also affects 'linum-mode' background."
   :type 'boolean
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-use-variable-pitch t
+(defcustom monolized-use-variable-pitch t
   "Use variable pitch face for some headings and titles."
   :type 'boolean
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-high-contrast-mode-line nil
+(defcustom monolized-high-contrast-mode-line nil
   "Make the active/inactive mode line stand out more."
   :type 'boolean
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-height-minus-1 0.8
+(defcustom monolized-height-minus-1 0.8
   "Font size -1."
   :type 'number
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-height-plus-1 1.1
+(defcustom monolized-height-plus-1 1.1
   "Font size +1."
   :type 'number
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-height-plus-2 1.15
+(defcustom monolized-height-plus-2 1.15
   "Font size +2."
   :type 'number
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-height-plus-3 1.2
+(defcustom monolized-height-plus-3 1.2
   "Font size +3."
   :type 'number
-  :group 'monokai)
+  :group 'monolized)
 
-(defcustom monokai-height-plus-4 1.3
+(defcustom monolized-height-plus-4 1.3
   "Font size +4."
   :type 'number
-  :group 'monokai)
+  :group 'monolized)
 
 (defun in-terminal ()
   "Return true if in a terminal."
   (not (display-graphic-p)))
 
-(defun create-monokai-theme (&optional frame)
-  "Create the monokai theme.
+(defun create-monolized-theme (&optional frame)
+  "Create the monolized theme.
 Takes and optional `FRAME' as reference."
   (let* ((class '((class color) (min-colors 89)))
          ;; Accented colors 
@@ -186,25 +145,25 @@ Takes and optional `FRAME' as reference."
          (solarized-pink "#CC7AA3")
          (solarized-ivory "#D9D9C4")
          ;; customize based face properties
-         (s-variable-pitch (if monokai-use-variable-pitch
+         (s-variable-pitch (if monolized-use-variable-pitch
                                'variable-pitch 'default))
-         (s-fringe-bg (if monokai-distinct-fringe-background
+         (s-fringe-bg (if monolized-distinct-fringe-background
                           monokai-hl monokai-bg))
 
-         (s-mode-line-fg (if monokai-high-contrast-mode-line
+         (s-mode-line-fg (if monolized-high-contrast-mode-line
                              monokai-bg monokai-fg))
-         (s-mode-line-bg (if monokai-high-contrast-mode-line
+         (s-mode-line-bg (if monolized-high-contrast-mode-line
                              monokai-fg monokai-hl-line))
-         (s-mode-line-buffer-id-fg (if monokai-high-contrast-mode-line
+         (s-mode-line-buffer-id-fg (if monolized-high-contrast-mode-line
                                        'unspecified blue))
-         (s-mode-line-inactive-fg (if monokai-high-contrast-mode-line
+         (s-mode-line-inactive-fg (if monolized-high-contrast-mode-line
                                       monokai-fg monokai-comments))
-         (s-mode-line-inactive-bg (if monokai-high-contrast-mode-line
+         (s-mode-line-inactive-bg (if monolized-high-contrast-mode-line
                                       monokai-hl-line monokai-bg))
-         (s-mode-line-inactive-bc (if monokai-high-contrast-mode-line
+         (s-mode-line-inactive-bc (if monolized-high-contrast-mode-line
                                       monokai-fg monokai-hl-line)))
     (custom-theme-set-faces
-     'monokai
+     'monolized
      '(button ((t (:underline t))))
      `(widget-field
        ((,class (:background ,solarized-ivory
@@ -705,23 +664,23 @@ Takes and optional `FRAME' as reference."
 
      `(font-latex-sectioning-0-face
        ((,class (:inherit font-latex-sectioning-1-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(font-latex-sectioning-1-face
        ((,class (:inherit font-latex-sectioning-2-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(font-latex-sectioning-2-face
        ((,class (:inherit font-latex-sectioning-3-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(font-latex-sectioning-3-face
        ((,class (:inherit font-latex-sectioning-4-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(font-latex-sectioning-4-face
        ((,class (:inherit font-latex-sectioning-5-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(font-latex-sectioning-5-face
        ((,class (:inherit ,s-variable-pitch :foreground ,yellow
@@ -733,16 +692,16 @@ Takes and optional `FRAME' as reference."
      `(font-latex-slide-title-face
        ((,class (:inherit (,s-variable-pitch font-lock-type-face)
                           :weight bold
-                          :height ,monokai-height-plus-3))))
+                          :height ,monolized-height-plus-3))))
 
      `(font-latex-string-face
        ((,class (:foreground ,cyan))))
 
      `(font-latex-subscript-face
-       ((,class (:height ,monokai-height-minus-1))))
+       ((,class (:height ,monolized-height-minus-1))))
 
      `(font-latex-superscript-face
-       ((,class (:height ,monokai-height-minus-1))))
+       ((,class (:height ,monolized-height-minus-1))))
 
      `(font-latex-verbatim-face
        ((,class (:inherit fixed-pitch
@@ -905,7 +864,7 @@ Takes and optional `FRAME' as reference."
      `(cfw:face-title
        ((,class (:inherit ,s-variable-pitch
                           :foreground ,yellow
-                          :weight bold :height ,monokai-height-plus-4))))
+                          :weight bold :height ,monolized-height-plus-4))))
 
      `(cfw:face-today
        ((,class (:weight bold
@@ -1046,14 +1005,14 @@ Takes and optional `FRAME' as reference."
      ;; custom
      `(custom-face-tag
        ((,class (:inherit ,s-variable-pitch
-                          :height ,monokai-height-plus-3
+                          :height ,monolized-height-plus-3
                           :foreground ,violet
                           :weight bold))))
 
      `(custom-variable-tag
        ((,class (:inherit ,s-variable-pitch
                           :foreground ,cyan
-                          :height ,monokai-height-plus-3
+                          :height ,monolized-height-plus-3
                           :weight bold))))
 
      `(custom-comment-tag
@@ -1062,12 +1021,12 @@ Takes and optional `FRAME' as reference."
      `(custom-group-tag
        ((,class (:inherit ,s-variable-pitch
                           :foreground ,blue
-                          :height ,monokai-height-plus-3))))
+                          :height ,monolized-height-plus-3))))
 
      `(custom-group-tag-1
        ((,class (:inherit ,s-variable-pitch
                           :foreground ,red
-                          :height ,monokai-height-plus-3))))
+                          :height ,monolized-height-plus-3))))
 
      `(custom-state
        ((,class (:foreground ,green))))
@@ -2211,19 +2170,19 @@ Takes and optional `FRAME' as reference."
 
      `(markdown-header-face-1
        ((,class (:inherit markdown-header-face
-                          :height ,monokai-height-plus-4))))
+                          :height ,monolized-height-plus-4))))
 
      `(markdown-header-face-2
        ((,class (:inherit markdown-header-face
-                          :height ,monokai-height-plus-3))))
+                          :height ,monolized-height-plus-3))))
 
      `(markdown-header-face-3
        ((,class (:inherit markdown-header-face
-                          :height ,monokai-height-plus-2))))
+                          :height ,monolized-height-plus-2))))
 
      `(markdown-header-face-4
        ((,class (:inherit markdown-header-face
-                          :height ,monokai-height-plus-1))))
+                          :height ,monolized-height-plus-1))))
 
      `(markdown-header-face-5
        ((,class (:inherit markdown-header-face))))
@@ -2573,7 +2532,7 @@ Takes and optional `FRAME' as reference."
                              :weight bold
                              :slant normal
                              :inverse-video nil
-                             :height ,monokai-height-plus-1
+                             :height ,monolized-height-plus-1
                              :underline nil
                              :box (:line-width 2 :color ,monokai-bg)))))
 
@@ -2657,22 +2616,22 @@ Takes and optional `FRAME' as reference."
 
      `(org-level-1
        ((,class (:inherit ,s-variable-pitch
-                          :height ,monokai-height-plus-4
+                          :height ,monolized-height-plus-4
                           :foreground ,orange))))
 
      `(org-level-2
        ((,class (:inherit ,s-variable-pitch
-                          :height ,monokai-height-plus-3
+                          :height ,monolized-height-plus-3
                           :foreground ,green))))
 
      `(org-level-3
        ((,class (:inherit ,s-variable-pitch
-                          :height ,monokai-height-plus-2
+                          :height ,monolized-height-plus-2
                           :foreground ,blue))))
 
      `(org-level-4
        ((,class (:inherit ,s-variable-pitch
-                          :height ,monokai-height-plus-1
+                          :height ,monolized-height-plus-1
                           :foreground ,yellow))))
 
      `(org-level-5
@@ -2797,7 +2756,7 @@ Takes and optional `FRAME' as reference."
      `(org-document-title
        ((,class (:foreground ,monokai-emph
                              :weight bold
-                             :height ,monokai-height-plus-4))))
+                             :height ,monolized-height-plus-4))))
 
      `(org-drawer
        ((,class (:foreground ,cyan))))
@@ -3166,26 +3125,26 @@ Takes and optional `FRAME' as reference."
      `(sr-active-path-face
        ((,class (:background ,blue
                              :foreground ,monokai-bg
-                             :height ,monokai-height-plus-1
+                             :height ,monolized-height-plus-1
                              :weight bold))))
 
      `(sr-editing-path-face
        ((,class (:background ,yellow
                              :foreground ,monokai-bg
                              :weight bold
-                             :height ,monokai-height-plus-1))))
+                             :height ,monolized-height-plus-1))))
 
      `(sr-highlight-path-face
        ((,class (:background ,green
                              :foreground ,monokai-bg
                              :weight bold
-                             :height ,monokai-height-plus-1))))
+                             :height ,monolized-height-plus-1))))
 
      `(sr-passive-path-face
        ((,class (:background ,monokai-comments
                              :foreground ,monokai-bg
                              :weight bold
-                             :height ,monokai-height-plus-1))))
+                             :height ,monolized-height-plus-1))))
 
      ;; sunrise commander marked
      `(sr-marked-dir-face
@@ -3759,7 +3718,7 @@ Takes and optional `FRAME' as reference."
                              :box ,monokai-emph)))))
 
     (custom-theme-set-variables
-     'monokai
+     'monolized
      `(ansi-color-names-vector [,monokai-bg ,red ,solarized-green ,yellow
                                             ,blue ,magenta ,cyan ,monokai-fg])
 
@@ -3852,11 +3811,11 @@ Takes and optional `FRAME' as reference."
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
 
-(create-monokai-theme)
+(create-monolized-theme)
 
-(add-hook 'server-visit-hook 'create-monokai-theme )
+(add-hook 'server-visit-hook 'create-monolized-theme )
 
-(provide-theme 'monokai)
+(provide-theme 'monolized)
 
 ;; Local Variables:
 ;; no-byte-compile: t
@@ -3864,4 +3823,4 @@ Takes and optional `FRAME' as reference."
 ;; fill-column: 95
 ;; End:
 
-;;; monokai-theme.el ends here
+;;; monolized-theme.el ends here

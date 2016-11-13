@@ -1,0 +1,7 @@
+(:name ryo-modal
+:auto-generated t
+:type elpa
+:description "Roll your own modal mode"
+:repo nil
+:minimum-emacs-version (24 4)
+)

@@ -3,5 +3,6 @@
 :type elpa
 :description "popwin buffer near by import statements with popwin"
 :repo nil
-:depends (popwin cl-lib)
+:depends (popwin)
+:minimum-emacs-version (24 3)
 )

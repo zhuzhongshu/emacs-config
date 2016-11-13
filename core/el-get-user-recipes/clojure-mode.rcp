@@ -3,5 +3,5 @@
 :type elpa
 :description "Major mode for Clojure code"
 :repo nil
-:minimum-emacs-version (24 3)
+:minimum-emacs-version (24 4)
 )

@@ -3,6 +3,6 @@
 :type elpa
 :description "Erlang completion at point using ivy."
 :repo nil
-:depends (erlang s dash counsel ivy async)
+:depends (erlang counsel ivy async)
 :minimum-emacs-version (24 4)
 )

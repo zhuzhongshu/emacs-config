@@ -1,6 +1,6 @@
 (:name tomatinho
 :auto-generated t
 :type elpa
-:description "Tomatinho"
+:description "Simple and beautiful pomodoro timer"
 :repo nil
 )

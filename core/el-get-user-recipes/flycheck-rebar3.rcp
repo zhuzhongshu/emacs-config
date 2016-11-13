@@ -1,0 +1,7 @@
+(:name flycheck-rebar3
+:auto-generated t
+:type elpa
+:description "Rebar3 flycheck integration for Erlang projects"
+:repo nil
+:depends (flycheck)
+)

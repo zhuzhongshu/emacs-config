@@ -3,6 +3,5 @@
 :type elpa
 :description "A Flycheck checker for elisp package authors"
 :repo nil
-:depends (cl-lib flycheck)
-:minimum-emacs-version (24)
+:depends (flycheck package-lint)
 )

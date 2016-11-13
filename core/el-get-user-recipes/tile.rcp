@@ -1,0 +1,8 @@
+(:name tile
+:auto-generated t
+:type elpa
+:description "Tile windows with layouts"
+:repo nil
+:depends (s dash stream)
+:minimum-emacs-version (25 1)
+)

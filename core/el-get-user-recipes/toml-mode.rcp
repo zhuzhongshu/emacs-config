@@ -3,4 +3,6 @@
 :type elpa
 :description "Major mode for editing TOML files"
 :repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
 )

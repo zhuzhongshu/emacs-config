@@ -1,0 +1,8 @@
+(:name cmd-to-echo
+:auto-generated t
+:type elpa
+:description "Show the output of long-running commands in the echo area"
+:repo nil
+:depends (s)
+:minimum-emacs-version (24 4)
+)

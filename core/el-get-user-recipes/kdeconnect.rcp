@@ -1,0 +1,6 @@
+(:name kdeconnect
+:auto-generated t
+:type elpa
+:description "An interface for KDE Connect"
+:repo nil
+)

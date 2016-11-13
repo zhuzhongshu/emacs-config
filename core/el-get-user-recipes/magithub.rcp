@@ -3,6 +3,6 @@
 :type elpa
 :description "Magit interfaces for GitHub"
 :repo nil
-:depends (magit git-commit with-editor cl-lib s)
+:depends (magit git-commit with-editor s)
 :minimum-emacs-version (24 4)
 )

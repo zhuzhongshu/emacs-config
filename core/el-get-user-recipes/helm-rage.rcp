@@ -1,0 +1,8 @@
+(:name helm-rage
+:auto-generated t
+:type elpa
+:description "Helm command for rage characters."
+:repo nil
+:depends (helm dash s)
+:minimum-emacs-version (24 4)
+)

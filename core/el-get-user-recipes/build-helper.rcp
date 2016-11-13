@@ -1,0 +1,7 @@
+(:name build-helper
+:auto-generated t
+:type elpa
+:description "Utilities to help build code"
+:repo nil
+:depends (projectile)
+)

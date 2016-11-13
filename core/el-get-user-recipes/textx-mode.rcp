@@ -1,0 +1,7 @@
+(:name textx-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing TextX files"
+:repo nil
+:minimum-emacs-version (24 3)
+)

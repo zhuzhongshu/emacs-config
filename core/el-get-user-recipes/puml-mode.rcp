@@ -1,7 +1,0 @@
-(:name puml-mode
-:auto-generated t
-:type elpa
-:description "Major mode for PlantUML"
-:repo nil
-:minimum-emacs-version (24)
-)

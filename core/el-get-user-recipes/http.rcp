@@ -3,6 +3,6 @@
 :type elpa
 :description "Yet another HTTP client"
 :repo nil
-:depends (request)
+:depends (request edit-indirect)
 :minimum-emacs-version (24 4)
 )

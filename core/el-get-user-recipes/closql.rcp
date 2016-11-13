@@ -4,5 +4,5 @@
 :description "store EIEIO objects using EmacSQL"
 :repo nil
 :depends (emacsql-sqlite)
-:minimum-emacs-version (25 0 92)
+:minimum-emacs-version (25 1)
 )

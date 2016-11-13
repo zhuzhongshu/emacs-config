@@ -3,5 +3,5 @@
 :type elpa
 :description "A front end for http://cdnjs.com"
 :repo nil
-:depends (cl-lib dash deferred f pkg-info)
+:depends (dash deferred f pkg-info)
 )

@@ -3,4 +3,5 @@
 :type elpa
 :description "Symmetric Encryption for ERC"
 :repo nil
+:depends (cl-lib)
 )

@@ -3,4 +3,5 @@
 :type elpa
 :description "Minor mode to highlight indentation"
 :repo nil
+:minimum-emacs-version (24)
 )

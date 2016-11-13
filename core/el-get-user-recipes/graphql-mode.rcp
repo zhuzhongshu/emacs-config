@@ -1,0 +1,7 @@
+(:name graphql-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing GraphQL schemas"
+:repo nil
+:minimum-emacs-version (24 3)
+)

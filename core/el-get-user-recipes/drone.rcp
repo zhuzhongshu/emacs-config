@@ -1,0 +1,6 @@
+(:name drone
+:auto-generated t
+:type elpa
+:description "Launch your drone test suite if drone.yml is present"
+:repo nil
+)

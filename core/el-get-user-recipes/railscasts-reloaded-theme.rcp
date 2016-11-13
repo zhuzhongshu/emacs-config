@@ -1,0 +1,6 @@
+(:name railscasts-reloaded-theme
+:auto-generated t
+:type elpa
+:description "Railscasts Reloaded color theme"
+:repo nil
+)

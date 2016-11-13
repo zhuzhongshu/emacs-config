@@ -3,4 +3,5 @@
 :type elpa
 :description "Dark theme inspired by LightTable"
 :repo nil
+:minimum-emacs-version (24)
 )

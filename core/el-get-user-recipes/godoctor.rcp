@@ -1,0 +1,6 @@
+(:name godoctor
+:auto-generated t
+:type elpa
+:description "Frontend for godoctor"
+:repo nil
+)

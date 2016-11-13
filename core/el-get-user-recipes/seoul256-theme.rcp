@@ -1,6 +1,7 @@
 (:name seoul256-theme
 :auto-generated t
 :type elpa
-:description "No description available."
+:description "Low-contrast color scheme based on Seoul Colors."
 :repo nil
+:minimum-emacs-version (24 3)
 )

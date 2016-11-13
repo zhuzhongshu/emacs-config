@@ -1,0 +1,8 @@
+(:name multitran
+:auto-generated t
+:type elpa
+:description "Interface to multitran"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

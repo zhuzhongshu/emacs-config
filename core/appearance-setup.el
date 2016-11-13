@@ -25,7 +25,7 @@
 ;;                                            theme-and-font
 ;;============================================================================================================
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/");;添加主题文件夹
-(load-theme 'monokai t);;选择主题为molokai
+(load-theme 'monolized t);;选择主题为molokai
 (column-number-mode t);;在mode-line处显示列号
 (line-number-mode t);;在mode-line处显示行号
 (setq linum-format "%3i");;设置左侧行号格式，在格式化字符串内加空格可以体现在行号上，如" %3i% "

@@ -1,0 +1,7 @@
+(:name eshell-up
+:auto-generated t
+:type elpa
+:description "Quickly go to a specific parent directory in eshell"
+:repo nil
+:minimum-emacs-version (24)
+)

@@ -4,4 +4,5 @@
 :description "Highlight uncommitted changes using VC"
 :repo nil
 :depends (cl-lib)
+:minimum-emacs-version (24 3)
 )

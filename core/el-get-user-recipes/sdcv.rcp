@@ -1,0 +1,8 @@
+(:name sdcv
+:auto-generated t
+:type elpa
+:description "Interface for sdcv (StartDict console version)."
+:repo nil
+:depends (popup showtip pos-tip cl-lib)
+:minimum-emacs-version (24 3)
+)

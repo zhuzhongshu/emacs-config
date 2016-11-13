@@ -1,6 +1,6 @@
 (:name danneskjold-theme
 :auto-generated t
 :type elpa
-:description "No description available."
+:description "Beautiful high-contrast Emacs theme."
 :repo nil
 )

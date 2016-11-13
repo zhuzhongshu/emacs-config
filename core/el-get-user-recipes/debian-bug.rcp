@@ -1,0 +1,6 @@
+(:name debian-bug
+:auto-generated t
+:type elpa
+:description "report a bug to Debian's bug tracking system"
+:repo nil
+)

@@ -1,7 +1,6 @@
 (:name 0xc
 :auto-generated t
 :type elpa
-:description "Base conversion made easy"
+:description "No description available."
 :repo nil
-:minimum-emacs-version (24 4)
 )
