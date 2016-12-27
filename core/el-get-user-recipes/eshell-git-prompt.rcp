@@ -3,6 +3,6 @@
 :type elpa
 :description "Some Eshell prompt for Git users"
 :repo nil
-:depends (cl-lib dash s)
+:depends (cl-lib dash)
 :minimum-emacs-version (24 1)
 )

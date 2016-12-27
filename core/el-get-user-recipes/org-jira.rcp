@@ -3,4 +3,5 @@
 :type elpa
 :description "Syncing between Jira and Org-mode."
 :repo nil
+:depends (cl-lib request)
 )

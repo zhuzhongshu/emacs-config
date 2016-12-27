@@ -1,0 +1,8 @@
+(:name web-mode-edit-element
+:auto-generated t
+:type elpa
+:description "Helper-functions for attribute- and element-handling"
+:repo nil
+:depends (web-mode)
+:minimum-emacs-version (24 4)
+)

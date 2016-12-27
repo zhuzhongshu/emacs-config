@@ -1,7 +1,7 @@
 (:name racer
 :auto-generated t
 :type elpa
-:description "The official Emacs package for Racer"
+:description "code completion, goto-definition and docs browsing for Rust via racer"
 :repo nil
 :depends (rust-mode dash s f)
 :minimum-emacs-version (24 3)

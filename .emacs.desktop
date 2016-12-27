@@ -2,29 +2,29 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Jan  7 09:03:49 2016
+;; Created Fri Dec 23 10:10:04 2016
 ;; Desktop file format version 206
-;; Emacs version 24.4.2
+;; Emacs version 25.1.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22157 47477 805766 667000) (desktop . "206") "zzs@zzs-hd" nil nil ((((font-backend xft x) (font . "-apple-Monaco-normal-normal-normal-*-19-*-*-*-*-0-iso10646-1") (font-parameter . "Monaco 14") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (foreground-color . "#7A9496") (background-color . "#002B36") (mouse-color . "#7A9496") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 11) (right-fringe . 11) (scroll-bar-foreground . "#1e1e28") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (fullscreen . maximized) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#7A9496") (sticky) (environment) (powerline-cache) (frameset--id . "28C4-0273-5C15-BFC0") (frameset--mini t . t) (height . 36) (width . 127) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 96) (min-pixel-width . 110) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 66) (min-pixel-height-safe . 24) (min-pixel-width-safe . 22)) leaf (pixel-width . 1440) (pixel-height . 847) (total-width . 130) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "main.tex" (selected . t) (hscroll . 0) (fringes 11 11 nil) (margins 3) (scroll-bars 16 2 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-saved-frameset [frameset 1 (22620 34684 615162 41000) (desktop . "208") "simplex@simplex-pc" nil nil ((((font-backend xft x) (font . "-APPL-Monaco-normal-normal-normal-*-19-*-*-*-*-0-iso10646-1") (font-parameter . "Monaco 14") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars . t) (foreground-color . "#7A9496") (background-color . "#002B36") (mouse-color . "#7A9496") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 11) (right-fringe . 11) (scroll-bar-foreground . "#1e1e28") (scroll-bar-background . "grey75") (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#7A9496") (sticky) (environment) (powerline-cache) (frameset--id . "28C4-0273-5C15-BFC0") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 42) (width . 171) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 9) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 96) (min-pixel-width . 110) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 99) (min-pixel-height-safe . 24) (min-pixel-width-safe . 22)) leaf (pixel-width . 1920) (pixel-height . 1007) (total-width . 174) (total-height . 41) (normal-height . 1.0) (normal-width . 1.0) (buffer "basic.el" (selected . t) (hscroll . 0) (fringes 11 11 nil) (margins 3) (scroll-bars nil 2 t nil 1 t) (vscroll . 0) (dedicated) (point . 1067) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history nil)
+(setq file-name-history '("/home/simplex/.emacs.d/core/basic.el" "~/zzsweet/src/python/ML/DL/study_tensorflow.py" "~/zzsweet/src/notes/Tensorflow‘±Ê‘¼Ç.org" "~/zzsweet/src/python/ML/DL/cnn.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/layers/conv.py" "~/.emacs.d/core/org-setup.el" "~/.emacs.d/core/basic.el" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/variables.py" "~/zzsweet/src/python/ML/DL/study-tensorflow/study_tensorflow.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/layers/core.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/layers/embedding_ops.py" "~/zzsweet/src/python/ML/DL/library-src/tensorlayer/tensorlayer/layers.py" "~/zzsweet/src/python/ML/DL/library-src/tensorlayer/example/tutorial_mnist_simple.py" "~/zzsweet/src/python/ML/DL/library-src/tensorlayer/example/tutorial_mnist.py" "~/zzsweet/src/python/ML/DL/cnn_tl.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/layers/normalization.py" "~/zzsweet/src/python/ML/DL/library-src/tensorflow-models/resnet/resnet_main.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/initializations.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/utils.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/activations.py" "~/zzsweet/src/python/ML/DL/library-src/tflearn/examples/images/vgg_network.py"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 206
-  "/home/zzs/zzsweet/src/thesis/manuscript/main.tex"
-  "main.tex"
-  'latex-mode
-  '(linum-mode auto-compile-on-load-mode company-mode helm-mode flx-ido-mode smartparens-mode yas-minor-mode flycheck-mode TeX-PDF-mode reftex-mode rainbow-delimiters-mode flyspell-mode)
-  1
+  "/home/simplex/.emacs.d/core/basic.el"
+  "basic.el"
+  'emacs-lisp-mode
+  '(TeX-PDF-mode auto-compile-mode auto-compile-on-load-mode yas-minor-mode smartparens-mode flx-ido-mode helm-mode ycmd-mode company-mode flycheck-mode linum-mode rainbow-delimiters-mode)
+  1067
   '(nil nil)
   nil
   nil
-  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (case-fold-search . t) (TeX-master . t)))
+  '((buffer-file-coding-system . utf-8-unix)))
 

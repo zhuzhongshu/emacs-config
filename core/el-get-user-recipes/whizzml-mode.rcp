@@ -1,0 +1,7 @@
+(:name whizzml-mode
+:auto-generated t
+:type elpa
+:description "Programming mode for editing WhizzML files"
+:repo nil
+:minimum-emacs-version (24 4)
+)

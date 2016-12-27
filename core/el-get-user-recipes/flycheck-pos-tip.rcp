@@ -3,5 +3,6 @@
 :type elpa
 :description "Display Flycheck errors in GUI tooltips"
 :repo nil
-:depends (dash flycheck pos-tip)
+:depends (flycheck pos-tip)
+:minimum-emacs-version (24 1)
 )

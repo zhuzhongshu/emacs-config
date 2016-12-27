@@ -1,0 +1,8 @@
+(:name edit-indirect-region-latex
+:auto-generated t
+:type elpa
+:description "Edit LaTeX regions in separate buffers, e.g. for English grammar checks"
+:repo nil
+:depends (ht edit-indirect)
+:minimum-emacs-version (24 3)
+)

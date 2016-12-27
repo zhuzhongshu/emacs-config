@@ -1,0 +1,8 @@
+(:name dashboard
+:auto-generated t
+:type elpa
+:description "A startup screen extracted from Spacemacs"
+:repo nil
+:depends (page-break-lines)
+:minimum-emacs-version (24 4)
+)

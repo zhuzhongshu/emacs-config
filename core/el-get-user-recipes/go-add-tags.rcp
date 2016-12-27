@@ -3,6 +3,6 @@
 :type elpa
 :description "Add field tags for struct fields"
 :repo nil
-:depends (s cl-lib)
-:minimum-emacs-version (24)
+:depends (s)
+:minimum-emacs-version (24 3)
 )

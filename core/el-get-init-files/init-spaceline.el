@@ -9,5 +9,3 @@
 ;;   "Do nothing.")
 (provide 'init-spaceline)
 ;;; init-spaceline.el ends here
-
-

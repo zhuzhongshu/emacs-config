@@ -3,6 +3,6 @@
 :type elpa
 :description "Repository todo management for org-mode"
 :repo nil
-:depends (projectile dash pcache)
+:depends (projectile dash)
 :minimum-emacs-version (24)
 )

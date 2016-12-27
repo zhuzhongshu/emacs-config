@@ -1,0 +1,8 @@
+(:name counsel-gtags
+:auto-generated t
+:type elpa
+:description "ivy for GNU global"
+:repo nil
+:depends (counsel)
+:minimum-emacs-version (24 3)
+)

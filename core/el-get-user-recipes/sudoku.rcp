@@ -1,0 +1,7 @@
+(:name sudoku
+:auto-generated t
+:type elpa
+:description "Simple sudoku game, can download puzzles"
+:repo nil
+:minimum-emacs-version (24 4)
+)

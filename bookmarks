@@ -1,0 +1,10 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("org-capture-last-stored"
+ (filename . "~/zzsweet/src/org/capture/scratch.org")
+ (front-context-string . "** 原来是这样啊\n创建于： [")
+ (rear-context-string . "ing Info\n* 这是啥子\n")
+ (position . 461))
+)

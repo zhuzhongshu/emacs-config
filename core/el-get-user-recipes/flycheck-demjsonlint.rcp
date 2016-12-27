@@ -1,0 +1,7 @@
+(:name flycheck-demjsonlint
+:auto-generated t
+:type elpa
+:description "Flychecker for json-mode using jsonlint from demjson"
+:repo nil
+:depends (flycheck)
+)

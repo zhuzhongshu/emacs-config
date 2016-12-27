@@ -1,0 +1,6 @@
+(:name syntactic-close
+:auto-generated t
+:type elpa
+:description "Insert closing delimiter"
+:repo nil
+)

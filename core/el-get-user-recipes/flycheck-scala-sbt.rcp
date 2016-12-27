@@ -1,0 +1,8 @@
+(:name flycheck-scala-sbt
+:auto-generated t
+:type elpa
+:description "sbt-mode checker for Scala"
+:repo nil
+:depends (flycheck sbt-mode)
+:minimum-emacs-version (25 1)
+)

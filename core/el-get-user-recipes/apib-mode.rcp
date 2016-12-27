@@ -1,0 +1,8 @@
+(:name apib-mode
+:auto-generated t
+:type elpa
+:description "Major mode for API Blueprint files"
+:repo nil
+:depends (markdown-mode)
+:minimum-emacs-version (24)
+)

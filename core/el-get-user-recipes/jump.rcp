@@ -3,5 +3,5 @@
 :type elpa
 :description "build functions which contextually jump between files"
 :repo nil
-:depends (findr inflections)
+:depends (findr inflections cl-lib)
 )

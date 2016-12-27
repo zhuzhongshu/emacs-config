@@ -1,6 +1,6 @@
 (:name ssh-deploy
 :auto-generated t
 :type elpa
-:description "Deployment via SSH, global or per directory."
+:description "No description available."
 :repo nil
 )

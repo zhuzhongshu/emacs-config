@@ -3,6 +3,6 @@
 :type elpa
 :description "Show the output of long-running commands in the echo area"
 :repo nil
-:depends (s)
+:depends (s shell-split-string)
 :minimum-emacs-version (24 4)
 )

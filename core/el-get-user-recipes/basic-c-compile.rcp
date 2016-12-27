@@ -1,7 +1,7 @@
 (:name basic-c-compile
 :auto-generated t
 :type elpa
-:description "Quickly create a basic Makefile, compile and run a C program."
+:description "Quickly create a Makefile, compile and run C."
 :repo nil
 :depends (cl-lib)
 )

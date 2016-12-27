@@ -1,0 +1,8 @@
+(:name fluxus-mode
+:auto-generated t
+:type elpa
+:description "Major mode for interfacing with Fluxus"
+:repo nil
+:depends (osc)
+:minimum-emacs-version (24 4)
+)

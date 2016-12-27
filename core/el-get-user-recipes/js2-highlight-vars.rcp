@@ -4,4 +4,5 @@
 :description "highlight occurrences of the variable under cursor"
 :repo nil
 :depends (js2-mode)
+:minimum-emacs-version (24 4)
 )

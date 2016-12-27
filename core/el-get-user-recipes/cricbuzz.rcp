@@ -3,5 +3,5 @@
 :type elpa
 :description "Cricket scores from cricbuzz in emacs"
 :repo nil
-:depends (enlive)
+:depends (enlive dash s)
 )

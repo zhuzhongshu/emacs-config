@@ -1,0 +1,6 @@
+(:name csv
+:auto-generated t
+:type elpa
+:description "Functions for reading and parsing CSV files."
+:repo nil
+)

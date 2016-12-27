@@ -1,0 +1,6 @@
+(:name csgo-conf-mode
+:auto-generated t
+:type elpa
+:description "CS:GO Configuration files syntax highlighting"
+:repo nil
+)

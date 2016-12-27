@@ -1,0 +1,8 @@
+(:name flycheck-title
+:auto-generated t
+:type elpa
+:description "show flycheck errors in the frame title"
+:repo nil
+:depends (flycheck)
+:minimum-emacs-version (24)
+)

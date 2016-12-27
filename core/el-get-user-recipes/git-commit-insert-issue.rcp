@@ -3,5 +3,5 @@
 :type elpa
 :description "Get issues list when typing \"Fixes #\""
 :repo nil
-:depends (helm projectile s github-issues)
+:depends (helm projectile s github-issues gitlab)
 )

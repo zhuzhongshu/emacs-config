@@ -1,0 +1,8 @@
+(:name dante
+:auto-generated t
+:type elpa
+:description "Development mode for Haskell"
+:repo nil
+:depends (flycheck dash)
+:minimum-emacs-version (25 1)
+)

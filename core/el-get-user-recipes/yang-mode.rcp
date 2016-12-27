@@ -1,0 +1,6 @@
+(:name yang-mode
+:auto-generated t
+:type elpa
+:description "major mode for editing YANG files"
+:repo nil
+)

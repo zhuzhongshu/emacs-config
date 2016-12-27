@@ -1,0 +1,7 @@
+(:name malyon
+:auto-generated t
+:type elpa
+:description "mode to execute Z-code files version 3, 5, 8"
+:repo nil
+:depends (cl-lib)
+)

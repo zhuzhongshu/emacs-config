@@ -1,0 +1,8 @@
+(:name flycheck-plantuml
+:auto-generated t
+:type elpa
+:description "Integrate plantuml with flycheck"
+:repo nil
+:depends (flycheck plantuml-mode)
+:minimum-emacs-version (24 4)
+)

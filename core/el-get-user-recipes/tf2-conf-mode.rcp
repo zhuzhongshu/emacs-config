@@ -1,0 +1,6 @@
+(:name tf2-conf-mode
+:auto-generated t
+:type elpa
+:description "TF2 Configuration files syntax highlighting"
+:repo nil
+)

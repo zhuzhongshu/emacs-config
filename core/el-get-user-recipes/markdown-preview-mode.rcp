@@ -3,5 +3,6 @@
 :type elpa
 :description "markdown realtime preview minor mode."
 :repo nil
-:depends (websocket markdown-mode cl-lib)
+:depends (websocket markdown-mode cl-lib web-server uuidgen)
+:minimum-emacs-version (24 3)
 )

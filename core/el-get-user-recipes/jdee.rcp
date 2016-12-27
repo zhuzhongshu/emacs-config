@@ -3,6 +3,6 @@
 :type elpa
 :description "Java Development Environment for Emacs"
 :repo nil
-:depends (memoize dash)
+:depends (flycheck memoize dash)
 :minimum-emacs-version (24 3)
 )

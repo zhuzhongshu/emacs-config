@@ -1,0 +1,8 @@
+(:name org-babel-eval-in-repl
+:auto-generated t
+:type elpa
+:description "Eval org-mode babel code blocks in various REPLs."
+:repo nil
+:depends (eval-in-repl)
+:minimum-emacs-version (24)
+)

@@ -1,0 +1,7 @@
+(:name copy-as-format
+:auto-generated t
+:type elpa
+:description "Copy buffer locations as GitHub/Slack/JIRA/HipChat/... formatted text"
+:repo nil
+:depends (cl-lib)
+)

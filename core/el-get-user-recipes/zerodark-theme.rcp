@@ -3,5 +3,5 @@
 :type elpa
 :description "A dark, medium contrast theme for Emacs"
 :repo nil
-:depends (all-the-icons powerline magit flycheck)
+:depends (all-the-icons magit flycheck)
 )

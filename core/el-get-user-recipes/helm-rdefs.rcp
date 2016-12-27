@@ -1,0 +1,8 @@
+(:name helm-rdefs
+:auto-generated t
+:type elpa
+:description "rdefs with helm interface"
+:repo nil
+:depends (helm)
+:minimum-emacs-version (24)
+)

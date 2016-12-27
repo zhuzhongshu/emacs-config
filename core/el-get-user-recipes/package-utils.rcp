@@ -3,5 +3,5 @@
 :type elpa
 :description "Extensions for package.el"
 :repo nil
-:depends (epl async)
+:depends (async)
 )

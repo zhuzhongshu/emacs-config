@@ -3,5 +3,6 @@
 :type elpa
 :description "Utilities of Opening Github Page"
 :repo nil
-:depends (helm-core gh cl-lib)
+:depends (helm-core gh)
+:minimum-emacs-version (24 4)
 )

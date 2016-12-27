@@ -64,9 +64,11 @@
 
 (setq required-packages
       '(pos-tip
+       auctex
        auctex-latexmk
        auto-compile
        async
+       bookmark+
        comment-dwim-2
        dash
        s
@@ -99,6 +101,7 @@
        ido-vertical-mode
        langtool
        multi-term
+       org-bullets
        popup
        popwin
        rainbow-delimiters
@@ -107,11 +110,12 @@
        sqlup-mode
        swiper
        window-numbering
+       vimish-fold
        spaceline
        xcscope
        yasnippet))
 
-;;自动安装软件
+;;自动安装软件,如果有问题可以尝试删掉el-get目录下的.loaddefs.el文件
 (el-get 'sync required-packages)
 
 
@@ -137,3 +141,60 @@
 ;; (provide 'init)
 ;;; init.el ends here
 
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(bmkp-last-as-first-bookmark-file "~/.emacs.d/bookmarks")
+ '(company-auto-complete nil)
+ '(company-auto-complete-chars (quote ignore))
+ '(company-backends
+   (quote
+    (company-capf company-ispell company-yasnippet company-files company-elisp company-css company-eclim company-semantic company-xcode company-ropemacs company-cmake company-bbdb
+                  (company-dabbrev-code company-gtags company-etags company-keywords)
+                  company-oddmuse company-dabbrev)))
+ '(company-frontends
+   (quote
+    (company-pseudo-tooltip-unless-just-one-frontend company-preview-if-just-one-frontend company-quickhelp-frontend)))
+ '(company-idle-delay 0)
+ '(company-minimum-prefix-length 999)
+ '(company-require-match t)
+ '(company-show-numbers t)
+ '(company-tooltip-align-annotations t)
+ '(company-tooltip-minimum-width 50)
+ '(company-tooltip-offset-display (quote scrollbar))
+ '(flycheck-display-errors-function (function flycheck-pos-tip-error-messages))
+ '(helm-M-x-fuzzy-match t)
+ '(helm-boring-buffer-regexp-list
+   (quote
+    ("\\` " "\\*helm" "\\*helm-mode" "\\*Echo Area" "\\*Minibuf" "\\*Messages")))
+ '(helm-buffer-max-length 30)
+ '(helm-buffers-fuzzy-matching t)
+ '(helm-completing-read-handlers-alist
+   (quote
+    ((describe-function . helm-completing-read-symbols)
+     (describe-variable . helm-completing-read-symbols)
+     (debug-on-entry . helm-completing-read-symbols)
+     (find-function . helm-completing-read-symbols)
+     (find-tag . helm-completing-read-with-cands-in-buffer)
+     (ffap-alternate-file)
+     (tmm-menubar)
+     (find-file . ido))))
+ '(helm-display-source-at-screen-top nil)
+ '(helm-gtags-auto-update t)
+ '(helm-gtags-ignore-case t)
+ '(helm-gtags-path-style (quote relative))
+ '(helm-locate-fuzzy-match t)
+ '(org-agenda-files
+   (quote
+    ("~/zzsweet/src/org/todo.org" "/home/simplex/zzsweet/src/org/WavegideInput.org" "/home/simplex/zzsweet/src/org/simplex.org" "/home/simplex/zzsweet/src/org/WavegideInput.org" "/home/simplex/zzsweet/src/org/simplex.org")))
+ '(package-selected-packages
+   (quote
+    (auctex highlight-indent-guides bookmark+ window-numbering use-package swiper sqlup-mode spaceline smex smartparens rainbow-delimiters popwin multi-term langtool ido-vertical-mode helm-swoop helm-gtags helm-dash helm-cscope helm-bibtex helm-ag gnuplot-mode fuzzy flycheck-ycmd flycheck-pos-tip flx-ido elpy ein company-ycmd company-quickhelp comment-dwim-2 avy auto-compile auctex-latexmk))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

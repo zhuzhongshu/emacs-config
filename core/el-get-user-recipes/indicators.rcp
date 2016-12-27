@@ -3,4 +3,5 @@
 :type elpa
 :description "Display the buffer relative location of line in the fringe."
 :repo nil
+:depends (dash cl-lib)
 )

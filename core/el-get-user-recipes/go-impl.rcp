@@ -4,5 +4,5 @@
 :description "impl integration for go-mode"
 :repo nil
 :depends (go-mode)
-:minimum-emacs-version (24)
+:minimum-emacs-version (24 3)
 )

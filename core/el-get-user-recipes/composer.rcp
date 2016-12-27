@@ -3,6 +3,6 @@
 :type elpa
 :description "Interface to PHP Composer"
 :repo nil
-:depends (s f request)
+:depends (s f request seq)
 :minimum-emacs-version (24)
 )

@@ -3,6 +3,6 @@
 :type elpa
 :description "a BibTeX database manager"
 :repo nil
-:depends (dash parsebib)
-:minimum-emacs-version (24 3)
+:depends (dash seq parsebib)
+:minimum-emacs-version (24 4)
 )

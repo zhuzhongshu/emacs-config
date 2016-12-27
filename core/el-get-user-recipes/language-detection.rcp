@@ -1,0 +1,8 @@
+(:name language-detection
+:auto-generated t
+:type elpa
+:description "Automatic language detection from code snippets"
+:repo nil
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

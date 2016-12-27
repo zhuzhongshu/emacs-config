@@ -3,5 +3,6 @@
 :type elpa
 :description "Import Javascript dependencies"
 :repo nil
+:depends (grizzl)
 :minimum-emacs-version (24)
 )

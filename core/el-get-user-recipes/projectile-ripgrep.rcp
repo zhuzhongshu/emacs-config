@@ -1,0 +1,7 @@
+(:name projectile-ripgrep
+:auto-generated t
+:type elpa
+:description "Run ripgrep with Projectile"
+:repo nil
+:depends (ripgrep projectile)
+)

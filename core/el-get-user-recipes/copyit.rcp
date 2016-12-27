@@ -3,6 +3,6 @@
 :type elpa
 :description "Copy it, yank anything!"
 :repo nil
-:depends (cl-lib)
+:depends (cl-lib s)
 :minimum-emacs-version (24)
 )

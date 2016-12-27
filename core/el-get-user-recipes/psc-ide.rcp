@@ -4,4 +4,5 @@
 :description "Minor mode for PureScript's psc-ide tool."
 :repo nil
 :depends (dash dash-functional company cl-lib s)
+:minimum-emacs-version (24)
 )

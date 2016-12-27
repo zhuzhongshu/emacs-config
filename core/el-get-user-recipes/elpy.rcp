@@ -3,5 +3,5 @@
 :type elpa
 :description "Emacs Python Development Environment"
 :repo nil
-:depends (company find-file-in-project highlight-indentation pyvenv yasnippet)
+:depends (company find-file-in-project highlight-indentation pyvenv yasnippet s)
 )

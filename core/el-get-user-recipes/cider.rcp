@@ -4,5 +4,5 @@
 :description "Clojure Interactive Development Environment that Rocks"
 :repo nil
 :depends (clojure-mode pkg-info queue spinner seq)
-:minimum-emacs-version (24 3)
+:minimum-emacs-version (24 4)
 )

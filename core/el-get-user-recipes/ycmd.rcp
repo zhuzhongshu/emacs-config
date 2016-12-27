@@ -3,6 +3,6 @@
 :type elpa
 :description "emacs bindings to the ycmd completion server"
 :repo nil
-:depends (dash s deferred cl-lib let-alist request request-deferred)
+:depends (dash s deferred cl-lib let-alist request request-deferred pkg-info)
 :minimum-emacs-version (24 3)
 )
