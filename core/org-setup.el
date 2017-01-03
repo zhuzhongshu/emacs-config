@@ -46,5 +46,27 @@
 (setq org-agenda-files (list org-directory
                              "")) ;显示在日程里的文件路径目前只有包含在org-directory里头的，后续可以根据需要扩展
 
+
+;;自定义org-bullet
+(setq org-bullets-bullet-list
+  '("☯"
+    "☢"
+    "◉"
+    "○"
+    "●"
+    "✿"
+    "♠"
+    "♥"
+    "♣"
+    "♦"
+    ;; ◇ ✚ ✜
+    
+    ;; ◆ ♠ ♣ ♦ ☢ ❀ ◆ ◖ ▶
+    ;;; Small
+    ;; ► • ★ ▸
+))
+
+
+
 (provide 'org-setup)
 ;;; org-setup.el ends here
