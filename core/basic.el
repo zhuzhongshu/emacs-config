@@ -95,7 +95,7 @@
          (sql-product 'postgres)  
          (sql-server "localhost")  
          (sql-user "simplex")  
-         ;; (sql-password "asdfasdf")  
+         ;; (sql-password "asdfasdf")  ;;sql用户名跟当前linux用户名相同则无需输入密码
          (sql-database "zzsweet")  
          (sql-port 5432)
          ))
