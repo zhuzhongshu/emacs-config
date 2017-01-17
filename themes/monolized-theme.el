@@ -143,7 +143,7 @@ Takes and optional `FRAME' as reference."
          (solarized-cyan "#2AA198")
          (solarized-green "#859900")
          (solarized-pink "#CC7AA3")
-         (solarized-ivory "#D9D9C4")
+         (solarized-ivory "#B8B5AE")
          ;; customize based face properties
          (s-variable-pitch (if monolized-use-variable-pitch
                                'variable-pitch 'default))
@@ -2632,23 +2632,23 @@ Takes and optional `FRAME' as reference."
      `(org-level-4
        ((,class (:inherit ,s-variable-pitch
                           :height ,monolized-height-plus-1
-                          :foreground ,yellow))))
+                          :foreground ,solarized-pink))))
 
      `(org-level-5
        ((,class (:inherit ,s-variable-pitch
-                          :foreground ,cyan))))
+                          :foreground ,solarized-green))))
 
      `(org-level-6
        ((,class (:inherit ,s-variable-pitch
-                          :foreground ,green))))
+                          :foreground ,solarized-cyan))))
 
      `(org-level-7
        ((,class (:inherit ,s-variable-pitch
-                          :foreground ,red))))
+                          :foreground ,violet))))
 
      `(org-level-8
        ((,class (:inherit ,s-variable-pitch
-                          :foreground ,blue))))
+                          :foreground ,solarized-ivory))))
 
      `(org-link
        ((,class (:foreground ,yellow

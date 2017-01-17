@@ -37,7 +37,8 @@
 
 (add-hook 'org-mode-hook (lambda ()
                            (org-bullets-mode 1)
-                           (company-mode -1)                           
+                           (company-mode -1)       
+                           (turn-on-org-cdlatex)
                            (local-set-key [tab] 'org-cycle)
                            (local-set-key [(control return)] 'set-mark-command)
                            (setq truncate-lines nil)))
@@ -50,19 +51,26 @@
 ;;自定义org-bullet
 (require 'org-bullets)
 (setq org-bullets-bullet-list
-  '("☯"
+  '("❤"
     "☢"
+    "⚒"
+    "✚"
+    "▼"
+    "◆"
+    "★"
     "◉"
-    "○"
-    "●"
-    "✿"
-    "♠"
-    "♥"
     "♣"
-    "♦"
-    ;; ◇ ✚ ✜
-    ;; ◆ ♠ ♣ ♦ ☢ ❀ ◆ ◖ ▶
+    "✿"
+    "✒"
+      ;; ◇ ✚ ✜
+    ;;▪◆ ♠ ♣ ♦ ☢ ❀ ◆ ◖ ▶ 
     ;; ► • ★ ▸
+    ;;■ □ ▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ ▪ ▫ ▬ ▭ ▮ ▯ ▰ ▱ ▲ △ ▴ ▵ ▶ ▷ ▸ ▹ ► ▻ ▼ ▽ ▾ ▿⬒ ⬓ ⬔ ⬕ ⬖ ⬗ ⬘ ⬙
+    ;;◀ ◁ ◂ ◃ ◄ ◅ ◆ ◇ ◈ ◉ ◊ ○ ◌ ◍ ◎ ● ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗ ◘ ◙ ◚ ◛ ⬠ ⬡ ⬢ ⬣ ⬤ 
+    ;;♀ ♁ ♂ ♃ ♄ ♅ ♆ ♇ ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓ ♔ ♕ ♖ ♗ ♘ ♙ ♚ ♛ ♜ ♝ ♞ ♟
+    ;;✁ ✂ ✃ ✄ ✅ ✆ ✇ ✈ ✉ ✊ ✋ ✌ ✍ ✎ ✏ ✐ ✑ ✒ ✓ ✔ ✕ ✖ ✗ ✘ ✙ ✚ ✛ ✜ ✝ ✞ ✟
+    ;;♠ ♡ ♢ ♣ ♤ ♥ ❤ ♦ ♧ ♨ ♩ ♪ ♫ ♬ ♭ ♮ ♯ ♰ ♱ ♲ ♳ ♴ ♵ ♶ ♷ ♸ ♹ ♺ ♻ ♼ ♽ ♾ ♿
+    ;;➠ ➡ ➢ ➣ ➤ ➥ ➦ ➧ ➨ ➩ ➪ ➫ ➬ ➭ ➮ ➯ ➰ ➱ ➲ ➳ ➴ ➵ ➶ ➷ ➸ ➹ ➺ ➻ ➼ ➽ ➾ ➿
 ))
 
 ;;导出latex和pdf的设置
@@ -98,27 +106,52 @@
 (setq org-latex-default-class "article-zh")
 
 ;;设置latex默认加入的包
-(setq org-latex-default-packages-alist '(("UTF8, heading=true" "ctex" t)
-                                          ("" "fontspec" t)
-                                          ("top=1in, bottom=1in, left=1.25in, right=1.25in" "geometry" t)
-                                          ("" "minted")                                          
-                                          ("AUTO" "inputenc" t)
-                                          ("" "xcolor" t)
-                                          ("" "bm" t)
-                                          ("" "fixltx2e" nil)
-                                          ("" "graphicx" t)
-                                          ("" "longtable" nil)
-                                          ("" "float" nil)
-                                          ("" "wrapfig" nil)
-                                          ("" "rotating" nil)
-                                          ("normalem" "ulem" t)
-                                          ("" "amsmath" t)
-                                          ("" "textcomp" t)
-                                          ("" "marvosym" t)
-                                          ("" "wasysym" t)
-                                          ("" "amssymb" t)
-                                          ("unicode=true,colorlinks=no,pdfborder=no" "hyperref" nil)
-                                          "\\tolerance=1000"))
+(custom-set-variables
+ '(org-latex-default-packages-alist
+   (quote
+    (("" "fontspec" t)
+     ("top=1in, bottom=1in, left=1.25in, right=1.25in" "geometry" t)
+     ("" "minted" t)
+     ("UTF8, heading=true" "ctex" t)
+     ("AUTO" "inputenc" t)
+     ("" "fixltx2e" nil)
+     ("" "graphicx" t)
+     ("" "xcolor" t)
+     ("" "bm" t)
+     ("" "longtable" nil)
+     ("" "float" nil)
+     ("" "wrapfig" nil)
+     ("" "rotating" nil)
+     ("normalem" "ulem" t)
+     ("" "amsmath" t)
+     ("" "textcomp" t)
+     ("" "marvosym" t)
+     ("" "wasysym" t)
+     ("" "amssymb" t)
+     ("" "hyperref" nil)
+     "\\tolerance=1000"))))
+
+;; (setq org-latex-default-packages-alist '(("UTF8, heading=true" "ctex" t)
+;;                                           ("" "fontspec" t)
+;;                                           ("top=1in, bottom=1in, left=1.25in, right=1.25in" "geometry" t)
+;;                                           ("" "minted")                                          
+;;                                           ("AUTO" "inputenc" t)
+;;                                           ("" "xcolor" t)
+;;                                           ("" "bm" t)
+;;                                           ("" "fixltx2e" nil)
+;;                                           ("" "graphicx" t)
+;;                                           ("" "longtable" nil)
+;;                                           ("" "float" nil)
+;;                                           ("" "wrapfig" nil)
+;;                                           ("" "rotating" nil)
+;;                                           ("normalem" "ulem" t)
+;;                                           ("" "amsmath" t)
+;;                                           ("" "textcomp" t)
+;;                                           ("" "marvosym" t)
+;;                                           ("" "wasysym" t)
+;;                                           ("" "amssymb" t)
+;;                                           ("unicode=true,colorlinks=no,pdfborder=no" "hyperref" nil)
+;;                                           "\\tolerance=1000"))
 
 ;;用minted实现语法高亮，需要在latexmkrc文件中设置xelatex的运行选项带有-shell-escape
 ;;另外还需要安装pygmentize，一个python包，可以用pip或者软件包管理器安装
@@ -140,3 +173,4 @@
 
 (provide 'org-setup)
 ;;; org-setup.el ends here
+

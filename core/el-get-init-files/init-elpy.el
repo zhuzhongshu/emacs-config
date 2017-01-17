@@ -10,7 +10,7 @@
 
 
 (elpy-use-ipython
- (concat  python-executable-path "ipython3"));;使用ipython3作为interactive shell
+ (concat python-executable-path "ipython3"));;使用ipython3作为interactive shell
 
 ;; (elpy-use-ipython "ipython3")
 ;; (elpy-use-ipython "ipython3")

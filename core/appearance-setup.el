@@ -30,22 +30,22 @@
 (line-number-mode t);;在mode-line处显示行号
 (setq linum-format "%3i");;设置左侧行号格式，在格式化字符串内加空格可以体现在行号上，如" %3i% "
 (setq c-default-style "ellemtel");;设置缩进格式为ellemtel
-;; 字体设置
+;; 字体设置，主要在Chinese-font-setup里面
 (prefer-coding-system 'utf-8)
 (set-language-environment 'UTF-8)
 (set-locale-environment "UTF-8")
 
 (set-frame-font "Monaco 16")
-;; (set-frame-font "monacoyahei 16")       ;这个字体会导致popup对齐出错
-;; (set-frame-font "Consolas 16")
-;; (set-frame-font "inconsolata 19")
 
 (if (and (fboundp 'daemonp) (daemonp))
     (add-hook 'after-make-frame-functions
               (lambda (frame)
                 (with-selected-frame frame
                   (set-fontset-font t 'unicode "Droid Sans Fallback 17"))))
-  (set-fontset-font t 'unicode "Droid Sans Fallback  17"))
+  (set-fontset-font t 'unicode "Droid Sans Fallback 17"))
+
+
+;; (setq face-font-rescale-alist '(("WenQuanYi Micro Hei Mono" . 1.2) ("Droid Sans Fallback" . 1.2)))
 
 (provide 'appearance-setup)
 ;;; appearance-setup.el ends here
