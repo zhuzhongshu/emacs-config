@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Escape/Unescape unicode notations"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (names dash)
 :minimum-emacs-version (24)
 )

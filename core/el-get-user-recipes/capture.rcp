@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "screencasting with \"avconv\" or \"ffmpeg\""
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

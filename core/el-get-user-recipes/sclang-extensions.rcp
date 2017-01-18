@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Extensions for the SuperCollider Emacs mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete s dash)
 :minimum-emacs-version (24 1)
 )

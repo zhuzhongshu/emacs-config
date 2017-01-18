@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "On-the-fly syntax checking"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash pkg-info let-alist seq)
 :minimum-emacs-version (24 3)
 )

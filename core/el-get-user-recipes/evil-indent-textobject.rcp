@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "evil textobjects based on indentation"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

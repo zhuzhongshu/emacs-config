@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "company backend which uses the current ghci process."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company haskell-mode)
 )

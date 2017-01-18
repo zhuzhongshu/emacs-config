@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Simple markup generation helpers."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

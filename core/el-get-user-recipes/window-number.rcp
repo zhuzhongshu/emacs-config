@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Select windows by numbers."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

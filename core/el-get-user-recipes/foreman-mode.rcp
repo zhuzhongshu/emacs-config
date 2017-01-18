@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "View and manage Procfile-based applications"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash dash-functional f)
 :minimum-emacs-version (24)
 )

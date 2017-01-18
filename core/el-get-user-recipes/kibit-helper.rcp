@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Conveniently use the Kibit Leiningen plugin from Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s)
 :minimum-emacs-version (24)
 )

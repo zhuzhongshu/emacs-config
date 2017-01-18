@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "query neo4j using cypher in org-mode blocks"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s cypher-mode dash dash-functional)
 )

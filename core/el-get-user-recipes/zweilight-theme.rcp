@@ -1,0 +1,6 @@
+(:name zweilight-theme
+:auto-generated t
+:type elpa
+:description "A dark color theme for Emacs."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

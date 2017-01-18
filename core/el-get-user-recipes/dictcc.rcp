@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Look up translations on dict.cc"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib s dash helm)
 :minimum-emacs-version (24)
 )

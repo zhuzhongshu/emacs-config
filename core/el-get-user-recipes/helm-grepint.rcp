@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Generic helm interface to grep"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 :minimum-emacs-version (24)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Flymake work with Cppcheck for C/C++"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flymake-easy)
 )

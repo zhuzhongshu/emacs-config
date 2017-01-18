@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Library to interact with sourcekittendaemon"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash dash-functional)
 :minimum-emacs-version (24 3)
 )

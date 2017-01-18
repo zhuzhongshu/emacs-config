@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Insert/Export the link of Travis CI on org-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org)
 )

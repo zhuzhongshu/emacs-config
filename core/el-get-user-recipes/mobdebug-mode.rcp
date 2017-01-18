@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for MobDebug"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (lua-mode)
 :minimum-emacs-version (24)
 )

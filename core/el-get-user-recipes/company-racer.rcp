@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Company integration for racer"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib company deferred dash)
 :minimum-emacs-version (24)
 )

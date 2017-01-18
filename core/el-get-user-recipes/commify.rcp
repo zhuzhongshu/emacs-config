@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Toggle grouping commas in numbers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s)
 )

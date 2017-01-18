@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Use key-chord to cycle through buffers like Alt-Tab in Windows"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (key-chord)
 )

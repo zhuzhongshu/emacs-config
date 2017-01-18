@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for API Blueprint files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (markdown-mode)
 :minimum-emacs-version (24)
 )

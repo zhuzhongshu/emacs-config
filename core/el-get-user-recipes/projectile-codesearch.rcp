@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Integration of codesearch into projectile"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (codesearch projectile)
 )

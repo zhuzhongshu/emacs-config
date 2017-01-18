@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Haskell Minor Mode for Interacting with the Scion Library"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "checkbashisms checker for flycheck"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck)
 :minimum-emacs-version (24)
 )

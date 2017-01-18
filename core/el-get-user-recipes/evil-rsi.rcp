@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Use emacs motion keys in evil, inspired by vim-rsi"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

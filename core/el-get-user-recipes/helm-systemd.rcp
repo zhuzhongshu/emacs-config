@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "helm's systemd interface"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm with-editor)
 :minimum-emacs-version (24 4)
 )

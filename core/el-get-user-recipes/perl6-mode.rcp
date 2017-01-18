@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for editing Perl 6 code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (pkg-info)
 :minimum-emacs-version (24 4)
 )

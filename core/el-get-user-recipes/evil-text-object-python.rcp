@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Python specific evil text objects"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 :minimum-emacs-version (24)
 )

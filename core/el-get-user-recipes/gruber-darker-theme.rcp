@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Gruber Darker color theme for Emacs 24."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

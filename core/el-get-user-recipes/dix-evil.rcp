@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "optional evil-integration with dix.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dix evil)
 )

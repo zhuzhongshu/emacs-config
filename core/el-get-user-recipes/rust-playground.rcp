@@ -1,0 +1,8 @@
+(:name rust-playground
+:auto-generated t
+:type elpa
+:description "Local Rust playground for short code snippets."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (rust-mode)
+:minimum-emacs-version (24 3)
+)

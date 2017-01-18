@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "auto complete angular15 data for `ac-html' and `company-web'"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (web-completion-data)
 )

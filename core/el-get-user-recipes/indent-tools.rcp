@@ -1,0 +1,7 @@
+(:name indent-tools
+:auto-generated t
+:type elpa
+:description "Indent, navigate (and more) by blocks of indentation: yaml, python etc."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s hydra yafolding)
+)

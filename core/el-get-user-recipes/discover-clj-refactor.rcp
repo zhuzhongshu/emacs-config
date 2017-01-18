@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Adds discover context menu for clj-refactor"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (clj-refactor discover)
 )

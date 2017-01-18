@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Insert terminology from Google top search results"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ivy w3m)
 )

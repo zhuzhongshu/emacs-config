@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "slime extensions for ritz"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

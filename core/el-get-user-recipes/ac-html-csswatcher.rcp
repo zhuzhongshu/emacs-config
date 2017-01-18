@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "css/less class/id completion with `ac-html' or `company-web'"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (web-completion-data)
 )

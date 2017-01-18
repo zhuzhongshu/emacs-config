@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Group ibuffer's list by projectile root"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (projectile)
 )

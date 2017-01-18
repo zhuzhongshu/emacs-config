@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "org-babel functions for IPython evaluation"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash dash-functional f)
 :minimum-emacs-version (24)
 )

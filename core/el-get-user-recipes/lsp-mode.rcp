@@ -1,0 +1,7 @@
+(:name lsp-mode
+:auto-generated t
+:type elpa
+:description "Emacs client for Language Server Protocol."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (25 1)
+)

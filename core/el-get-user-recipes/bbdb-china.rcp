@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "BBDB utils, which let Chinese BBDB users feel easy"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (bbdb-vcard chinese-pyim)
 )

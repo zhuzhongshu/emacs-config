@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Fully customizable, largely undocumented web browser for Emacs"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

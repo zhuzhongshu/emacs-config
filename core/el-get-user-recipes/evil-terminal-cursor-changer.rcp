@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Change cursor shape and color by evil state in terminal"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

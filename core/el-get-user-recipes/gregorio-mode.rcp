@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Gregorio Mode for .gabc files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

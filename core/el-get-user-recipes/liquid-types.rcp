@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "show inferred liquid-types"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck dash popup pos-tip flycheck-liquidhs button-lock)
 :minimum-emacs-version (24 1)
 )

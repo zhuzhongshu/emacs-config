@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Automatic resizing of Emacs windows to the golden ratio"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

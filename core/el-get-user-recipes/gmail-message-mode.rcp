@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A major-mode for editing gmail messages using markdown syntax."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ham-mode)
 )

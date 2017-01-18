@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Gnus nnir interface for HyperEstraier"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

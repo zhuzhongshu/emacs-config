@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A clone of Threes (a tiny puzzle game)"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (seq)
 :minimum-emacs-version (24)
 )

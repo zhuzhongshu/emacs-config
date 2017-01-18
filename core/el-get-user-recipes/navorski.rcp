@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Helping you live in the terminal, like Viktor did."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash multi-term)
 )

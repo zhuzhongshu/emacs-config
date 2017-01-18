@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Interactive Fiction Authoring System for Org-Mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

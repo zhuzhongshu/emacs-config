@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "use xclip to copy&paste"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

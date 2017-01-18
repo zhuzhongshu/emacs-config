@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Use tab to jump out of delimiter pairs."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash)
 :minimum-emacs-version (24 4)
 )

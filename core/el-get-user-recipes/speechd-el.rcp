@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Client to speech synthesizers and Braille displays."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

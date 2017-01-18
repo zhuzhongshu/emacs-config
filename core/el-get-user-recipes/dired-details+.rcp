@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Enhancements to library `dired-details+.el'."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dired-details)
 )

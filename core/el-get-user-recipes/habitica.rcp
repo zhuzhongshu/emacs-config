@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Interface for habitica.com"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org)
 :minimum-emacs-version (24 3)
 )

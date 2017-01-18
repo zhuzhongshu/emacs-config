@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Rudimentary http://pinboard.in integration"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A Helm datasource for Idris documentation, queried from the compiler"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm idris-mode)
 )

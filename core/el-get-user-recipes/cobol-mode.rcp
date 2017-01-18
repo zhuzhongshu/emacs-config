@@ -1,0 +1,6 @@
+(:name cobol-mode
+:auto-generated t
+:type elpa
+:description "Mode for editing COBOL code"
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
+)

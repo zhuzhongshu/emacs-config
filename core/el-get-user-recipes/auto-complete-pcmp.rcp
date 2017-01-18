@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Provide auto-complete sources using pcomplete results"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete log4e yaxception)
 )

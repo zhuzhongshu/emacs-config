@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Display the emms mode line as a ticker"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (emms)
 :minimum-emacs-version (24)
 )

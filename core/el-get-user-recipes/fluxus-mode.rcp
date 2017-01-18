@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for interfacing with Fluxus"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (osc)
 :minimum-emacs-version (24 4)
 )

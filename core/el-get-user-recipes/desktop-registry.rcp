@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Keep a central registry of desktop files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

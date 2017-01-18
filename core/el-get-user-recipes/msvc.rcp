@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Microsoft Visual C/C++ mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib cedet ac-clang)
 :minimum-emacs-version (24)
 )

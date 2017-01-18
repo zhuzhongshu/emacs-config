@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A tabulated process environment editor"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

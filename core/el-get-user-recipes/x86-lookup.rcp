@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "jump to x86 instruction documentation"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 :minimum-emacs-version (24 3)
 )

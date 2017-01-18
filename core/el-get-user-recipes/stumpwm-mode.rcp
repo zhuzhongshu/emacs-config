@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "special lisp mode for evaluating code into running stumpwm"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

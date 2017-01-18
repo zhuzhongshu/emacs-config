@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Improve readability of escape characters in regular expressions"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

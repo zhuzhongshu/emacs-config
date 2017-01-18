@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Rename symbols in expressions or buffers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

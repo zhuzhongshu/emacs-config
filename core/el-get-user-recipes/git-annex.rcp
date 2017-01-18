@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Mode for easy editing of git-annex'd files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

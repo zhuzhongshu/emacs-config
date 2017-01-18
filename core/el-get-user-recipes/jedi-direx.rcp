@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Tree style source code viewer for Python buffer"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (jedi direx)
 )

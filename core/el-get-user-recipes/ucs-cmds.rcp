@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Commands to create commands that insert Unicode chars."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

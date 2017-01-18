@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "helm sources for Go programming language's package"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm-core go-mode deferred)
 :minimum-emacs-version (24 4)
 )

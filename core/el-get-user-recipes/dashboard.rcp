@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A startup screen extracted from Spacemacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (page-break-lines)
 :minimum-emacs-version (24 4)
 )

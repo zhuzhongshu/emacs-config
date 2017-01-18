@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Helm sources for searching emails and contacts"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 )

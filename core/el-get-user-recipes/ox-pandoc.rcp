@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "org exporter for pandoc."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org dash ht)
 :minimum-emacs-version (24)
 )

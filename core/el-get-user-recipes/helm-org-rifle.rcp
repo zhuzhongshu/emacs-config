@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Rifle through your Org files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash f helm s)
 :minimum-emacs-version (24 4)
 )

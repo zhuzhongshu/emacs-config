@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "a pack of themes inspired by Atom One"
-:repo nil
-:depends (dash all-the-icons)
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (all-the-icons cl-lib)
 :minimum-emacs-version (24 4)
 )

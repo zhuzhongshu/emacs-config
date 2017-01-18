@@ -1,0 +1,7 @@
+(:name passmm
+:auto-generated t
+:type elpa
+:description "A minor mode for pass (Password Store)."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

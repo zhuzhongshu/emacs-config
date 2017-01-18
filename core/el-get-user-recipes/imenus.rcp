@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Imenu for multiple buffers and without subgroups"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

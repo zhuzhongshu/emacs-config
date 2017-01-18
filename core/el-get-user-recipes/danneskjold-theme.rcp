@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Beautiful high-contrast Emacs theme."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

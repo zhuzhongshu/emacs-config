@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "JS test mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s f dash pcache)
 :minimum-emacs-version (24 4)
 )

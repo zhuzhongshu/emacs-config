@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Improve flyspell responsiveness using idle timers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

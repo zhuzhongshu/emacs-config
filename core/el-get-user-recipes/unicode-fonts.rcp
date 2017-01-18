@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Configure Unicode fonts"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (font-utils ucs-utils list-utils persistent-soft pcache)
 )

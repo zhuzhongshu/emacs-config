@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Help to comply with the Google C++ Style Guide"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flymake-easy)
 )

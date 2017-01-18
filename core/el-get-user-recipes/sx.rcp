@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "StackExchange client. Ask and answer questions on Stack Overflow, Super User, and the likes"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib json markdown-mode let-alist)
 :minimum-emacs-version (24 1)
 )

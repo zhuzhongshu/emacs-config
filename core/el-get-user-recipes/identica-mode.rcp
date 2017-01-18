@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Major mode API client for status.net open microblogging"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

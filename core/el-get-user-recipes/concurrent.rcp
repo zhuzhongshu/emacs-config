@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Concurrent utility functions for emacs lisp"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (deferred)
+:minimum-emacs-version (24 3)
 )

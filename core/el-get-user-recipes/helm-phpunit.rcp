@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Helm integration for phpunit.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm phpunit)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Switch between the beginning/end of line or code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

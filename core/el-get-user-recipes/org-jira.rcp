@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Syncing between Jira and Org-mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib request)
+:minimum-emacs-version (24 5)
 )

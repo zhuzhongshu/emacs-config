@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "major modes for editing LDAP schema and LDIF files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

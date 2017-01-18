@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "map pairs of simultaneously pressed keys to commands"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

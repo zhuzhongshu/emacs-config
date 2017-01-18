@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Behavior-Driven Emacs Lisp Testing"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

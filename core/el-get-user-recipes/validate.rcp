@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Schema validation for Emacs-lisp"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 :depends (cl-lib seq)
 :minimum-emacs-version (24 1)
 )

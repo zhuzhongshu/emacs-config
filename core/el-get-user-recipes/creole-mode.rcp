@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "a markup mode for creole"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

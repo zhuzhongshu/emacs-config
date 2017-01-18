@@ -1,0 +1,7 @@
+(:name ivy-youtube
+:auto-generated t
+:type elpa
+:description "Query YouTube and play videos in your browser"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (request ivy cl-lib)
+)

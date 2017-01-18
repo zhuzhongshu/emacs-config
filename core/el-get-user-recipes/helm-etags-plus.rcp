@@ -1,0 +1,7 @@
+(:name helm-etags-plus
+:auto-generated t
+:type elpa
+:description "Another Etags helm.el interface"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm)
+)

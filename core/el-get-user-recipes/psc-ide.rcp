@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Minor mode for PureScript's psc-ide tool."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash dash-functional company cl-lib s)
 :minimum-emacs-version (24)
 )

@@ -1,0 +1,8 @@
+(:name company-erlang
+:auto-generated t
+:type elpa
+:description "company backend based on ivy-erlang-complete"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ivy-erlang-complete company)
+:minimum-emacs-version (24 4)
+)

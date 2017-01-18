@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Highlight the cursor whenever the window scrolls"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (seq)
 )

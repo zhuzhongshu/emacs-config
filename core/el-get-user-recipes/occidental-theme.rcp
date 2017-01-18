@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Custom theme for faces based on Adwaita"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

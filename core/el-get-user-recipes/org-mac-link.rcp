@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Insert org-mode links to items selected in various Mac apps"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

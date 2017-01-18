@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Discover key bindings and their meaning for the current Emacs major mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (makey)
 )

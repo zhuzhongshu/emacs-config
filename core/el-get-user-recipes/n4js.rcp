@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Neo4j Shell"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cypher-mode)
 :minimum-emacs-version (24)
 )

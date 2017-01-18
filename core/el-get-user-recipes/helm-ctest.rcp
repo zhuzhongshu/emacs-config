@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Run ctest from within emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash helm-core)
 )

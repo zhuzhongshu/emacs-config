@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Run rake commands"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (f dash cl-lib)
 )

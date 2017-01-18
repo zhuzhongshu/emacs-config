@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Clipboard monitor - watch system clipboard, add changes to kill ring/autoinsert"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

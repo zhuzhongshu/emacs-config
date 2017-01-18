@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Navigator for 2ch for Emacsen"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

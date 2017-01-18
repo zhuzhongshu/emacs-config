@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Display org properties in the agenda buffer."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 2)
 )

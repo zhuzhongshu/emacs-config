@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Go Delve - Debug Go programs interactively with the GUD."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (go-mode)
 )

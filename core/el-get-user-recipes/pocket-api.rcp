@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "another pocket api"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request)
 :minimum-emacs-version (24 4)
 )

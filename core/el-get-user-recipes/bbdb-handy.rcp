@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "BBDB window as email-address chooser when write an email"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (bbdb)
 )

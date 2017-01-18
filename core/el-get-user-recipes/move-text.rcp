@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Move current line or region with M-up or M-down."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

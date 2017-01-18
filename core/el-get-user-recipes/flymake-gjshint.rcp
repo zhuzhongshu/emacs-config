@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A flymake handler for javascript using both jshint and gjslint"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

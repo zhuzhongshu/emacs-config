@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Show the css of the html attribute the cursor is on"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (doom s)
 )

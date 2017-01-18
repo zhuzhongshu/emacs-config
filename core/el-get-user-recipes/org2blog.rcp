@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Blog from Org mode to wordpress"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org xml-rpc metaweblog)
 )

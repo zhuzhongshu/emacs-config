@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "code completion, goto-definition and docs browsing for Rust via racer"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (rust-mode dash s f)
 :minimum-emacs-version (24 3)
 )

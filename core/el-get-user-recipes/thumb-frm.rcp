@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Commands for thumbnail frames."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (frame-fns frame-cmds)
 )

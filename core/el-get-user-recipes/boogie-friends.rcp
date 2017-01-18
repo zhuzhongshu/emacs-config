@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A collection of programming modes for Boogie, Dafny, and Z3 (SMTLIB v2)."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib dash flycheck yasnippet company)
 )

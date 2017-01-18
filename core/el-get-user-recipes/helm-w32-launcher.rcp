@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Start Menu entry launcher using Helm"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm cl-lib)
 :minimum-emacs-version (24)
 )

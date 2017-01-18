@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Highlight numbers in source code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (parent-mode)
 :minimum-emacs-version (24)
 )

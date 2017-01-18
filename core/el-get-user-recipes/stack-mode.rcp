@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A minor mode enabling various features based on stack-ide."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (haskell-mode cl-lib flycheck)
 )

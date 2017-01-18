@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A port of vim's easymotion to emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (avy cl-lib)
 :minimum-emacs-version (24)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "suggest elisp functions that give the output requested"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (loop dash s f)
 :minimum-emacs-version (24 4)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Support for coverage stats on Python 2.X and 3"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 3)
 )

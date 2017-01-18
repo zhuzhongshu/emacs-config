@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Yasnippets for the Mocha JS Testing Framework"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (yasnippet)
 )

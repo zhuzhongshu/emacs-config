@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "restore original position after scrolling"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

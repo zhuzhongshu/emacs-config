@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "major mode for RubyMotion enviroment"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flymake-easy flymake-cursor)
 )

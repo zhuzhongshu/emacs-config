@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A collection of extensions for Proof General's Coq mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company-math company yasnippet dash cl-lib)
 )

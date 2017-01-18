@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Emacs Python Development Environment"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company find-file-in-project highlight-indentation pyvenv yasnippet s)
 )

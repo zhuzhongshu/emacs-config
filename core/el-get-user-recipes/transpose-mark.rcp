@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Transpose data using the Emacs mark"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

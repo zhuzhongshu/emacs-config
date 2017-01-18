@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Writable pt buffer and apply the changes to files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (wgrep)
 )

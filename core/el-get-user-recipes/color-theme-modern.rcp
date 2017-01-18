@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Reimplement colortheme with Emacs 24 theme framework."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

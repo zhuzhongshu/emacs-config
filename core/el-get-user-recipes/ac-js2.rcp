@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Auto-complete source for Js2-mode, with navigation"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (js2-mode skewer-mode)
 )

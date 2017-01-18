@@ -1,0 +1,7 @@
+(:name eldoc-overlay-mode
+:auto-generated t
+:type elpa
+:description "Display eldoc with contextual documentation overlay."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

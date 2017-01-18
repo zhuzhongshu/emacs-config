@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "http request in org-mode babel"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s cl-lib)
 )

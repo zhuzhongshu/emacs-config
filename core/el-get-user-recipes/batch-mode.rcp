@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "major mode for editing ESRI batch scrips"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Edit distance between two strings."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

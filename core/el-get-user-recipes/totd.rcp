@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Display a random daily emacs command."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s cl-lib)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Emacs Input Method for Myanmar"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

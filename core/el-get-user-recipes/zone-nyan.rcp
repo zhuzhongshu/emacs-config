@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Zone out with nyan cat"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (esxml)
 )

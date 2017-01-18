@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Jekyll's handler for org-protocol"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

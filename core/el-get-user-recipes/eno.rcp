@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Goto/copy/cut any word/symbol/line in view, similar to ace-jump/easymotion"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash edit-at-point)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Notifications when commands complete in term.el."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (term-cmd alert f)
 :minimum-emacs-version (24 0)
 )

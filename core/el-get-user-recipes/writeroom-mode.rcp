@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Minor mode for distraction-free writing"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (visual-fill-column)
 :minimum-emacs-version (24 1)
 )

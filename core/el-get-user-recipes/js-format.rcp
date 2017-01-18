@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Format or transform code style using NodeJS server with different javascript formatter"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (js2-mode)
 :minimum-emacs-version (24 1)
 )

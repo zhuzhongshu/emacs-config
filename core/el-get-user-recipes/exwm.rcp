@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Emacs X Window Manager"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 :depends (xelb)
 )

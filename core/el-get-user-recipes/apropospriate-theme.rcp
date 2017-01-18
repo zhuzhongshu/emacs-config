@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A colorful, low-contrast, light & dark theme set for Emacs with a fun name."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

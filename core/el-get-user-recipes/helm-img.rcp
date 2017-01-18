@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Utilities for making image sources for helm."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm cl-lib)
 )

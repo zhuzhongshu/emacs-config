@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Comment stuff out. A port of vim-commentary."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

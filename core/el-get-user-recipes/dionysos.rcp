@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Dionysos, a music player for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (libmpdee alert s dash pkg-info cl-lib)
 )

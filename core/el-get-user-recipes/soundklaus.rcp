@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Play music on SoundCloud with Emacs via EMMS"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash emms s pkg-info cl-lib request)
 :minimum-emacs-version (24)
 )

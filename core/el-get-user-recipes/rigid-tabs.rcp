@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Rigidify and adjust the visual alignment of TABs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 3)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Emacs client for http://ix.io pastebin"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (grapnel)
 )

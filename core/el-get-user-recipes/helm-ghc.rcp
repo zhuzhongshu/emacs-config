@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A Helm datasource for ghc-mod errors"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib helm ghc)
 :minimum-emacs-version (24)
 )

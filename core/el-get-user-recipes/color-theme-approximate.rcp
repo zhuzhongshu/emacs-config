@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Makes Emacs theme works on terminal transparently"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

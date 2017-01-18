@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Safely delete package.el packages"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (epl)
 :minimum-emacs-version (24)
 )

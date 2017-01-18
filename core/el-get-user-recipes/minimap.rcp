@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Sidebar showing a \"mini-map\" of a buffer"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

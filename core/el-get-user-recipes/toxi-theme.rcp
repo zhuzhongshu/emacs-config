@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A dark color theme by toxi"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

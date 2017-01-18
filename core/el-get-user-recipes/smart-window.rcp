@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "vim-like window controlling plugin"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

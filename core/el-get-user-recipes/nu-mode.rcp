@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Modern Emacs Prompts Based Keybinding."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (undo-tree transpose-frame helm)
 )

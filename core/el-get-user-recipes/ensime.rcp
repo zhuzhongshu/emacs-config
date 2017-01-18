@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "ENhanced Scala Interaction Mode for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (scala-mode sbt-mode yasnippet company dash s popup)
 )

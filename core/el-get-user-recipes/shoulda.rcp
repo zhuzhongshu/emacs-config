@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Shoulda test support for ruby"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

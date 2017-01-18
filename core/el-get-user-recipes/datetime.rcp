@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Parsing, formatting and matching timestamps"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 1)
 )

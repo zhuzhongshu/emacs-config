@@ -6,7 +6,7 @@
 
 
 
-(setq org-src-fontify-natively t)       ;org显示源码时用对应代码默认的高亮
+
 (setq org-directory "/home/simplex/zzsweet/src/org") ;org-mode 默认目录
 (setq org-default-notes-file (concat org-directory "/capture/scratch.org"))
 
@@ -46,6 +46,15 @@
 ;;设置日程视图
 (setq org-agenda-files (list org-directory
                              "")) ;显示在日程里的文件路径目前只有包含在org-directory里头的，后续可以根据需要扩展
+
+
+;;设置src block
+(setq org-src-fontify-natively t)       
+(org-babel-do-load-languages
+ 'org-babel-load-languages
+ '((emacs-lisp . t)
+   (python . t)
+   (R . t)))
 
 
 ;;自定义org-bullet

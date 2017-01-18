@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Commands that use things, as defined by `thingatpt.el'."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (hide-comnt)
 )

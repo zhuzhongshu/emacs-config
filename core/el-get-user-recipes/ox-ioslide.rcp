@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Export org-mode to Google I/O HTML5 slide."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org cl-lib f makey)
 :minimum-emacs-version (24 1)
 )

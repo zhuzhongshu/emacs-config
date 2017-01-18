@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "EMMS players and stream lists of Japan radio stations"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib emms emms-player-simple-mpv)
 :minimum-emacs-version (24)
 )

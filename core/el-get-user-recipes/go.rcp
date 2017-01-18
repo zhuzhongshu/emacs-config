@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Play GO, translate and transfer between GO back ends"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

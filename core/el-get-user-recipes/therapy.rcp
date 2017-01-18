@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Hooks for managing multiple Python major versions"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

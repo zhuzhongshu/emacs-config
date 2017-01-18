@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Org sync with Wunderlist"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request-deferred alert cl-lib org s)
 :minimum-emacs-version (24)
 )

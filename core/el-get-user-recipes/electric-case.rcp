@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "insert camelCase, snake_case words without \"Shift\"ing"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

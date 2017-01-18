@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Retrieve BibTeX from Google Scholar and other online sources(ACM, IEEE, DBLP)"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

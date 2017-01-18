@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "HTML to Markdown converter written in Emacs-lisp."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

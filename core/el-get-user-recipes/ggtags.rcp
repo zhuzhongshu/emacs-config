@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "emacs frontend to GNU Global source code tagging system"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 :minimum-emacs-version (24)
 )

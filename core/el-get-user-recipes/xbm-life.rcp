@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A XBM version of Conway's Game of Life"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

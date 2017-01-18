@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Unobtrusively remove trailing whitespace."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

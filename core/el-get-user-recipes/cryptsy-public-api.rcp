@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Library for working with the Cryptsy public API"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (json)
 )

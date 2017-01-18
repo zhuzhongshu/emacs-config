@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Alternate `completing-read-multiple' that uses `completing-read'"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

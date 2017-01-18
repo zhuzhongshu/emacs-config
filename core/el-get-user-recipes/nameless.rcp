@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Hide package namespace in your emacs-lisp code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 4)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Modify environment according to files in a specified directory"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash f)
 :minimum-emacs-version (24)
 )

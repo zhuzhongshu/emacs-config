@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Sequence manipulation functions"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

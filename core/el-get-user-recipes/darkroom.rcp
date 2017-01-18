@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Remove visual distractions and focus on writing"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 :depends (cl-lib)
 )

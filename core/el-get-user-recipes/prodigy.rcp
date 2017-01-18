@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Manage external services from within Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash f)
 :minimum-emacs-version (24)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "An extensions for calculating WILT in a buffer."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash s)
 :minimum-emacs-version (24 3)
 )

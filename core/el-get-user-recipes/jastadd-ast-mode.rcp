@@ -1,0 +1,7 @@
+(:name jastadd-ast-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing JastAdd AST files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

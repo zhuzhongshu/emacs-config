@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A Jabber client for Emacs."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (fsm)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Modeline configuration library for powerline"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib powerline dash s)
 :minimum-emacs-version (24 3)
 )

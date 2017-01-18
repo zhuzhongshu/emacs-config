@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Support library for PDF documents."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (tablist let-alist)
 :minimum-emacs-version (24 3)
 )

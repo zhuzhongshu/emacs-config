@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Integrate pycarddav"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 :minimum-emacs-version (24 0)
 )

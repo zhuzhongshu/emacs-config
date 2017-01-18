@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Manage Git hunks straight from the buffer"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (git-commit dash)
 )

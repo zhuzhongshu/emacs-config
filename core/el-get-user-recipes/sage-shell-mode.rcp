@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A front-end for Sage Math"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib let-alist deferred)
 :minimum-emacs-version (24 1)
 )

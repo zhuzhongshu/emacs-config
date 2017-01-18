@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Flex matching (like ido) in isearch."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

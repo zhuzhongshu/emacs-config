@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Add Google Plus markup to a piece of code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

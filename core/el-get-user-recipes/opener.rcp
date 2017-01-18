@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "opening urls as buffers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request cl-lib)
 :minimum-emacs-version (24)
 )

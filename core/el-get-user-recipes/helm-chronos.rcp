@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "helm interface for chronos timers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (chronos helm)
 )

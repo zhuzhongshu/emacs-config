@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Change cursor dynamically, depending on the context."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

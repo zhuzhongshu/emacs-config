@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Typing game similar to tests on 10 fast fingers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (f mmt)
 :minimum-emacs-version (24 4)
 )

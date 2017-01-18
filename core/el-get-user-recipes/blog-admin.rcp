@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Blog admin for emacs with hexo/org-page supported"
-:repo nil
-:depends (ctable s f names)
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ctable s f names cl-lib)
 )

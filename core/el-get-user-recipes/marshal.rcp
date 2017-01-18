@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "eieio extension for automatic (un)marshalling"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (eieio json ht)
 )

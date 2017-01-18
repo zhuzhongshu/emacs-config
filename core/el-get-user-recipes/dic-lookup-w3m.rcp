@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "look up dictionaries on the Internet"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (w3m stem)
 )

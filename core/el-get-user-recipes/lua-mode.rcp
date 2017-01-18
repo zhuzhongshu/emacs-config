@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "a major-mode for editing Lua scripts"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

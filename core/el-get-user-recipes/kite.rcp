@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "WebKit inspector front-end"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (json websocket)
 )

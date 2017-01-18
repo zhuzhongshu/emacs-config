@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Interleaving text books since 2015"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

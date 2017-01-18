@@ -1,0 +1,7 @@
+(:name rebecca-theme
+:auto-generated t
+:type elpa
+:description "Rebecca Purple Theme"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24)
+)

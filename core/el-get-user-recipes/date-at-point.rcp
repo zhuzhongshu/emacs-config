@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Add `date' to `thing-at-point' function"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

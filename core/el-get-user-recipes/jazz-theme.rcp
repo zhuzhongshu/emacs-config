@@ -1,6 +1,6 @@
 (:name jazz-theme
 :auto-generated t
 :type elpa
-:description "A warm color theme for Emacs 24."
-:repo nil
+:description "A warm color theme for Emacs 24+."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

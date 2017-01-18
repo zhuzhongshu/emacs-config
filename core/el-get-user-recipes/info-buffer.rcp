@@ -1,0 +1,6 @@
+(:name info-buffer
+:auto-generated t
+:type elpa
+:description "Display info topics in separate buffers"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

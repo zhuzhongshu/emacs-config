@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Ideographic variants editor and browser"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ivs-edit)
 :minimum-emacs-version (24 3)
 )

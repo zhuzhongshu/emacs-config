@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Ert-runner Integration Into Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash pkg-info f)
 :minimum-emacs-version (24)
 )

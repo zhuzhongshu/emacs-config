@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "temp buffer browse mode"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 :minimum-emacs-version (24)
 )

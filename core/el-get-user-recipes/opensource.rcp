@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Client for Opensource API"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash pkg-info request)
 )

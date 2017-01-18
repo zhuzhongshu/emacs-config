@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "export org to github issue"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org ox-gfm gh s)
 :minimum-emacs-version (24 4)
 )

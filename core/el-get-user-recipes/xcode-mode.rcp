@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A minor mode for emacs to perform Xcode like actions."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash multiple-cursors)
 :minimum-emacs-version (24 4)
 )

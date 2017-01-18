@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "package used to switch block cursor to a bar"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Set project-local variables from a file."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Sync org files with external calendar through CalDAV"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org)
 )

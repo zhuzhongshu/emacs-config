@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "NEVERMORE: an email interface for Notmuch"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (notmuch peg company)
 :minimum-emacs-version (24 3)
 )

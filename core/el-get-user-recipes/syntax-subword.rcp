@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "make operations on words more fine-grained"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

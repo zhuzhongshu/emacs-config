@@ -1,7 +1,7 @@
 (:name sly-quicklisp
 :auto-generated t
 :type elpa
-:description "A template SLY contrib"
-:repo nil
+:description "Quicklisp support for SLY"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (sly)
 )

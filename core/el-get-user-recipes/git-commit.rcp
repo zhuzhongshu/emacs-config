@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Edit Git commit messages"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash with-editor)
 :minimum-emacs-version (24 4)
 )

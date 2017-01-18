@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Clone gitolite repositories from a completing list"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash s pcache)
 :minimum-emacs-version (24)
 )

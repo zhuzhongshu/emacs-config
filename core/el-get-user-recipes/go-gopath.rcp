@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Will guess GOPATH using gb and projectile."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

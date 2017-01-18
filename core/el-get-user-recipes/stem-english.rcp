@@ -1,0 +1,7 @@
+(:name stem-english
+:auto-generated t
+:type elpa
+:description "- routines for stemming English word"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

@@ -1,0 +1,8 @@
+(:name eshell-fixed-prompt
+:auto-generated t
+:type elpa
+:description "Restrict eshell to a single fixed prompt"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (s)
+:minimum-emacs-version (25)
+)

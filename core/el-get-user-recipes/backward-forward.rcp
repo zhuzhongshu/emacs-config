@@ -1,0 +1,7 @@
+(:name backward-forward
+:auto-generated t
+:type elpa
+:description "navigation backwards and forwards across marks"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 5)
+)

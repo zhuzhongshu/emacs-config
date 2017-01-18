@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "One time pad encryption within file"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

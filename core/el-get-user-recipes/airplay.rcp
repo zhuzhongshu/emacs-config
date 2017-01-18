@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Airplay bindings to Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request simple-httpd deferred)
 )

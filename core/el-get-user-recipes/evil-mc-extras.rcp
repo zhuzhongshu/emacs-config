@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Extra functionality for evil-mc"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil cl-lib evil-mc evil-numbers)
 :minimum-emacs-version (24 3)
 )

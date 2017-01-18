@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Some paredit-like features for html-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash)
 )

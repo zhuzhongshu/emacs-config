@@ -1,0 +1,8 @@
+(:name buffer-manage
+:auto-generated t
+:type elpa
+:description "manage buffers"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (choice-program)
+:minimum-emacs-version (25)
+)

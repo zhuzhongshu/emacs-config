@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Look up the meaning of HTTP headers, methods, relations, status codes"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

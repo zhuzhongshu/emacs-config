@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Select a window using ido and buffer names"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 1)
 )

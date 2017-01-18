@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Edit and interactively evaluate SPARQL queries."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib async)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Fix JavaScript files using ESLint"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

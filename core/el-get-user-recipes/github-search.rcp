@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Clone repositories by searching github"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (magit gh)
 )

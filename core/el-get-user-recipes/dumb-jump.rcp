@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "jump to definition for multiple languages without configuration."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (f s dash popup)
 :minimum-emacs-version (24 3)
 )

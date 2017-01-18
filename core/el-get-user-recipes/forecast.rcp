@@ -1,7 +1,7 @@
 (:name forecast
 :auto-generated t
 :type elpa
-:description "Display a forecast.io weather report in a buffer"
-:repo nil
+:description "Weather forecasts"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 4)
 )

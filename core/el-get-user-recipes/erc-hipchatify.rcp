@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Provide emoticons and html rendering for HipChat"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s alert request)
 :minimum-emacs-version (24 4)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "key-chord binding helper for use-package-chords"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (bind-key key-chord)
 )

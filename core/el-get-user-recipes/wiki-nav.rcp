@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Simple file navigation using [[WikiStrings]]"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (button-lock nav-flash)
 )

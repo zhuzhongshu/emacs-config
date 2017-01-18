@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "gen tags for php"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash php-mode xcscope s f popup)
 :minimum-emacs-version (24)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "The Insidious Big Brother Database for GNU Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

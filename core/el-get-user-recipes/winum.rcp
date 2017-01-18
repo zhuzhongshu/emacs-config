@@ -1,0 +1,7 @@
+(:name winum
+:auto-generated t
+:type elpa
+:description "Navigate windows and frames using numbers."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

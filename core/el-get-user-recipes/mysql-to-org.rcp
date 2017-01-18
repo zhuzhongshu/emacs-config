@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Minor mode to output the results of mysql queries to org tables"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s)
 :minimum-emacs-version (24 3)
 )

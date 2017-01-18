@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A unified UI for various bug tracking systems"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (widget-mvc log4e yaxception dash s pos-tip)
 )

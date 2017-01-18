@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Slack client for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (websocket request oauth2 circe alert emojify)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Minor mode for interacting with Pandoc"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (hydra dash)
 )

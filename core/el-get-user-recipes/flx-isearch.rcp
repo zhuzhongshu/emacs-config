@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Fuzzy incremental searching for emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flx cl-lib)
 :minimum-emacs-version (24)
 )

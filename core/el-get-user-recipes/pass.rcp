@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Major mode for password-store.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (password-store f)
 :minimum-emacs-version (24)
 )

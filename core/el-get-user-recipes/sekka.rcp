@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A client for Sekka IME server"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib concurrent popup)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "smart-mode-line theme that mimics the powerline appearance."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (powerline smart-mode-line)
 :minimum-emacs-version (24 3)
 )

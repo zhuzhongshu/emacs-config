@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Utilities for navigating vhdl sources."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ggtags outshine helm)
 :minimum-emacs-version (24 5)
 )

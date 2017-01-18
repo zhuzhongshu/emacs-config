@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Major mode for dealing with sprint.ly"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (furl)
 )

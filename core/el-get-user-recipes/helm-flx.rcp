@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Sort helm candidates by flx score"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm flx)
 :minimum-emacs-version (24 4)
 )

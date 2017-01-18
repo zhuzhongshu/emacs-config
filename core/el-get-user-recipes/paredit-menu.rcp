@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Adds a menu to paredit.el as memory aid"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (paredit)
 )

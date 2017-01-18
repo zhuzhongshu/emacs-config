@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "outline with outshine outshines outline"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (outorg cl-lib)
 )

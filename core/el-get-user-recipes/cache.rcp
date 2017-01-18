@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "implementation of a hash table whose key-value pairs expire"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

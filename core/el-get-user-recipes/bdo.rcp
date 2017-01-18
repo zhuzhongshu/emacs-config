@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Do things to a browser page from Emacs. BETA!"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

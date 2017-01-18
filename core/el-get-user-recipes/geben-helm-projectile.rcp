@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Integrate helm-projectile with geben"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (geben helm-projectile)
 :minimum-emacs-version (24)
 )

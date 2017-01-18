@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "extract and view archives in the temporary directory"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

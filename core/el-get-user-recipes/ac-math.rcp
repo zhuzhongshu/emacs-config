@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Auto-complete sources for input of mathematical symbols and latex tags"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete math-symbol-lists)
 )

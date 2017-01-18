@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "a BibTeX database manager"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash seq parsebib)
 :minimum-emacs-version (24 4)
 )

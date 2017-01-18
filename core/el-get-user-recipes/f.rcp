@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Modern API for working with files and directories"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash)
 )

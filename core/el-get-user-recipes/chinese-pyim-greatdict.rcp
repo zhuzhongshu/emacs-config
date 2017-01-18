@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A chinese-pyim dict, which include three million words."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

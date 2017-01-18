@@ -1,6 +1,6 @@
 (:name org-board
 :auto-generated t
 :type elpa
-:description "a bookmarking and web archival system for Org mode."
-:repo nil
+:description "bookmarking and web archival system for Org mode."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A sub-theme to make org-mode more beautiful."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

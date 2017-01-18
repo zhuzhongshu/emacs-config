@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Emacs interface to Cabal and Stack"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (f ido-completing-read+)
 :minimum-emacs-version (24 4)
 )

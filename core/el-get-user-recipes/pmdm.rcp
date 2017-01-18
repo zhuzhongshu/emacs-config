@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "poor man's desktop-mode alternative."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

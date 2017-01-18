@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Play audio notes synced from somewhere else."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

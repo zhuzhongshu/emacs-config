@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Yet another `describe-bindings' with `ido'."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash)
 )

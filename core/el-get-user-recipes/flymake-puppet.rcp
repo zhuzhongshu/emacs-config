@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "An Emacs flymake handler for syntax-checking puppet using puppet-lint"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flymake-easy)
 )

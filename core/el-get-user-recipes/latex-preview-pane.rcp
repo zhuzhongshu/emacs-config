@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Makes LaTeX editing less painful by providing a updatable preview pane"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

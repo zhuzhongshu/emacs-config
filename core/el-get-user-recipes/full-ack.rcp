@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "a front-end for ack"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Emacs SQL client uses Clojure JDBC."
-:repo nil
-:depends (clomacs dash auto-complete spinner)
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (clomacs cider dash auto-complete spinner)
 :minimum-emacs-version (24 4)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Run test-kitchen inside of emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "An interface for KDE Connect"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Tern backend for company-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company tern dash dash-functional s cl-lib)
 )

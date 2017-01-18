@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "linter/problem finder for the Go source code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

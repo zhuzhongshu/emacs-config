@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Define prefix-infix-suffix command combos"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (async dash)
 :minimum-emacs-version (24 4)
 )

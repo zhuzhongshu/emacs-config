@@ -1,0 +1,7 @@
+(:name python-switch-quotes
+:auto-generated t
+:type elpa
+:description "cycle between ' and \" quotes in python strings"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 3)
+)

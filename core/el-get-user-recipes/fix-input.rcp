@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Make input methods play nicely with alternative keyboard layout on OS level"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 4)
 )

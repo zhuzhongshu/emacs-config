@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "WebSocket server to remotely control a browser"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (websocket json)
 )

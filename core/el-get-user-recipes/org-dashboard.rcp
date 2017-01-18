@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Visually summarize progress in org files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

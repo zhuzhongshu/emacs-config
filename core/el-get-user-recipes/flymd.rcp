@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "On the fly markdown preview"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

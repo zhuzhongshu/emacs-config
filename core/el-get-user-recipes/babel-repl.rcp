@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Run babel REPL"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

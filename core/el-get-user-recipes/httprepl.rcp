@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "An HTTP REPL"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash)
 :minimum-emacs-version (24)
 )

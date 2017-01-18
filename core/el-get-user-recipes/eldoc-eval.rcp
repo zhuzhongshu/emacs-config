@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Enable eldoc support when minibuffer is in use."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

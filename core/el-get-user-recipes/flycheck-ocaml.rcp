@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Flycheck: OCaml support"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck merlin let-alist)
 :minimum-emacs-version (24 1)
 )

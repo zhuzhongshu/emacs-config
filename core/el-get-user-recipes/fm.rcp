@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "follow mode for compilation/output buffers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

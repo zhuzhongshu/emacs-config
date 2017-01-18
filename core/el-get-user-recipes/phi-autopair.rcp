@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "another simple-minded autopair implementation"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (paredit)
 )

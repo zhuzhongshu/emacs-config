@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Automatically add spaces around operators"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash names)
 :minimum-emacs-version (24 4)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Youdao Dictionary interface for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (popup chinese-word-at-point names)
 :minimum-emacs-version (24)
 )

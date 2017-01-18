@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "let there be <leader>"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

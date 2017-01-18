@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "highlight occurrences of the variable under cursor"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (js2-mode)
 :minimum-emacs-version (24 4)
 )

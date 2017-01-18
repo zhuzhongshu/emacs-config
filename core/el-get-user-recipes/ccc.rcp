@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "buffer local cursor color control library"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

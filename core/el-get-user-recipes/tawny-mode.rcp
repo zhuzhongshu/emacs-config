@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Ontology Editing with Tawny-OWL"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cider)
 :minimum-emacs-version (25)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "show tooltip on the cursor"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (popup)
 :minimum-emacs-version (25 1)
 )

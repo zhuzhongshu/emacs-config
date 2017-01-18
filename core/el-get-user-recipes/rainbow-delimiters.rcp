@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Highlight brackets according to their depth"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

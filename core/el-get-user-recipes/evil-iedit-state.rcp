@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Evil states to interface iedit mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil iedit)
 )

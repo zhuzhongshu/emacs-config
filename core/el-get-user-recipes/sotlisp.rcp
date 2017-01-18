@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Write lisp at the speed of thought."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 1)
 )

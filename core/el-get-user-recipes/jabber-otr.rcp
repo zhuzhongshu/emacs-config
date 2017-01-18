@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Off-The-Record messaging for jabber.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (jabber)
 :minimum-emacs-version (24)
 )

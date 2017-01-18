@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "ispell completion source for auto-complete"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete cl-lib)
 )

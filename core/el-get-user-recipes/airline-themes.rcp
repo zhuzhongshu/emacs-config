@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "vim-airline themes for emacs powerline"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (powerline)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "org-babel for the axiom-environment system"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (axiom-environment)
 :minimum-emacs-version (24 2)
 )

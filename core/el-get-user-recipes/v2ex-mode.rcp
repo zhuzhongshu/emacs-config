@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Major mode for visit http://v2ex.com/ site."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib request let-alist)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Window-management utilities"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 :minimum-emacs-version (24)
 )

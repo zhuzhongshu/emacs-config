@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Add field tags for struct fields"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s)
 :minimum-emacs-version (24 3)
 )

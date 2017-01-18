@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "An extension of emms-player-simple.el for mpv JSON IPC"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib emms)
 :minimum-emacs-version (24)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Count words in org mode trees."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

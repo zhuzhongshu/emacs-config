@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Provide smart newline for one keybind."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

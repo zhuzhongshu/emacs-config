@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Basic Colemak key bindings for evil-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 :minimum-emacs-version (24)
 )

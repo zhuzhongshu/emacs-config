@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Minor mode to publish org-mode post to jekyll without specific yaml"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash-functional s deferred kv)
 )

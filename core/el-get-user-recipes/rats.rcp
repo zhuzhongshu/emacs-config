@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Rapid testing suite for Go"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s go-mode cl-lib)
 )

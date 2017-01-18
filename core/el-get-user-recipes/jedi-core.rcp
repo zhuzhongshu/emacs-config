@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Common code of jedi.el and company-jedi.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (epc python-environment cl-lib)
 :minimum-emacs-version (24)
 )

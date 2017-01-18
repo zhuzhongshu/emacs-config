@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Shows icons for each file in dired mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (all-the-icons)
 :minimum-emacs-version (24 4)
 )

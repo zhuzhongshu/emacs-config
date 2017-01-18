@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "some e2wm plugin and perspective for GNU R"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (e2wm inlineR ess)
 )

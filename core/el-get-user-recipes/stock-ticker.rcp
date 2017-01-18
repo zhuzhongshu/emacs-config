@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Show stock prices in mode line"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s request)
 )

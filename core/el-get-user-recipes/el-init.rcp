@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A loader inspired by init-loader"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib anaphora)
 :minimum-emacs-version (24)
 )

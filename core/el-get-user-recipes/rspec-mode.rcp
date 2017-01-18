@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Enhance ruby-mode for RSpec"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ruby-mode cl-lib)
 )

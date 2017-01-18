@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Show guide-key.el hints using pos-tip.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (guide-key pos-tip)
 )

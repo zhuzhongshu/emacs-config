@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Flycheck: PureScript support"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck dash let-alist seq)
 :minimum-emacs-version (24 3)
 )

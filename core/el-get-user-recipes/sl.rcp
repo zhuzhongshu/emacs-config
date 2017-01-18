@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "An Emacs clone of sl(1)"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

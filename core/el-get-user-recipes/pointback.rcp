@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Restore window points when returning to buffers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

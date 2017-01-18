@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Friendly Emacs defaults"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash exec-path-from-shell ppd-sr-speedbar sr-speedbar ido-ubiquitous smex web-mode smartparens graphene-meta-theme flycheck company)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Peculiar buffer navigation for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ht pcre2el async)
 :minimum-emacs-version (24)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Evil extensions for Org."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash evil monitor org)
 )

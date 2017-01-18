@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "File templates with yasnippet"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (yasnippet)
 :minimum-emacs-version (24 3)
 )

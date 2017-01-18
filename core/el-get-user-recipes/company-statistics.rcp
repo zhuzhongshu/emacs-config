@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Sort candidates using completion history"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company)
 :minimum-emacs-version (24 3)
 )

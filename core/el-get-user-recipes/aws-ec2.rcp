@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Manage AWS EC2 instances"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash tblui)
 :minimum-emacs-version (24 4)
 )

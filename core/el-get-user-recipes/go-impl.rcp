@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "impl integration for go-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (go-mode)
 :minimum-emacs-version (24 3)
 )

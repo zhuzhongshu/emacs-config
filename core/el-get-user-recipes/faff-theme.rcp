@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Light Emacs color theme on ivory3 background"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

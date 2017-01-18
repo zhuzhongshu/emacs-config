@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Karma Test Runner Emacs Integration"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (pkg-info)
 :minimum-emacs-version (24)
 )

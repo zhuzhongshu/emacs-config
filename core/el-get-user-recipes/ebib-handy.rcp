@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "ebib window as a cite chooser when write org file"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ebib chinese-pyim)
 :minimum-emacs-version (24 4)
 )

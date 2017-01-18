@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Provide a context menu like right-click."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (popup log4e yaxception)
 )

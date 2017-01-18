@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "a CC Mode for Chapel derived from derived-mode-ex.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

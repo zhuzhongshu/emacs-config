@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Extensions to standard library `simple.el'."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (strings)
 )

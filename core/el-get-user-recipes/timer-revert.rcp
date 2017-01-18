@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "minor mode to revert buffer for a given time interval."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

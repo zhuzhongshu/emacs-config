@@ -56,7 +56,7 @@
  ("/etc/postgresql/9.5/" . "main/")
  ("/etc/postgresql/" . "9.5/")
  ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/" . "4th_model/")
- ("/home/simplex/zzsweet/src/cjsc/python/" . "wind_data/")
+ ("/home/simplex/zzsweet/src/cjsc/python/" . "收益率计算/")
  ("/media/simplex/NOSDisk/desktop/cjsc/智能化研究/" . "评估指标/")
  ("/media/simplex/NOSDisk/desktop/cjsc/" . "智能化研究/")
  ("/media/simplex/NOSDisk/desktop/" . "cjsc/")
@@ -97,8 +97,8 @@
  ("/home/simplex/zzsweet/" . "src/")
  ("/home/simplex/zzsweet/src/thesis/manuscript/" . "texfile/")
  ("/home/simplex/zzsweet/src/thesis/" . "manuscript/")
- ("/home/simplex/zzsweet/src/" . "org/")
- ("/home/simplex/.emacs.d/" . "core/")
+ ("/home/simplex/zzsweet/src/" . "python/")
+ ("/home/simplex/.emacs.d/" . "chinese-fonts-setup/")
  ("/home/simplex/" . ".emacs.d/")
  ("/home/yqyzzs/.emacs.d/elpa/" . "multi-term-20150220.1320/")
  ("/home/yqyzzs/.emacs.d/ycmd/cpp/" . "ycm/")
@@ -212,15 +212,16 @@
 ;; ----- ido-work-directory-list -----
 (
  "/home/simplex/.emacs.d/"
+ "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/"
+ "/home/simplex/zzsweet/src/cjsc/python/收益率计算/"
+ "/home/simplex/zzsweet/src/cjsc/python/wind_data/"
+ "/home/simplex/.emacs.d/chinese-fonts-setup/v4/"
+ "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/"
  "/home/simplex/.emacs.d/core/"
+ "/home/simplex/zzsweet/src/org/"
  "/home/simplex/.emacs.d/core/el-get-init-files/"
  "/home/simplex/zzsweet/src/org/notes/"
- "/home/simplex/zzsweet/src/org/"
- "/home/simplex/zzsweet/src/cjsc/python/wind_data/"
- "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/"
- "/home/simplex/.emacs.d/chinese-fonts-setup/v4/"
  "/home/simplex/zzsweet/src/notes/"
- "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/"
  "/home/simplex/zzsweet/src/cjsc/python/newtonRaphson/"
  "/home/simplex/zzsweet/src/python/ML/scikit-learn-master/sklearn/tree/"
  "/home/simplex/.emacs.d/themes/"
@@ -257,7 +258,6 @@
  "/home/simplex/zzsweet/src/python/ML/study/"
  "/home/simplex/zzsweet/src/python/ML/tensorflow/models/rnn/ptb/"
  "/home/simplex/zzsweet/src/python/ML/tensorflow/models/image/imagenet/"
- "/home/simplex/zzsweet/src/cjsc/python/收益率计算/"
  "/home/simplex/temp/"
  "/home/simplex/zzsweet/src/maxima/"
  "/home/simplex/zzsweet/src/cfamily/cpp_study/my_code/gnuplotter/"
@@ -266,42 +266,46 @@
 ;; ----- ido-work-file-list -----
 (
  "init.el"
- "appearance-setup.el"
- ".emacs.desktop"
- "init-chinese-fonts-setup.el"
- "org-mode小技巧.org"
- "机器学习选股.org"
- "simplex.org"
- "simplex.tex"
+ "auto_diff.py"
+ "newtonRaphson.py"
  "data_fecth.py"
+ "org-mode.el"
+ "program.el"
+ "stock_data_preprocess.py"
+ "org-setup.el"
  "stock_predict.py"
+ "stocks_predict_experimental.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/simplex/.emacs.d/" (22654 11286 956416 683000) "#ido.last#" "bookmarks" "smex-items" "request/" "tutorial/" "themes/" "init.el" "LICENSE" "recentf" "el-get/" "url/" ".gitignore" ".debris/" "ycmd/" "auto-save-list/" "./" "../" ".directory" "snippets/" "ido.last" "ido.last~" "core/" "elpa/" "vimish-fold/" ".emacs.desktop" "session.1014f131e59d000148153854600000008320015" "session.1014f131e59d000148412832600000008220014" "session.1014f131e59d000148012478500000008900022" "network-security.data" ".git/" ".mc-lists.el" "session.1014f131e59d000148372123900000008160015")
+ ("/home/simplex/.emacs.d/" (22655 13412 84259 828000) "#ido.last#" "bookmarks" "smex-items" "request/" "tutorial/" "themes/" "chinese-fonts-setup/" "init.el" "LICENSE" "recentf" "el-get/" "url/" ".gitignore" ".debris/" "ycmd/" "auto-save-list/" "./" "../" ".directory" "snippets/" "ido.last" "ido.last~" "core/" "elpa/" "vimish-fold/" ".emacs.desktop" "session.1014f131e59d000148153854600000008320015" "session.1014f131e59d000148412832600000008220014" "session.1014f131e59d000148012478500000008900022" "network-security.data" ".git/" ".mc-lists.el" "session.1014f131e59d000148372123900000008160015")
 
- ("/home/simplex/.emacs.d/core/" (22654 11309 606897 160000) "auto/" "_minted-org-setup/" "functions.el" "math-setup.el" "org-setup.fdb_latexmk" "appearance-setup.el" "base-bak.el" "elpy.el" "el-get-init-files/" "fzby" "./" "keybindings.el" "../" ".#base.elc2957Fr0" "org-setup.el" "tex-setup.el" ".#base.elc3035GmY" "cdlatex.el" "basic.el" "base.el" "el-get-user-recipes/")
+ ("/home/simplex/" (22655 15693 277833 746000) ".xinitrc" ".zsh_history" "播放列表/" ".cache/" ".zsh-update" ".steam/" ".texlive/" ".adobe/" ".bash_history" ".kde/" ".Xclients" ".dir_colors" ".ipython/" ".steampid" "Android安卓跟Linux系列.zip" ".gtkrc-2.0" "zzscript/" ".gnupg/" ".local/" "Downloads/" "新建文件夹/" ".zcompdump-simplex-pc-5.3.1" ".pulse-cookie" ".kingsoft/" ".lesshst" ".emacs.d/" ".jupyter/" "研究课题推荐表.doc" ".xsession" ".mozilla/" "Pictures/" ".face" "Deep Learning for Event-Driven Stock Prediction.pdf" ".bash_logout" ".octave_packages" "./" ".fonts.conf" ".recently-used" ".gitconfig" "../" ".directory" "cudnn-8.0-linux-x64-v5.1.tgz" ".fonts/" ".kde4/" "Documents/" ".python_history" ".zshrc" ".Xauthority" ".macromedia/" "temp/" ".sogouinput/" ".nv/" ".xine/" ".face.icon" "SSRN-id2756331.pdf" ".profile" "SQL必知必会 第4版.pdf" "2016-12-04-NIPS.pdf" ".pip/" ".steampath" ".thunderbird/" ".extend.xinitrc" ".icons/" ".bash_profile" ".latexmkrc" ".oh-my-zsh/" ".xprofile" ".octave_hist" ".Xresources" ".bashrc" ".pki/" ".zotero/" ".goldendict/" ".gtkrc-2.0-kde4" ".latexmk" "zzsweet/" ".config/" ".wine/" ".saves/" ".lastpass/" ".esd_auth" ".psql_history" "minted.pdf")
+
+ ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/" (22655 12380 98901 800000) "__pycache__/" "stock_predict.py" "stock_data_preprocess.py" "stocks_predict_experimental.py" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "em.csv" "dropna.csv" "daily_consumer.csv" ".~lock.industry.csv#" ".git/" ".#stocks_predict_experimental.py" "#stock_predict.py#" "#stocks_predict_experimental.py#" "../" "./")
+
+ ("/home/simplex/zzsweet/src/org/notes/" (22655 5070 770494 600000) "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "机器学习选股.org" "todo.org" "Tensorflow笔记.org" "Simplex.cls" "pythonLibrary.tex" "pythonLibrary.org" "org-mode小技巧.org" "NewtonRaphson_TF.py" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "MLAPP笔记-Adaptive basis function models.tex" "MLAPP笔记-Adaptive basis function models.pdf" "MLAPP笔记-1.pdf" "pythonLibrary.pdf" "../" "./")
+
+ ("/home/simplex/.emacs.d/chinese-fonts-setup/v4/" (22654 56187 188091 296000) "program.el" "org-mode.el" "./" "../" "read-book.el")
+
+ ("/home/simplex/zzsweet/src/org/" (22654 54565 834317 700000) "机器学习选股.org" "机器学习选股.fdb_latexmk" "_minted-机器学习选股/" "_minted-todo/" "todo.org_archive" "todo.org" "simplex.tex" "simplex.org_archive" "simplex.org" "notes/" "capture/" "auto/" ".directory" "#simplex.org#" "../" "./")
+
+ ("/home/simplex/.emacs.d/core/" (22654 52467 921878 158000) "auto/" "_minted-org-setup/" "functions.el" "math-setup.el" "org-setup.fdb_latexmk" "appearance-setup.el" "base-bak.el" "elpy.el" "el-get-init-files/" "fzby" "./" "keybindings.el" "../" ".#base.elc2957Fr0" "org-setup.el" "tex-setup.el" ".#base.elc3035GmY" "cdlatex.el" "basic.el" "base.el" "el-get-user-recipes/")
+
+ ("/home/simplex/zzsweet/src/cfamily/cpp_study/my_code/gnuplotter/" (22358 53945 859704 800000) "tttt.cc" "test.cc" "test" "gnuplotter.h" "gnuplotter.cc" "CMakeLists.txt" "build/" "../" "./")
+
+ ("/etc/" (22654 48233 781786 832000) "rc.d/" "X11/" "acpi/" "gshadow" "timezone" "mke2fs.conf" "slp.conf" "gssproxy/" "avahi/" "iptables/" "sudoers.d/" "smartd.conf" "libnl/" "sudoers" "papersize" "dnsmasq.conf" "localtime" "nanorc" "securetty" "cpufreq-bench.conf" "gai.conf" "login.defs" "adobe/" "exports.d/" "dbus-1/" "gtk-2.0/" "yaourtrc" "crypttab" "systemd/" "ntp.conf" "request-key.conf" "sysctl.d/" "nbd-server/" "mkinitcpio.conf" "profile" "healthd.conf" "inputrc" "rsyncd.conf" "OpenCL/" "bash.bash_logout" "bumblebee/" "gss/" "rpc" "pkcs11/" "security/" "slp.spi" "ksysguarddrc" "ssh/" "hosts.allow" "passwd-" ".pwd.lock" "mysql/" "initcpio/" "os-release" "gtk-3.0/" "libreoffice/" "sddm.conf" "signon-ui/" "gconf/" ".updated" "fonts/" "ImageMagick-6/" "hosts.deny" "mail.rc" "rc_keymaps/" "issue" "texmf/" "protocols" "services" "netconfig" "drirc" "hp/" "locale.gen" "UPower/" "cups/" "depmod.d/" "pm/" "profile.d/" "geoclue/" "machine-id" "lvm/" "nsswitch.conf" "nfsmount.conf" "openmpi/" "bash_completion.d/" "slp.reg" "vdpau_wrapper.cfg" "kernel/" "modprobe.d/" "adjtime" "sane.d/" "lirc/" "slsh.rc" "pango/" "zsh/" "dhcpcd.conf" "openldap/" "pam.d/" "nscd.conf" "skel/" "mkinitcpio.d/" "default/" "logrotate.d/" "pulse/" "manjaro-release" "libao.conf" "xdg/" "rc.local" "shadow" "nilfs_cleanerd.conf" "hostname" "request-key.d/" "pcmcia/" "usb_modeswitch.conf" "ld.so.conf" "logrotate.conf" "ld.so.cache" "libpaper.d/" "resolv.conf" "bash.bashrc" "udev/" "sysconfig/" "lsb-release" "cupshelpers/" "ts.conf" "xinetd.d/" "binfmt.d/" "pacman.d/" "mtab" "resolvconf.conf" "iproute2/" "shadow-" "mdadm.conf" "plymouth/" "sensors.d/" "fstab" "host.conf" "tmpfiles.d/" "bluetooth/" "locale.conf" "fuse.conf" "gemrc" "java-8-openjdk/" "wpa_supplicant/" "resolv.conf.bak" "mono/" "usb_modeswitch.d/" "openvpn/" "makepkg.conf" "xml/" "../" "pacman.conf" "sensors3.conf" "gshadow-" "krb5.conf" "foomatic/" "ca-certificates/" "exports" "vconsole.conf" "conf.d/" "ld.so.conf.d/" "rc_maps.cfg" "updatedb.conf" "usb_modeswitch.setup" "group-" "wgetrc" "bash/" "hosts" "passwd" "signond.conf" "printcap" "polkit-1/" "vpnc/" "mpd.conf" "environment" "man_db.conf" "samba/" "./" "motd" "pacman-mirrors.conf" "asound.conf" "rc.local.shutdown" "grub.d/" "modules-load.d/" "gdb/" "ppp/" "shells" "group" "sni-qt.conf" "openswap.conf" "ssl/" "NetworkManager/" "ethertypes" "mime.types" "trusted-key.key" "udisks2/")
+
+ ("/home/simplex/.emacs.d/themes/" (22654 11513 967598 204000) "./" "../" "gnome2-theme.el" "monolized-theme.el")
+
+ ("/home/simplex/.emacs.d/core/el-get-init-files/" (22654 48621 895546 199000) "init-window-numbering.elc" "init-ido-vertical-mode.el" "octave-workspace" "init-smex.elc" "init-auctex-latexmk.elc" "init-auto-compile.el" "init-company-ycmd.el" "init-langtool.elc" "init-spaceline.elc" "init-auto-compile.elc" "init-powerline-bak.el" "init-langtool.el" "init-smex.el" "init-sqlup-mode.el" "init-helm.el" "init-avy.el" "init-multi-term.elc" "init-helm-bibtex.el" "init-smartparens.el" "init-elpy.el" "init-vimish-fold.elc" "init-ein.elc" "init-flx-ido.elc" "init-flycheck.elc" "init-swiper.elc" "init-smartparens.elc" "init-flycheck-ycmd.el" "init-window-numbering.el" "init-gnuplot-mode.el" "init-helm-swoop.el" "./" "init-ido-vertical-mode.elc" "init-yasnippet.elc" "../" "init-ycmd.el" "init-sqlup-mode.elc" "init-flycheck-ycmd.elc" "init-swiper.el" "init-popwin.el" "init-spaceline.el" "init-company.el" "init-flycheck.el" "init-xcscope.elc" "init-helm-swoop.elc" "init-company.elc" "init-company-ycmd.elc" "init-yasnippet.el" "init-ein.el" "init-elpy.elc" "init-chinese-fonts-setup.elc" "init-vimish-fold.el" "init-gnuplot-mode.elc" "init-flx-ido.el" "init-avy.elc" "init-ycmd.elc" "init-auto-complete.el" "init-auctex-latexmk.el" "init-auto-complete.elc" "init-xcscope.el" "init-chinese-fonts-setup.el" "init-multi-term.el" "init-popwin.elc" "init-helm.elc" "init-helm-bibtex.elc")
 
  ("/home/simplex/zzsweet/" (22654 10626 42422 200000) "src/" "SQLdata/" "mfile/" "desktop.ini" "cad/" "bib.txt" ".octaverc" ".directory" ".debris/" "../" "./")
-
- ("/home/simplex/zzsweet/src/org/" (22654 8708 802238 700000) "机器学习选股.org" "机器学习选股.fdb_latexmk" "_minted-机器学习选股/" "_minted-todo/" "todo.org_archive" "todo.org" "simplex.tex" "simplex.org_archive" "simplex.org" "notes/" "capture/" "auto/" ".directory" "../" "./")
-
- ("/home/simplex/zzsweet/src/org/notes/" (22654 9538 913783 600000) "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "机器学习选股.org" "todo.org" "Tensorflow笔记.org" "Simplex.cls" "pythonLibrary.tex" "pythonLibrary.pdf" "org-mode小技巧.org" "NewtonRaphson_TF.py" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "MLAPP笔记-Adaptive basis function models.tex" "MLAPP笔记-Adaptive basis function models.pdf" "MLAPP笔记-1.pdf" "#机器学习选股.org#" "pythonLibrary.org" "../" "./")
-
- ("/home/simplex/" (22654 10889 301801 778000) ".xinitrc" ".zsh_history" "播放列表/" ".cache/" ".zsh-update" ".steam/" ".texlive/" ".adobe/" ".bash_history" ".kde/" ".Xclients" ".dir_colors" ".ipython/" ".steampid" "Android安卓跟Linux系列.zip" ".gtkrc-2.0" "zzscript/" ".gnupg/" ".local/" "Downloads/" "新建文件夹/" ".zcompdump-simplex-pc-5.3.1" ".pulse-cookie" ".kingsoft/" ".lesshst" ".emacs.d/" ".jupyter/" "研究课题推荐表.doc" ".xsession" ".mozilla/" "Pictures/" ".face" "Deep Learning for Event-Driven Stock Prediction.pdf" ".bash_logout" ".octave_packages" "./" ".fonts.conf" ".recently-used" ".gitconfig" "../" ".directory" "cudnn-8.0-linux-x64-v5.1.tgz" ".fonts/" ".kde4/" "Documents/" ".python_history" ".zshrc" ".Xauthority" ".macromedia/" "temp/" ".sogouinput/" ".nv/" ".xine/" ".face.icon" "SSRN-id2756331.pdf" ".profile" "SQL必知必会 第4版.pdf" "2016-12-04-NIPS.pdf" ".pip/" ".steampath" ".thunderbird/" ".extend.xinitrc" ".icons/" ".bash_profile" ".latexmkrc" ".oh-my-zsh/" ".xprofile" ".octave_hist" ".Xresources" ".bashrc" ".pki/" ".zotero/" ".goldendict/" ".gtkrc-2.0-kde4" ".latexmk" "zzsweet/" ".config/" ".wine/" ".saves/" ".lastpass/" ".esd_auth" ".psql_history" "minted.pdf")
-
- ("/home/simplex/.emacs.d/themes/" (22654 2872 384699 5000) "./" "../" "gnome2-theme.el" "monolized-theme.el")
-
- ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/" (22654 2719 111609 200000) "__pycache__/" "stock_predict.py" "stock_data_preprocess.py" "stocks_predict_experimental.py" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "em.csv" "dropna.csv" "daily_consumer.csv" "#stock_predict.py#" "#stock_data_preprocess.py#" "../" "./")
-
- ("/home/simplex/.emacs.d/core/el-get-init-files/" (22654 8083 817873 566000) "init-window-numbering.elc" "init-ido-vertical-mode.el" "octave-workspace" "init-smex.elc" "init-auctex-latexmk.elc" "init-auto-compile.el" "init-company-ycmd.el" "init-langtool.elc" "init-spaceline.elc" "init-auto-compile.elc" "init-powerline-bak.el" "init-langtool.el" "init-smex.el" "init-sqlup-mode.el" "init-helm.el" "init-avy.el" "init-multi-term.elc" "init-helm-bibtex.el" "init-smartparens.el" "init-elpy.el" "init-vimish-fold.elc" "init-ein.elc" "init-flx-ido.elc" "init-flycheck.elc" "init-swiper.elc" "init-smartparens.elc" "init-flycheck-ycmd.el" "init-window-numbering.el" "init-gnuplot-mode.el" "init-helm-swoop.el" "./" "init-ido-vertical-mode.elc" "init-yasnippet.elc" "../" "init-ycmd.el" "init-sqlup-mode.elc" "init-flycheck-ycmd.elc" "init-swiper.el" "init-popwin.el" "init-spaceline.el" "init-company.el" "init-flycheck.el" "init-xcscope.elc" "init-helm-swoop.elc" "init-company.elc" "init-company-ycmd.elc" "init-yasnippet.el" "init-ein.el" "init-elpy.elc" "init-chinese-fonts-setup.elc" "init-vimish-fold.el" "init-gnuplot-mode.elc" "init-flx-ido.el" "init-avy.elc" "init-ycmd.elc" "init-auto-complete.el" "init-auctex-latexmk.el" "init-auto-complete.elc" "init-xcscope.el" "init-chinese-fonts-setup.el" "init-multi-term.el" "init-popwin.elc" "init-helm.elc" "init-helm-bibtex.elc")
 
  ("/home/simplex/zzsweet/src/cjsc/python/newtonRaphson/" (22648 51566 237470 800000) "解方程.doc" "newtonRaphson.py" "../" "./")
 
  ("/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/" (22652 48304 28723 200000) "study_tensorflow.py" "study_lstm2.py" "study_lstm.py" "sp500.csv" "sinwave.csv" "MNIST_data/" "imdb.pkl" "CNN_MINST.py" "cnn.py" "auto_diff.py" "../" "./")
-
- ("/home/simplex/.emacs.d/chinese-fonts-setup/v4/" (22653 64189 453119 170000) "#program.el#" "program.el" "org-mode.el" "./" "../" "read-book.el")
 
  ("/home/simplex/zzsweet/src/cjsc/python/wind_data/" (22653 27301 916673 600000) "zzsszz.csv" "zzs.xls" "stock_data_fetch.py" "stocks_code_list.txt" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "data_to_psql.py" "data_fecth.py" "daily_consumer.csv" "#!Python!#" "../" "./")
 
@@ -312,8 +316,6 @@
  ("/home/simplex/.emacs.d/chinese-fonts-setup/" (22653 52848 420789 629000) "./" "../" "v4/")
 
  ("/run/media/simplex/NOSDisk/Documents/LinuxHome/zzsweet/src/notes/" (22648 29860 592101 300000) "MLAPP笔记-混合模型与EM算法.out" "MLAPP笔记-混合模型与EM算法.log" "MLAPP笔记-混合模型与EM算法.fls" "MLAPP笔记-混合模型与EM算法.fdb_latexmk" "MLAPP笔记-混合模型与EM算法.aux" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.thm" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-有向图模型.out" "MLAPP笔记-有向图模型.log" "MLAPP笔记-有向图模型.fls" "MLAPP笔记-有向图模型.fdb_latexmk" "算法杂记-优化方法.fdb_latexmk" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-有向图模型.aux" "MLAPP笔记-1.pdf" "算法杂记-自动微分简介.thm" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.rel" "算法杂记-自动微分简介.pdf" "算法杂记-自动微分简介.out" "算法杂记-自动微分简介.log" "算法杂记-自动微分简介.fls" "算法杂记-自动微分简介.fdb_latexmk" "算法杂记-自动微分简介.aux" "算法杂记-优化方法.thm" "算法杂记-优化方法.tex" "算法杂记-优化方法.rel" "算法杂记-优化方法.pdf" "算法杂记-优化方法.out" "算法杂记-优化方法.log" "算法杂记-优化方法.fls" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.toc" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "MLAPP笔记-Adaptive_basis_function_models.out" "MLAPP笔记-Adaptive_basis_function_models.org_archive" "MLAPP笔记-Adaptive_basis_function_models.org" "MLAPP笔记-Adaptive_basis_function_models.log" "MLAPP笔记-Adaptive_basis_function_models.fls" "MLAPP笔记-Adaptive_basis_function_models.fdb_latexmk" "MLAPP笔记-Adaptive_basis_function_models.aux" "MLAPP笔记-Adaptive basis function models.toc" "MLAPP笔记-Adaptive basis function models.tex" "MLAPP笔记-Adaptive basis function models.pdf" "MLAPP笔记-Adaptive basis function models.out" "MLAPP笔记-Adaptive basis function models.log" "MLAPP笔记-Adaptive basis function models.fls" "MLAPP笔记-Adaptive basis function models.fdb_latexmk" "MLAPP笔记-Adaptive basis function models.aux" "MLAPP笔记-1.thm" "算法杂记-优化方法.aux" "算法杂记-SVD和PCA.thm" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "算法杂记-SVD和PCA.out" "算法杂记-SVD和PCA.log" "算法杂记-SVD和PCA.fls" "算法杂记-SVD和PCA.fdb_latexmk" "算法杂记-SVD和PCA.aux" "_minted-MLAPP笔记-Adaptive_basis_function_models/" "Tensorflow笔记.org" "Simplex.cls" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.thm" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-1.out" "MLAPP笔记-1.log" "MLAPP笔记-1.fls" "MLAPP笔记-1.fdb_latexmk" "MLAPP笔记-1.aux" "ltxpng/" "auto/" "#MLAPP笔记-EM算法.tex#" "../" "./")
-
- ("/etc/" (22648 24694 875042 14000) "rc.d/" "X11/" "acpi/" "gshadow" "timezone" "mke2fs.conf" "slp.conf" "gssproxy/" "avahi/" "iptables/" "sudoers.d/" "smartd.conf" "libnl/" "sudoers" "papersize" "dnsmasq.conf" "localtime" "nanorc" "securetty" "cpufreq-bench.conf" "gai.conf" "login.defs" "adobe/" "exports.d/" "dbus-1/" "gtk-2.0/" "yaourtrc" "crypttab" "systemd/" "ntp.conf" "request-key.conf" "sysctl.d/" "nbd-server/" "mkinitcpio.conf" "profile" "healthd.conf" "inputrc" "rsyncd.conf" "OpenCL/" "bash.bash_logout" "bumblebee/" "gss/" "rpc" "pkcs11/" "security/" "slp.spi" "ksysguarddrc" "ssh/" "hosts.allow" "passwd-" ".pwd.lock" "mysql/" "initcpio/" "os-release" "gtk-3.0/" "libreoffice/" "sddm.conf" "signon-ui/" "gconf/" ".updated" "fonts/" "ImageMagick-6/" "hosts.deny" "mail.rc" "rc_keymaps/" "issue" "texmf/" "protocols" "services" "netconfig" "drirc" "hp/" "locale.gen" "UPower/" "cups/" "depmod.d/" "pm/" "profile.d/" "geoclue/" "machine-id" "lvm/" "nsswitch.conf" "nfsmount.conf" "openmpi/" "bash_completion.d/" "slp.reg" "vdpau_wrapper.cfg" "kernel/" "modprobe.d/" "adjtime" "sane.d/" "lirc/" "slsh.rc" "pango/" "zsh/" "dhcpcd.conf" "openldap/" "pam.d/" "nscd.conf" "skel/" "mkinitcpio.d/" "default/" "logrotate.d/" "pulse/" "manjaro-release" "libao.conf" "xdg/" "rc.local" "shadow" "nilfs_cleanerd.conf" "hostname" "request-key.d/" "pcmcia/" "usb_modeswitch.conf" "ld.so.conf" "logrotate.conf" "ld.so.cache" "libpaper.d/" "resolv.conf" "bash.bashrc" "udev/" "sysconfig/" "lsb-release" "cupshelpers/" "ts.conf" "xinetd.d/" "binfmt.d/" "pacman.d/" "mtab" "resolvconf.conf" "iproute2/" "shadow-" "mdadm.conf" "plymouth/" "sensors.d/" "fstab" "host.conf" "tmpfiles.d/" "bluetooth/" "locale.conf" "fuse.conf" "gemrc" "java-8-openjdk/" "wpa_supplicant/" "resolv.conf.bak" "mono/" "usb_modeswitch.d/" "openvpn/" "makepkg.conf" "xml/" "../" "pacman.conf" "sensors3.conf" "gshadow-" "krb5.conf" "foomatic/" "ca-certificates/" "exports" "vconsole.conf" "conf.d/" "ld.so.conf.d/" "rc_maps.cfg" "updatedb.conf" "usb_modeswitch.setup" "group-" "wgetrc" "bash/" "hosts" "passwd" "signond.conf" "printcap" "polkit-1/" "vpnc/" "mpd.conf" "environment" "man_db.conf" "samba/" "./" "motd" "pacman-mirrors.conf" "asound.conf" "rc.local.shutdown" "grub.d/" "modules-load.d/" "gdb/" "ppp/" "shells" "group" "sni-qt.conf" "openswap.conf" "ssl/" "NetworkManager/" "ethertypes" "mime.types" "trusted-key.key" "udisks2/")
 
  ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/3rd_model/" (22646 54732 455888 800000) "__pycache__/" "zzsszz2.csv" "zzsszz.xls" "test.xlsx" "stock_predict.py" "stock_data_preprocess.py" "stock_data_fetch.py" "stocks-data-original.xlsx" "stocks-data-original-tiny.xlsx" "stocks-data-original-2.xlsx" "stocks-code-list.txt" ".directory" "../" "./")
 

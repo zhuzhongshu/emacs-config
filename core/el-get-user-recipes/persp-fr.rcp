@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "In persp-mode, show perspective list in the GUI window title"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (persp-mode)
 :minimum-emacs-version (25 0)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A folding-editor-like minor mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

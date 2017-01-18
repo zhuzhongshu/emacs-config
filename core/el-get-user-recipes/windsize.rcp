@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Simple, intuitive window resizing"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

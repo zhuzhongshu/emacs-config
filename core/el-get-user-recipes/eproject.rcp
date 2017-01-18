@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "assign files to projects, programatically"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 )

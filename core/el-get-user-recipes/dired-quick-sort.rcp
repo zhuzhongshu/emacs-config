@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Persistent quick sorting of dired buffers in various ways."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (hydra)
 )

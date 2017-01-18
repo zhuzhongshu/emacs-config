@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Browse the current file in OpenStack cgit"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

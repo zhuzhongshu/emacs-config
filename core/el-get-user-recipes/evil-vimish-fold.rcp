@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Integrate vimish-fold with evil"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil vimish-fold)
 :minimum-emacs-version (24 4)
 )

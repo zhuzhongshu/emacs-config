@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Define time budgets and display clocked time."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (alert cl-lib)
 )

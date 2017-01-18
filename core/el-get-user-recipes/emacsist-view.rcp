@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Mode for viewing emacsist.com"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

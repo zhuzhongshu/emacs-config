@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Set up buffer environments with nix"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (f)
 :minimum-emacs-version (24 4)
 )

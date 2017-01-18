@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Emacs Helm Interface for quick Google searches"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm google)
 )

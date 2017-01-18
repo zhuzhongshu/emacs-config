@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "quick preview using GNOME sushi, gloobus or quick look"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

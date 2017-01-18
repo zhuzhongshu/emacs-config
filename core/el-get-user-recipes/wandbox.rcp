@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Wandbox API Library for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request s)
 :minimum-emacs-version (24)
 )

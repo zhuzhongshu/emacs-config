@@ -1,0 +1,7 @@
+(:name eros
+:auto-generated t
+:type elpa
+:description "Evaluation Result OverlayS for Emacs Lisp"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Display ghostly yesql defqueries inline"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash cider)
 )

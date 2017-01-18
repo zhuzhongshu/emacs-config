@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Minor mode for Ruby YARD comments"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "import email and name into bbdb from vcard."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

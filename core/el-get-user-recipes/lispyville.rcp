@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A minor mode for integrating evil with lispy."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (lispy evil cl-lib)
 :minimum-emacs-version (24 4)
 )

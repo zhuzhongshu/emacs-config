@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Markdown-formatted READMEs for your ELisp"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

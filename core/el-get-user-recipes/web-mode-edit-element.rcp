@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Helper-functions for attribute- and element-handling"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (web-mode)
 :minimum-emacs-version (24 4)
 )

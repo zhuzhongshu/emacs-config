@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Add/Change/Delete pairs based on `expand-region'"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib expand-region)
 )

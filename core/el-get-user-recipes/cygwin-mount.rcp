@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Teach EMACS about cygwin styles and mount points."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "client for marmalade API from emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (web kv gh)
 )

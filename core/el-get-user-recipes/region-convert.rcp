@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Convert string in region by Lisp function"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

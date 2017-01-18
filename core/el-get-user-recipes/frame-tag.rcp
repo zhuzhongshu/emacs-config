@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Minor mode that assigns a unique number to each frame for easy switching"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

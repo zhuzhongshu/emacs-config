@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Display many latex symbols as their unicode counterparts"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

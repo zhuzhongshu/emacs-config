@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A seamless bridge between isearch, ace-jump-mode, avy and helm-swoop"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ace-jump-mode avy helm-swoop)
 :minimum-emacs-version (24)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "JavaScript Awesome Development Environment"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (seq js2-mode company websocket)
 :minimum-emacs-version (25)
 )

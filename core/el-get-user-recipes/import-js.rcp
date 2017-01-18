@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Import Javascript dependencies"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (grizzl)
 :minimum-emacs-version (24)
 )

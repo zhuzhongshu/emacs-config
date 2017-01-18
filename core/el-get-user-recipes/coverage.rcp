@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Code coverage line highlighting"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ov cl-lib)
 )

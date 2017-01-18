@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Serve buffers live over HTTP with elnode backend"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (elnode)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "anything for git grep"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (anything)
 )

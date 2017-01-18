@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A scratch buffer to interactively evaluate php code"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s php-mode)
 :minimum-emacs-version (24 3)
 )

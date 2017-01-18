@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Grails mode with Projectile for projects management."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (projectile cl-lib)
 :minimum-emacs-version (24)
 )

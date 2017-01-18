@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A backend that emulates ac-source-dictionary"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company parent-mode)
 :minimum-emacs-version (24 4)
 )

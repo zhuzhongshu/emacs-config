@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "make file details hide-able in dired"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

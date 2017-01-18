@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A parser credentials file library (not limited to credentials entries)"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash)
 )

@@ -1,0 +1,8 @@
+(:name org-seek
+:auto-generated t
+:type elpa
+:description "Searching Org-mode files with search tools."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ag)
+:minimum-emacs-version (24 3)
+)

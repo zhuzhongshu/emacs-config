@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A collection of clojure refactoring functions"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash yasnippet paredit multiple-cursors clojure-mode cider edn inflections hydra)
 :minimum-emacs-version (24 4)
 )

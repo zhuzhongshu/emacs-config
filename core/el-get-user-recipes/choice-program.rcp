@@ -1,0 +1,8 @@
+(:name choice-program
+:auto-generated t
+:type elpa
+:description "parameter based program"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+:minimum-emacs-version (24)
+)

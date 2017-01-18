@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "N-gram based completion"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib company)
 )

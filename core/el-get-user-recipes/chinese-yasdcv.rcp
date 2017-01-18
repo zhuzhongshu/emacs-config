@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Yet another frontend for the StarDict command-line program"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib chinese-pyim)
 )

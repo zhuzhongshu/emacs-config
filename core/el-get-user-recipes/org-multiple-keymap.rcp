@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Set keymap to elements, such as timestamp and priority."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org cl-lib)
 :minimum-emacs-version (24)
 )

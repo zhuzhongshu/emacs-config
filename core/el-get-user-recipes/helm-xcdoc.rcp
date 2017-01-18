@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Search Xcode Document by docsetutil and eww with helm interface"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 :minimum-emacs-version (24 4)
 )

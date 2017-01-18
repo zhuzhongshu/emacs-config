@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "run compile in a specific directory"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

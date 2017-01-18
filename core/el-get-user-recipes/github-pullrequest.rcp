@@ -1,0 +1,8 @@
+(:name github-pullrequest
+:auto-generated t
+:type elpa
+:description "Create and fetch Github Pull requests with ease"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (request dash magit)
+:minimum-emacs-version (24 4)
+)

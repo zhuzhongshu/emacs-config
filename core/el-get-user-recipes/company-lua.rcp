@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Company backend for Lua"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company s f lua-mode)
 )

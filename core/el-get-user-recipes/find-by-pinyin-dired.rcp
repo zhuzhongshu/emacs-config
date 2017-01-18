@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Find file by first Pinyin characters of Chinese Hanzi"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

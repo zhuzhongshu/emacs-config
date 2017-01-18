@@ -1,6 +1,7 @@
 (:name xah-lookup
 :auto-generated t
 :type elpa
-:description "look up word on internet"
-:repo nil
+:description "look up word on internet."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 1)
 )

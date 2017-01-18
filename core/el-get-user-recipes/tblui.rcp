@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Define tabulated list UI easily"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash magit-popup tablist cl-lib)
 )

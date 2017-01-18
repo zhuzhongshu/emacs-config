@@ -1,0 +1,7 @@
+(:name rg
+:auto-generated t
+:type elpa
+:description "Use ripgrep (grep and ag replacement) like rgrep."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (cl-lib)
+)

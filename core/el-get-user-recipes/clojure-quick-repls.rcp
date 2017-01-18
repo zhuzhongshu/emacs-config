@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Quickly create Clojure and ClojureScript repls for a project."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cider dash)
 )

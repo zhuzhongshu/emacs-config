@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "helm-source for for bind-key."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (bind-key helm)
 )

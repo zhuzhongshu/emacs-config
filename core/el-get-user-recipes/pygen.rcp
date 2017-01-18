@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Python code generation using Elpy and Python-mode."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (elpy python-mode dash)
 )

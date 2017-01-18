@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "windows/buffers sets shared among frames + save/load."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

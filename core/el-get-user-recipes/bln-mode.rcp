@@ -1,6 +1,6 @@
 (:name bln-mode
 :auto-generated t
 :type elpa
-:description "binary line navigation minor mode"
-:repo nil
+:description "binary line navigation minor mode for cursor movement in long lines"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

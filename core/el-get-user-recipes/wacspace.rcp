@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "The WACky WorkSPACE manager for emACS"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash cl-lib)
 )

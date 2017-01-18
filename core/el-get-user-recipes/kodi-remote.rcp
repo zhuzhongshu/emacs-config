@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Remote Control for Kodi"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request let-alist json)
 )

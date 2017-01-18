@@ -1,6 +1,7 @@
 (:name rbt
 :auto-generated t
 :type elpa
-:description "No description available."
-:repo nil
+:description "Integrate reviewboard with emacs."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (popup magit)
 )

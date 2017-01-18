@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Rebar3 flycheck integration for Erlang projects"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck)
 )

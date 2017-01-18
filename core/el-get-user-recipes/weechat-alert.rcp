@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Weechat notifier using alerts"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (weechat cl-lib alert)
 )

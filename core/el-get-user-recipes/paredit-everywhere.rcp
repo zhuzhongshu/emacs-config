@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Enable some paredit features in non-lisp buffers"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (paredit)
 )

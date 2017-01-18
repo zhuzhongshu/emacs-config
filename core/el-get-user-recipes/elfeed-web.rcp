@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "web interface to Elfeed"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (simple-httpd elfeed)
 :minimum-emacs-version (24 1)
 )

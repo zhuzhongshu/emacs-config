@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A test runner for Python code."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash f)
 :minimum-emacs-version (24 4)
 )

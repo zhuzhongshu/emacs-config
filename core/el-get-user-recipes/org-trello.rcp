@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Minor mode to synchronize org-mode buffer and trello board"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (request-deferred deferred s dash-functional dash)
 :minimum-emacs-version (24)
 )

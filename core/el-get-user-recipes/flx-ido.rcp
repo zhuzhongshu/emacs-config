@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "flx integration for ido"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flx cl-lib)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Create your own menu for fast insertion of arbitrary symbols"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (avy-menu)
 :minimum-emacs-version (24 3)
 )

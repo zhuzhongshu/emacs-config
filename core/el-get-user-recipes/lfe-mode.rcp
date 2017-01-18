@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Lisp Flavoured Erlang mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Package for interactive transformation of data with helm"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm-core)
 )

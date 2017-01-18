@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "convert color themes to X11 resource settings"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

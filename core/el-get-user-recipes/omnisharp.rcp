@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Omnicompletion (intellisense) and more for C#"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (json flycheck dash auto-complete popup csharp-mode cl-lib s)
 )

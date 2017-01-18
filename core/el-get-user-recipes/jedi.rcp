@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "a Python auto-completion for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (jedi-core auto-complete)
 :minimum-emacs-version (24)
 )

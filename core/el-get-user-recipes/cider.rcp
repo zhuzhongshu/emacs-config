@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Clojure Interactive Development Environment that Rocks"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (clojure-mode pkg-info queue spinner seq)
 :minimum-emacs-version (24 4)
 )

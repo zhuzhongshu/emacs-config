@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A GitHub library for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash pcache logito marshal)
 :minimum-emacs-version (24 3)
 )

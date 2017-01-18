@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A simple TOC generator for markdown file"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash markdown-mode)
 )

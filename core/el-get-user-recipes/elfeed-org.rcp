@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Configure elfeed with one or more org-mode files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (elfeed org dash s)
 )

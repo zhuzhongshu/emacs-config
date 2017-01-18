@@ -1,0 +1,6 @@
+(:name xah-reformat-code
+:auto-generated t
+:type elpa
+:description "commands to reformat source code."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

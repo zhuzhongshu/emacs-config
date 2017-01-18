@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A coffee-mode configuration for `ff-find-other-file'."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (coffee-mode)
 )

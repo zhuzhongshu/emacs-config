@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "powerline mode, color schemes from microsoft and google's logo."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (powerline)
 :minimum-emacs-version (24 3)
 )

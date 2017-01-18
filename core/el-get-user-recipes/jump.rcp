@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "build functions which contextually jump between files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (findr inflections cl-lib)
 )

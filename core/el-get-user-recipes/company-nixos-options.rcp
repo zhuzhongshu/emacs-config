@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Company Backend for nixos-options"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company nixos-options cl-lib)
 )

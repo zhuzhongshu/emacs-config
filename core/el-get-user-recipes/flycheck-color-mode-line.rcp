@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Change mode line color with Flycheck status"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck dash)
 :minimum-emacs-version (24 1)
 )

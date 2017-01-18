@@ -1,6 +1,6 @@
 (:name ssh-deploy
 :auto-generated t
 :type elpa
-:description "No description available."
-:repo nil
+:description "Deployment via SSH or FTP, global or per directory."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

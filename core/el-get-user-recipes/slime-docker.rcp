@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Integration of SLIME with Docker containers."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (slime docker-tramp cl-lib)
 :minimum-emacs-version (24)
 )

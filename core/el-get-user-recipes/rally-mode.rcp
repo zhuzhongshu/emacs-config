@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "a mode to interact with the Rally Software web site."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (popwin)
 )

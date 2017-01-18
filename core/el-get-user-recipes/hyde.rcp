@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Major mode to help create and manage Jekyll blogs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

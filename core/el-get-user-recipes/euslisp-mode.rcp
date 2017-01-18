@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Major mode for Euslisp-formatted text"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

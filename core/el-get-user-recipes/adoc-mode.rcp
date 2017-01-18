@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "a major-mode for editing AsciiDoc files in Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (markup-faces)
 )

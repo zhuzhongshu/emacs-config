@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Minor mode to quickly and safely perform common refactorings"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

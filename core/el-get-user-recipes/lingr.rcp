@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Lingr Client for GNU Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

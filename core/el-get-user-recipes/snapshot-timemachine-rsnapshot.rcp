@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "rsnapshot backend for snapshot-timemachine"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (snapshot-timemachine seq)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A better PHP mode with Zend Framework 1 support."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

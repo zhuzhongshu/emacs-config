@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Pages in current buffer as Helm datasource"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm cl-lib)
 :minimum-emacs-version (24)
 )

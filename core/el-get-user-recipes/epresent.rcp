@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Simple presentation mode for Emacs Org-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (org cl-lib)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Use Ido to answer yes-or-no questions"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ido-completing-read+)
 )

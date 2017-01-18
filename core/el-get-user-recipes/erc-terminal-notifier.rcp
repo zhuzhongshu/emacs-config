@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "OSX notifications via the terminal-notifier gem for Emacs ERC."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

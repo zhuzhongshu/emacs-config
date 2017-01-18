@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Purpose-based window management for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib let-alist imenu-list)
 :minimum-emacs-version (24)
 )

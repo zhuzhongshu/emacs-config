@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Open and evaluate 4clojure.com questions"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (json request)
 )

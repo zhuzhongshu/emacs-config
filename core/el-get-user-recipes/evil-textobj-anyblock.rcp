@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Textobject for the closest user-defined blocks."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib evil)
 )

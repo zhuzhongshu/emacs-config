@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Yet Another Bignum package (A thin wrapper of calc.el)."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Fold DWIM bound to org key-strokes."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (fold-dwim)
 )

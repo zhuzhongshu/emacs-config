@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Emacs refactoring system."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash cl-lib popup list-utils redshank paredit projectile clang-format iedit)
 :minimum-emacs-version (24 1)
 )

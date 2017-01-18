@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "realgud front-end to the Ruby byebug debugger"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (realgud cl-lib)
 :minimum-emacs-version (24)
 )

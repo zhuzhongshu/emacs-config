@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "sly completion backend for company mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (sly company)
 :minimum-emacs-version (24 3)
 )

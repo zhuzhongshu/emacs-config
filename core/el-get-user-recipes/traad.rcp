@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "emacs interface to the traad refactoring server."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (deferred popup request request-deferred virtualenvwrapper)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "connect to nrepl port and eval .sync.clj."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cider)
 )

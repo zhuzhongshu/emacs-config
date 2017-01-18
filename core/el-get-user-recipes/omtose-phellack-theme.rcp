@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A dark theme, with cold bluish touch."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

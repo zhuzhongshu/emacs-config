@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "The missing hash table library for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Minor mode to store selected overlays to be loaded later"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

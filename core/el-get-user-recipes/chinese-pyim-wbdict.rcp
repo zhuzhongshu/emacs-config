@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Some wubi dicts for chinese-pyim"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (chinese-pyim)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Extended file highlighting according to its type"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash dired-hacks-utils)
 )

@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "An Emacs port of the Atom Dark theme from Atom.io."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

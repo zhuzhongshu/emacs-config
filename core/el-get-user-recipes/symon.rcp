@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "tiny graphical system monitor"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

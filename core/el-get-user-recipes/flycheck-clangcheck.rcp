@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A Flycheck checker difinition for ClangCheck."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib seq flycheck)
 )

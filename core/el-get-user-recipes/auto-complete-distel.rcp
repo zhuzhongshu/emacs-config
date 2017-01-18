@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Erlang/distel completion backend for auto-complete-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete distel-completion-lib)
 )

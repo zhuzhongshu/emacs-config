@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Note taker and clock-in enforcer"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (projectile dash)
 )

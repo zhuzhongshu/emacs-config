@@ -1,0 +1,8 @@
+(:name ivy-rich
+:auto-generated t
+:type elpa
+:description "More friendly display transformer for ivy."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (ivy)
+:minimum-emacs-version (24 4)
+)

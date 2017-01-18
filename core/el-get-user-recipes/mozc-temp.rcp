@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Use mozc temporarily"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash mozc)
 :minimum-emacs-version (24)
 )

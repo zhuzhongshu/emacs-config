@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Edit LaTeX regions in separate buffers, e.g. for English grammar checks"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ht edit-indirect)
 :minimum-emacs-version (24 3)
 )

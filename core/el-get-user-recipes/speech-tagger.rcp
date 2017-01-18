@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "tag parts of speech using coreNLP"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 )

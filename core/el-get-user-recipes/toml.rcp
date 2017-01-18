@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "TOML (Tom's Obvious, Minimal Language) parser"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

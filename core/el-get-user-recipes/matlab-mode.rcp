@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Major mode for MATLAB(R) dot-m files"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Store project local variables."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib projectile)
 :minimum-emacs-version (24)
 )

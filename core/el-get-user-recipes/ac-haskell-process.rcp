@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Haskell auto-complete source which uses the current haskell process"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (auto-complete haskell-mode)
 )

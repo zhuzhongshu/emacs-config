@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Provides automatically created yasnippets for R function argument lists."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ess yasnippet)
 )

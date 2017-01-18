@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Migemo plug-in for Ido"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (migemo)
 )

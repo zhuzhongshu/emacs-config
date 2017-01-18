@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "view and kill Unix processes from within Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

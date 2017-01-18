@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Preview SCAD models in real-time within Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (scad-mode)
 )

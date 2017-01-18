@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A Chinese input method which support quanpin, shuangpin and wubi."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib pos-tip popup async chinese-pyim-basedict)
 )

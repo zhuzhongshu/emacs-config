@@ -1,0 +1,6 @@
+(:name i3wm
+:auto-generated t
+:type elpa
+:description "i3wm integration library"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

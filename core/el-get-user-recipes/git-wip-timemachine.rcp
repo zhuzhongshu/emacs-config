@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Walk through git-wip revisions of a file"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s)
 )

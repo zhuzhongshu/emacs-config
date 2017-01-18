@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Evil integration of embrace.el"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (embrace evil-surround)
 :minimum-emacs-version (24 4)
 )

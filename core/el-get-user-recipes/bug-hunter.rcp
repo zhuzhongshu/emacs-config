@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Hunt down errors by bisecting elisp files"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 :depends (seq cl-lib)
 )

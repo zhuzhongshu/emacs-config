@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "GNU Emacs and Scheme talk to each other"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

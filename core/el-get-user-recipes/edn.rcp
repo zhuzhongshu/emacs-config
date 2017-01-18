@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Support for reading and writing the edn data format from elisp"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib peg)
 :minimum-emacs-version (24 1)
 )

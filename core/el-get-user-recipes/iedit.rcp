@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Edit multiple regions in the same way simultaneously."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

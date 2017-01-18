@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Visual navigation through mark rings"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (nav-flash smartrep ucs-utils list-utils persistent-soft pcache)
 )

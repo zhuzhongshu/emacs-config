@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Shows latest bitcoin price"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (json request)
 )

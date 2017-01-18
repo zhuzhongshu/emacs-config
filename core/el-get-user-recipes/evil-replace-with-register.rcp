@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Port of vim plugin ReplaceWithRegister"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil)
 )

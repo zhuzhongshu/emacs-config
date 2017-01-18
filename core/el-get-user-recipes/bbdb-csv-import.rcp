@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "import csv to bbdb version 3+"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (pcsv dash bbdb)
 )

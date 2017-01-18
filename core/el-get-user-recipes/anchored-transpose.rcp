@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Transposes a phrase around an anchor phrase"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

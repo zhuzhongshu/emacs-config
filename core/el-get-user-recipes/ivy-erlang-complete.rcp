@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Erlang completion at point using ivy."
-:repo nil
-:depends (erlang counsel ivy async)
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (async counsel ivy erlang)
 :minimum-emacs-version (24 4)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "IVS (Ideographic Variation Sequence) editing tool"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash cl-lib)
 :minimum-emacs-version (24 3)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "company-mode completion back-end for restclient-mode"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib company know-your-http-well restclient)
 :minimum-emacs-version (24)
 )

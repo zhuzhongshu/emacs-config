@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Info-like viewer for DocBook"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

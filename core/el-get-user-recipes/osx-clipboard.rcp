@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Use the OS X clipboard from terminal Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

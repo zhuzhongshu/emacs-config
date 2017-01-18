@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Generate, popup (& optionally backup) scratch buffer(s)."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (popwin)
 )

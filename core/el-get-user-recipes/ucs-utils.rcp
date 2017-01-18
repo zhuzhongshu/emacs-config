@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Utilities for Unicode characters"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (persistent-soft pcache list-utils)
 )

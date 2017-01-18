@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Properly prefixed CL functions and macros"
-:repo nil
+:repo ("gnu" . "https://elpa.emacs-china.org/gnu/")
 )

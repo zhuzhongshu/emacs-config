@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Yasnippets for Datomic"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash yasnippet)
 )

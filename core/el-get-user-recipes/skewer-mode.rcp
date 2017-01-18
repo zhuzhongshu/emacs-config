@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "live browser JavaScript, CSS, and HTML interaction"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (simple-httpd js2-mode)
 :minimum-emacs-version (24)
 )

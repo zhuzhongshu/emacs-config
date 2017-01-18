@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Color palette useful with RGB, HSV, and color names"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (hexrgb)
 )

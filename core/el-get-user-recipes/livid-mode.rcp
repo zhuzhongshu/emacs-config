@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Live browser eval of JavaScript every time a buffer changes"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (skewer-mode s)
 )

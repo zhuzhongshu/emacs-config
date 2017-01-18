@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Non-interactive frame and window functions."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

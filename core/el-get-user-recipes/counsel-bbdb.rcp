@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Quick search&input email from BBDB based on ivy"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ivy)
 :minimum-emacs-version (24 3)
 )

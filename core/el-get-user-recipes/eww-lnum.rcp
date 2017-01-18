@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Conkeror-like functionality for eww"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

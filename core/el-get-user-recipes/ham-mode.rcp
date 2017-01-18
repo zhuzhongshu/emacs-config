@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Html As Markdown. Transparently edit an html file using markdown"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (html-to-markdown markdown-mode)
 )

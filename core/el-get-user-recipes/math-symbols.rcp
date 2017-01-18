@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Math Symbol Input methods and conversion tools"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm)
 )

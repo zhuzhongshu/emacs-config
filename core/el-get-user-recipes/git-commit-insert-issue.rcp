@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Get issues list when typing \"Fixes #\""
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (helm projectile s github-issues gitlab)
 )

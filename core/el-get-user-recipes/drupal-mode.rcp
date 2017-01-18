@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Advanced minor mode for Drupal development"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (php-mode)
 )

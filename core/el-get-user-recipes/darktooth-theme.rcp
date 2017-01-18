@@ -1,6 +1,7 @@
 (:name darktooth-theme
 :auto-generated t
 :type elpa
-:description "A color theme for Emacs, from the darkness... it watches"
-:repo nil
+:description "From the darkness... it watches"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (autothemer)
 )

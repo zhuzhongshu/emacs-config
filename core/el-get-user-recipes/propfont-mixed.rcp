@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Use proportional fonts with space-based indentation."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib)
 :minimum-emacs-version (24)
 )

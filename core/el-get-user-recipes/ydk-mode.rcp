@@ -1,0 +1,6 @@
+(:name ydk-mode
+:auto-generated t
+:type elpa
+:description "Language support for Yu-Gi-Oh! deck files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+)

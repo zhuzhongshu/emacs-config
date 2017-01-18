@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "non-resident support for osc version-control"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

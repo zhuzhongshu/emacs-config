@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Adaptive Status Bar / Mode Line"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (powerline mode-icons)
 )

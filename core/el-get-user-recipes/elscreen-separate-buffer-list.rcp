@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Separate buffer list manager for elscreen"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (elscreen)
 :minimum-emacs-version (24 4)
 )

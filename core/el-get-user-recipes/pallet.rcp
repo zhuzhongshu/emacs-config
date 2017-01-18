@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A package management tool for Emacs, using Cask."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash s f cask)
 )

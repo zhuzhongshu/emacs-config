@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Highlights corresponding PHI data in the text portion of an i2b2 XML Document."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

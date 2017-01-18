@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Emacs Lisp packages built directly from source"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (package-build)
 :minimum-emacs-version (24 3)
 )

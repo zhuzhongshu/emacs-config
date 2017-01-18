@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Complete SPACE or HYPHEN when type SPACE in ido"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

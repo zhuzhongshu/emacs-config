@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Lightweight project caching and navigation framework"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash cl-lib)
 :minimum-emacs-version (24)
 )

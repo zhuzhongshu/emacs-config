@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A minor mode to display a list of associated icons in dired buffers."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 3)
 )

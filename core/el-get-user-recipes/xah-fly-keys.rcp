@@ -1,6 +1,7 @@
 (:name xah-fly-keys
 :auto-generated t
 :type elpa
-:description "A efficient modal keybinding set minor mode based on ergonomics."
-:repo nil
+:description "ergonomic modal keybinding minor mode."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 1)
 )

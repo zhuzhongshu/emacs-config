@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Evil friendly minor-mode for editing lisp."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (evil paredit smartparens dash)
 :minimum-emacs-version (24 4)
 )

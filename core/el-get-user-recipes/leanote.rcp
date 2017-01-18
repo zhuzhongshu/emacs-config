@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "A minor mode writing markdown leanote"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (cl-lib request let-alist pcache s async)
 :minimum-emacs-version (24 4)
 )

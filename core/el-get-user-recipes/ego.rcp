@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "a static site generator based on org mode, forked from org-page."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ht mustache htmlize org dash simple-httpd)
 :minimum-emacs-version (24 5)
 )

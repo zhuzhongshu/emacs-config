@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "enhances usability of current xwidget browser"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (25)
 )

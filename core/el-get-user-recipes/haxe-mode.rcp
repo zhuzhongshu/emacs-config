@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "An Emacs major mode for Haxe"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

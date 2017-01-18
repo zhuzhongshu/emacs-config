@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "an Emacs interface to w3m"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

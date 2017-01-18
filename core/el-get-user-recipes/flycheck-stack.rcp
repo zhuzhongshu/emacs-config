@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Flychecker using stack ghci"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck haskell-mode)
 )

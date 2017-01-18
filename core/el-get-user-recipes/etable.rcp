@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Implementation of javax.swing.JTable for Emacs."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (dash interval-list)
 :minimum-emacs-version (24 4)
 )

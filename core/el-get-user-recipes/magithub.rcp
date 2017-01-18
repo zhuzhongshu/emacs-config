@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Magit interfaces for GitHub"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (magit git-commit with-editor s)
 :minimum-emacs-version (24 4)
 )

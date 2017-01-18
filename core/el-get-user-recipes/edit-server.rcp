@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "server that responds to edit requests from Chrome"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Generate drill cards from org tables"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash cl-lib org-plus-contrib)
 :minimum-emacs-version (24 1)
 )

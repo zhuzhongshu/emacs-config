@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Git-Svn extension for Magit"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (magit)
 :minimum-emacs-version (24 4)
 )

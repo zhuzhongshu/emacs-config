@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "A front-end program to mpg123/ogg123"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

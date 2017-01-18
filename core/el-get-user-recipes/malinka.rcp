@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "A C/C++ project configuration package for Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (s dash f cl-lib rtags projectile)
 )

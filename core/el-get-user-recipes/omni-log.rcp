@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "Logging utilities"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (ht s dash)
 :minimum-emacs-version (24)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Flycheck integration of Dedukti"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (flycheck dedukti-mode)
 )

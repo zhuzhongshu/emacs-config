@@ -1,6 +1,7 @@
 (:name xah-find
 :auto-generated t
 :type elpa
-:description "find replace in pure emacs lisp. Purpose similar to unix grep/sed."
-:repo nil
+:description "find replace in pure emacs lisp. Purpose similar to grep/sed."
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 1)
 )

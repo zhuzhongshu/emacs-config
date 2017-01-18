@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Use `wmctrl' to manage desktop windows via EWMH/NetWM."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

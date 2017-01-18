@@ -2,6 +2,7 @@
 :auto-generated t
 :type elpa
 :description "fontawesome utility"
-:repo nil
-:depends (helm-core cl-lib)
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:depends (helm-core)
+:minimum-emacs-version (24 4)
 )

@@ -2,7 +2,7 @@
 :auto-generated t
 :type elpa
 :description "get all completions from company backends"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (company dash)
 :minimum-emacs-version (24 3)
 )

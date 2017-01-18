@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "maintain a private diary in Emacs"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24 0)
 )

@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Interface for browsing and completing NixOS options."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :minimum-emacs-version (24)
 )

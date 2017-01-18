@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "Safely pretty-print greek letters, mathematical symbols, or anything else."
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

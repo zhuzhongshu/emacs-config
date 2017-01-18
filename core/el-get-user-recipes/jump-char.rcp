@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "navigation by char"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

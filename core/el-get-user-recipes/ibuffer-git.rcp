@@ -2,5 +2,5 @@
 :auto-generated t
 :type elpa
 :description "show git status in ibuffer column"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 )

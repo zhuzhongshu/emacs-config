@@ -2,6 +2,6 @@
 :auto-generated t
 :type elpa
 :description "Decide major-mode from EditorConfig"
-:repo nil
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (editorconfig)
 )
