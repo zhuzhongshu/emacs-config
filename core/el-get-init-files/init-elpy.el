@@ -8,16 +8,17 @@
 (setq elpy-syntax-check-command
       (concat python-executable-path "flake8"));;设置python后台程序为flake8
 
+(setq elpy-rpc-backend "rope")          ;设置rpc-backend为rope，也可以设置为jedi，提供代码解析功能。
 
 (elpy-use-ipython
  (concat python-executable-path "ipython3"));;使用ipython3作为interactive shell
 
-;; (elpy-use-ipython "ipython3")
-;; (elpy-use-ipython "ipython3")
+
 ;;以下两行修正一个ipython3的问题，由于第一行的作用导致shell里的自动补全失效
 ;;第二行的目的是避免每次启动ipython时都有自动补全失效的提示
 (setq python-shell-interpreter-args "--simple-prompt --pprint")
 (add-to-list 'python-shell-completion-native-disabled-interpreters "ipython3")
+
 
 
 (setq elpy-modules '(elpy-module-eldoc

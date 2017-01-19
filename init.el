@@ -110,6 +110,7 @@
        langtool
        multi-term
        org-bullets
+       ob-ipython
        popup
        popwin
        rainbow-delimiters
@@ -214,7 +215,10 @@
      ("" "wasysym" t)
      ("" "amssymb" t)
      ("" "hyperref" nil)
-     "\\tolerance=1000"))))
+     "\\tolerance=1000")))
+ '(package-selected-packages
+   (quote
+    (window-numbering vimish-fold swiper sqlup-mode spaceline smex smartparens rainbow-delimiters popwin org-bullets multi-term langtool ido-vertical-mode helm-swoop helm-gtags helm-dash helm-cscope helm-bibtex helm-ag gnuplot-mode fuzzy flycheck-ycmd flycheck-pos-tip flx-ido elpy ein company-ycmd company-quickhelp comment-dwim-2 chinese-fonts-setup bookmark+ avy auto-compile auctex-latexmk))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
