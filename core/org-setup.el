@@ -7,8 +7,8 @@
 
 (setq org-directory "/home/simplex/zzsweet/src/org") ;org-mode 默认目录
 (setq org-default-notes-file (concat org-directory "/capture/scratch.org"))
-
-
+(setq org-startup-folded "fold")     ;显示所有header
+(setq org-export-with-sub-superscripts nil) ;不把_和^解释为特殊字符，因为在latex模式中这种字符是包含在\(\)中的
 
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode)) ; not needed since Emacs 22.2
 ;;=======================================================
@@ -24,20 +24,20 @@
         "*TODO %?\n创建于： %U\n  %i\n  %a":clock-in t :clock-resume t)))
 ;;=======================================================
 ;;TODO
-(setq org-todo-keywords '((sequence "TODO" "DOING" "VERIFY" "|" "DONE" "DELEGATED")))
+(setq org-todo-keywords '((sequence "TODO" "DOING" "VERIFY" "|" "DONE" "CANCEL")))
 (setq org-log-done 'note);;TODO 设置成完成时，会提示输入批注
 (setq org-startup-indented t)
 ;;=======================================================
 ;;日程视图
 (setq org-agenda-files (list org-directory
-                             "")) ;显示在日程里的文件路径目前只有包含在org-directory里头的，后续可以根据需要扩展
+                             "/home/simplex/zzsweet/src/org/notes")) 
 
 ;;=======================================================
 ;;src block
 
-(setq org-src-fontify-natively t)
-(setq org-confirm-babel-evaluate nil)  
-
+(setq org-src-fontify-natively t)       ;采用该语言本身的高亮设置
+(setq org-confirm-babel-evaluate nil)   ;直接执行，不做询问
+(setq org-export-babel-evaluate nil)    ;导出的时候不执行代码
     
 ;;设置可执行的语言
 (require 'ob-ipython)                   ;提供ipython支持
@@ -69,7 +69,7 @@
 (setq org-bullets-bullet-list
   '("❤"
     "☢"
-    "⚒"
+    "➤"
     "✚"
     "▼"
     "◆"
@@ -78,7 +78,7 @@
     "♣"
     "✿"
     "✒"))
-    ;; ◇ ✚ ✜
+    ;; ◇ ✚ ✜ ⚒
     ;;▪◆ ♠ ♣ ♦ ☢ ❀ ◆ ◖ ▶
     ;; ► • ★ ▸
     ;;■ □ ▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ ▪ ▫ ▬ ▭ ▮ ▯ ▰ ▱ ▲ △ ▴ ▵ ▶ ▷ ▸ ▹ ► ▻ ▼ ▽ ▾ ▿⬒ ⬓ ⬔ ⬕ ⬖ ⬗ ⬘ ⬙
@@ -110,8 +110,7 @@
 \\setmainfont{Nimbus Roman}
 \\setmonofont{Monaco}
 \\definecolor{bg}{RGB}{0,43,54}
-\\usemintedstyle{monokai}
-\\hypersetup{hidelinks}"
+\\usemintedstyle{monokai}"
 
                                  ("\\section{%s}" . "\\section*{%s}")
                                  ("\\subsection{%s}" . "\\subsection*{%s}")
@@ -144,7 +143,7 @@
      ("" "marvosym" t)
      ("" "wasysym" t)
      ("" "amssymb" t)
-     ("" "hyperref" nil)
+     ("colorlinks=true,linkcolor = black,urlcolor = red,citecolor = blue" "hyperref" nil)
      "\\tolerance=1000"))))
 
 ;;用minted实现语法高亮，需要在latexmkrc文件中设置xelatex的运行选项带有-shell-escape
@@ -166,6 +165,16 @@
 
 
 ;;=======================================================
+;;导出html
+(setq org-html-head "<link rel=\"stylesheet\" type=\"text/css\" href=\"org.css\"/>")
+(setq org-html-mathjax-options
+   (quote
+    ((path "http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML")
+     (scale "100")
+     (align "center")
+     (indent "2em")
+     (mathml nil))))
+;;=======================================================
 ;;快捷键和hook
 (global-set-key "\C-cl" 'org-store-link)
 (global-set-key "\C-ca" 'org-agenda)
@@ -176,6 +185,9 @@
                            (company-mode -1)       
                            (turn-on-org-cdlatex)
                            (local-set-key [tab] 'org-cycle)
+                           (define-key yas-minor-mode-map (kbd "M-<tab>") nil)
+                           (define-key yas-keymap (kbd "M-<tab>") nil)
+                           (local-set-key (kbd "M-<tab>")'pcomplete)
                            (local-set-key [(control return)] 'set-mark-command)
                            (setq truncate-lines nil)))
 

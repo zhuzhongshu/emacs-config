@@ -2675,7 +2675,8 @@ Takes and optional `FRAME' as reference."
        ((,class (:foreground ,green))))
 
      `(org-tag
-       ((,class (:weight bold))))
+       ((,class (:weight bold)
+                (:fontfamily MonacoB))))
 
      `(org-time-grid
        ((,class (:foreground ,monokai-comments))))

@@ -43,7 +43,7 @@
                 (with-selected-frame frame
                   (set-fontset-font t 'unicode "Droid Sans Fallback 17"))))
   (set-fontset-font t 'unicode "Droid Sans Fallback 17"))
-
+(setq line-spacing nil)
 
 (provide 'appearance-setup)
 ;;; appearance-setup.el ends here

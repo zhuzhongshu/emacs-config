@@ -13,15 +13,13 @@
 ;; just comment it out by adding a semicolon to the start of the line.
 ;; You may delete these explanatory comments.
 (require 'package) 
-;; (setq package-archives '(("melpa" . "https://melpa.org/packages/")
-;;                            ("gnu" . "http://elpa.gnu.org/packages/")))
-
+(package-initialize)
 ;;中文镜像地址
 (setq package-archives '(("gnu"   . "https://elpa.emacs-china.org/gnu/")
                          ("melpa" . "https://elpa.emacs-china.org/melpa/")))
+;; (setq package-archives '(("melpa" . "https://melpa.org/packages/")
+;;                            ("gnu" . "http://elpa.gnu.org/packages/")))
 
-
-(package-initialize)
 (let ((minver "23.3"))
   (when (version<= emacs-version "23.1")
     (error "Your Emacs is too old -- this config requires v%s or higher" minver)))
@@ -154,6 +152,11 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(cfs--current-profile "program" t)
+ '(cfs--profiles-steps
+   (quote
+    (("program" . 7)
+     ("org-mode" . 7)
+     ("read-book" . 8))) t)
  '(company-auto-complete nil)
  '(company-auto-complete-chars (quote ignore))
  '(company-backends
@@ -218,7 +221,7 @@
      "\\tolerance=1000")))
  '(package-selected-packages
    (quote
-    (window-numbering vimish-fold swiper sqlup-mode spaceline smex smartparens rainbow-delimiters popwin org-bullets multi-term langtool ido-vertical-mode helm-swoop helm-gtags helm-dash helm-cscope helm-bibtex helm-ag gnuplot-mode fuzzy flycheck-ycmd flycheck-pos-tip flx-ido elpy ein company-ycmd company-quickhelp comment-dwim-2 chinese-fonts-setup bookmark+ avy auto-compile auctex-latexmk))))
+    (window-numbering sqlup-mode smex rainbow-delimiters popwin org-bullets multi-term ido-vertical-mode gnuplot-mode fuzzy comment-dwim-2 bookmark+))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

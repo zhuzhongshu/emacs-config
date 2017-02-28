@@ -1,0 +1,7 @@
+(:name morganey-mode
+:auto-generated t
+:type elpa
+:description "Major mode for editing Morganey files"
+:repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
+:minimum-emacs-version (24 4)
+)

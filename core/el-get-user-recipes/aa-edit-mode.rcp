@@ -1,8 +1,8 @@
 (:name aa-edit-mode
 :auto-generated t
 :type elpa
-:description "Major mode for editing AA"
+:description "Major mode for editing AA(S_JIS Art) and .mlt file"
 :repo ("melpa" . "https://elpa.emacs-china.org/melpa/")
 :depends (navi2ch)
-:minimum-emacs-version (24)
+:minimum-emacs-version (24 3)
 )

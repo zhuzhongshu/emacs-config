@@ -2,6 +2,12 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/" . "engine/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/" . "keras/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/" . "name_scope_1/")
+ ("/home/simplex/ome/oh-my-emacs/" . "modules/")
+ ("/home/simplex/ome/" . "oh-my-emacs/")
+ ("/home/simplex/zzsweet/src/sql/" . "收益率计算/")
  ("/home/simplex/zzsweet/src/org/notes/" . "data/")
  ("/home/simplex/.emacs.d/chinese-fonts-setup/" . "v4/")
  ("/usr/share/texmf-dist/tex/latex/" . "moderncv/")
@@ -14,7 +20,7 @@
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/" . "helpers/")
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/examples/" . "nlp/")
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/" . "tflearn/")
- ("/home/simplex/zzsweet/src/python/ML/DL/library-src/" . "tensorflow/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/" . "keras/")
  ("/home/simplex/zzsweet/src/python/ML/DL/tensorflow/tensorflow/" . "examples/")
  ("/home/simplex/zzsweet/src/python/ML/DL/tensorflow/" . "tensorflow/")
  ("/usr/lib/python3.5/site-packages/ad/" . "admath/")
@@ -27,7 +33,7 @@
  ("/home/simplex/zzsweet/src/python/ML/tensorflow/models/" . "image/")
  ("/home/simplex/zzsweet/src/python/ML/tensorflow/" . "examples/")
  ("/run/media/simplex/NOSDisk/Documents/LinuxHome/zzsweet/src/cjsc/" . "report/")
- ("/home/simplex/zzsweet/src/python/ML/DL/" . "study-tensorflow/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/" . "library-src/")
  ("/home/simplex/zzsweet/src/mfile/" . "bpm/")
  ("/home/simplex/zzsweet/src/cfamily/cpp_study/my_code/" . "gnuplotter/")
  ("/home/simplex/zzsweet/src/python/ML/pmtk3-master/" . "pmtkTools/")
@@ -57,7 +63,7 @@
  ("/etc/postgresql/9.5/" . "main/")
  ("/etc/postgresql/" . "9.5/")
  ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/" . "4th_model/")
- ("/home/simplex/zzsweet/src/cjsc/python/" . "kpca-svr/")
+ ("/home/simplex/zzsweet/src/cjsc/python/" . "wind_data/")
  ("/media/simplex/NOSDisk/desktop/cjsc/智能化研究/" . "评估指标/")
  ("/media/simplex/NOSDisk/desktop/cjsc/" . "智能化研究/")
  ("/media/simplex/NOSDisk/desktop/" . "cjsc/")
@@ -98,9 +104,9 @@
  ("/home/simplex/zzsweet/" . "src/")
  ("/home/simplex/zzsweet/src/thesis/manuscript/" . "texfile/")
  ("/home/simplex/zzsweet/src/thesis/" . "manuscript/")
- ("/home/simplex/zzsweet/src/" . "cjsc/")
+ ("/home/simplex/zzsweet/src/" . "python/")
  ("/home/simplex/.emacs.d/" . "core/")
- ("/home/simplex/" . "zzscript/")
+ ("/home/simplex/" . "zzsweet/")
  ("/home/yqyzzs/.emacs.d/elpa/" . "multi-term-20150220.1320/")
  ("/home/yqyzzs/.emacs.d/ycmd/cpp/" . "ycm/")
  ("/home/yqyzzs/.emacs.d/ycmd/" . "cpp/")
@@ -212,32 +218,43 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/simplex/.emacs.d/core/el-get-init-files/"
+ "/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/engine/"
+ "/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/layers/"
+ "/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/"
+ "/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/"
+ "/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/examples/"
+ "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/"
+ "/home/simplex/zzsweet/src/org/notes/"
+ "/home/simplex/zzsweet/src/org/"
  "/home/simplex/.emacs.d/core/"
- "/home/simplex/.emacs.d/elpa/ob-ipython-20160918.1001/"
+ "/home/simplex/.emacs.d/core/el-get-init-files/"
+ "/home/simplex/.emacs.d/"
+ "/home/simplex/.emacs.d/themes/"
+ "/home/simplex/zzsweet/src/python/"
+ "/home/simplex/.emacs.d/chinese-fonts-setup/v4/"
+ "/home/simplex/ome/oh-my-emacs/"
+ "/home/simplex/ome/oh-my-emacs/modules/"
+ "/home/simplex/zzsweet/src/sql/收益率计算/"
+ "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/"
+ "/home/simplex/zzsweet/src/cjsc/python/wind_data/"
+ "/home/simplex/zzsweet/src/python/learning_python/"
+ "/home/simplex/.emacs.d/el-get/el-get/"
  "/home/simplex/.emacs.d/el-get/"
+ "/home/simplex/.emacs.d/elpa/ob-ipython-20160918.1001/"
+ "/home/simplex/zzsweet/src/cjsc/python/"
  "/home/simplex/zzsweet/src/org/notes/data/"
  "/home/simplex/zzscript/"
- "/home/simplex/zzsweet/src/org/notes/"
  "/home/simplex/zzsweet/src/sql/"
- "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/"
- "/home/simplex/.emacs.d/"
- "/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/"
  "/home/simplex/zzsweet/src/cjsc/python/收益率计算/"
- "/home/simplex/zzsweet/src/cjsc/python/wind_data/"
- "/home/simplex/.emacs.d/chinese-fonts-setup/v4/"
- "/home/simplex/zzsweet/src/org/"
  "/home/simplex/zzsweet/src/notes/"
  "/home/simplex/zzsweet/src/cjsc/python/newtonRaphson/"
  "/home/simplex/zzsweet/src/python/ML/scikit-learn-master/sklearn/tree/"
- "/home/simplex/.emacs.d/themes/"
  "/home/simplex/"
  "/home/simplex/zzsweet/src/tex/cv/"
  "/usr/share/texmf-dist/tex/latex/moderncv/"
  "/home/simplex/zzsweet/src/tex/"
  "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/2nd_model/"
  "/home/simplex/zzsweet/src/cjsc/python/kpca-svr/3rd_model/"
- "/home/simplex/zzsweet/src/python/"
  "/etc/"
  "/home/simplex/.emacs.d/elpa/org-bullets-20140918.1137/"
  "/home/simplex/zzsweet/src/python/ML/DL/"
@@ -251,76 +268,99 @@
  "/home/simplex/zzsweet/src/org/capture/"
  "/home/simplex/zzsweet/src/python/ML/DL/library-src/tensorflow/tensorflow/models/rnn/"
  "/home/simplex/zzsweet/src/thesis/manuscript/texfile/"
- "/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/examples/others/"
- "/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/examples/images/"
- "/home/simplex/zzsweet/src/python/ML/DL/library-src/tensorlayer/tensorlayer/"
- "/home/simplex/zzsweet/src/python/ML/DL/library-src/tensorlayer/example/"
- "/usr/lib/python3.5/site-packages/ad/admath/"
- "/usr/lib/python3.5/site-packages/ad/"
- "/home/simplex/zzsweet/src/python/auto-diff/"
- "/home/simplex/zzsweet/src/python/ML/tensorflow/examples/tutorials/mnist/"
- "/home/simplex/zzsweet/src/python/ML/study/"
- "/home/simplex/zzsweet/src/python/ML/tensorflow/models/rnn/ptb/"
- "/home/simplex/zzsweet/src/python/ML/tensorflow/models/image/imagenet/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init-elpy.el"
- "elpy.el"
- "ob-ipython.el"
- "driver.py"
- "org-setup.el"
- ".loaddefs.el"
- "python-matplot-fig.png"
- "basic.el"
- "zzstart.sh"
- "sql.org"
+ "training.py"
+ "core.py"
+ "__init__.py"
+ "models.py"
+ "recurrent.py"
+ "setup.py"
+ "conv_lstm.py"
+ "cnn.py"
+ "lstm_mnist.py"
+ "study_lstm_kears.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/simplex/.emacs.d/core/" (22656 4762 377808 116000) "auto/" "_minted-org-setup/" "functions.el" "math-setup.el" "org-setup.fdb_latexmk" "appearance-setup.el" "base-bak.el" "elpy.el" "el-get-init-files/" "fzby" "./" "keybindings.el" "../" ".#base.elc2957Fr0" "org-setup.el" "tex-setup.el" ".#base.elc3035GmY" "cdlatex.el" "basic.el" "base.el" "el-get-user-recipes/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/engine/" (22690 39783 611439 100000) "__init__.py" "training.py" "topology.py" ".#topology.py" "#topology.py#" "../" "./")
 
- ("/home/simplex/zzsweet/src/org/notes/" (22656 4533 597256 700000) "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "机器学习选股.org" "todo.org" "Tensorflow笔记.org" "sql.org" "Simplex.cls" "pythonLibrary.tex" "pythonLibrary.org" "org-mode小技巧.org" "NewtonRaphson_TF.py" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "MLAPP笔记-Adaptive_basis_function_models.tex" "MLAPP笔记-Adaptive_basis_function_models.pdf" "MLAPP笔记-Adaptive basis function models.tex" "MLAPP笔记-Adaptive basis function models.pdf" "MLAPP笔记-1.pdf" "data/" "pythonLibrary.pdf" "../" "./")
+ ("/home/simplex/.emacs.d/" (22689 51780 890398 933000) "#ido.last#" "bookmarks" "smex-items" "request/" "tutorial/" "themes/" "chinese-fonts-setup/" "init.el" "LICENSE" "recentf" "el-get/" "url/" ".gitignore" ".debris/" "ycmd/" "auto-save-list/" "./" "../" ".directory" "snippets/" "ido.last" "ido.last~" "core/" "elpa/" "vimish-fold/" ".emacs.desktop" "network-security.data" ".git/" ".mc-lists.el")
 
- ("/home/simplex/.emacs.d/elpa/ob-ipython-20160918.1001/" (22656 3953 238342 286000) "ob-ipython-pkg.el" "ob-ipython-autoloads.el" "ob-ipython.elc" "ob-ipython.el" "./" "../" "driver.py")
+ ("/home/simplex/.emacs.d/core/" (22684 7028 481240 436000) "auto/" "_minted-org-setup/" "functions.el" "math-setup.el" "org-setup.fdb_latexmk" "appearance-setup.el" "base-bak.el" "elpy.el" "el-get-init-files/" "fzby" "./" "keybindings.el" "../" ".#base.elc2957Fr0" "org-setup.el" "#appearance-setup.el#" "tex-setup.el" ".#base.elc3035GmY" "cdlatex.el" "basic.el" "base.el" "el-get-user-recipes/")
 
- ("/home/simplex/.emacs.d/elpa/" (22656 3952 681672 53000) "pkg-info-20150517.443/" "dash-functional-20160615.1351/" "helm-bibtex-20161213.2242/" "pyvenv-20160527.442/" "f-20161002.800/" "elpy-20161211.1045/" "window-numbering-20160809.1110/" "helm-swoop-20160619.953/" "helm-ag-20161203.523/" "cl-generic-0.3/" "let-alist-1.0.4.signed" "auctex-11.89.7/" "smex-20151212.1409/" "avy-20160814.250/" "smartparens-20161203.436/" "ein-20161214.1102/" "multi-term-20160619.233/" "biblio-20161014.1604/" "popup-20160709.729/" "cl-generic-0.3.signed" "deferred-20160109.2046/" "request-deferred-20160419.1605/" "pos-tip-20150318.813/" "gnupg/" "packed-20160523.600/" "flycheck-20161117.144/" "company-quickhelp-20161113.1226/" "spaceline-20161209.1140/" "auctex-latexmk-20160923.7/" "popwin-20150315.600/" "find-file-in-project-20161202.2205/" "./" "../" "request-20161121.600/" "company-ycmd-20161026.2337/" "comment-dwim-2-20150825.1549/" "websocket-20161113.1736/" "biblio-core-20160901.1115/" "flycheck-pos-tip-20161112.912/" "flycheck-ycmd-20160913.130/" "auto-compile-20160711.1012/" "ob-ipython-20160918.1001/" "gnuplot-mode-20151122.2339/" "fuzzy-20150729.2037/" "chinese-fonts-setup-20161008.450/" "archives/" "highlight-indentation-20161012.209/" "async-20161103.1036/" "helm-dash-20161207.1232/" "helm-gtags-20160917.2238/" "org-bullets-20140918.1137/" "dash-20161121.55/" "auctex-11.89.7.signed" "parsebib-20151006.232/" "sqlup-mode-20161207.2044/" "ycmd-20161128.358/" "epl-20150517.433/" "helm-core-20161213.1754/" "vimish-fold-20160718.126/" "rainbow-delimiters-20160430.2358/" "flx-ido-20151030.1112/" "s-20160928.636/" "cl-lib-0.5.signed" "company-20161211.1850/" "let-alist-1.0.4/" "flx-20151030.1112/" "powerline-20161121.2320/" "helm-cscope-20150609.649/" "swiper-20161213.719/" "seq-2.19.signed" "seq-2.19/" "ido-vertical-mode-20160429.1037/" "langtool-20160116.1654/" "xcscope-20160628.2324/" "helm-20161212.2159/" "yasnippet-20161211.1918/" "cl-lib-0.5/" "bookmark+-20161211.1601/" "ivy-20161213.719/")
+ ("/home/simplex/zzsweet/src/org/" (22690 28583 681605 100000) "机器学习选股.org" "机器学习选股.fdb_latexmk" "_minted-机器学习选股/" "_minted-todo/" "todo.org_archive" "simplex.tex" "simplex.org_archive" "simplex.org" "reading.org" "notes/" "capture/" "auto/" ".directory" "../" "./")
 
- ("/home/simplex/.emacs.d/el-get/" (22656 3953 498343 948000) "ob-ipython/" "helm-core/" "highlight-indentation/" "auctex/" "ivy/" "helm-gtags/" "websocket/" "helm-cscope/" "flx-ido/" "helm/" "pkg-info/" "org-bullets/" "request/" "avy/" "spaceline/" "find-file-in-project/" "epl/" "elpy/" "ein/" "pos-tip/" "helm-swoop/" "chinese-fonts-setup/" ".loaddefs.elc" "biblio-core/" "el-get/" "gnuplot-mode/" "ido-vertical-mode/" "powerline/" "request-deferred/" "comment-dwim-2/" "multi-term/" "smex/" "fuzzy/" "popwin/" "langtool/" "company-ycmd/" "auto-compile/" "ycmd/" "deferred/" "async/" "cl-generic/" "pyvenv/" "./" "../" ".directory" "dash/" "flycheck-ycmd/" "f/" ".loaddefs.el" "smartparens/" "company-quickhelp/" "helm-bibtex/" "cl-lib/" ".status.el" "seq/" "parsebib/" "vimish-fold/" "bookmark+/" "sqlup-mode/" ".loaddefs.el~" "window-numbering/" "dash-functional/" "biblio/" "yasnippet/" "let-alist/" "packed/" "flx/" "swiper/" "auctex-latexmk/" "rainbow-delimiters/" "xcscope/" "popup/" "flycheck-pos-tip/" "helm-ag/" "helm-dash/" "company/" "flycheck/" "s/")
+ ("/home/simplex/zzsweet/src/org/notes/" (22690 31646 982002 600000) "pythonLibrary.out" "pythonLibrary.org" "pythonLibrary.log" "pythonLibrary.fls" "pythonLibrary.fdb_latexmk" "pythonLibrary.aux" "org-mode小技巧.org" "NewtonRaphson_TF.py" "MLAPP笔记-贝叶斯决策论与频率决策论.tex" "MLAPP笔记-混合模型与EM算法.tex" "MLAPP笔记-混合模型与EM算法.pdf" "MLAPP笔记-朴素贝叶斯.tex" "MLAPP笔记-有向图模型.tex" "MLAPP笔记-有向图模型.pdf" "MLAPP笔记-MC算法.tex" "算法杂记-自动微分简介.tex" "算法杂记-自动微分简介.pdf" "算法杂记-优化方法.tex" "算法杂记-优化方法.pdf" "算法杂记-SVD和PCA.tex" "算法杂记-SVD和PCA.pdf" "机器学习选股.toc" "机器学习选股.tex" "机器学习选股.pdf" "机器学习选股.out" "机器学习选股.org" "机器学习选股.md" "机器学习选股.log" "机器学习选股.fls" "机器学习选股.fdb_latexmk" "机器学习选股.aux" "_minted-机器学习选股/" "_minted-sql/" "_minted-pythonLibrary/" "todo.org_archive" "todo.org" "Tensorflow笔记.org" "sql.toc" "sql.tex" "sql.pdf" "sql.out" "sql.org" "sql.log" "sql.fls" "sql.fdb_latexmk" "sql.aux" "Simplex.cls" "pythonLibrary.toc" "pythonLibrary.tex" "MLAPP笔记-Adaptive_basis_function_models.rel" "MLAPP笔记-Adaptive_basis_function_models.pdf" "MLAPP笔记-Adaptive basis function models.tex" "MLAPP笔记-Adaptive basis function models.pdf" "MLAPP笔记-1.pdf" "data/" "auto/" "#MLAPP笔记-贝叶斯决策论与频率决策论.tex#" "pythonLibrary.pdf" "MLAPP笔记-Adaptive_basis_function_models.tex" "../" "./")
 
- ("/home/simplex/.emacs.d/" (22656 4273 416930 34000) "#ido.last#" "bookmarks" "smex-items" "request/" "tutorial/" "themes/" "chinese-fonts-setup/" "init.el" "LICENSE" "recentf" "el-get/" "url/" ".gitignore" ".debris/" "ycmd/" "auto-save-list/" "./" "../" ".directory" "snippets/" "ido.last" "ido.last~" "core/" "elpa/" "vimish-fold/" ".emacs.desktop" "network-security.data" ".git/" ".mc-lists.el")
+ ("/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/" (22690 37894 294233 200000) "tensorbord.py" "study_tensorflow.py" "study_lstm_kears.py" "study_lstm2.py" "study_lstm.py" "sp500.csv" "sinwave.csv" "scratch.py" "rnn_minst.py" "name_scope_1/" "MNIST_data/" "lstm_mnist.py" "improved_graph/" "imdb.pkl" "gan1.py" "CNN_MINST.py" "cnn.py" "auto_diff.py" "../" "./")
 
- ("/home/simplex/" (22656 2459 563709 97000) ".xinitrc" ".zsh_history" "播放列表/" ".cache/" ".zsh-update" ".steam/" ".texlive/" ".adobe/" ".bash_history" ".kde/" ".Xclients" ".dir_colors" ".ipython/" ".steampid" "Android安卓跟Linux系列.zip" ".gtkrc-2.0" "zzscript/" ".gnupg/" ".local/" "Downloads/" "新建文件夹/" ".zcompdump-simplex-pc-5.3.1" ".pulse-cookie" ".kingsoft/" ".lesshst" ".emacs.d/" ".jupyter/" "研究课题推荐表.doc" ".xsession" ".mozilla/" "ycmd/" "Pictures/" ".face" "Deep Learning for Event-Driven Stock Prediction.pdf" ".bash_logout" ".octave_packages" "./" ".fonts.conf" ".recently-used" ".gitconfig" "../" ".directory" "cudnn-8.0-linux-x64-v5.1.tgz" ".fonts/" ".kde4/" "Documents/" ".python_history" ".zshrc" ".Xauthority" ".macromedia/" "temp/" ".sogouinput/" ".nv/" ".xine/" ".face.icon" "SSRN-id2756331.pdf" ".profile" "SQL必知必会 第4版.pdf" "2016-12-04-NIPS.pdf" ".pip/" ".steampath" ".thunderbird/" ".extend.xinitrc" ".icons/" ".bash_profile" ".latexmkrc" ".oh-my-zsh/" ".xprofile" ".octave_hist" ".Xresources" ".bashrc" ".pki/" ".zotero/" ".goldendict/" ".gtkrc-2.0-kde4" ".latexmk" "zzsweet/" ".config/" ".wine/" ".saves/" ".lastpass/" ".esd_auth" ".psql_history" "minted.pdf")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/layers/" (22690 21855 913743 800000) "__init__.py" "wrappers.py" "recurrent.py" "pooling.py" "normalization.py" "noise.py" "local.py" "embeddings.py" "core.py" "convolutional_recurrent.py" "convolutional.py" "advanced_activations.py" "../" "./")
 
- ("/home/simplex/zzsweet/src/org/notes/data/" (22655 37074 875632 600000) "python-matplot-fig.png" "../" "./")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/keras/" (22690 21855 922813 100000) "__init__.py" "wrappers/" "utils/" "regularizers.py" "preprocessing/" "optimizers.py" "objectives.py" "models.py" "metrics.py" "layers/" "initializations.py" "engine/" "datasets/" "constraints.py" "callbacks.py" "backend/" "applications/" "activations.py" "../" "./")
 
- ("/home/simplex/zzsweet/src/sql/" (22655 31256 618728 900000) "study.sql" ".#study.sql" "#study.sql#" "../" "./")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/examples/" (22690 21855 888695 500000) "variational_autoencoder_deconv.py" "variational_autoencoder.py" "stateful_lstm.py" "reuters_mlp.py" "README.md" "pretrained_word_embeddings.py" "neural_style_transfer.py" "neural_doodle.py" "mnist_transfer_cnn.py" "mnist_swwae.py" "mnist_sklearn_wrapper.py" "mnist_siamese_graph.py" "mnist_net2net.py" "mnist_mlp.py" "mnist_irnn.py" "mnist_hierarchical_rnn.py" "mnist_cnn.py" "lstm_text_generation.py" "lstm_benchmark.py" "imdb_lstm.py" "imdb_fasttext.py" "imdb_cnn_lstm.py" "imdb_cnn.py" "imdb_bidirectional_lstm.py" "image_ocr.py" "deep_dream.py" "conv_lstm.py" "conv_filter_visualization.py" "cifar10_cnn.py" "babi_rnn.py" "babi_memnn.py" "antirectifier.py" "addition_rnn.py" "mnist_acgan.py" "../" "./")
 
- ("/home/simplex/zzsweet/src/org/" (22655 31272 469596 800000) "机器学习选股.org" "机器学习选股.fdb_latexmk" "_minted-机器学习选股/" "_minted-todo/" "todo.org_archive" "todo.org" "simplex.tex" "simplex.org_archive" "simplex.org" "notes/" "capture/" "auto/" ".directory" ".#simplex.org" "#simplex.org#" "../" "./")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/keras/" (22690 21855 924607 500000) "tests/" "setup.py" "setup.cfg" "README.md" "pytest.ini" "LICENSE" "keras/" "ISSUE_TEMPLATE.md" "examples/" "docs/" "docker/" "CONTRIBUTING.md" ".travis.yml" ".gitignore" ".git/" "../" "./")
 
- ("/etc/" (22655 24864 30401 70000) "rc.d/" "X11/" "acpi/" "gshadow" "timezone" "mke2fs.conf" "slp.conf" "gssproxy/" "avahi/" "iptables/" "sudoers.d/" "smartd.conf" "libnl/" "sudoers" "papersize" "dnsmasq.conf" "localtime" "nanorc" "securetty" "cpufreq-bench.conf" "gai.conf" "login.defs" "adobe/" "exports.d/" "dbus-1/" "gtk-2.0/" "yaourtrc" "crypttab" "systemd/" "ntp.conf" "request-key.conf" "sysctl.d/" "nbd-server/" "mkinitcpio.conf" "profile" "healthd.conf" "inputrc" "rsyncd.conf" "OpenCL/" "bash.bash_logout" "bumblebee/" "gss/" "rpc" "pkcs11/" "security/" "slp.spi" "ksysguarddrc" "ssh/" "hosts.allow" "passwd-" ".pwd.lock" "mysql/" "initcpio/" "os-release" "gtk-3.0/" "libreoffice/" "sddm.conf" "signon-ui/" "gconf/" ".updated" "fonts/" "ImageMagick-6/" "hosts.deny" "mail.rc" "rc_keymaps/" "issue" "texmf/" "protocols" "services" "netconfig" "drirc" "hp/" "locale.gen" "UPower/" "cups/" "depmod.d/" "pm/" "profile.d/" "geoclue/" "machine-id" "lvm/" "nsswitch.conf" "nfsmount.conf" "openmpi/" "bash_completion.d/" "slp.reg" "vdpau_wrapper.cfg" "kernel/" "modprobe.d/" "adjtime" "sane.d/" "lirc/" "slsh.rc" "pango/" "zsh/" "dhcpcd.conf" "openldap/" "pam.d/" "nscd.conf" "skel/" "mkinitcpio.d/" "default/" "logrotate.d/" "pulse/" "manjaro-release" "libao.conf" "xdg/" "rc.local" "shadow" "nilfs_cleanerd.conf" "hostname" "request-key.d/" "pcmcia/" "usb_modeswitch.conf" "ld.so.conf" "logrotate.conf" "ld.so.cache" "libpaper.d/" "resolv.conf" "bash.bashrc" "udev/" "sysconfig/" "lsb-release" "cupshelpers/" "ts.conf" "xinetd.d/" "binfmt.d/" "pacman.d/" "mtab" "resolvconf.conf" "iproute2/" "shadow-" "mdadm.conf" "plymouth/" "sensors.d/" "fstab" "host.conf" "tmpfiles.d/" "bluetooth/" "locale.conf" "fuse.conf" "gemrc" "java-8-openjdk/" "wpa_supplicant/" "resolv.conf.bak" "mono/" "usb_modeswitch.d/" "openvpn/" "makepkg.conf" "xml/" "../" "pacman.conf" "sensors3.conf" "gshadow-" "krb5.conf" "foomatic/" "ca-certificates/" "exports" "vconsole.conf" "conf.d/" "ld.so.conf.d/" "rc_maps.cfg" "updatedb.conf" "usb_modeswitch.setup" "group-" "wgetrc" "bash/" "hosts" "passwd" "signond.conf" "printcap" "polkit-1/" "vpnc/" "mpd.conf" "environment" "man_db.conf" "samba/" "./" "motd" "pacman-mirrors.conf" "asound.conf" "rc.local.shutdown" "grub.d/" "modules-load.d/" "gdb/" "ppp/" "shells" "group" "sni-qt.conf" "openswap.conf" "ssl/" "NetworkManager/" "ethertypes" "mime.types" "trusted-key.key" "udisks2/")
+ ("/home/simplex/zzsweet/src/python/ML/DL/library-src/" (22690 21809 931716 600000) "tflearn/" "tensorlayer/" "tensorflow-models/" "tensorflow/" "keras/" "../" "./")
 
- ("/home/simplex/zzsweet/src/cjsc/python/wind_data/" (22655 23367 961278 600000) "zzsszz.csv" "zzs.xls" "stock_data_fetch.py" "stocks_code_list.txt" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "data_to_psql.py" "data_fecth.py" "daily_consumer.csv" ".#data_fecth.py" "#data_fecth.py#" "#!Python!#" "../" "./")
+ ("/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/name_scope_1/" (22689 27505 971124 600000) "events.out.tfevents.1486973809.simplex-pc" "events.out.tfevents.1486973776.simplex-pc" "../" "./")
 
- ("/home/simplex/.emacs.d/core/el-get-init-files/" (22655 25458 615070 200000) "init-window-numbering.elc" "init-ido-vertical-mode.el" "octave-workspace" "init-smex.elc" "init-auctex-latexmk.elc" "init-auto-compile.el" "init-company-ycmd.el" "init-langtool.elc" "init-spaceline.elc" "init-auto-compile.elc" "init-powerline-bak.el" "init-langtool.el" "init-smex.el" "init-sqlup-mode.el" "init-helm.el" "init-avy.el" "init-multi-term.elc" "init-helm-bibtex.el" "init-smartparens.el" "init-elpy.el" "init-vimish-fold.elc" "init-ein.elc" "init-flx-ido.elc" "init-flycheck.elc" "init-swiper.elc" "init-smartparens.elc" "init-flycheck-ycmd.el" "init-window-numbering.el" "init-gnuplot-mode.el" "init-helm-swoop.el" "./" "init-ido-vertical-mode.elc" "init-yasnippet.elc" "../" "init-ycmd.el" "init-sqlup-mode.elc" "init-flycheck-ycmd.elc" "init-swiper.el" "init-popwin.el" "init-spaceline.el" "init-company.el" "init-flycheck.el" "init-xcscope.elc" "init-helm-swoop.elc" "init-company.elc" "init-company-ycmd.elc" "init-yasnippet.el" "init-ein.el" "init-elpy.elc" "init-chinese-fonts-setup.elc" "init-vimish-fold.el" "init-gnuplot-mode.elc" "init-flx-ido.el" "init-avy.elc" "init-ycmd.elc" "init-auto-complete.el" "init-auctex-latexmk.el" "init-auto-complete.elc" "init-xcscope.el" "init-chinese-fonts-setup.el" "init-multi-term.el" "init-popwin.elc" "init-helm.elc" "init-helm-bibtex.elc")
+ ("/home/simplex/" (22689 37861 308166 381000) ".xinitrc" ".zsh_history" "播放列表/" ".cache/" ".zsh-update" ".steam/" ".texlive/" ".adobe/" ".bash_history" ".kde/" ".Xclients" ".dir_colors" ".ipython/" "经纪中间业务平台IFS20_组合委托-2017版_20170203.doc" ".steampid" ".gtkrc-2.0" "zzscript/" ".gnupg/" ".local/" "智能理财运营系统_功能说明书_一阶段V0.1 -20170209-B.xls" "Downloads/" "新建文件夹/" ".zcompdump-simplex-pc-5.3.1" ".pulse-cookie" ".kingsoft/" ".lesshst" ".emacs.d/" ".jupyter/" "研究课题推荐表.doc" "%APPDATA%/" ".xsession" ".mozilla/" "长江证券IFS20平台支持理财商城二期项目开发实施报告-20170117-V2.3.doc" "ycmd/" "Pictures/" ".face" "Deep Learning for Event-Driven Stock Prediction.pdf" ".bash_logout" ".octave_packages" "./" ".fonts.conf" ".recently-used" ".gitconfig" "../" ".directory" ".fonts/" ".kde4/" "Documents/" ".python_history" ".zshrc" ".Xauthority" ".keras/" "code.tar" ".macromedia/" "temp/" ".sogouinput/" ".nv/" ".xine/" ".face.icon" "SSRN-id2756331.pdf" ".profile" "2016-12-04-NIPS.pdf" ".pip/" ".steampath" ".thunderbird/" ".extend.xinitrc" ".icons/" ".bash_profile" "tensorflow_gpu-0.12.1-cp35-cp35m-manylinux1_x86_64.whl" ".latexmkrc" ".oh-my-zsh/" ".xprofile" ".octave_hist" ".Xresources" ".bashrc" "a154ffbcec538a4161a406abf62f5b76-original.pdf" ".pki/" ".zotero/" ".goldendict/" ".gtkrc-2.0-kde4" ".latexmk" "zzsweet/" ".config/" ".wine/" ".saves/" ".lastpass/" ".esd_auth" ".psql_history" "minted.pdf")
 
- ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/4th_model/" (22655 30678 831888 100000) "__pycache__/" "stock_predict.py" "stock_data_preprocess.py" "stocks_predict_experimental.py" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "em.csv" "dropna.csv" "daily_consumer.csv" ".git/" ".#stocks_predict_experimental.py" "#stock_predict.py#" "#stocks_predict_experimental.py#" "../" "./")
+ ("/home/simplex/.emacs.d/core/el-get-init-files/" (22663 4630 593037 898000) "init-window-numbering.elc" "init-ido-vertical-mode.el" "octave-workspace" "init-smex.elc" "init-auctex-latexmk.elc" "init-auto-compile.el" "init-company-ycmd.el" "init-langtool.elc" "init-spaceline.elc" "init-auto-compile.elc" "init-powerline-bak.el" "init-langtool.el" "init-smex.el" "init-sqlup-mode.el" "init-helm.el" "init-avy.el" "init-multi-term.elc" "init-helm-bibtex.el" "init-smartparens.el" "init-elpy.el" "init-vimish-fold.elc" "init-ein.elc" "init-flx-ido.elc" "init-flycheck.elc" "init-swiper.elc" "init-smartparens.elc" "init-flycheck-ycmd.el" "init-window-numbering.el" "init-gnuplot-mode.el" "init-helm-swoop.el" "./" "init-ido-vertical-mode.elc" "init-yasnippet.elc" "../" "init-ycmd.el" "init-sqlup-mode.elc" "init-flycheck-ycmd.elc" "init-swiper.el" "init-popwin.el" "init-spaceline.el" "init-company.el" "init-flycheck.el" "init-xcscope.elc" "init-helm-swoop.elc" "init-company.elc" "init-company-ycmd.elc" "init-yasnippet.el" "init-ein.el" "init-elpy.elc" "init-chinese-fonts-setup.elc" "init-vimish-fold.el" "init-gnuplot-mode.elc" "init-flx-ido.el" "init-avy.elc" "init-ycmd.elc" "init-auto-complete.el" "init-auctex-latexmk.el" "init-auto-complete.elc" "init-xcscope.el" "init-chinese-fonts-setup.el" "init-multi-term.el" "init-popwin.elc" "init-helm.elc" "init-helm-bibtex.elc")
+
+ ("/home/simplex/zzsweet/src/python/" (22662 57644 629957 300000) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "scratch.py" "notebook/" "newtonRaphson.py" "MLiA-src/" "ML/" "learning_python/" "auto-diff/" "algorithms/" "../" "./")
+
+ ("/home/simplex/.emacs.d/themes/" (22665 26171 340696 761000) "./" "../" "gnome2-theme.el" "monolized-theme.el")
+
+ ("/home/simplex/.emacs.d/chinese-fonts-setup/v4/" (22660 41205 222942 716000) "program.el" "org-mode.el" "./" "../" "read-book.el")
+
+ ("/home/simplex/ome/oh-my-emacs/" (22659 19009 552230 887000) "README.org" "Makefile" "init.el" "LICENSE" "modules/" "screenshots/" "ome.org" ".gitignore" "ome-publish.org" "CHANGELOG.org" "./" "../" "CONTRIBUTING.org" "core/" "custom.el" ".git/")
+
+ ("/home/simplex/ome/oh-my-emacs/modules/" (22659 18855 796287 964000) "ome-ruby.org" "ome-sml.org" "ome-tex.org" "ome-haskell.org" "ome-javascript.org" "ome-emacs-lisp.org" "ome-java.org" "./" "../" "ome-php.org" "ome-clojure.org" "ome-cc.org" "ome-scheme.org" "ome-web.org" "ome-ocaml.org" "ome-golang.org" "ome-experimental.org" "ome-python.org" "ome-common-lisp.org")
+
+ ("/home/simplex/ome/" (22659 18335 410519 958000) "./" "../" "oh-my-emacs/")
+
+ ("/etc/" (22656 55018 597676 826000) "rc.d/" "X11/" "acpi/" "gshadow" "timezone" "mke2fs.conf" "slp.conf" "gssproxy/" "avahi/" "iptables/" "sudoers.d/" "smartd.conf" "libnl/" "sudoers" "papersize" "dnsmasq.conf" "localtime" "nanorc" "securetty" "cpufreq-bench.conf" "gai.conf" "login.defs" "adobe/" "exports.d/" "dbus-1/" "gtk-2.0/" "yaourtrc" "crypttab" "systemd/" "ntp.conf" "request-key.conf" "sysctl.d/" "nbd-server/" "mkinitcpio.conf" "profile" "healthd.conf" "inputrc" "rsyncd.conf" "OpenCL/" "bash.bash_logout" "bumblebee/" "gss/" "rpc" "pkcs11/" "security/" "slp.spi" "ksysguarddrc" "ssh/" "hosts.allow" "passwd-" ".pwd.lock" "mysql/" "initcpio/" "os-release" "gtk-3.0/" "libreoffice/" "sddm.conf" "signon-ui/" "gconf/" ".updated" "fonts/" "ImageMagick-6/" "hosts.deny" "mail.rc" "rc_keymaps/" "issue" "texmf/" "protocols" "services" "netconfig" "drirc" "hp/" "locale.gen" "UPower/" "cups/" "depmod.d/" "pm/" "profile.d/" "geoclue/" "machine-id" "lvm/" "nsswitch.conf" "nfsmount.conf" "openmpi/" "bash_completion.d/" "slp.reg" "vdpau_wrapper.cfg" "kernel/" "modprobe.d/" "adjtime" "sane.d/" "lirc/" "slsh.rc" "pango/" "zsh/" "dhcpcd.conf" "openldap/" "pam.d/" "nscd.conf" "skel/" "mkinitcpio.d/" "default/" "logrotate.d/" "pulse/" "manjaro-release" "libao.conf" "xdg/" "rc.local" "shadow" "nilfs_cleanerd.conf" "hostname" "request-key.d/" "pcmcia/" "usb_modeswitch.conf" "ld.so.conf" "logrotate.conf" "ld.so.cache" "libpaper.d/" "resolv.conf" "bash.bashrc" "udev/" "sysconfig/" "lsb-release" "cupshelpers/" "ts.conf" "xinetd.d/" "binfmt.d/" "pacman.d/" "mtab" "resolvconf.conf" "iproute2/" "shadow-" "mdadm.conf" "plymouth/" "sensors.d/" "fstab" "host.conf" "tmpfiles.d/" "bluetooth/" "locale.conf" "fuse.conf" "gemrc" "java-8-openjdk/" "wpa_supplicant/" "resolv.conf.bak" "mono/" "usb_modeswitch.d/" "openvpn/" "makepkg.conf" "xml/" "../" "pacman.conf" "sensors3.conf" "gshadow-" "krb5.conf" "foomatic/" "ca-certificates/" "exports" "vconsole.conf" "conf.d/" "ld.so.conf.d/" "rc_maps.cfg" "updatedb.conf" "usb_modeswitch.setup" "group-" "wgetrc" "bash/" "hosts" "passwd" "signond.conf" "printcap" "polkit-1/" "vpnc/" "mpd.conf" "environment" "man_db.conf" "samba/" "./" "motd" "pacman-mirrors.conf" "asound.conf" "rc.local.shutdown" "grub.d/" "modules-load.d/" "gdb/" "ppp/" "shells" "group" "sni-qt.conf" "openswap.conf" "ssl/" "NetworkManager/" "ethertypes" "mime.types" "trusted-key.key" "udisks2/")
+
+ ("/home/simplex/zzsweet/src/cjsc/python/" (22657 28716 513725 700000) "收益率计算/" "wind_data/" "testWind.py" "newtonRaphson/" "lstm/" "kpca-svr/" "../" "./")
+
+ ("/home/simplex/.emacs.d/el-get/el-get/" (22657 22415 719502 374000) "recipes/" "el-get-bundle.el" "el-get-recipes.el" ".travis.yml" "el-get-check.el" ".gitignore" "el-get-core.el" "el-get-status.el" "test/" "README.md" "methods/" "./" "../" "el-get.info" "el-get-custom.el" ".directory" "cleanup-whitespace.sh" "el-get-list-packages.el" ".dir-locals.el" "el-get.texi" "el-get-notify.el" "dir" "el-get-dependencies.el" "el-get-install.el" "el-get-methods.el" "el-get-byte-compile.el" "logo/" "el-get-autoloading.el" ".git/" "el-get.el" "el-get-build.el")
+
+ ("/home/simplex/zzsweet/src/sql/收益率计算/" (22657 26128 400539 800000) "split.fnc" "FUNC_PIF_LCMB_RATE_RQ_产品收益率计算.fnc" "FUNC_PIF_LCMB_RATE_excel收益率求解.fnc" "FUNC_PIF_LCMB_PMT_计算每期应投资金额.fnc" "FUNC_PIF_LCMB_CPZZC_计算产品总资产.fnc" "FUNC_PIF_LCMB_CPPX_产品排序.fnc" "FUNC_PIF_LCMB_CPFE_Z_计算产品总份额.fnc" "FUNC_PIF_LCMB_CPDWJZ_求产品单位净值.fnc" "func_pif_fx_收益率求解方程.fnc" "../" "./")
+
+ ("/home/simplex/.emacs.d/elpa/org-bullets-20140918.1137/" (22656 20688 433236 523000) "org-bullets-autoloads.el" "./" "../" "org-bullets.elc" "org-bullets-pkg.el" "org-bullets.el")
+
+ ("/home/simplex/zzsweet/src/org/notes/data/" (22656 10417 74619 0) "python-matplot-fig.png" "image.png" "../" "./")
+
+ ("/home/simplex/zzsweet/src/python/learning_python/" (22656 33457 388640 0) "class.py" "../" "./")
+
+ ("/home/simplex/zzsweet/src/cjsc/python/wind_data/" (22656 46380 21479 600000) "zzsszz.csv" "zzs.xls" "stock_data_fetch.py" "stocks_code_list.txt" "public.csv" "optional_consumer.csv" "medical.csv" "material.csv" "information.csv" "industry.csv" "finance.csv" "energy.csv" "data_to_psql.py" "data_fecth.py" "daily_consumer.csv" "#data_to_psql.py#" "#!Python!#" "../" "./")
+
+ ("/home/simplex/.emacs.d/el-get/" (22656 29340 251088 250000) "ob-ipython/" "helm-core/" "highlight-indentation/" "auctex/" "ivy/" "helm-gtags/" "websocket/" "helm-cscope/" "flx-ido/" "helm/" "pkg-info/" "org-bullets/" "request/" "avy/" "spaceline/" "find-file-in-project/" "epl/" "elpy/" "ein/" "pos-tip/" "helm-swoop/" "chinese-fonts-setup/" "biblio-core/" "el-get/" "gnuplot-mode/" "ido-vertical-mode/" "powerline/" "request-deferred/" "comment-dwim-2/" "multi-term/" "smex/" "fuzzy/" "popwin/" "langtool/" "company-ycmd/" "auto-compile/" "ycmd/" "deferred/" "async/" "cl-generic/" "pyvenv/" "./" "../" ".directory" "dash/" "flycheck-ycmd/" "f/" "smartparens/" "company-quickhelp/" "helm-bibtex/" "cl-lib/" ".status.el" "seq/" "parsebib/" "vimish-fold/" "bookmark+/" "sqlup-mode/" "window-numbering/" "dash-functional/" "biblio/" "yasnippet/" "let-alist/" "packed/" "flx/" "swiper/" "auctex-latexmk/" "rainbow-delimiters/" "xcscope/" "popup/" "flycheck-pos-tip/" "helm-ag/" "helm-dash/" "company/" "flycheck/" "s/")
+
+ ("/home/simplex/.emacs.d/elpa/ob-ipython-20160918.1001/" (22656 28960 552045 465000) "ob-ipython-pkg.el" "ob-ipython-autoloads.el" "ob-ipython.elc" "ob-ipython.el" "./" "../" "driver.py")
+
+ ("/home/simplex/.emacs.d/elpa/" (22656 20692 283291 386000) "pkg-info-20150517.443/" "spaceline-20170102.59/" "dash-functional-20160615.1351/" "smartparens-20170104.410/" "pyvenv-20160527.442/" "f-20161002.800/" "window-numbering-20160809.1110/" "helm-swoop-20160619.953/" "helm-ag-20161203.523/" "cl-generic-0.3/" "let-alist-1.0.4.signed" "auctex-11.89.7/" "smex-20151212.1409/" "ein-20170117.455/" "avy-20160814.250/" "multi-term-20160619.233/" "biblio-20161014.1604/" "popup-20160709.729/" "cl-generic-0.3.signed" "deferred-20160109.2046/" "request-deferred-20160419.1605/" "pos-tip-20150318.813/" "gnupg/" "packed-20160523.600/" "flycheck-20161117.144/" "company-quickhelp-20161113.1226/" "auctex-latexmk-20160923.7/" "popwin-20150315.600/" "find-file-in-project-20161202.2205/" "./" "../" "bookmark+-20170113.1310/" "request-20161121.600/" "company-ycmd-20161026.2337/" "comment-dwim-2-20150825.1549/" "websocket-20161113.1736/" "biblio-core-20160901.1115/" "flycheck-pos-tip-20161112.912/" "flycheck-ycmd-20160913.130/" "auto-compile-20160711.1012/" "vimish-fold-20161231.1600/" "ob-ipython-20160918.1001/" "gnuplot-mode-20151122.2339/" "fuzzy-20150729.2037/" "chinese-fonts-setup-20161008.450/" "archives/" "highlight-indentation-20161012.209/" "async-20161103.1036/" "helm-gtags-20170115.2129/" "helm-dash-20161207.1232/" "org-bullets-20140918.1137/" "dash-20161121.55/" "auctex-11.89.7.signed" "parsebib-20151006.232/" "sqlup-mode-20161207.2044/" "ycmd-20161128.358/" "epl-20150517.433/" "helm-core-20161213.1754/" "helm-bibtex-20170103.1125/" "rainbow-delimiters-20160430.2358/" "flx-ido-20151030.1112/" "elpy-20161229.1103/" "s-20160928.636/" "cl-lib-0.5.signed" "company-20161211.1850/" "let-alist-1.0.4/" "flx-20151030.1112/" "powerline-20161121.2320/" "helm-cscope-20150609.649/" "swiper-20161213.719/" "seq-2.19.signed" "seq-2.19/" "ido-vertical-mode-20160429.1037/" "langtool-20160116.1654/" "xcscope-20160628.2324/" "helm-20161212.2159/" "yasnippet-20161211.1918/" "cl-lib-0.5/" "ivy-20161213.719/")
+
+ ("/home/simplex/zzsweet/" (22656 13069 526013 400000) "src/" "SQLdata/" "mfile/" "desktop.ini" "cad/" "bib.txt" ".octaverc" ".directory" ".debris/" "../" "./")
+
+ ("/home/simplex/.emacs.d/el-get/el-get/recipes/" (22655 17545 441545 906000) "../" "./")
+
+ ("/home/simplex/zzsweet/src/sql/" (22656 13081 272043 700000) "收益率计算.zip" "收益率计算/" "study.sql" "../" "./")
+
+ ("/home/simplex/zzsweet/src/" (22656 3989 363494 400000) "thesis/" "tex/" "sql/" "shell/" "python/" "org/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "notes/" "mfile/" "maxima/" "lisp/" "job/" "gnuplot/" "fzby.cpp~" "doc/" "cmake/" "cjsc/" "cfamily/" ".directory" "../" "./")
 
  ("/home/simplex/zzsweet/src/cjsc/python/newtonRaphson/" (22655 13063 68304 800000) "解方程.doc" "newtonRaphson.py" "../" "./")
-
- ("/home/simplex/.emacs.d/chinese-fonts-setup/v4/" (22654 56922 294861 365000) "program.el" "org-mode.el" "./" "../" "read-book.el")
 
  ("/home/simplex/zzsweet/src/cjsc/python/收益率计算/" (22655 13039 816489 200000) "基金定投组合收益率计算方法1205.doc" "newtonRaphson.py" "diff.tex" "diff.pdf" "auto/" "../" "./")
 
  ("/home/simplex/zzsweet/src/cfamily/cpp_study/my_code/gnuplotter/" (22358 53945 859704 800000) "tttt.cc" "test.cc" "test" "gnuplotter.h" "gnuplotter.cc" "CMakeLists.txt" "build/" "../" "./")
-
- ("/home/simplex/.emacs.d/themes/" (22654 11513 967598 204000) "./" "../" "gnome2-theme.el" "monolized-theme.el")
-
- ("/home/simplex/zzsweet/" (22654 10626 42422 200000) "src/" "SQLdata/" "mfile/" "desktop.ini" "cad/" "bib.txt" ".octaverc" ".directory" ".debris/" "../" "./")
-
- ("/home/simplex/zzsweet/src/python/ML/DL/study-tensorflow/" (22652 48304 28723 200000) "study_tensorflow.py" "study_lstm2.py" "study_lstm.py" "sp500.csv" "sinwave.csv" "MNIST_data/" "imdb.pkl" "CNN_MINST.py" "cnn.py" "auto_diff.py" "../" "./")
 
  ("/home/simplex/zzsweet/src/notes/" (22653 33540 938286 100000) ".directory" "../" "./")
 
@@ -356,11 +396,7 @@
 
  ("/home/simplex/zzsweet/src/python/ML/" (22610 23311 151386 0) "study/" "scikit-learn-master/" "pmtkdata-master.zip" "pmtk3-master.zip" "pmtk3-master/" "pca/" "logReg.py" "DL/" "data/" "#logReg.py#" "../" "./")
 
- ("/home/simplex/zzsweet/src/" (22499 16576 699563 600000) "thesis/" "tex/" "sql/" "shell/" "python/" "org/" "Numerical Recipes in C++ 2nd Source Code.rar" "Numerical recipes/" "notes/" "mfile/" "maxima/" "lisp/" "job/" "gnuplot/" "fzby.cpp~" "doc/" "cmake/" "cjsc/" "cfamily/" ".directory" "../" "./")
-
  ("/home/simplex/zzsweet/src/cjsc/python/kpca-svr/" (22643 9238 97368 300000) "__pycache__/" "stock_predict.py" "stock_data_preprocess.py" "stock_data_fetch_original.py" "stock_data_fetch.py" "stocks-data-original.xlsx" "stocks-data-original-3.xlsx" "stocks-data-original-2.xlsx" "stocks-code-list.txt" "random_predict.py" "kpca-svr.py" "data_set.mat" "4th_model/" "3rd_model/" "2nd_model/" "../" "./")
-
- ("/home/simplex/zzsweet/src/python/" (22642 18083 388564 300000) "__pycache__/" "testJedi.pyc" "testJedi.py" "test.npy" "notebook/" "newtonRaphson.py" "MLiA-src/" "ML/" "learning_python/" "auto-diff/" "algorithms/" "../" "./")
 
  ("/home/simplex/zzsweet/src/maxima/" (22372 53019 252915 200000) "QSC/" "mode-solver.mac" "mode-mode.mac" "IFD4/" "2point.mac~" "2point.mac" "#mode-solver.mac#" "#mode-mode.mac#" "../" "./")
 
@@ -370,15 +406,9 @@
 
  ("/home/simplex/zzsweet/src/python/algorithms/" (22638 24718 85212 800000) "sort.py" "scratch.py" "maximum_subarray.py" "../" "./")
 
- ("/home/simplex/zzsweet/src/cjsc/python/" (22637 61114 449729 800000) "收益率计算/" "wind_data/" "testWind.py" "newtonRaphson/" "lstm/" "kpca-svr/" "../" "./")
-
  ("/home/simplex/zzscript/" (22639 23152 503088 5000) "rj/" ".zzsplitter.sh.kate-swp" "ascii" "zzsbak.sh" "ubuntu.sh" "modifyme.sh" "zzsremote.sh" "proxy.sh.part" "iphostname.sh" "zzsnet.sh" "host.conf" "zzsplitter.sh" "./" "../" "zzstart.sh" "zzs.txt" "zzserver.sh" "plotter")
 
  ("/home/" (22636 60267 914722 65000) "simplex/" "lost+found/" "./" "../")
-
- ("/home/simplex/.emacs.d/elpa/org-bullets-20140918.1137/" (22635 3007 47297 28000) "org-bullets-autoloads.el" "org-bullets-pkg.el" "./" "org-bullets.el" "org-bullets.elc" "../")
-
- ("/home/simplex/zzsweet/src/python/learning_python/" (22568 33419 540286 500000) "class.py" "../" "./")
 
  ("/home/simplex/zzsweet/src/python/ML/scikit-learn-master/" (22571 1335 543429 200000) "sklearn/" "site.cfg" "setup32.cfg" "setup.py" "setup.cfg" "README.rst" "PULL_REQUEST_TEMPLATE.md" "MANIFEST.in" "Makefile" "ISSUE_TEMPLATE.md" "examples/" "doc/" "COPYING" "CONTRIBUTING.md" "circle.yml" "build_tools/" "benchmarks/" "AUTHORS.rst" "appveyor.yml" ".travis.yml" ".mailmap" ".landscape.yml" ".gitignore" ".gitattributes" ".coveragerc" "../" "./")
 
@@ -424,8 +454,6 @@
 
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/models/" (22624 55897 439736 200000) "__init__.py" "US_Cities.txt" "imdb.pkl" "generator.py" "dnn.py" "../" "./")
 
- ("/home/simplex/zzsweet/src/python/ML/DL/library-src/" (22624 28112 41379 400000) "tflearn/" "tensorlayer/" "tensorflow-models/" "tensorflow/" "../" "./")
-
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/helpers/" (22619 13368 247182 900000) "__init__.py" "trainer.py" "summarizer.py" "regularizer.py" "generator.py" "evaluator.py" "../" "./")
 
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/tflearn/layers/" (22624 53197 191998 400000) "__init__.py" "recurrent.py" "normalization.py" "merge_ops.py" "estimator.py" "embedding_ops.py" "core.py" "conv.py" "../" "./")
@@ -457,28 +485,6 @@
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/examples/images/" (22619 13368 225359 100000) "vgg_network_finetuning.py" "vgg_network.py" "rnn_pixels.py" "residual_network_mnist.py" "residual_network_cifar10.py" "network_in_network.py" "inception_resnet_v2.py" "highway_dnn.py" "googlenet.py" "dnn.py" "convnet_mnist.py" "convnet_highway_mnist.py" "convnet_cifar10.py" "autoencoder.py" "alexnet.py" "../" "./")
 
  ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/examples/" (22619 13368 231200 600000) "reinforcement_learning/" "README.md" "others/" "notebooks/" "nlp/" "images/" "extending_tensorflow/" "basics/" "../" "./")
-
- ("/home/simplex/zzsweet/src/python/ML/DL/library-src/tflearn/" (22619 13368 255053 200000) "tutorials/" "tflearn/" "tests/" "setup.py" "setup.cfg" "RELEASE.md" "README.md" "LICENSE" "examples/" "docs/" "CONTRIBUTING.md" "ACKNOWLEDGMENTS" ".travis.yml" ".gitignore" ".git/" "../" "./")
-
- ("/etc/bash/" (22522 2898 635890 775000) ".bashrc" ".bash_profile" "../" "./")
-
- ("/home/simplex/.pip/" (22532 48267 519469 341000) "./" "pip.conf" "../" "pip.log")
-
- ("/home/simplex/zzsweet/src/python/auto-diff/" (22618 18000 788741 400000) "tangent_linear.py" "adjoint.py" "#adjoint.py#" "../" "./")
-
- ("/home/simplex/tensorflow/" (22535 3447 894620 320000) "bower.BUILD" "WORKSPACE" ".git/" "README.md" "nanopb.BUILD" "grpc.BUILD" "jpeg.BUILD" "./" "ADOPTERS.md" "farmhash.BUILD" "BUILD" "RELEASE.md" "CONTRIBUTING.md" "gmock.BUILD" ".gitmodules" "tensorflow/" ".ipynb_checkpoints/" "bazel-testlogs/" "third_party/" "LICENSE" "AUTHORS" "six.BUILD" "Untitled.ipynb" ".gitignore" "../" "eigen.BUILD" "gif.BUILD" "bazel-tensorflow/" "util/" "bazel-genfiles/" "zlib.BUILD" "configure" "bazel-out/" ".directory" "png.BUILD" "tools/" "ACKNOWLEDGMENTS" "bazel-bin/" "ISSUE_TEMPLATE.md" "jsoncpp.BUILD" "linenoise.BUILD")
-
- ("/home/simplex/tensorflow/tensorflow/" (22535 3434 444382 345000) "c/" "workspace.bzl" "stream_executor/" "./" "tensorflow.bzl" "BUILD" "core/" "__pycache__/" "examples/" "python/" "g3doc/" "__init__.py" "tf_exported_symbols.lds" "tensorboard/" "cc/" "contrib/" "../" "go/" "tools/" "tf_version_script.lds" "user_ops/" "models/")
-
- ("/home/simplex/tensorflow/tensorflow/models/" (22535 400 399808 819000) "rnn/" "./" "__init__.py" "image/" "../" "embedding/")
-
- ("/home/simplex/tensorflow/tensorflow/models/rnn/" (22535 400 399808 819000) "README.md" "./" "BUILD" "translate/" "ptb/" "seq2seq.py" "__init__.py" "../" "rnn.py" "rnn_cell.py" "linear.py")
-
- ("/home/simplex/tensorflow/tensorflow/models/rnn/ptb/" (22535 400 399808 819000) "./" "BUILD" "ptb_word_lm.py" "__init__.py" "../" "reader.py" "reader_test.py")
-
- ("/home/simplex/zzsweet/src/python/ML/DL/tensorflow/tensorflow/examples/" (22616 6564 0 0) "__init__.py" "udacity/" "tutorials/" "learn/" "label_image/" "image_retraining/" "how_tos/" "android/" "../" "./")
-
- ("/home/simplex/zzsweet/src/python/ML/DL/tensorflow/tensorflow/" (22616 6564 0 0) "__init__.py" "workspace.bzl" "user_ops/" "tools/" "tf_version_script.lds" "tf_exported_symbols.lds" "tensorflow.bzl" "tensorboard/" "stream_executor/" "python/" "java/" "go/" "g3doc/" "examples/" "core/" "contrib/" "cc/" "c/" "BUILD" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

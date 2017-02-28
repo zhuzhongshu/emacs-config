@@ -89,6 +89,7 @@
 ;; systemctl start postgresql
 
 ;;配置预设sql-connect选项，可以免于在每次连接时输入账号密码信息
+(add-to-list 'auto-mode-alist '("\\.fnc\\'" . sql-mode))
 (setq sql-product 'postgres);;全局设置，比如在sql-mode里
 (setq sql-connection-alist  
       '((user-simplex  
@@ -127,6 +128,7 @@
             ))
 
 
+(add-hook 'sql-mode-hook 'smartparens-mode)
 ;;============================================================================================================
 ;;                                              Tex
 ;;============================================================================================================
